@@ -1,0 +1,501 @@
+title_deed_no,estate,township,erf,portion,sectional_scheme,unit,suburb,street,street_number,sales_date,registration_date,sales_price,size_m2,price_per_m2,possible_land_only,buyer_type,seller_type,number_of_owners,property_type,is_market_sale,data_source
+ST16279/2026,Simbithi Eco Estate,SIMBITHI,731,0,SS ETHAFENI,11,Simbithi,Dragon Tree,4,2025-09-30,2026-06-10,1450000,,,False,,,2,sectional_title,True,lightstone_export
+T16152/2026,Simbithi Eco Estate,SIMBITHI,1148,0,,,Simbithi,Cussonia,3,2026-04-23,2026-06-10,22400000,,,False,,,1,freehold,True,lightstone_export
+ST15961/2026,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,16,Simbithi,Simbathi,1150,2026-02-16,2026-06-08,5400000,,,False,,,1,sectional_title,True,lightstone_export
+ST15968/2026,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,11,Simbithi,Simbathi,1202,2026-03-10,2026-06-08,2850000,,,False,,,1,sectional_title,True,lightstone_export
+T15305/2026,Simbithi Eco Estate,SIMBITHI,1052,0,,,Simbithi,Quinine,8,2026-03-06,2026-06-01,12000000,,,False,,,1,freehold,True,lightstone_export
+ST15171/2026,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,86,Simbithi,Sicklebush,3,2026-03-16,2026-05-29,3650000,,,False,,,1,sectional_title,True,lightstone_export
+ST14871/2026,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,70,Simbithi,Sicklebush,3,2026-03-26,2026-05-28,2900000,,,False,,,2,sectional_title,True,lightstone_export
+ST14871/2026,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,137,Simbithi,Sicklebush,3,2026-03-26,2026-05-28,2900000,,,False,,,2,sectional_title,True,lightstone_export
+T14666/2026,Simbithi Eco Estate,SIMBITHI,85,0,,,Simbithi,Cussonia,6,2026-03-17,2026-05-27,9600000,,,False,,,1,freehold,True,lightstone_export
+ST14737/2026,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,145,Simbithi,Sicklebush,4,2026-02-27,2026-05-27,5950000,,,False,,,1,sectional_title,True,lightstone_export
+T14627/2026,Simbithi Eco Estate,SIMBITHI,1330,0,,,Simbithi,Silver Oak,1330,,2026-05-27,0,,,False,,,1,freehold,False,lightstone_export
+T14007/2026,Simbithi Eco Estate,SIMBITHI,1020,0,,,Simbithi,Acacia,22,2026-02-12,2026-05-21,9750000,,,False,,,1,freehold,True,lightstone_export
+ST13972/2026,Simbithi Eco Estate,SIMBITHI,731,0,SS ETHAFENI,22,Simbithi,Dragon Tree,4,2026-02-09,2026-05-20,1950000,,,False,,,1,sectional_title,True,lightstone_export
+ST13540/2026,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,31,Simbithi,Sicklebush,3,2026-03-14,2026-05-15,3950000,,,False,,,2,sectional_title,True,lightstone_export
+T13490/2026,Simbithi Eco Estate,SIMBITHI,1249,0,,,Simbithi,Beachwood,1249,2026-03-27,2026-05-15,1800000,,,False,,,2,freehold,True,lightstone_export
+ST13118/2026,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,21,Simbithi,Simbathi,1202,2026-02-07,2026-05-13,3600000,,,False,,,1,sectional_title,True,lightstone_export
+T12669/2026,Simbithi Eco Estate,SIMBITHI,878,0,,,Simbithi,Ironwood,3,2026-01-14,2026-05-08,9950000,,,False,,,1,freehold,True,lightstone_export
+ST12570/2026,Simbithi Eco Estate,SIMBITHI,498,0,SS EZULWENI,5,Simbithi,Sicklebush,2,2026-04-07,2026-05-07,7550000,,,False,,,1,sectional_title,True,lightstone_export
+ST12308/2026,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,200,Simbithi,Sicklebush,4,2026-03-12,2026-05-05,6750000,,,False,,,1,sectional_title,True,lightstone_export
+T12225/2026,Simbithi Eco Estate,SIMBITHI,643,0,,,Simbithi,Umvumvu,57,2026-01-26,2026-05-05,2000000,,,True,,,1,freehold,False,lightstone_export
+T12158/2026,Simbithi Eco Estate,SIMBITHI,41,0,,,Simbithi,Beverly,41,2025-12-11,2026-05-04,8500000,,,False,,,2,freehold,True,lightstone_export
+T11965/2026,Simbithi Eco Estate,SIMBITHI,711,0,,,Simbithi,Feverberry,38,2026-02-02,2026-04-30,13500000,,,False,,,1,freehold,True,lightstone_export
+ST11851/2026,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,68,Simbithi,Sicklebush,4,2026-02-27,2026-04-29,5760000,,,False,,,1,sectional_title,True,lightstone_export
+T11776/2026,Simbithi Eco Estate,SIMBITHI,765,0,,,Simbithi,Acacia,47,2026-01-29,2026-04-29,8850000,,,False,,,1,freehold,True,lightstone_export
+ST11634/2026,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,38,Simbithi,Sicklebush,3,2026-01-18,2026-04-28,3100000,,,False,,,2,sectional_title,True,lightstone_export
+ST11634/2026,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,123,Simbithi,Sicklebush,3,2026-01-18,2026-04-28,3100000,,,False,,,2,sectional_title,True,lightstone_export
+ST11633/2026,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,80,Simbithi,Sicklebush,4,2026-02-22,2026-04-28,2500000,,,False,,,1,sectional_title,True,lightstone_export
+ST11632/2026,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,49,Simbithi,Sicklebush,4,2026-03-02,2026-04-28,5300000,,,False,,,1,sectional_title,True,lightstone_export
+ST11627/2026,Simbithi Eco Estate,SIMBITHI,309,0,SS EMOYENI,34,Simbithi,Corkwood,309,2026-01-23,2026-04-28,4300000,,,False,,,1,sectional_title,True,lightstone_export
+ST9851/2026,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,210,Simbithi,Sicklebush,4,2026-01-30,2026-04-14,3250000,,,False,,,2,sectional_title,True,lightstone_export
+T9104/2026,Simbithi Eco Estate,SIMBITHI,602,0,,,Simbithi,Feverberry,5,2025-08-19,2026-04-09,9550000,,,False,,,2,freehold,True,lightstone_export
+T9184/2026,Simbithi Eco Estate,SIMBITHI,1247,0,,,Simbithi,Beachwood,1247,2024-02-01,2026-04-08,1900000,,,False,,,1,freehold,True,lightstone_export
+T8952/2026,Simbithi Eco Estate,SIMBITHI,1483,0,,,Simbithi,Maccaranga,1483,2026-01-31,2026-04-08,3100000,,,False,,,2,freehold,True,lightstone_export
+T8113/2026,Simbithi Eco Estate,SIMBITHI,303,0,,,Simbithi,Pambathi,4,2026-01-15,2026-03-27,11250000,,,False,,,1,freehold,True,lightstone_export
+T7618/2026,Simbithi Eco Estate,SIMBITHI,1474,0,,,Simbithi,Beachcroft,1474,2026-01-24,2026-03-24,8600000,,,False,,,2,freehold,True,lightstone_export
+ST7454/2026,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,27,Simbithi,Sicklebush,3,2025-10-15,2026-03-23,3695000,,,False,,,1,sectional_title,True,lightstone_export
+T7213/2026,Simbithi Eco Estate,SIMBITHI,882,0,,,Simbithi,Ironwood,11,2025-10-16,2026-03-20,8500000,,,False,,,1,freehold,True,lightstone_export
+ST7228/2026,Simbithi Eco Estate,SIMBITHI,166,0,SS SAVANNA,46,Simbithi,Bridelia,5,2026-01-21,2026-03-20,4000000,,,False,,,1,sectional_title,True,lightstone_export
+T7061/2026,Simbithi Eco Estate,SIMBITHI,140,0,,,Simbithi,Bridelia,8,2025-10-23,2026-03-19,11750000,,,False,,,2,freehold,True,lightstone_export
+T6855/2026,Simbithi Eco Estate,SIMBITHI,886,0,,,Simbithi,Ironwood,19,2025-12-01,2026-03-18,9300000,,,False,,,1,freehold,True,lightstone_export
+T6726/2026,Simbithi Eco Estate,SIMBITHI,911,0,,,Simbithi,Ironwood,24,2025-12-09,2026-03-17,12500000,,,False,,,1,freehold,True,lightstone_export
+T6539/2026,Simbithi Eco Estate,SIMBITHI,1320,0,,,Simbithi,Silver Oak,1320,2025-12-03,2026-03-17,2600000,,,True,,,1,freehold,False,lightstone_export
+ST6076/2026,Simbithi Eco Estate,SIMBITHI,6,0,SS TAMBOTI,41,Simbithi,Tamboti,11,2026-01-22,2026-03-11,4200000,,,False,,,1,sectional_title,True,lightstone_export
+ST6071/2026,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,69,Simbithi,Sicklebush,4,2025-12-15,2026-03-11,6300000,,,False,,,1,sectional_title,True,lightstone_export
+ST6053/2026,Simbithi Eco Estate,SIMBITHI,442,0,SS LALAPANZI,1,Simbithi,Simbithi,442,2025-11-26,2026-03-11,4935000,,,False,,,2,sectional_title,True,lightstone_export
+ST5784/2026,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,77,Simbithi,Sicklebush,3,2025-11-14,2026-03-09,3200000,,,False,,,1,sectional_title,True,lightstone_export
+ST5784/2026,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,112,Simbithi,Sicklebush,3,2025-11-14,2026-03-09,3200000,,,False,,,1,sectional_title,True,lightstone_export
+ST3836/2026,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,36,Simbithi,Sicklebush,3,2026-01-16,2026-02-25,3700000,,,False,,,2,sectional_title,True,lightstone_export
+ST3808/2026,Simbithi Eco Estate,SIMBITHI,731,0,SS ETHAFENI,46,Simbithi,Dragon Tree,4,,2026-02-25,0,,,False,,,1,sectional_title,False,lightstone_export
+ST3676/2026,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,72,Simbithi,Sicklebush,3,2025-11-25,2026-02-24,4195000,,,False,,,2,sectional_title,True,lightstone_export
+T3262/2026,Simbithi Eco Estate,SIMBITHI,845,0,,,Simbithi,Bush Willow,5,2025-12-14,2026-02-20,8650000,,,False,,,1,freehold,True,lightstone_export
+ST3230/2026,Simbithi Eco Estate,SIMBITHI,6,0,SS TAMBOTI,44,Simbithi,Tamboti,11,2025-10-09,2026-02-13,5100000,,,False,,,1,sectional_title,True,lightstone_export
+ST2691/2026,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,22,Simbithi,Sicklebush,4,2025-11-30,2026-02-10,4400000,,,False,,,2,sectional_title,True,lightstone_export
+T2718/2026,Simbithi Eco Estate,SIMBITHI,1293,0,,,Simbithi,Barringtonia,1293,2025-10-16,2026-02-10,6750000,,,False,,,2,freehold,True,lightstone_export
+ST2644/2026,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,35,Simbithi,Sicklebush,4,2025-11-10,2026-02-09,6000000,,,False,,,1,sectional_title,True,lightstone_export
+ST2424/2026,Simbithi Eco Estate,SIMBITHI,50,0,SS FISH EAGLE RIDGE,12,Simbithi,Simbithi,50,2025-10-30,2026-02-05,6850000,,,False,,,2,sectional_title,True,lightstone_export
+ST2194/2026,Simbithi Eco Estate,SIMBITHI,166,0,SS SAVANNA,8,Simbithi,Bridelia,5,2025-11-28,2026-02-03,3595000,,,False,,,1,sectional_title,True,lightstone_export
+T1622/2026,Simbithi Eco Estate,SIMBITHI,1028,0,,,Simbithi,Buffalo Thorn,1,2025-06-11,2026-01-29,3000000,,,False,,,1,freehold,True,lightstone_export
+T1473/2026,Simbithi Eco Estate,SIMBITHI,686,0,,,Simbithi,Feverberry,49,2025-12-04,2026-01-28,14000000,,,False,,,2,freehold,True,lightstone_export
+ST1427/2026,Simbithi Eco Estate,SIMBITHI,731,0,SS ETHAFENI,28,Simbithi,Dragon Tree,4,2025-11-13,2026-01-27,3050000,,,False,,,1,sectional_title,True,lightstone_export
+T1134/2026,Simbithi Eco Estate,SIMBITHI,242,0,,,Simbithi,Turkeyberry,4,2025-10-08,2026-01-23,10500000,,,False,,,2,freehold,True,lightstone_export
+T75315/2025,Simbithi Eco Estate,SIMBITHI,128,0,,,Simbithi,Acacia,11,2025-08-18,2025-12-17,6350000,,,False,,,1,freehold,True,lightstone_export
+T74968/2025,Simbithi Eco Estate,SIMBITHI,953,0,,,Simbithi,Fuschia,5,2025-10-27,2025-12-15,8320000,,,False,,,1,freehold,True,lightstone_export
+ST74969/2025,Simbithi Eco Estate,SIMBITHI,50,0,SS FISH EAGLE RIDGE,135,Simbithi,Simbithi,50,2025-10-25,2025-12-15,3850000,,,False,,,1,sectional_title,True,lightstone_export
+T73906/2025,Simbithi Eco Estate,SIMBITHI,1285,0,,,Simbithi,Aloe,1285,2025-10-09,2025-12-05,6950000,,,False,,,1,freehold,True,lightstone_export
+T73741/2025,Simbithi Eco Estate,SIMBITHI,383,0,,,Simbithi,Olive,383,2025-08-25,2025-12-04,7300000,,,False,,,2,freehold,True,lightstone_export
+ST73571/2025,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,94,Simbithi,Sicklebush,4,2025-09-09,2025-12-03,3960000,,,False,,,1,sectional_title,True,lightstone_export
+T72828/2025,Simbithi Eco Estate,SIMBITHI,514,0,,,Simbithi,Umvumvu,52,2025-09-17,2025-11-28,28000000,,,False,,,1,freehold,True,lightstone_export
+T72848/2025,Simbithi Eco Estate,SIMBITHI,619,0,,,Simbithi,Feverberry,14,2025-07-14,2025-11-28,10000000,,,False,,,2,freehold,True,lightstone_export
+T72483/2025,Simbithi Eco Estate,SIMBITHI,227,0,,,Simbithi,Plumbago,62,2025-09-22,2025-11-26,1150000,,,True,,,1,freehold,False,lightstone_export
+ST72204/2025,Simbithi Eco Estate,SIMBITHI,731,0,SS ETHAFENI,12,Simbithi,Dragon Tree,4,2025-08-29,2025-11-24,1525000,,,False,,,1,sectional_title,True,lightstone_export
+T71986/2025,Simbithi Eco Estate,SIMBITHI,943,0,,,Simbithi,Sneezewood,25,2024-12-15,2025-11-21,9750000,,,False,,,1,freehold,True,lightstone_export
+T71172/2025,Simbithi Eco Estate,SIMBITHI,1500,0,,,Simbithi,,,2025-08-25,2025-11-14,7375000,,,False,,,2,freehold,True,lightstone_export
+T70944/2025,Simbithi Eco Estate,SIMBITHI,743,0,,,Simbithi,Cussonia,27,2025-08-11,2025-11-13,8950000,,,False,,,1,freehold,True,lightstone_export
+ST70904/2025,Simbithi Eco Estate,SIMBITHI,731,0,SS ETHAFENI,28,Simbithi,Dragon Tree,4,2025-08-08,2025-11-13,2200000,,,False,,,1,sectional_title,True,lightstone_export
+T69936/2025,Simbithi Eco Estate,SIMBITHI,1270,0,,,Simbithi,Ebony,1270,2025-07-11,2025-11-04,6650000,,,False,,,2,freehold,True,lightstone_export
+ST69933/2025,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,149,Simbithi,Sicklebush,4,,2025-11-03,0,,,False,,,1,sectional_title,False,lightstone_export
+T69594/2025,Simbithi Eco Estate,SIMBITHI,382,0,,,Simbithi,Olive,382,2025-06-16,2025-10-31,9200000,,,False,,,2,freehold,True,lightstone_export
+ST69764/2025,Simbithi Eco Estate,SIMBITHI,50,0,SS FISH EAGLE RIDGE,6,Simbithi,Simbithi,50,2025-07-28,2025-10-31,4880000,,,False,,,1,sectional_title,True,lightstone_export
+ST69718/2025,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,19,Simbithi,Simbathi,1150,2025-03-06,2025-10-31,4700000,,,False,,,1,sectional_title,True,lightstone_export
+T69466/2025,Simbithi Eco Estate,SIMBITHI,780,0,,,Simbithi,Cats Whiskers,19,2025-07-30,2025-10-30,10500000,,,False,,,2,freehold,True,lightstone_export
+T69547/2025,Simbithi Eco Estate,SIMBITHI,1158,0,,,Simbithi,,,,2025-10-30,0,,,False,,,1,freehold,False,lightstone_export
+T69548/2025,Simbithi Eco Estate,SIMBITHI,1495,0,,,Simbithi,Fuschia,22B,,2025-10-30,0,,,False,,,1,freehold,False,lightstone_export
+ST69301/2025,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,32,Simbithi,Simbathi,1150,2025-06-18,2025-10-29,6850000,,,False,,,2,sectional_title,True,lightstone_export
+T69002/2025,Simbithi Eco Estate,SIMBITHI,30,0,,,Simbithi,Albizia,30,2025-09-02,2025-10-27,11000000,,,False,,,1,freehold,True,lightstone_export
+ST69048/2025,Simbithi Eco Estate,SIMBITHI,658,0,SS MSINTSI TWELVE,6,Simbithi,Feverberry,28,2025-07-04,2025-10-27,3350000,,,False,,,1,sectional_title,True,lightstone_export
+T68565/2025,Simbithi Eco Estate,SIMBITHI,932,0,,,Simbithi,Sneezewood,3,2025-05-20,2025-10-23,5347500,,,False,,,1,freehold,True,lightstone_export
+ST68665/2025,Simbithi Eco Estate,SIMBITHI,658,0,SS MSINTSI TWELVE,7,Simbithi,Feverberry,28,2025-07-21,2025-10-23,4000000,,,False,,,1,sectional_title,True,lightstone_export
+ST67910/2025,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,55,Simbithi,Sicklebush,3,2025-06-19,2025-10-16,3500000,,,False,,,2,sectional_title,True,lightstone_export
+T67722/2025,Simbithi Eco Estate,SIMBITHI,233,0,,,Simbithi,Plumbago,33,2025-06-25,2025-10-15,12500000,,,False,,,1,freehold,True,lightstone_export
+ST67526/2025,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,67,Simbithi,Sicklebush,4,2025-09-01,2025-10-13,5250000,,,False,,,1,sectional_title,True,lightstone_export
+T67090/2025,Simbithi Eco Estate,SIMBITHI,438,0,,,Simbithi,Albizia,438,2025-06-25,2025-10-08,8595000,,,False,,,1,freehold,True,lightstone_export
+T66895/2025,Simbithi Eco Estate,SIMBITHI,766,0,,,Simbithi,Acacia,45,2025-09-17,2025-10-07,6425000,,,False,,,1,freehold,True,lightstone_export
+ST66588/2025,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,205,Simbithi,Sicklebush,4,2025-06-20,2025-10-03,3200000,,,False,,,2,sectional_title,True,lightstone_export
+T66424/2025,Simbithi Eco Estate,SIMBITHI,725,0,,,Simbithi,Acacia,59,2025-07-09,2025-10-01,7700000,,,False,,,1,freehold,True,lightstone_export
+ST66364/2025,Simbithi Eco Estate,SIMBITHI,842,1,SS AMPHITHEATRE,4,Simbithi,Acacia,25,2025-08-14,2025-09-30,6500000,,,False,,,1,sectional_title,True,lightstone_export
+T66037/2025,Simbithi Eco Estate,SIMBITHI,60,0,,,Simbithi,Flamebush,60,,2025-09-29,0,,,False,,,1,freehold,False,lightstone_export
+ST65762/2025,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,54,Simbithi,Sicklebush,3,2025-04-15,2025-09-25,3050000,,,False,,,2,sectional_title,True,lightstone_export
+ST65762/2025,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,129,Simbithi,Sicklebush,3,2025-04-15,2025-09-25,3050000,,,False,,,2,sectional_title,True,lightstone_export
+ST65574/2025,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,4,Simbithi,Simbathi,1150,2025-05-29,2025-09-23,7300000,,,False,,,1,sectional_title,True,lightstone_export
+T65406/2025,Simbithi Eco Estate,SIMBITHI,776,0,,,Simbithi,Cats Whiskers,11,2025-06-20,2025-09-22,3900000,,,False,,,1,freehold,True,lightstone_export
+T65217/2025,Simbithi Eco Estate,SIMBITHI,1138,0,,,Simbithi,Acacia,6,2025-07-11,2025-09-19,14150000,,,False,,,1,freehold,True,lightstone_export
+ST64830/2025,Simbithi Eco Estate,SIMBITHI,309,0,SS EMOYENI,25,Simbithi,Corkwood,309,,2025-09-17,0,,,False,,,1,sectional_title,False,lightstone_export
+ST64805/2025,Simbithi Eco Estate,SIMBITHI,166,0,SS SAVANNA,17,Simbithi,Bridelia,5,2025-06-26,2025-09-17,2400000,,,False,,,1,sectional_title,True,lightstone_export
+T64213/2025,Simbithi Eco Estate,SIMBITHI,292,0,,,Simbithi,Pambathi,5,2025-06-07,2025-09-12,12850000,,,False,,,1,freehold,True,lightstone_export
+ST64292/2025,Simbithi Eco Estate,SIMBITHI,731,0,SS ETHAFENI,5,Simbithi,Dragon Tree,4,2025-04-08,2025-09-12,1900000,,,False,,,2,sectional_title,True,lightstone_export
+T63625/2025,Simbithi Eco Estate,SIMBITHI,392,0,,,Simbithi,Ladlau,37,2025-04-01,2025-09-08,6625000,,,False,,,1,freehold,True,lightstone_export
+T63338/2025,Simbithi Eco Estate,SIMBITHI,371,0,,,Simbithi,Crossberry,371,2025-05-15,2025-09-04,9000000,,,False,,,1,freehold,True,lightstone_export
+T63045/2025,Simbithi Eco Estate,SIMBITHI,362,0,,,Simbithi,Umthombe,8,2025-05-29,2025-09-01,18100000,,,False,,,1,freehold,True,lightstone_export
+ST62919/2025,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,97,Simbithi,Sicklebush,3,2025-05-05,2025-08-29,3700000,,,False,,,1,sectional_title,True,lightstone_export
+ST62321/2025,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,45,Simbithi,Sicklebush,3,2025-06-21,2025-08-26,3300000,,,False,,,1,sectional_title,True,lightstone_export
+ST62321/2025,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,126,Simbithi,Sicklebush,3,2025-06-21,2025-08-26,3300000,,,False,,,1,sectional_title,True,lightstone_export
+ST61627/2025,Simbithi Eco Estate,SIMBITHI,6,0,SS TAMBOTI,61,Simbithi,Tamboti,11,2025-06-25,2025-08-20,3800000,,,False,,,1,sectional_title,True,lightstone_export
+ST61592/2025,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,62,Simbithi,Simbathi,1150,2024-09-03,2025-08-20,2500000,,,False,,,1,sectional_title,True,lightstone_export
+ST61356/2025,Simbithi Eco Estate,SIMBITHI,50,0,SS FISH EAGLE RIDGE,128,Simbithi,Simbithi,50,2025-03-30,2025-08-18,6350000,,,False,,,1,sectional_title,True,lightstone_export
+T60567/2025,Simbithi Eco Estate,SIMBITHI,1236,0,,,Simbithi,Beachwood,1236,2025-05-08,2025-08-11,1850000,,,False,,,2,freehold,True,lightstone_export
+T19851/2025,Simbithi Eco Estate,SIMBITHI,584,0,,,Simbithi,Jackal Berry,10,2025-05-16,2025-08-04,13200000,,,False,,,1,freehold,True,lightstone_export
+ST19668/2025,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,59,Simbithi,Sicklebush,3,2025-06-10,2025-07-31,3200000,,,False,,,1,sectional_title,True,lightstone_export
+ST19454/2025,Simbithi Eco Estate,SIMBITHI,166,0,SS SAVANNA,7,Simbithi,Bridelia,5,2025-05-17,2025-07-31,3850000,,,False,,,1,sectional_title,True,lightstone_export
+T19503/2025,Simbithi Eco Estate,SIMBITHI,1238,0,,,Simbithi,Beachwood,1238,2025-04-29,2025-07-31,8000000,,,False,,,1,freehold,True,lightstone_export
+ST19398/2025,Simbithi Eco Estate,SIMBITHI,6,0,SS TAMBOTI,15,Simbithi,Tamboti,11,2025-04-01,2025-07-30,769402,,,False,,,1,sectional_title,True,lightstone_export
+T19237/2025,Simbithi Eco Estate,SIMBITHI,1316,0,,,Simbithi,Dukerberry,1316,,2025-07-29,0,,,False,,,1,freehold,False,lightstone_export
+ST19126/2025,Simbithi Eco Estate,SIMBITHI,166,0,SS SAVANNA,59,Simbithi,Bridelia,5,2025-05-21,2025-07-28,4000000,,,False,,,1,sectional_title,True,lightstone_export
+T18949/2025,Simbithi Eco Estate,SIMBITHI,1500,0,,,Simbithi,,,,2025-07-25,0,,,False,,,1,freehold,False,lightstone_export
+T18948/2025,Simbithi Eco Estate,SIMBITHI,387,1,,,Simbithi,,,,2025-07-25,0,,,False,,,1,freehold,False,lightstone_export
+ST18328/2025,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,4,Simbithi,Sicklebush,4,2025-04-07,2025-07-18,3999000,,,False,,,1,sectional_title,True,lightstone_export
+ST18321/2025,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,188,Simbithi,Sicklebush,4,2025-05-13,2025-07-18,6000000,,,False,,,2,sectional_title,True,lightstone_export
+T18247/2025,Simbithi Eco Estate,SIMBITHI,1342,0,,,Simbithi,Strelitzia,1342,2025-04-26,2025-07-18,6800000,,,False,,,2,freehold,True,lightstone_export
+ST18075/2025,Simbithi Eco Estate,SIMBITHI,6,0,SS TAMBOTI,16,Simbithi,Tamboti,11,2025-04-28,2025-07-16,4600000,,,False,,,1,sectional_title,True,lightstone_export
+T17907/2025,Simbithi Eco Estate,SIMBITHI,778,0,,,Simbithi,Cats Whiskers,15,2024-11-13,2025-07-15,6689000,,,False,,,1,freehold,True,lightstone_export
+T17426/2025,Simbithi Eco Estate,SIMBITHI,409,0,,,Simbithi,,,2025-04-16,2025-07-09,13000000,,,False,,,2,freehold,True,lightstone_export
+T17285/2025,Simbithi Eco Estate,SIMBITHI,1291,0,,,Simbithi,Aloe,1291,2025-04-24,2025-07-08,4950000,,,False,,,2,freehold,True,lightstone_export
+ST17212/2025,Simbithi Eco Estate,SIMBITHI,498,0,SS EZULWENI,9,Simbithi,Sicklebush,2,2025-04-08,2025-07-07,11200000,,,False,,,1,sectional_title,True,lightstone_export
+ST17215/2025,Simbithi Eco Estate,SIMBITHI,731,0,SS ETHAFENI,2,Simbithi,Dragon Tree,4,2025-05-22,2025-07-07,2600000,,,False,,,1,sectional_title,True,lightstone_export
+T17008/2025,Simbithi Eco Estate,SIMBITHI,290,0,,,Simbithi,Pambathi,1,2025-02-19,2025-07-04,6600000,,,False,,,1,freehold,True,lightstone_export
+T16422/2025,Simbithi Eco Estate,SIMBITHI,84,0,,,Simbithi,Cussonia,8,2025-04-16,2025-06-30,9750000,,,False,,,2,freehold,True,lightstone_export
+T16082/2025,Simbithi Eco Estate,SIMBITHI,436,0,,,Simbithi,Trimeria,12,2020-09-16,2025-06-25,1750000,,,True,,,1,freehold,False,lightstone_export
+ST15977/2025,Simbithi Eco Estate,SIMBITHI,7,0,SS ILANGA,3,Simbithi,Sicklebush,1,2025-03-13,2025-06-24,9350000,,,False,,,2,sectional_title,True,lightstone_export
+ST15819/2025,Simbithi Eco Estate,SIMBITHI,842,1,SS AMPHITHEATRE,6,Simbithi,Acacia,25,2025-03-18,2025-06-23,5300000,,,False,,,1,sectional_title,True,lightstone_export
+ST15669/2025,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,55,Simbithi,Sicklebush,4,2025-02-14,2025-06-20,4150000,,,False,,,1,sectional_title,True,lightstone_export
+T15579/2025,Simbithi Eco Estate,SIMBITHI,1046,0,,,Simbithi,Puzzle Bush,6,2025-02-16,2025-06-20,7600000,,,False,,,2,freehold,True,lightstone_export
+T15599/2025,Simbithi Eco Estate,SIMBITHI,733,0,,,Simbithi,Cussonia,38,2024-12-09,2025-06-20,2200000,,,False,,,1,freehold,True,lightstone_export
+ST15537/2025,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,77,Simbithi,Sicklebush,4,2025-01-03,2025-06-19,5450000,,,False,,,1,sectional_title,True,lightstone_export
+T15441/2025,Simbithi Eco Estate,SIMBITHI,1287,0,,,Simbithi,Aloe,1287,2025-04-13,2025-06-19,5030000,,,False,,,2,freehold,True,lightstone_export
+T15224/2025,Simbithi Eco Estate,SIMBITHI,1318,0,,,Simbithi,Dukerberry,1318,2025-03-15,2025-06-18,11850000,,,False,,,2,freehold,True,lightstone_export
+ST15153/2025,Simbithi Eco Estate,SIMBITHI,309,0,SS EMOYENI,12,Simbithi,Corkwood,309,2025-04-11,2025-06-17,3975000,,,False,,,1,sectional_title,True,lightstone_export
+T14714/2025,Simbithi Eco Estate,SIMBITHI,887,0,,,Simbithi,Ironwood,21,2025-03-06,2025-06-12,5300000,,,True,,,1,freehold,False,lightstone_export
+T14617/2025,Simbithi Eco Estate,SIMBITHI,773,0,,,Simbithi,Cats Whiskers,5,2025-03-28,2025-06-11,8000000,,,False,,,2,freehold,True,lightstone_export
+T14590/2025,Simbithi Eco Estate,SIMBITHI,586,0,,,Simbithi,Jackal Berry,6,2025-04-18,2025-06-11,10625000,,,False,,,1,freehold,True,lightstone_export
+T13947/2025,Simbithi Eco Estate,SIMBITHI,31,0,,,Simbithi,Albizia,31,2025-02-06,2025-06-04,7550000,,,False,,,1,freehold,True,lightstone_export
+ST14048/2025,Simbithi Eco Estate,SIMBITHI,50,0,SS FISH EAGLE RIDGE,123,Simbithi,Simbithi,50,2025-04-03,2025-06-04,5500000,,,False,,,2,sectional_title,True,lightstone_export
+T13197/2025,Simbithi Eco Estate,SIMBITHI,775,0,,,Simbithi,Cats Whiskers,9,2025-02-25,2025-05-29,6600000,,,False,,,2,freehold,True,lightstone_export
+T13134/2025,Simbithi Eco Estate,SIMBITHI,1328,0,,,Simbithi,Silver Oak,1328,2025-03-14,2025-05-29,12995000,,,False,,,1,freehold,True,lightstone_export
+T12881/2025,Simbithi Eco Estate,SIMBITHI,176,0,,,Simbithi,Plumbago,14,2025-02-14,2025-05-27,13000000,,,False,,,1,freehold,True,lightstone_export
+ST12922/2025,Simbithi Eco Estate,SIMBITHI,731,0,SS ETHAFENI,32,Simbithi,Dragon Tree,4,2025-02-04,2025-05-27,1845000,,,False,,,1,sectional_title,True,lightstone_export
+T12676/2025,Simbithi Eco Estate,SIMBITHI,792,0,,,Simbithi,Cats Whiskers,14,2024-10-18,2025-05-26,8500000,,,False,,,2,freehold,True,lightstone_export
+ST12621/2025,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,44,Simbithi,Sicklebush,3,2025-03-13,2025-05-23,3700000,,,False,,,2,sectional_title,True,lightstone_export
+T12358/2025,Simbithi Eco Estate,SIMBITHI,275,0,,,Simbithi,Trimeria,24,2025-01-08,2025-05-22,2450000,,,False,,,2,freehold,True,lightstone_export
+ST12466/2025,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,29,Simbithi,Sicklebush,4,2025-03-02,2025-05-22,6400000,,,False,,,1,sectional_title,True,lightstone_export
+ST11400/2025,Simbithi Eco Estate,SIMBITHI,6,0,SS TAMBOTI,8,Simbithi,Tamboti,11,2025-02-08,2025-05-13,4400000,,,False,,,2,sectional_title,True,lightstone_export
+T11158/2025,Simbithi Eco Estate,SIMBITHI,515,0,,,Simbithi,Umvumvu,50,2024-08-05,2025-05-12,32500000,,,False,,,1,freehold,True,lightstone_export
+T11050/2025,Simbithi Eco Estate,SIMBITHI,827,0,,,Simbithi,Honeysuckle,10,2025-02-11,2025-05-09,7750000,,,False,,,1,freehold,True,lightstone_export
+ST10929/2025,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,5,Simbithi,Sicklebush,4,2024-11-01,2025-05-08,3450000,,,False,,,2,sectional_title,True,lightstone_export
+T10854/2025,Simbithi Eco Estate,SIMBITHI,986,0,,,Simbithi,Fuschia,38,2024-12-23,2025-05-08,7700000,,,False,,,1,freehold,True,lightstone_export
+T10308/2025,Simbithi Eco Estate,SIMBITHI,631,0,,,Simbithi,Umvumvu,33,2025-03-10,2025-05-02,2070000,,,True,,,1,freehold,False,lightstone_export
+ST10231/2025,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,22,Simbithi,Sicklebush,3,2025-02-28,2025-04-30,2850000,,,False,,,2,sectional_title,True,lightstone_export
+ST10231/2025,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,115,Simbithi,Sicklebush,3,2025-02-28,2025-04-30,2850000,,,False,,,2,sectional_title,True,lightstone_export
+ST10177/2025,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,40,Simbithi,Sicklebush,4,2024-09-21,2025-04-30,2200000,,,False,,,1,sectional_title,True,lightstone_export
+ST9981/2025,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,194,Simbithi,Sicklebush,4,2025-02-24,2025-04-29,7400000,,,False,,,1,sectional_title,True,lightstone_export
+ST9720/2025,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,100,Simbithi,Sicklebush,4,2025-01-20,2025-04-24,4500000,,,False,,,1,sectional_title,True,lightstone_export
+ST9717/2025,Simbithi Eco Estate,SIMBITHI,731,0,SS ETHAFENI,25,Simbithi,Dragon Tree,4,2024-10-09,2025-04-24,2425000,,,False,,,2,sectional_title,True,lightstone_export
+T9178/2025,Simbithi Eco Estate,SIMBITHI,368,0,,,Simbithi,Crossberry,368,2025-01-23,2025-04-15,11500000,,,False,,,1,freehold,True,lightstone_export
+ST9236/2025,Simbithi Eco Estate,SIMBITHI,498,0,SS EZULWENI,5,Simbithi,Sicklebush,2,,2025-04-15,0,,,False,,,1,sectional_title,False,lightstone_export
+T9043/2025,Simbithi Eco Estate,SIMBITHI,227,0,,,Simbithi,Plumbago,62,2024-11-22,2025-04-14,3700000,,,False,,,2,freehold,True,lightstone_export
+T8437/2025,Simbithi Eco Estate,SIMBITHI,1355,0,,,Simbithi,Acacia,21,2024-02-24,2025-04-09,11400000,,,False,,,2,freehold,True,lightstone_export
+ST8372/2025,Simbithi Eco Estate,SIMBITHI,731,0,SS ETHAFENI,23,Simbithi,Dragon Tree,4,2025-02-15,2025-04-08,1650000,,,False,,,1,sectional_title,True,lightstone_export
+T8156/2025,Simbithi Eco Estate,SIMBITHI,708,0,,,Simbithi,Wild Fig,708,2025-01-27,2025-04-07,14800000,,,False,,,2,freehold,True,lightstone_export
+ST8243/2025,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,6,Simbithi,Simbathi,1202,2025-01-31,2025-04-07,2957800,,,False,,,1,sectional_title,True,lightstone_export
+ST8007/2025,Simbithi Eco Estate,SIMBITHI,309,0,SS EMOYENI,30,Simbithi,Corkwood,309,2024-08-07,2025-04-04,1550000,,,False,,,1,sectional_title,True,lightstone_export
+T7623/2025,Simbithi Eco Estate,SIMBITHI,533,0,,,Simbithi,Pigeonwood,6,2024-09-16,2025-04-01,4000000,,,False,,,1,freehold,True,lightstone_export
+ST7524/2025,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,4,Simbithi,Sicklebush,3,2024-12-12,2025-03-31,3500000,,,False,,,1,sectional_title,True,lightstone_export
+ST7542/2025,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,198,Simbithi,Sicklebush,4,2024-11-23,2025-03-31,4800000,,,False,,,1,sectional_title,True,lightstone_export
+T7414/2025,Simbithi Eco Estate,SIMBITHI,1317,0,,,Simbithi,Dukerberry,1317,2024-10-22,2025-03-31,8695000,,,False,,,2,freehold,True,lightstone_export
+ST6424/2025,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,43,Simbithi,Sicklebush,4,2025-01-14,2025-03-20,2750000,,,False,,,1,sectional_title,True,lightstone_export
+T6416/2025,Simbithi Eco Estate,SIMBITHI,682,0,,,Simbithi,Umkhuhla,682,2025-01-20,2025-03-20,8500000,,,False,,,1,freehold,True,lightstone_export
+ST6324/2025,Simbithi Eco Estate,SIMBITHI,6,0,SS TAMBOTI,53,Simbithi,Tamboti,11,2024-10-29,2025-03-19,3850000,,,False,,,1,sectional_title,True,lightstone_export
+ST5984/2025,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,14,Simbithi,Simbathi,1202,2025-01-31,2025-03-14,2320000,,,False,,,1,sectional_title,True,lightstone_export
+ST5616/2025,Simbithi Eco Estate,SIMBITHI,731,0,SS ETHAFENI,6,Simbithi,Dragon Tree,4,2024-12-15,2025-03-12,1540000,,,False,,,1,sectional_title,True,lightstone_export
+ST4193/2025,Simbithi Eco Estate,SIMBITHI,6,0,SS TAMBOTI,14,Simbithi,Tamboti,11,2024-11-19,2025-02-27,1090672,,,False,,,1,sectional_title,True,lightstone_export
+ST4025/2025,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,136,Simbithi,Sicklebush,4,2024-11-14,2025-02-26,5000000,,,False,,,2,sectional_title,True,lightstone_export
+ST3815/2025,Simbithi Eco Estate,SIMBITHI,50,0,SS FISH EAGLE RIDGE,133,Simbithi,Simbithi,50,2024-11-15,2025-02-25,4300000,,,False,,,1,sectional_title,True,lightstone_export
+T3741/2025,Simbithi Eco Estate,SIMBITHI,770,0,,,Simbithi,Bush Willow,1,2025-01-20,2025-02-24,2200000,,,False,,,1,freehold,True,lightstone_export
+ST3519/2025,Simbithi Eco Estate,SIMBITHI,658,0,SS MSINTSI TWELVE,12,Simbithi,Feverberry,28,2024-11-29,2025-02-20,4350000,,,False,,,1,sectional_title,True,lightstone_export
+ST3339/2025,Simbithi Eco Estate,SIMBITHI,731,0,SS ETHAFENI,27,Simbithi,Dragon Tree,4,2024-11-29,2025-02-18,2300000,,,False,,,1,sectional_title,True,lightstone_export
+T2723/2025,Simbithi Eco Estate,SIMBITHI,1237,0,,,Simbithi,Beachwood,1237,2024-07-10,2025-02-11,1900000,,,False,,,1,freehold,True,lightstone_export
+T2336/2025,Simbithi Eco Estate,SIMBITHI,579,0,,,Simbithi,Jackal Berry,9,2024-10-08,2025-02-05,7150000,,,False,,,2,freehold,True,lightstone_export
+ST2094/2025,Simbithi Eco Estate,SIMBITHI,50,0,SS FISH EAGLE RIDGE,2,Simbithi,Simbithi,50,,2025-01-31,0,,,False,,,1,sectional_title,False,lightstone_export
+T1770/2025,Simbithi Eco Estate,SIMBITHI,197,0,,,Simbithi,Plumbago,27,2024-11-20,2025-01-29,2800000,,,False,,,2,freehold,True,lightstone_export
+ST1849/2025,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,8,Simbithi,Sicklebush,4,2024-11-05,2025-01-29,4600000,,,False,,,1,sectional_title,True,lightstone_export
+T1406/2025,Simbithi Eco Estate,SIMBITHI,1346,0,,,Simbithi,Simbathi,1346,2024-09-05,2025-01-24,2200000,,,False,,,1,freehold,True,lightstone_export
+T1242/2025,Simbithi Eco Estate,SIMBITHI,1047,0,,,Simbithi,Puzzle Bush,4,2024-07-30,2025-01-22,2600000,,,False,,,1,freehold,True,lightstone_export
+ST550/2025,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,9,Simbithi,Simbathi,1202,2024-09-03,2025-01-15,2070460,,,False,,,1,sectional_title,True,lightstone_export
+ST551/2025,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,15,Simbithi,Simbathi,1202,2024-09-03,2025-01-15,2626876,,,False,,,1,sectional_title,True,lightstone_export
+ST553/2025,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,16,Simbithi,Simbathi,1202,2024-09-03,2025-01-15,2495500,,,False,,,1,sectional_title,True,lightstone_export
+ST552/2025,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,27,Simbithi,Simbathi,1202,2024-09-03,2025-01-15,1906240,,,False,,,1,sectional_title,True,lightstone_export
+T252/2025,Simbithi Eco Estate,SIMBITHI,560,0,,,Simbithi,Umvumvu,19,2024-11-07,2025-01-08,3300000,,,False,,,2,freehold,True,lightstone_export
+T83/2025,Simbithi Eco Estate,SIMBITHI,364,0,,,Simbithi,Umthombe,4,2024-11-08,2025-01-07,2750000,,,False,,,2,freehold,True,lightstone_export
+ST35768/2024,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,202,Simbithi,Sicklebush,4,2024-08-28,2024-12-17,2650000,,,False,,,1,sectional_title,True,lightstone_export
+ST35761/2024,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,165,Simbithi,Sicklebush,4,2024-08-22,2024-12-17,5500000,,,False,,,2,sectional_title,True,lightstone_export
+ST35773/2024,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,161,Simbithi,Sicklebush,4,2024-08-20,2024-12-17,4700000,,,False,,,1,sectional_title,True,lightstone_export
+T35421/2024,Simbithi Eco Estate,SIMBITHI,859,0,,,Simbithi,Bush Willow,8,2024-09-09,2024-12-13,7850000,,,False,,,1,freehold,True,lightstone_export
+T35047/2024,Simbithi Eco Estate,SIMBITHI,289,0,,,Simbithi,Ladlau,21,2024-10-08,2024-12-11,7000000,,,False,,,1,freehold,True,lightstone_export
+ST35018/2024,Simbithi Eco Estate,SIMBITHI,658,0,SS MSINTSI TWELVE,10,Simbithi,Feverberry,28,2024-08-05,2024-12-10,3970000,,,False,,,2,sectional_title,True,lightstone_export
+T34746/2024,Simbithi Eco Estate,SIMBITHI,591,0,,,Simbithi,Euphorbia,5,2024-10-23,2024-12-09,2950000,,,False,,,1,freehold,True,lightstone_export
+ST34683/2024,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,159,Simbithi,Sicklebush,4,2024-11-01,2024-12-06,5340000,,,False,,,2,sectional_title,True,lightstone_export
+ST34659/2024,Simbithi Eco Estate,SIMBITHI,50,0,SS FISH EAGLE RIDGE,126,Simbithi,Simbithi,50,2024-09-26,2024-12-06,3500000,,,False,,,1,sectional_title,True,lightstone_export
+T34060/2024,Simbithi Eco Estate,SIMBITHI,556,0,,,Simbithi,Umvumvu,11,2024-09-06,2024-12-02,9500000,,,False,,,2,freehold,True,lightstone_export
+T34040/2024,Simbithi Eco Estate,SIMBITHI,1257,0,,,Simbithi,Ebony,1257,2024-09-03,2024-12-02,4900000,,,False,,,1,freehold,True,lightstone_export
+ST34119/2024,Simbithi Eco Estate,SIMBITHI,923,0,SS WEST END,1,Simbithi,Ironwood,2,2024-06-25,2024-12-02,575000,,,False,,,2,sectional_title,True,lightstone_export
+ST34118/2024,Simbithi Eco Estate,SIMBITHI,923,0,SS WEST END,7,Simbithi,Ironwood,2,2024-06-25,2024-12-02,575000,,,False,,,2,sectional_title,True,lightstone_export
+ST34117/2024,Simbithi Eco Estate,SIMBITHI,923,0,SS WEST END,9,Simbithi,Ironwood,2,2024-05-24,2024-12-02,575000,,,False,,,2,sectional_title,True,lightstone_export
+ST34005/2024,Simbithi Eco Estate,SIMBITHI,309,0,SS EMOYENI,6,Simbithi,Corkwood,309,,2024-11-29,0,,,False,,,1,sectional_title,False,lightstone_export
+T33188/2024,Simbithi Eco Estate,SIMBITHI,555,0,,,Simbithi,Umvumvu,9,2024-08-23,2024-11-25,7322000,,,False,,,1,freehold,True,lightstone_export
+ST33223/2024,Simbithi Eco Estate,SIMBITHI,731,0,SS ETHAFENI,17,Simbithi,Dragon Tree,4,2024-08-21,2024-11-25,1650000,,,False,,,1,sectional_title,True,lightstone_export
+ST32889/2024,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,78,Simbithi,Sicklebush,3,2024-09-04,2024-11-21,3050000,,,False,,,1,sectional_title,True,lightstone_export
+ST32889/2024,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,111,Simbithi,Sicklebush,3,2024-09-04,2024-11-21,3050000,,,False,,,1,sectional_title,True,lightstone_export
+ST32883/2024,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,58,Simbithi,Simbathi,1150,2024-05-18,2024-11-21,2800000,,,False,,,1,sectional_title,True,lightstone_export
+ST32756/2024,Simbithi Eco Estate,SIMBITHI,6,0,SS TAMBOTI,17,Simbithi,Tamboti,11,2024-09-19,2024-11-20,3850000,,,False,,,1,sectional_title,True,lightstone_export
+ST32644/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,2,Simbithi,Simbathi,1202,2024-04-04,2024-11-19,2960000,,,False,,,2,sectional_title,True,lightstone_export
+ST32643/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,17,Simbithi,Simbathi,1202,2023-05-24,2024-11-19,3499000,,,False,,,2,sectional_title,True,lightstone_export
+T32186/2024,Simbithi Eco Estate,SIMBITHI,125,0,,,Simbithi,Acacia,5,2024-07-18,2024-11-18,6500000,,,False,,,1,freehold,True,lightstone_export
+T32005/2024,Simbithi Eco Estate,SIMBITHI,53,0,,,Simbithi,Beverly,53,,2024-11-15,0,,,False,,,1,freehold,False,lightstone_export
+T31832/2024,Simbithi Eco Estate,SIMBITHI,293,0,,,Simbithi,Pambathi,7,2024-04-30,2024-11-14,11900000,,,False,,,1,freehold,True,lightstone_export
+T31499/2024,Simbithi Eco Estate,SIMBITHI,1343,0,,,Simbithi,Strelitzia,1343,2024-08-14,2024-11-12,6800000,,,False,,,2,freehold,True,lightstone_export
+T31394/2024,Simbithi Eco Estate,SIMBITHI,1285,0,,,Simbithi,Aloe,1285,2024-07-08,2024-11-11,5995000,,,False,,,1,freehold,True,lightstone_export
+ST31473/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,24,Simbithi,Simbathi,1202,2023-11-07,2024-11-11,1800000,,,False,,,2,sectional_title,True,lightstone_export
+ST30848/2024,Simbithi Eco Estate,SIMBITHI,923,0,SS WEST END,4,Simbithi,Ironwood,2,2024-06-10,2024-11-05,575000,,,False,,,1,sectional_title,True,lightstone_export
+ST30849/2024,Simbithi Eco Estate,SIMBITHI,923,0,SS WEST END,4,Simbithi,Ironwood,2,2024-06-25,2024-11-05,5200000,,,False,,,2,sectional_title,True,lightstone_export
+T30684/2024,Simbithi Eco Estate,SIMBITHI,42,0,,,Simbithi,Beverly,42,2024-09-04,2024-11-04,7900000,,,False,,,1,freehold,True,lightstone_export
+ST30736/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,20,Simbithi,Simbathi,1202,2023-05-11,2024-11-04,3499000,,,False,,,1,sectional_title,True,lightstone_export
+ST30482/2024,Simbithi Eco Estate,SIMBITHI,50,0,SS FISH EAGLE RIDGE,20,Simbithi,Simbithi,50,2024-08-28,2024-10-31,5225000,,,False,,,2,sectional_title,True,lightstone_export
+ST30241/2024,Simbithi Eco Estate,SIMBITHI,731,0,SS ETHAFENI,5,Simbithi,Dragon Tree,4,2024-07-13,2024-10-30,1675000,,,False,,,1,sectional_title,True,lightstone_export
+T29614/2024,Simbithi Eco Estate,SIMBITHI,963,0,,,Simbithi,Fuschia,25,2024-08-16,2024-10-25,9000000,,,False,,,2,freehold,True,lightstone_export
+ST29290/2024,Simbithi Eco Estate,SIMBITHI,658,0,SS MSINTSI TWELVE,15,Simbithi,Feverberry,28,2024-06-26,2024-10-22,4650000,,,False,,,2,sectional_title,True,lightstone_export
+T29135/2024,Simbithi Eco Estate,SIMBITHI,681,0,,,Simbithi,Umkhuhla,681,2024-07-03,2024-10-21,7800000,,,False,,,2,freehold,True,lightstone_export
+T28998/2024,Simbithi Eco Estate,SIMBITHI,201,0,,,Simbithi,Plumbago,19,2024-08-29,2024-10-18,2500000,,,False,,,1,freehold,True,lightstone_export
+ST29074/2024,Simbithi Eco Estate,SIMBITHI,6,0,SS TAMBOTI,12,Simbithi,Tamboti,11,2024-03-21,2024-10-18,4450000,,,False,,,1,sectional_title,True,lightstone_export
+ST28827/2024,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,73,Simbithi,Sicklebush,4,,2024-10-16,0,,,False,,,1,sectional_title,False,lightstone_export
+ST28671/2024,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,187,Simbithi,Sicklebush,4,,2024-10-15,0,,,False,,,1,sectional_title,False,lightstone_export
+ST27622/2024,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,37,Simbithi,Simbathi,1150,2024-07-07,2024-10-03,10000000,,,False,,,1,sectional_title,True,lightstone_export
+T27440/2024,Simbithi Eco Estate,SIMBITHI,844,0,,,Simbithi,Bush Willow,3,2024-05-07,2024-10-02,2150000,,,True,,,1,freehold,False,lightstone_export
+ST27268/2024,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,5,Simbithi,Sicklebush,3,2024-08-01,2024-09-30,2950000,,,False,,,1,sectional_title,True,lightstone_export
+ST27268/2024,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,103,Simbithi,Sicklebush,3,2024-08-01,2024-09-30,2950000,,,False,,,1,sectional_title,True,lightstone_export
+ST27299/2024,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,133,Simbithi,Sicklebush,4,2024-07-19,2024-09-30,5050000,,,False,,,2,sectional_title,True,lightstone_export
+T26475/2024,Simbithi Eco Estate,SIMBITHI,992,0,,,Simbithi,Fuschia,26,2024-02-12,2024-09-20,3473000,,,False,,,1,freehold,True,lightstone_export
+T26267/2024,Simbithi Eco Estate,SIMBITHI,1478,0,,,Simbithi,Maccaranga,1478,2024-07-17,2024-09-19,11500000,,,False,,,1,freehold,True,lightstone_export
+ST26226/2024,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,47,Simbithi,Sicklebush,4,2024-07-30,2024-09-18,3000000,,,False,,,1,sectional_title,True,lightstone_export
+T25706/2024,Simbithi Eco Estate,SIMBITHI,432,0,,,Simbithi,Trimeria,20,2024-07-19,2024-09-13,12000000,,,False,,,1,freehold,True,lightstone_export
+ST25785/2024,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,42,Simbithi,Simbathi,1150,2024-05-15,2024-09-13,2450000,,,False,,,1,sectional_title,True,lightstone_export
+ST25367/2024,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,13,Simbithi,Sicklebush,4,2024-03-23,2024-09-11,4300000,,,False,,,1,sectional_title,True,lightstone_export
+T24576/2024,Simbithi Eco Estate,SIMBITHI,734,0,,,Simbithi,Cussonia,36,2024-04-30,2024-09-03,1700000,,,True,,,1,freehold,False,lightstone_export
+T24577/2024,Simbithi Eco Estate,SIMBITHI,727,0,,,Simbithi,Acacia,63,2024-03-18,2024-09-03,2100000,,,True,,,1,freehold,False,lightstone_export
+ST24181/2024,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,154,Simbithi,Sicklebush,4,2024-06-25,2024-08-29,4795000,,,False,,,1,sectional_title,True,lightstone_export
+ST23902/2024,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,21,Simbithi,Sicklebush,3,2024-05-23,2024-08-27,2876500,,,False,,,1,sectional_title,True,lightstone_export
+ST23902/2024,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,116,Simbithi,Sicklebush,3,2024-05-23,2024-08-27,2876500,,,False,,,1,sectional_title,True,lightstone_export
+T23233/2024,Simbithi Eco Estate,SIMBITHI,379,0,,,Simbithi,Olive,379,,2024-08-22,0,,,False,,,1,freehold,False,lightstone_export
+ST23231/2024,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,34,Simbithi,Sicklebush,4,2024-05-31,2024-08-22,5200000,,,False,,,1,sectional_title,True,lightstone_export
+T22844/2024,Simbithi Eco Estate,SIMBITHI,79,0,,,Simbithi,Cussonia,18,2024-05-28,2024-08-19,4000000,,,False,,,1,freehold,True,lightstone_export
+ST22629/2024,Simbithi Eco Estate,SIMBITHI,166,0,SS SAVANNA,42,Simbithi,Bridelia,5,,2024-08-15,0,,,False,,,1,sectional_title,False,lightstone_export
+T22430/2024,Simbithi Eco Estate,SIMBITHI,141,0,,,Simbithi,Bridelia,6,2024-06-02,2024-08-14,8700000,,,False,,,1,freehold,True,lightstone_export
+ST21869/2024,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,107,Simbithi,Sicklebush,4,2024-05-20,2024-08-06,5560000,,,False,,,1,sectional_title,True,lightstone_export
+T21509/2024,Simbithi Eco Estate,SIMBITHI,991,0,,,Simbithi,Fuschia,28,2024-02-12,2024-08-01,3473000,,,False,,,1,freehold,True,lightstone_export
+T21341/2024,Simbithi Eco Estate,SIMBITHI,576,0,,,Simbithi,Jackal Berry,3,2024-04-16,2024-07-31,9500000,,,False,,,1,freehold,True,lightstone_export
+ST21263/2024,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,19,Simbithi,Sicklebush,4,2024-02-12,2024-07-30,1211879,,,False,,,1,sectional_title,True,lightstone_export
+T20677/2024,Simbithi Eco Estate,SIMBITHI,779,0,,,Simbithi,Cats Whiskers,17,2024-03-01,2024-07-25,6750000,,,False,,,1,freehold,True,lightstone_export
+ST20640/2024,Simbithi Eco Estate,SIMBITHI,731,0,SS ETHAFENI,32,Simbithi,Dragon Tree,4,2024-04-17,2024-07-24,1425000,,,False,,,1,sectional_title,True,lightstone_export
+ST19888/2024,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,92,Simbithi,Sicklebush,3,2024-04-05,2024-07-17,2250000,,,False,,,1,sectional_title,True,lightstone_export
+T19524/2024,Simbithi Eco Estate,SIMBITHI,394,0,,,Simbithi,Ladlau,20,2024-04-16,2024-07-15,6400000,,,False,,,2,freehold,True,lightstone_export
+ST18860/2024,Simbithi Eco Estate,SIMBITHI,50,0,SS FISH EAGLE RIDGE,12,Simbithi,Simbithi,50,2023-03-08,2024-07-08,2400000,,,False,,,1,sectional_title,True,lightstone_export
+T18616/2024,Simbithi Eco Estate,SIMBITHI,237,0,,,Simbithi,Turkeyberry,7,2024-02-17,2024-07-05,7700000,,,False,,,2,freehold,True,lightstone_export
+ST18212/2024,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,67,Simbithi,Sicklebush,4,2024-04-22,2024-07-02,5250000,,,False,,,1,sectional_title,True,lightstone_export
+T17918/2024,Simbithi Eco Estate,SIMBITHI,628,0,,,Simbithi,Umvumvu,27,2021-08-23,2024-07-01,1660000,,,True,,,1,freehold,False,lightstone_export
+T16508/2024,Simbithi Eco Estate,SIMBITHI,314,0,,,Simbithi,Wild Olive,6,2024-03-27,2024-06-20,6200000,,,False,,,2,freehold,True,lightstone_export
+ST15314/2024,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,65,Simbithi,Sicklebush,3,2024-03-11,2024-06-10,2940000,,,False,,,3,sectional_title,True,lightstone_export
+ST15314/2024,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,140,Simbithi,Sicklebush,3,2024-03-11,2024-06-10,2940000,,,False,,,3,sectional_title,True,lightstone_export
+T15008/2024,Simbithi Eco Estate,SIMBITHI,709,0,,,Simbithi,Feverberry,42,2024-04-28,2024-06-06,10500000,,,False,,,1,freehold,True,lightstone_export
+ST14053/2024,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,31,Simbithi,Sicklebush,3,2024-02-21,2024-05-28,3450000,,,False,,,1,sectional_title,True,lightstone_export
+T13763/2024,Simbithi Eco Estate,SIMBITHI,1311,0,,,Simbithi,Silver Oak,1311,2024-03-14,2024-05-27,1800000,,,True,,,2,freehold,False,lightstone_export
+T13172/2024,Simbithi Eco Estate,SIMBITHI,30,0,,,Simbithi,Albizia,30,2024-01-21,2024-05-21,6411250,,,False,,,1,freehold,True,lightstone_export
+T13134/2024,Simbithi Eco Estate,SIMBITHI,1474,0,,,Simbithi,Beachcroft,1474,2024-01-23,2024-05-21,8500000,,,False,,,1,freehold,True,lightstone_export
+T12872/2024,Simbithi Eco Estate,SIMBITHI,1323,0,,,Simbithi,Silver Oak,1323,2023-12-11,2024-05-17,1900000,,,False,,,1,freehold,True,lightstone_export
+T12697/2024,Simbithi Eco Estate,SIMBITHI,922,0,,,Simbithi,Ironwood,4,2024-02-13,2024-05-14,5600000,,,False,,,2,freehold,True,lightstone_export
+T11986/2024,Simbithi Eco Estate,SIMBITHI,509,0,,,Simbithi,Umvumvu,62,2024-02-06,2024-05-10,25000000,,,False,,,1,freehold,True,lightstone_export
+T10563/2024,Simbithi Eco Estate,SIMBITHI,590,0,,,Simbithi,Euphorbia,3,2024-02-22,2024-04-30,8400000,,,False,,,1,freehold,True,lightstone_export
+T10498/2024,Simbithi Eco Estate,SIMBITHI,615,0,,,Simbithi,Feverberry,22,2024-02-01,2024-04-30,7385000,,,False,,,2,freehold,True,lightstone_export
+ST10452/2024,Simbithi Eco Estate,SIMBITHI,442,0,SS LALAPANZI,1,Simbithi,Simbithi,442,2023-12-14,2024-04-29,3500000,,,False,,,1,sectional_title,True,lightstone_export
+ST10233/2024,Simbithi Eco Estate,SIMBITHI,166,0,SS SAVANNA,8,Simbithi,Bridelia,5,2024-02-13,2024-04-26,3325000,,,False,,,1,sectional_title,True,lightstone_export
+ST9926/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,21,Simbithi,Simbathi,1202,2024-02-07,2024-04-24,4199000,,,False,,,1,sectional_title,True,lightstone_export
+ST8370/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,28,Simbithi,Simbathi,1202,2024-01-17,2024-04-10,2499000,,,False,,,1,sectional_title,True,lightstone_export
+ST7451/2024,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,152,Simbithi,Sicklebush,4,2023-12-01,2024-04-02,4500000,,,False,,,1,sectional_title,True,lightstone_export
+ST6778/2024,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,64,Simbithi,Sicklebush,4,2024-01-12,2024-03-25,4500000,,,False,,,1,sectional_title,True,lightstone_export
+T6382/2024,Simbithi Eco Estate,SIMBITHI,301,0,,,Simbithi,Pambathi,8,2023-12-14,2024-03-20,8000000,,,False,,,2,freehold,True,lightstone_export
+ST6340/2024,Simbithi Eco Estate,SIMBITHI,6,0,SS TAMBOTI,39,Simbithi,Tamboti,11,2023-09-26,2024-03-19,4400000,,,False,,,1,sectional_title,True,lightstone_export
+ST6327/2024,Simbithi Eco Estate,SIMBITHI,50,0,SS FISH EAGLE RIDGE,3,Simbithi,Simbithi,50,2023-12-05,2024-03-19,7350000,,,False,,,2,sectional_title,True,lightstone_export
+T5939/2024,Simbithi Eco Estate,SIMBITHI,1148,0,,,Simbithi,Cussonia,3,2024-02-02,2024-03-15,22000000,,,True,,,2,freehold,False,lightstone_export
+ST5326/2024,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,88,Simbithi,Sicklebush,4,2023-11-24,2024-03-08,3350000,,,False,,,1,sectional_title,True,lightstone_export
+ST5218/2024,Simbithi Eco Estate,SIMBITHI,6,0,SS TAMBOTI,1,Simbithi,Tamboti,11,2023-11-27,2024-03-07,3600000,,,False,,,2,sectional_title,True,lightstone_export
+ST5028/2024,Simbithi Eco Estate,SIMBITHI,166,0,SS SAVANNA,40,Simbithi,Bridelia,5,2023-11-28,2024-03-06,3650000,,,False,,,1,sectional_title,True,lightstone_export
+T4875/2024,Simbithi Eco Estate,SIMBITHI,212,0,,,Simbithi,Laburnum,5,2023-06-15,2024-03-05,4900000,,,False,,,1,freehold,True,lightstone_export
+T4663/2024,Simbithi Eco Estate,SIMBITHI,735,0,,,Simbithi,Cussonia,34,2023-10-18,2024-03-01,8500000,,,False,,,2,freehold,True,lightstone_export
+ST4662/2024,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,53,Simbithi,Simbathi,1150,2023-12-01,2024-03-01,5250000,,,False,,,1,sectional_title,True,lightstone_export
+T3712/2024,Simbithi Eco Estate,SIMBITHI,639,0,,,Simbithi,Umvumvu,49,2023-12-06,2024-02-23,3800000,,,False,,,1,freehold,True,lightstone_export
+ST3660/2024,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,69,Simbithi,Sicklebush,3,2024-01-11,2024-02-21,2515000,,,False,,,1,sectional_title,True,lightstone_export
+ST3660/2024,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,138,Simbithi,Sicklebush,3,2024-01-11,2024-02-21,2515000,,,False,,,1,sectional_title,True,lightstone_export
+T3579/2024,Simbithi Eco Estate,SIMBITHI,967,0,,,Simbithi,Toad Tree,7,2023-07-06,2024-02-21,2000000,,,True,,,1,freehold,False,lightstone_export
+T3451/2024,Simbithi Eco Estate,SIMBITHI,1482,0,,,Simbithi,Maccaranga,1482,2023-11-29,2024-02-20,12300000,,,False,,,1,freehold,True,lightstone_export
+T3029/2024,Simbithi Eco Estate,SIMBITHI,557,0,,,Simbithi,Umvumvu,13,2023-12-06,2024-02-14,7850000,,,False,,,2,freehold,True,lightstone_export
+T3024/2024,Simbithi Eco Estate,SIMBITHI,1304,0,,,Simbithi,Barringtonia,1304,2023-10-25,2024-02-14,5100000,,,False,,,1,freehold,True,lightstone_export
+T2763/2024,Simbithi Eco Estate,SIMBITHI,542,0,,,Simbithi,Umvumvu,20,,2024-02-09,0,,,False,,,1,freehold,False,lightstone_export
+T2332/2024,Simbithi Eco Estate,SIMBITHI,837,0,,,Simbithi,Acacia,28,2023-10-31,2024-02-06,12750000,,,False,,,2,freehold,True,lightstone_export
+ST2191/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,1,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2192/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,2,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2193/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,3,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2194/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,4,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2195/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,5,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2219/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,5,Simbithi,Simbathi,1202,2023-06-07,2024-02-02,2899000,,,False,,,2,sectional_title,True,lightstone_export
+ST2196/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,6,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2197/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,7,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2198/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,8,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2199/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,9,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2200/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,10,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2220/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,10,Simbithi,Simbathi,1202,2023-11-06,2024-02-02,1850000,,,False,,,1,sectional_title,True,lightstone_export
+ST2201/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,11,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2202/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,12,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2203/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,13,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2204/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,14,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2205/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,15,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2206/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,16,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2207/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,17,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2208/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,18,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2221/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,18,Simbithi,Simbathi,1202,2023-04-21,2024-02-02,3499000,,,False,,,1,sectional_title,True,lightstone_export
+ST2209/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,19,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2222/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,19,Simbithi,Simbathi,1202,2023-06-07,2024-02-02,3499000,,,False,,,1,sectional_title,True,lightstone_export
+ST2210/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,20,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2211/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,21,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2212/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,22,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2223/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,22,Simbithi,Simbathi,1202,2023-05-04,2024-02-02,3249000,,,False,,,2,sectional_title,True,lightstone_export
+ST2213/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,23,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2214/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,24,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2215/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,25,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2216/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,26,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2217/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,27,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST2218/2024,Simbithi Eco Estate,SIMBITHI,1202,0,SS SIMBITHI VERVE,28,Simbithi,Simbathi,1202,,2024-02-02,0,,,False,,,1,sectional_title,False,lightstone_export
+ST1709/2024,Simbithi Eco Estate,SIMBITHI,50,0,SS FISH EAGLE RIDGE,135,Simbithi,Simbithi,50,2023-10-22,2024-01-30,3600000,,,False,,,2,sectional_title,True,lightstone_export
+ST1025/2024,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,96,Simbithi,Sicklebush,3,2023-11-01,2024-01-19,3500000,,,False,,,1,sectional_title,True,lightstone_export
+ST923/2024,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,47,Simbithi,Simbathi,1150,2023-11-12,2024-01-18,4600000,,,False,,,1,sectional_title,True,lightstone_export
+ST763/2024,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,194,Simbithi,Sicklebush,4,2023-09-07,2024-01-16,5300000,,,False,,,1,sectional_title,True,lightstone_export
+T268/2024,Simbithi Eco Estate,SIMBITHI,682,0,,,Simbithi,Umkhuhla,682,,2024-01-09,0,,,False,,,1,freehold,False,lightstone_export
+T309/2024,Simbithi Eco Estate,SIMBITHI,1283,0,,,Simbithi,Aloe,1283,2023-11-06,2024-01-09,4000000,,,False,,,1,freehold,True,lightstone_export
+T174/2024,Simbithi Eco Estate,SIMBITHI,322,0,,,Simbithi,Wild Olive,5,2023-10-20,2024-01-08,5000000,,,False,,,1,freehold,True,lightstone_export
+ST37108/2023,Simbithi Eco Estate,SIMBITHI,731,0,SS ETHAFENI,49,Simbithi,Dragon Tree,4,2023-09-21,2023-12-20,3900000,,,False,,,2,sectional_title,True,lightstone_export
+T36816/2023,Simbithi Eco Estate,SIMBITHI,710,0,,,Simbithi,Feverberry,40,2023-10-26,2023-12-19,32000000,,,False,,,1,freehold,True,lightstone_export
+T36770/2023,Simbithi Eco Estate,SIMBITHI,575,0,,,Simbithi,Jackal Berry,575,2023-10-21,2023-12-19,10000000,,,False,,,1,freehold,True,lightstone_export
+T36208/2023,Simbithi Eco Estate,SIMBITHI,585,0,,,Simbithi,Jackal Berry,8,2023-09-15,2023-12-13,7200000,,,False,,,1,freehold,True,lightstone_export
+ST34671/2023,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,91,Simbithi,Sicklebush,3,2023-09-29,2023-11-30,3845000,,,False,,,2,sectional_title,True,lightstone_export
+ST34681/2023,Simbithi Eco Estate,SIMBITHI,7,0,SS ILANGA,3,Simbithi,Sicklebush,1,2023-10-25,2023-11-30,7850000,,,False,,,2,sectional_title,True,lightstone_export
+ST34271/2023,Simbithi Eco Estate,SIMBITHI,50,0,SS FISH EAGLE RIDGE,13,Simbithi,Simbithi,50,2014-01-27,2023-11-29,4400000,,,False,,,2,sectional_title,True,lightstone_export
+T33788/2023,Simbithi Eco Estate,SIMBITHI,1480,0,,,Simbithi,Maccaranga,1480,2023-10-16,2023-11-24,7000000,,,False,,,2,freehold,True,lightstone_export
+ST33496/2023,Simbithi Eco Estate,SIMBITHI,731,0,SS ETHAFENI,43,Simbithi,Dragon Tree,4,2023-09-07,2023-11-22,2800000,,,False,,,2,sectional_title,True,lightstone_export
+T33467/2023,Simbithi Eco Estate,SIMBITHI,1315,0,,,Simbithi,Dukerberry,1315,2023-09-05,2023-11-22,8650000,,,False,,,1,freehold,True,lightstone_export
+T33319/2023,Simbithi Eco Estate,SIMBITHI,960,0,,,Simbithi,Fuschia,19,2023-08-30,2023-11-21,6800000,,,False,,,2,freehold,True,lightstone_export
+ST33364/2023,Simbithi Eco Estate,SIMBITHI,50,0,SS FISH EAGLE RIDGE,27,Simbithi,Simbithi,50,2023-09-04,2023-11-21,6495000,,,False,,,2,sectional_title,True,lightstone_export
+ST32895/2023,Simbithi Eco Estate,SIMBITHI,50,0,SS FISH EAGLE RIDGE,110,Simbithi,Simbithi,50,2023-09-01,2023-11-16,5400000,,,False,,,2,sectional_title,True,lightstone_export
+ST32712/2023,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,56,Simbithi,Sicklebush,4,2023-10-03,2023-11-15,4400000,,,False,,,1,sectional_title,True,lightstone_export
+T32010/2023,Simbithi Eco Estate,SIMBITHI,1016,0,,,Simbithi,Honeysuckle,19,2023-09-27,2023-11-08,14525000,,,False,,,1,freehold,True,lightstone_export
+ST31097/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,73,Simbithi,Simbathi,1150,2023-08-07,2023-10-31,2825000,,,False,,,2,sectional_title,True,lightstone_export
+T30005/2023,Simbithi Eco Estate,SIMBITHI,156,0,,,Simbithi,Umkhovothi,4,2023-08-25,2023-10-23,16300000,,,False,,,2,freehold,True,lightstone_export
+ST30461/2023,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,111,Simbithi,Sicklebush,4,2023-07-19,2023-10-23,4650000,,,False,,,1,sectional_title,True,lightstone_export
+T29858/2023,Simbithi Eco Estate,SIMBITHI,782,0,,,Simbithi,Cats Whiskers,23,2023-08-09,2023-10-20,8350000,,,False,,,1,freehold,True,lightstone_export
+T29264/2023,Simbithi Eco Estate,SIMBITHI,1020,0,,,Simbithi,Acacia,22,2023-03-31,2023-10-17,8800000,,,False,,,1,freehold,True,lightstone_export
+T29133/2023,Simbithi Eco Estate,SIMBITHI,689,0,,,Simbithi,Feverberry,55,2023-07-25,2023-10-16,2700000,,,False,,,1,freehold,True,lightstone_export
+T29074/2023,Simbithi Eco Estate,SIMBITHI,77,0,,,Simbithi,Cussonia,22,2023-08-02,2023-10-13,17850001,,,False,,,1,freehold,True,lightstone_export
+ST29020/2023,Simbithi Eco Estate,SIMBITHI,50,0,SS FISH EAGLE RIDGE,17,Simbithi,Simbithi,50,2023-08-17,2023-10-12,5324433,,,False,,,1,sectional_title,True,lightstone_export
+T28809/2023,Simbithi Eco Estate,SIMBITHI,903,0,,,Simbithi,Ironwood,53,2023-06-26,2023-10-11,13500000,,,False,,,1,freehold,True,lightstone_export
+ST28593/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,45,Simbithi,Simbathi,1150,2023-07-17,2023-10-10,2500000,,,False,,,1,sectional_title,True,lightstone_export
+ST28342/2023,Simbithi Eco Estate,SIMBITHI,731,0,SS ETHAFENI,2,Simbithi,Dragon Tree,4,2023-07-25,2023-10-06,2700000,,,False,,,1,sectional_title,True,lightstone_export
+ST28255/2023,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,115,Simbithi,Sicklebush,4,2023-08-28,2023-10-05,3995000,,,False,,,1,sectional_title,True,lightstone_export
+T27845/2023,Simbithi Eco Estate,SIMBITHI,883,0,,,Simbithi,Ironwood,13,2023-04-01,2023-10-02,3650000,,,False,,,1,freehold,True,lightstone_export
+ST27810/2023,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,63,Simbithi,Sicklebush,3,2023-05-22,2023-09-29,2150000,,,False,,,1,sectional_title,True,lightstone_export
+ST27716/2023,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,124,Simbithi,Sicklebush,4,2023-05-30,2023-09-29,4550000,,,False,,,1,sectional_title,True,lightstone_export
+T27715/2023,Simbithi Eco Estate,SIMBITHI,35,5,,,Simbithi,Albizia,35E,2023-05-18,2023-09-29,8000000,,,False,,,2,freehold,True,lightstone_export
+T27442/2023,Simbithi Eco Estate,SIMBITHI,1345,0,,,Simbithi,Simbathi,1345,2023-06-27,2023-09-27,5740000,,,False,,,1,freehold,True,lightstone_export
+ST27391/2023,Simbithi Eco Estate,SIMBITHI,309,0,SS EMOYENI,22,Simbithi,Corkwood,309,2023-07-27,2023-09-26,4980000,,,False,,,1,sectional_title,True,lightstone_export
+ST27399/2023,Simbithi Eco Estate,SIMBITHI,731,0,SS ETHAFENI,19,Simbithi,Dragon Tree,4,2023-07-13,2023-09-26,1650000,,,False,,,1,sectional_title,True,lightstone_export
+ST27153/2023,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,173,Simbithi,Sicklebush,4,2021-07-13,2023-09-22,4200000,,,False,,,2,sectional_title,True,lightstone_export
+T26748/2023,Simbithi Eco Estate,SIMBITHI,1041,0,,,Simbithi,Puzzle Bush,16,2023-08-07,2023-09-19,3250000,,,False,,,2,freehold,True,lightstone_export
+ST26017/2023,Simbithi Eco Estate,SIMBITHI,658,0,SS MSINTSI TWELVE,8,Simbithi,Feverberry,28,2023-06-18,2023-09-11,3050000,,,False,,,1,sectional_title,True,lightstone_export
+ST26033/2023,Simbithi Eco Estate,SIMBITHI,50,0,SS FISH EAGLE RIDGE,4,Simbithi,Simbithi,50,,2023-09-11,0,,,False,,,1,sectional_title,False,lightstone_export
+ST25875/2023,Simbithi Eco Estate,SIMBITHI,166,0,SS SAVANNA,10,Simbithi,Bridelia,5,2022-11-14,2023-09-08,2271028,,,False,,,2,sectional_title,True,lightstone_export
+T25372/2023,Simbithi Eco Estate,SIMBITHI,530,0,,,Simbithi,Pigeonwood,17,2023-05-22,2023-09-04,3780000,,,False,,,1,freehold,True,lightstone_export
+ST24972/2023,Simbithi Eco Estate,SIMBITHI,166,0,SS SAVANNA,8,Simbithi,Bridelia,5,2023-06-20,2023-08-31,2900000,,,False,,,1,sectional_title,True,lightstone_export
+ST24970/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,26,Simbithi,Simbathi,1150,2023-07-05,2023-08-31,4850000,,,False,,,2,sectional_title,True,lightstone_export
+ST24481/2023,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,72,Simbithi,Sicklebush,4,2023-05-25,2023-08-28,5300000,,,False,,,1,sectional_title,True,lightstone_export
+T23852/2023,Simbithi Eco Estate,SIMBITHI,553,0,,,Simbithi,Umvumvu,5,2023-07-05,2023-08-22,6400000,,,False,,,2,freehold,True,lightstone_export
+T23884/2023,Simbithi Eco Estate,SIMBITHI,721,0,,,Simbithi,Acacia,51,2023-06-09,2023-08-22,8000000,,,False,,,1,freehold,True,lightstone_export
+ST23929/2023,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,164,Simbithi,Sicklebush,4,2023-06-30,2023-08-22,4550000,,,False,,,1,sectional_title,True,lightstone_export
+ST23722/2023,Simbithi Eco Estate,SIMBITHI,50,0,SS FISH EAGLE RIDGE,11,Simbithi,Simbithi,50,2023-06-29,2023-08-21,4900000,,,False,,,1,sectional_title,True,lightstone_export
+ST23149/2023,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,136,Simbithi,Sicklebush,4,2023-05-28,2023-08-16,4300000,,,False,,,1,sectional_title,True,lightstone_export
+ST22644/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,16,Simbithi,Simbathi,1150,2023-02-17,2023-08-10,5150000,,,False,,,1,sectional_title,True,lightstone_export
+ST22249/2023,Simbithi Eco Estate,SIMBITHI,6,0,SS TAMBOTI,43,Simbithi,Tamboti,11,2023-05-14,2023-08-04,4000000,,,False,,,2,sectional_title,True,lightstone_export
+ST22272/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,37,Simbithi,Simbathi,1150,,2023-08-04,0,,,False,,,1,sectional_title,False,lightstone_export
+ST21986/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,8,Simbithi,Simbathi,1150,2023-03-16,2023-08-02,5625100,,,False,,,1,sectional_title,True,lightstone_export
+T21541/2023,Simbithi Eco Estate,SIMBITHI,827,0,,,Simbithi,Honeysuckle,10,2023-02-07,2023-07-31,6350000,,,False,,,2,freehold,True,lightstone_export
+ST21729/2023,Simbithi Eco Estate,SIMBITHI,442,0,SS LALAPANZI,17,Simbithi,Simbithi,442,2023-06-02,2023-07-31,3500000,,,False,,,2,sectional_title,True,lightstone_export
+ST21687/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,24,Simbithi,Simbathi,1150,2023-03-01,2023-07-31,4750000,,,False,,,2,sectional_title,True,lightstone_export
+ST21810/2023,Simbithi Eco Estate,SIMBITHI,923,0,SS WEST END,2,Simbithi,Ironwood,2,,2023-07-31,0,,,False,,,1,sectional_title,False,lightstone_export
+ST21806/2023,Simbithi Eco Estate,SIMBITHI,923,0,SS WEST END,3,Simbithi,Ironwood,2,,2023-07-31,0,,,False,,,1,sectional_title,False,lightstone_export
+ST21807/2023,Simbithi Eco Estate,SIMBITHI,923,0,SS WEST END,4,Simbithi,Ironwood,2,,2023-07-31,0,,,False,,,1,sectional_title,False,lightstone_export
+ST21812/2023,Simbithi Eco Estate,SIMBITHI,923,0,SS WEST END,5,Simbithi,Ironwood,2,,2023-07-31,0,,,False,,,1,sectional_title,False,lightstone_export
+ST21808/2023,Simbithi Eco Estate,SIMBITHI,923,0,SS WEST END,8,Simbithi,Ironwood,2,,2023-07-31,0,,,False,,,1,sectional_title,False,lightstone_export
+ST21814/2023,Simbithi Eco Estate,SIMBITHI,923,0,SS WEST END,8,Simbithi,Ironwood,2,2022-02-14,2023-07-31,4200000,,,False,,,2,sectional_title,True,lightstone_export
+ST21809/2023,Simbithi Eco Estate,SIMBITHI,923,0,SS WEST END,9,Simbithi,Ironwood,2,,2023-07-31,0,,,False,,,1,sectional_title,False,lightstone_export
+ST21811/2023,Simbithi Eco Estate,SIMBITHI,923,0,SS WEST END,10,Simbithi,Ironwood,2,,2023-07-31,0,,,False,,,1,sectional_title,False,lightstone_export
+ST21813/2023,Simbithi Eco Estate,SIMBITHI,923,0,SS WEST END,11,Simbithi,Ironwood,2,,2023-07-31,0,,,False,,,1,sectional_title,False,lightstone_export
+ST21384/2023,Simbithi Eco Estate,SIMBITHI,6,0,SS TAMBOTI,46,Simbithi,Tamboti,11,2023-05-19,2023-07-27,3700000,,,False,,,2,sectional_title,True,lightstone_export
+T21204/2023,Simbithi Eco Estate,SIMBITHI,441,0,,,Simbithi,Albizia,441,2023-05-19,2023-07-26,2400000,,,False,,,1,freehold,True,lightstone_export
+T21055/2023,Simbithi Eco Estate,SIMBITHI,387,0,,,Simbithi,Ladlau,27,,2023-07-25,0,,,False,,,1,freehold,False,lightstone_export
+T20569/2023,Simbithi Eco Estate,SIMBITHI,300,0,,,Simbithi,Pambathi,10,2023-05-08,2023-07-20,8150000,,,False,,,1,freehold,True,lightstone_export
+ST19908/2023,Simbithi Eco Estate,SIMBITHI,442,0,SS LALAPANZI,7,Simbithi,Simbithi,442,2023-05-18,2023-07-17,3500000,,,False,,,1,sectional_title,True,lightstone_export
+T19514/2023,Simbithi Eco Estate,SIMBITHI,894,0,,,Simbithi,Ironwood,35,2023-05-04,2023-07-13,7374000,,,False,,,1,freehold,True,lightstone_export
+T19040/2023,Simbithi Eco Estate,SIMBITHI,90,0,,,Simbithi,Cussonia,5,2023-02-15,2023-07-10,6750000,,,False,,,1,freehold,True,lightstone_export
+T19041/2023,Simbithi Eco Estate,SIMBITHI,172,0,,,Simbithi,Plumbago,6,2022-12-05,2023-07-10,11250000,,,False,,,1,freehold,True,lightstone_export
+ST19108/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,34,Simbithi,Simbathi,1150,2022-07-12,2023-07-10,6000000,,,False,,,1,sectional_title,True,lightstone_export
+ST19001/2023,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,191,Simbithi,Sicklebush,4,2023-04-23,2023-07-07,5250000,,,False,,,1,sectional_title,True,lightstone_export
+ST17681/2023,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,65,Simbithi,Sicklebush,4,2023-03-28,2023-06-27,3925000,,,False,,,1,sectional_title,True,lightstone_export
+T16350/2023,Simbithi Eco Estate,SIMBITHI,177,0,,,Simbithi,Elm Tree,177,2023-04-08,2023-06-15,6300000,,,False,,,1,freehold,True,lightstone_export
+ST15928/2023,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,57,Simbithi,Sicklebush,4,2023-04-23,2023-06-09,3700000,,,False,,,1,sectional_title,True,lightstone_export
+T15863/2023,Simbithi Eco Estate,SIMBITHI,786,0,,,Simbithi,Cats Whiskers,26,2023-03-11,2023-06-09,8245000,,,False,,,2,freehold,True,lightstone_export
+T15878/2023,Simbithi Eco Estate,SIMBITHI,912,0,,,Simbithi,Ironwood,22,,2023-06-09,0,,,False,,,1,freehold,False,lightstone_export
+ST15795/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,11,Simbithi,Simbathi,1150,,2023-06-08,0,,,False,,,1,sectional_title,False,lightstone_export
+ST15810/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,11,Simbithi,Simbathi,1150,2021-06-09,2023-06-08,5200000,,,False,,,2,sectional_title,True,lightstone_export
+ST15796/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,12,Simbithi,Simbathi,1150,,2023-06-08,0,,,False,,,1,sectional_title,False,lightstone_export
+ST15811/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,12,Simbithi,Simbathi,1150,2021-11-24,2023-06-08,4850000,,,False,,,2,sectional_title,True,lightstone_export
+ST15797/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,13,Simbithi,Simbathi,1150,,2023-06-08,0,,,False,,,1,sectional_title,False,lightstone_export
+ST15812/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,13,Simbithi,Simbathi,1150,2021-04-22,2023-06-08,5000000,,,False,,,1,sectional_title,True,lightstone_export
+ST15798/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,14,Simbithi,Simbathi,1150,,2023-06-08,0,,,False,,,1,sectional_title,False,lightstone_export
+ST15813/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,14,Simbithi,Simbathi,1150,2020-09-16,2023-06-08,4650000,,,False,,,2,sectional_title,True,lightstone_export
+ST15799/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,15,Simbithi,Simbathi,1150,,2023-06-08,0,,,False,,,1,sectional_title,False,lightstone_export
+ST15814/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,15,Simbithi,Simbathi,1150,2020-06-19,2023-06-08,4000000,,,False,,,2,sectional_title,True,lightstone_export
+ST15800/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,16,Simbithi,Simbathi,1150,,2023-06-08,0,,,False,,,1,sectional_title,False,lightstone_export
+ST15815/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,16,Simbithi,Simbathi,1150,2020-08-04,2023-06-08,3995000,,,False,,,2,sectional_title,True,lightstone_export
+ST15801/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,17,Simbithi,Simbathi,1150,,2023-06-08,0,,,False,,,1,sectional_title,False,lightstone_export
+ST15816/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,17,Simbithi,Simbathi,1150,2020-08-20,2023-06-08,3950000,,,False,,,1,sectional_title,True,lightstone_export
+ST15802/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,18,Simbithi,Simbathi,1150,,2023-06-08,0,,,False,,,1,sectional_title,False,lightstone_export
+ST15817/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,18,Simbithi,Simbathi,1150,2019-09-23,2023-06-08,3995000,,,False,,,1,sectional_title,True,lightstone_export
+ST15824/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,19,Simbithi,Simbathi,1150,,2023-06-08,0,,,False,,,1,sectional_title,False,lightstone_export
+ST15831/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,19,Simbithi,Simbathi,1150,2019-09-23,2023-06-08,3995000,,,False,,,1,sectional_title,True,lightstone_export
+ST15825/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,20,Simbithi,Simbathi,1150,,2023-06-08,0,,,False,,,1,sectional_title,False,lightstone_export
+ST15832/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,20,Simbithi,Simbathi,1150,2021-10-12,2023-06-08,4450000,,,False,,,2,sectional_title,True,lightstone_export
+ST15826/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,21,Simbithi,Simbathi,1150,,2023-06-08,0,,,False,,,1,sectional_title,False,lightstone_export
+ST15833/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,21,Simbithi,Simbathi,1150,2019-10-08,2023-06-08,3850000,,,False,,,2,sectional_title,True,lightstone_export
+ST15827/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,22,Simbithi,Simbathi,1150,,2023-06-08,0,,,False,,,1,sectional_title,False,lightstone_export
+ST15834/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,22,Simbithi,Simbathi,1150,2022-06-20,2023-06-08,4500000,,,False,,,1,sectional_title,True,lightstone_export
+ST15803/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,23,Simbithi,Simbathi,1150,,2023-06-08,0,,,False,,,1,sectional_title,False,lightstone_export
+ST15818/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,23,Simbithi,Simbathi,1150,2020-09-29,2023-06-08,4500000,,,False,,,1,sectional_title,True,lightstone_export
+ST15804/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,24,Simbithi,Simbathi,1150,,2023-06-08,0,,,False,,,1,sectional_title,False,lightstone_export
+ST15819/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,24,Simbithi,Simbathi,1150,2020-02-27,2023-06-08,3995000,,,False,,,1,sectional_title,True,lightstone_export
+ST15805/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,25,Simbithi,Simbathi,1150,,2023-06-08,0,,,False,,,1,sectional_title,False,lightstone_export
+ST15820/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,25,Simbithi,Simbathi,1150,2022-05-19,2023-06-08,4350000,,,False,,,1,sectional_title,True,lightstone_export
+ST15806/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,26,Simbithi,Simbathi,1150,,2023-06-08,0,,,False,,,1,sectional_title,False,lightstone_export
+ST15821/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,26,Simbithi,Simbathi,1150,2020-08-20,2023-06-08,4100000,,,False,,,2,sectional_title,True,lightstone_export
+ST15807/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,31,Simbithi,Simbathi,1150,,2023-06-08,0,,,False,,,1,sectional_title,False,lightstone_export
+ST15822/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,31,Simbithi,Simbathi,1150,2020-11-04,2023-06-08,4253800,,,False,,,1,sectional_title,True,lightstone_export
+ST15808/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,32,Simbithi,Simbathi,1150,,2023-06-08,0,,,False,,,2,sectional_title,False,lightstone_export
+ST15809/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,33,Simbithi,Simbathi,1150,,2023-06-08,0,,,False,,,1,sectional_title,False,lightstone_export
+ST15823/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,33,Simbithi,Simbathi,1150,2020-09-17,2023-06-08,4995000,,,False,,,2,sectional_title,True,lightstone_export
+ST15828/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,34,Simbithi,Simbathi,1150,,2023-06-08,0,,,False,,,3,sectional_title,False,lightstone_export
+ST15829/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,35,Simbithi,Simbathi,1150,,2023-06-08,0,,,False,,,1,sectional_title,False,lightstone_export
+ST15835/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,35,Simbithi,Simbathi,1150,2020-11-20,2023-06-08,4175000,,,False,,,2,sectional_title,True,lightstone_export
+ST15830/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,36,Simbithi,Simbathi,1150,,2023-06-08,0,,,False,,,1,sectional_title,False,lightstone_export
+ST15836/2023,Simbithi Eco Estate,SIMBITHI,1150,0,SS JACANA,36,Simbithi,Simbathi,1150,2021-08-24,2023-06-08,3950000,,,False,,,1,sectional_title,True,lightstone_export
+T15473/2023,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,59,Simbithi,Sicklebush,3,,2023-06-07,0,,,False,,,2,freehold,False,lightstone_export
+ST15104/2023,Simbithi Eco Estate,SIMBITHI,659,0,SS MSINTSI TWO,4,Simbithi,Feverberry,23,2022-12-09,2023-06-02,3500000,,,False,,,2,sectional_title,True,lightstone_export
+ST15008/2023,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,213,Simbithi,Sicklebush,4,2023-03-17,2023-06-01,2700000,,,False,,,1,sectional_title,True,lightstone_export
+ST14860/2023,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,99,Simbithi,Sicklebush,4,2022-11-02,2023-05-31,4800000,,,False,,,1,sectional_title,True,lightstone_export
+ST14458/2023,Simbithi Eco Estate,SIMBITHI,36,0,SS ILALA,48,Simbithi,Sicklebush,3,2023-04-13,2023-05-29,3350000,,,False,,,1,sectional_title,True,lightstone_export
+ST14426/2023,Simbithi Eco Estate,SIMBITHI,309,0,SS EMOYENI,30,Simbithi,Corkwood,309,,2023-05-29,0,,,False,,,1,sectional_title,False,lightstone_export
+T14062/2023,Simbithi Eco Estate,SIMBITHI,110,0,,,Simbithi,Beverly,110,2022-08-30,2023-05-25,4750000,,,False,,,1,freehold,True,lightstone_export
+T13103/2023,Simbithi Eco Estate,SIMBITHI,232,0,,,Simbithi,Plumbago,35,2023-03-13,2023-05-18,10500000,,,False,,,1,freehold,True,lightstone_export
+T12953/2023,Simbithi Eco Estate,SIMBITHI,900,0,,,Simbithi,Ironwood,47,2023-03-07,2023-05-17,8350000,,,False,,,1,freehold,True,lightstone_export
+ST12250/2023,Simbithi Eco Estate,SIMBITHI,6,0,SS TAMBOTI,2,Simbithi,Tamboti,11,2023-03-28,2023-05-10,3900000,,,False,,,1,sectional_title,True,lightstone_export
+T11972/2023,Simbithi Eco Estate,SIMBITHI,171,0,,,Simbithi,Plumbago,4,2022-12-13,2023-05-09,7830000,,,False,,,2,freehold,True,lightstone_export
+T11515/2023,Simbithi Eco Estate,SIMBITHI,68,0,,,Simbithi,Flamebush,68,2022-12-22,2023-05-05,9150000,,,False,,,1,freehold,True,lightstone_export
+T11218/2023,Simbithi Eco Estate,SIMBITHI,360,0,,,Simbithi,Umthombe,12,2022-10-14,2023-05-03,2400000,,,True,,,1,freehold,False,lightstone_export
+T10395/2023,Simbithi Eco Estate,SIMBITHI,899,0,,,Simbithi,Ironwood,45,2023-02-16,2023-04-26,8200000,,,False,,,1,freehold,True,lightstone_export
+ST10041/2023,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,163,Simbithi,Sicklebush,4,2022-11-21,2023-04-24,5000000,,,False,,,2,sectional_title,True,lightstone_export
+ST9799/2023,Simbithi Eco Estate,SIMBITHI,7,0,SS ILANGA,16,Simbithi,Sicklebush,1,,2023-04-21,0,,,False,,,2,sectional_title,False,lightstone_export
+T9304/2023,Simbithi Eco Estate,SIMBITHI,16,0,,,Simbithi,Coraltree,16,2023-01-08,2023-04-19,7900000,,,False,,,2,freehold,True,lightstone_export
+ST9210/2023,Simbithi Eco Estate,SIMBITHI,166,0,SS SAVANNA,27,Simbithi,Bridelia,5,2023-01-12,2023-04-18,3500000,,,False,,,1,sectional_title,True,lightstone_export
+ST9058/2023,Simbithi Eco Estate,SIMBITHI,497,0,SS SABUTI,70,Simbithi,Sicklebush,4,2023-01-30,2023-04-17,4700000,,,False,,,1,sectional_title,True,lightstone_export

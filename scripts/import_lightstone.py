@@ -51,45 +51,56 @@ SCHEME_ALIASES = {
 # Max parcel size before we exclude as a non-dwelling land parcel
 MAX_SIZE_M2 = 50_000
 
+_NULL_STRINGS = {"nan", "none", "null", "n/a", "na", ""}
 
-def normalise_scheme(val: str | None) -> str | None:
-    if not val or (isinstance(val, float)):
+
+def clean_str(val) -> str | None:
+    """Strip whitespace and return None for blank/NaN-like cell values."""
+    if val is None:
         return None
-    cleaned = re.sub(r"\s+", " ", str(val).upper().strip())
+    s = str(val).strip()
+    return None if s.lower() in _NULL_STRINGS else s
+
+
+def normalise_scheme(val) -> str | None:
+    s = clean_str(val)
+    if not s:
+        return None
+    cleaned = re.sub(r"\s+", " ", s.upper())
     return SCHEME_ALIASES.get(cleaned, cleaned)
 
 
 def parse_land_only(val) -> bool:
-    if isinstance(val, bool):
-        return val
-    if isinstance(val, str):
-        return val.strip().upper() in ("Y", "YES", "TRUE", "1")
-    return bool(val) if pd.notna(val) else False
+    s = clean_str(val)
+    if s is None:
+        return False
+    return s.upper() in ("Y", "YES", "TRUE", "1")
 
 
 BUYER_SELLER_MAP = {
-    "natural person":  "natural_person",
-    "individual":      "natural_person",
-    "private person":  "natural_person",
-    "legal entity":    "legal_entity",
-    "company":         "legal_entity",
-    "trust":           "legal_entity",
+    "natural person":    "natural_person",
+    "individual":        "natural_person",
+    "private person":    "natural_person",
+    "legal entity":      "legal_entity",
+    "company":           "legal_entity",
+    "trust":             "legal_entity",
     "close corporation": "legal_entity",
-    "cc":              "legal_entity",
+    "cc":                "legal_entity",
 }
 
 
 def normalise_party_type(val) -> str | None:
-    if not val or (isinstance(val, float) and pd.isna(val)):
+    s = clean_str(val)
+    if not s:
         return None
-    key = str(val).strip().lower()
+    key = s.lower()
     return BUYER_SELLER_MAP.get(key, "natural_person" if "person" in key or "individual" in key else "legal_entity")
 
 
 def derive_property_type(title_deed_no: str | None) -> str | None:
     if not title_deed_no:
         return None
-    prefix = str(title_deed_no).strip().upper()
+    prefix = title_deed_no.upper()
     if prefix.startswith("ST"):
         return "sectional_title"
     if prefix.startswith("T"):
@@ -98,18 +109,21 @@ def derive_property_type(title_deed_no: str | None) -> str | None:
 
 
 def to_int_or_none(val) -> int | None:
+    s = clean_str(val)
+    if not s:
+        return None
     try:
-        v = int(val)
-        return v
+        return int(float(s))
     except (TypeError, ValueError):
         return None
 
 
 def to_date_or_none(val) -> str | None:
-    if pd.isna(val) if not isinstance(val, str) else False:
+    s = clean_str(val)
+    if not s:
         return None
     try:
-        return pd.to_datetime(val).strftime("%Y-%m-%d")
+        return pd.to_datetime(s).strftime("%Y-%m-%d")
     except Exception:
         return None
 
@@ -151,7 +165,7 @@ def main() -> None:
     for idx, row in df.iterrows():
         row_num = int(idx) + 2  # 1-based with header
 
-        title_deed_no = str(row.get("title_deed_no", "") or "").strip()
+        title_deed_no = clean_str(row.get("title_deed_no"))
         if not title_deed_no:
             exclusions["missing_title_deed_no"].append(row_num)
             continue
@@ -174,19 +188,17 @@ def main() -> None:
             and not possible_land_only
         )
 
-        unit_val = str(row.get("unit", "") or "").strip() or None
-
         record = {
             "title_deed_no":      title_deed_no,
             "estate":             args.estate,
-            "township":           str(row.get("township", "") or "").strip() or None,
+            "township":           clean_str(row.get("township")),
             "erf":                to_int_or_none(row.get("erf")),
             "portion":            to_int_or_none(row.get("portion")) or 0,
             "sectional_scheme":   normalise_scheme(row.get("sectional_scheme")),
-            "unit":               unit_val,
-            "suburb":             str(row.get("suburb", "") or "").strip() or None,
-            "street":             str(row.get("street", "") or "").strip() or None,
-            "street_number":      str(row.get("street_number", "") or "").strip() or None,
+            "unit":               clean_str(row.get("unit")),
+            "suburb":             clean_str(row.get("suburb")),
+            "street":             clean_str(row.get("street")),
+            "street_number":      clean_str(row.get("street_number")),
             "sales_date":         to_date_or_none(row.get("sales_date")),
             "registration_date":  registration_date,
             "sales_price":        sales_price_raw,
