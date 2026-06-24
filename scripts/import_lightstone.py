@@ -35,11 +35,11 @@ COLUMN_MAP = {
     "Sales Date":               "sales_date",
     "Registration Date":        "registration_date",
     "Sales Price":              "sales_price",
-    "Size (m²)":               "size_m2",
-    "Price per m²":            "price_per_m2",
     "Possible Land Only":       "possible_land_only",
-    "Buyer Type":               "buyer_type",
-    "Seller Type":              "seller_type",
+    "Buyer":                    "buyer_type",
+    "Seller":                   "seller_type",
+    "Size":                     "size_m2",
+    "R/m²":                    "price_per_m2",
     "Number of Owners":         "number_of_owners",
 }
 
