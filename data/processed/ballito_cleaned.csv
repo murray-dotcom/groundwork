@@ -1,0 +1,494 @@
+title_deed_no,estate,township,erf,portion,sectional_scheme,unit,suburb,street,street_number,sales_date,registration_date,sales_price,size_m2,price_per_m2,possible_land_only,buyer_type,seller_type,number_of_owners,property_type,is_market_sale,data_source
+T14788/2026,Ballito,BALLITOVILLE EXT 3,1413,0,,,Ballito,Ellis,18,2026-03-09,2026-05-28,3000000,745,4026,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST14885/2026,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,7,Ballito,Sandra,25,2026-01-06,2026-05-28,427000,61,7000,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST14884/2026,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,6,Ballito,Sandra,25,2026-01-06,2026-05-28,973000,139,7000,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST14887/2026,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,35,Ballito,Sandra,25,2025-07-10,2026-05-28,3250000,506,6422,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST14886/2026,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,30,Ballito,Sandra,25,2026-01-06,2026-05-28,1190000,170,7000,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T14633/2026,Ballito,BALLITOVILLE,121,0,,,Ballito,Sandra,2,2026-03-10,2026-05-27,3000000,1098,2732,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST14312/2026,Ballito,FU,931,399,SS LA MER,11,Ballito,Compensation Beach,58,2025-01-23,2026-05-22,1725000,127,13582,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST14313/2026,Ballito,FU,931,399,SS LA MER,11,Ballito,Compensation Beach,58,2025-01-23,2026-05-22,379500,127,2988,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST14320/2026,Ballito,COMPENSATION BEACH,39,0,SS SANDPIPER BAY,13,Ballito,Compensation Beach,48,2026-02-23,2026-05-22,2800000,121,23140,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST13703/2026,Ballito,BALLITOVILLE,111,0,SS BALLITO VIEW,6,Ballito,Compensation,13,2026-03-17,2026-05-18,2300000,132,17424,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T12868/2026,Ballito,BALLITOVILLE,495,0,,,Ballito,Ashley,11,2026-03-05,2026-05-11,7500000,1012,7411,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST12171/2026,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,110,Ballito,Avondale,1431,2026-01-20,2026-05-04,2860000,212,13490,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST12041/2026,Ballito,BALLITOVILLE,1423,0,SS RIDGEVIEW,14,Ballito,Celtis,1,2026-01-23,2026-04-30,2200000,126,17460,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T11222/2026,Ballito,BALLITOVILLE,2802,0,,,Ballito,Terrabellum,9,2026-03-17,2026-04-23,2200000,388,5670,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST8249/2026,Ballito,FU,931,401,SS LA 'TOINETTE,5,Ballito,Compensation Beach,10,2026-01-16,2026-03-30,3700000,121,30578,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T7935/2026,Ballito,BALLITOVILLE,2004,0,,,Ballito,Forestview,27,2025-09-15,2026-03-26,2050000,564,3634,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T7661/2026,Ballito,BALLITOVILLE,114,0,,,Ballito,Sandra,16,2025-10-31,2026-03-24,1071986,1043,1027,True,legal_entity,natural_person,1,freehold,False,lightstone_export
+ST7433/2026,Ballito,FU,931,400,SS CLUB 10,6,Ballito,,,2026-01-20,2026-03-23,4600000,184,25000,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST7434/2026,Ballito,FU,931,400,SS CLUB 10,10,Ballito,,,2026-02-25,2026-03-23,4550000,179,25418,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T6829/2026,Ballito,BALLITOVILLE,2704,0,,,Ballito,Tucano,17,2026-02-06,2026-03-18,2450000,370,6621,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST4815/2026,Ballito,COMPENSATION BEACH,39,0,SS SANDPIPER BAY,7,Ballito,Compensation Beach,48,2025-09-30,2026-03-03,3250000,119,27310,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T3924/2026,Ballito,BALLITOVILLE,2811,0,,,Ballito,Terrabellum,18,2025-10-31,2026-02-26,2500000,461,5422,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST4061/2026,Ballito,FU,931,501,SS DRIFTWOOD,9,Ballito,Compensation Beach,56B,2025-11-03,2026-02-26,4200000,214,19626,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST3668/2026,Ballito,COMPENSATION BEACH,40,0,SS SIMBALINA,9,Ballito,Compensation Beach,46,2025-12-04,2026-02-24,4900000,189,25925,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST3352/2026,Ballito,FU,931,400,SS CLUB 10,5,Ballito,,,2025-11-03,2026-02-20,4600000,184,25000,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST3351/2026,Ballito,FU,931,400,SS CLUB 10,7,Ballito,,,2026-01-14,2026-02-20,4450000,185,24054,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST3350/2026,Ballito,FU,931,400,SS CLUB 10,8,Ballito,,,2026-01-14,2026-02-20,4450000,185,24054,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T2927/2026,Ballito,BALLITOVILLE,541,0,,,Ballito,Elizabeth,27,2025-06-27,2026-02-12,4000000,1012,3952,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T2485/2026,Ballito,BALLITOVILLE EXT 3,1228,0,,,Ballito,Avondale,28,2025-11-13,2026-02-06,5350000,999,5355,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST2295/2026,Ballito,BALLITOVILLE,111,0,SS BALLITO VIEW,10,Ballito,Compensation,13,2025-10-07,2026-02-04,3420000,142,24084,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST1266/2026,Ballito,FU,931,400,SS CLUB 10,9,Ballito,,,2025-11-11,2026-01-26,4400000,178,24719,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T940/2026,Ballito,BALLITOVILLE,520,0,,,Ballito,Allen,4,2025-10-17,2026-01-21,3850000,1013,3800,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T679/2026,Ballito,BALLITOVILLE,591,0,,,Ballito,Townsend,7,2025-11-11,2026-01-16,5300000,1348,3931,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST489/2026,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,37,Ballito,Sandra,25,2024-07-19,2026-01-13,1510000,116,13017,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST488/2026,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,38,Ballito,Sandra,25,2025-05-12,2026-01-13,1900000,160,11875,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T347/2026,Ballito,BALLITOVILLE,429,0,,,Ballito,Iris,10,2025-11-14,2026-01-09,5150000,1014,5078,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T73869/2025,Ballito,BALLITOVILLE,7,0,,,Ballito,Edward,2D,2025-09-24,2025-12-05,8700000,1022,8512,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T72966/2025,Ballito,BALLITOVILLE,2795,0,,,Ballito,Terrabellum,2,2025-08-21,2025-11-28,2500000,395,6329,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T69648/2025,Ballito,BALLITOVILLE,39,0,,,Ballito,Compensation,44,2025-09-09,2025-10-31,13000000,1080,12037,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST69758/2025,Ballito,BALLITOVILLE,1423,0,SS RIDGEVIEW,7,Ballito,Celtis,1,2025-03-10,2025-10-31,1000000,118,8474,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST67537/2025,Ballito,BALLITOVILLE,1423,0,SS RIDGEVIEW,13,Ballito,Celtis,1,2025-08-20,2025-10-13,2250000,118,19067,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST67229/2025,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,40,Ballito,Avondale,1431,2025-05-31,2025-10-09,3650000,212,17216,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST67029/2025,Ballito,FU,931,400,SS CLUB 10,1,Ballito,,,,2025-10-07,0,151,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST67030/2025,Ballito,FU,931,400,SS CLUB 10,2,Ballito,,,,2025-10-07,0,159,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST67031/2025,Ballito,FU,931,400,SS CLUB 10,3,Ballito,,,,2025-10-07,0,184,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST67039/2025,Ballito,FU,931,400,SS CLUB 10,3,Ballito,,,2025-07-17,2025-10-07,4450000,184,24184,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST67032/2025,Ballito,FU,931,400,SS CLUB 10,4,Ballito,,,,2025-10-07,0,185,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST67040/2025,Ballito,FU,931,400,SS CLUB 10,4,Ballito,,,2025-08-01,2025-10-07,4600000,185,24864,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST67033/2025,Ballito,FU,931,400,SS CLUB 10,5,Ballito,,,,2025-10-07,0,184,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST67034/2025,Ballito,FU,931,400,SS CLUB 10,6,Ballito,,,,2025-10-07,0,184,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST67035/2025,Ballito,FU,931,400,SS CLUB 10,7,Ballito,,,,2025-10-07,0,185,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST67036/2025,Ballito,FU,931,400,SS CLUB 10,8,Ballito,,,,2025-10-07,0,185,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST67037/2025,Ballito,FU,931,400,SS CLUB 10,9,Ballito,,,,2025-10-07,0,178,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST67038/2025,Ballito,FU,931,400,SS CLUB 10,10,Ballito,,,,2025-10-07,0,179,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+T63361/2025,Ballito,BALLITOVILLE,2655,0,,,Ballito,Avonhills,23,2025-06-27,2025-09-04,3700000,517,7156,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T62564/2025,Ballito,BALLITOVILLE,2805,0,,,Ballito,Terrabellum,12,2023-04-23,2025-08-28,1600000,482,3319,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST61360/2025,Ballito,BALLITOVILLE EXT 3,1417,0,SS CAIRNGORM,2,Ballito,Avondale,3,2025-07-08,2025-08-18,2700000,410,6585,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST18966/2025,Ballito,COMPENSATION BEACH,39,0,SS SANDPIPER BAY,2,Ballito,Compensation Beach,48,2025-06-02,2025-07-25,4200000,148,28378,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST18213/2025,Ballito,BALLITOVILLE EXT 3,1417,0,SS CAIRNGORM,3,Ballito,Avondale,3,2025-02-04,2025-07-17,3500000,409,8557,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T16823/2025,Ballito,BALLITOVILLE EXT 3,1413,1,,,Ballito,,,,2025-07-02,0,718,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T16305/2025,Ballito,BALLITOVILLE,447,0,,,Ballito,Patricia,33,2025-05-21,2025-06-27,8000000,1156,6920,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T16179/2025,Ballito,BALLITOVILLE,45,0,,,Ballito,David,48,2025-03-18,2025-06-26,3195000,1022,3126,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T15965/2025,Ballito,BALLITOVILLE,382,0,,,Ballito,David,41,2024-04-01,2025-06-24,1300000,1073,1211,True,legal_entity,natural_person,1,freehold,False,lightstone_export
+T15957/2025,Ballito,BALLITOVILLE,381,0,,,Ballito,David,39,2024-04-01,2025-06-24,2700000,1222,2209,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST15140/2025,Ballito,COMPENSATION BEACH,2,1,SS DOLPHIN BAY-BALLITO,12,Ballito,Compensation Beach,52B,2025-01-24,2025-06-17,5600000,10,560000,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST15140/2025,Ballito,COMPENSATION BEACH,2,1,SS DOLPHIN BAY-BALLITO,6,Ballito,Compensation Beach,52B,2025-01-24,2025-06-17,5600000,174,32183,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST13525/2025,Ballito,BALLITOVILLE,1423,0,SS RIDGEVIEW,9,Ballito,Celtis,1,2025-03-27,2025-05-30,2225000,119,18697,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T13043/2025,Ballito,BALLITOVILLE EXT 3,1341,0,,,Ballito,Ellis,15,,2025-05-28,0,900,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+ST12760/2025,Ballito,FU,931,399,SS LA MER,9,Ballito,Compensation Beach,58,2025-02-06,2025-05-26,2350000,127,18503,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T12361/2025,Ballito,BALLITOVILLE,383,0,,,Ballito,David,43,2025-02-02,2025-05-22,5800000,1022,5675,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST11307/2025,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,40,Ballito,Sandra,25,2025-02-10,2025-05-13,1350000,135,10000,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T10766/2025,Ballito,BALLITOVILLE,2699,0,,,Ballito,Tucano,12,2025-01-23,2025-05-08,2550000,464,5495,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T10054/2025,Ballito,BALLITOVILLE,2704,0,,,Ballito,Tucano,17,,2025-04-30,0,370,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T10055/2025,Ballito,BALLITOVILLE,2704,0,,,Ballito,Tucano,17,,2025-04-30,0,370,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T10073/2025,Ballito,BALLITOVILLE,2009,0,,,Ballito,Forestview,32,2025-02-11,2025-04-30,2200000,447,4921,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T8340/2025,Ballito,BALLITOVILLE,550,0,,,Ballito,Townsend,38,2025-01-22,2025-04-08,2550000,1012,2519,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST8396/2025,Ballito,FU,931,501,SS DRIFTWOOD,3,Ballito,Compensation Beach,56B,2025-02-18,2025-04-08,4500000,156,28846,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T8145/2025,Ballito,BALLITOVILLE,617,0,,,Ballito,Compensation,20,2025-02-07,2025-04-07,18200000,941,19341,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST8024/2025,Ballito,BALLITOVILLE EXT 3,1415,0,SS ELLIS PLACE MEWS,3,Ballito,Ellis,23,2025-01-27,2025-04-04,2230000,179,12458,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T7476/2025,Ballito,BALLITOVILLE,113,0,,,Ballito,Sandra,18A,2025-02-12,2025-03-31,3800000,1043,3643,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T7402/2025,Ballito,BALLITOVILLE,424,0,,,Ballito,Patricia,3,2024-12-04,2025-03-31,2000000,1012,1976,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T5821/2025,Ballito,BALLITOVILLE,436,0,,,Ballito,Ashley,4,2025-01-20,2025-03-14,3300000,1013,3257,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T5282/2025,Ballito,BALLITOVILLE EXT 3,1346,0,,,Ballito,Avondale,15,2024-11-26,2025-03-10,3846000,908,4235,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T5174/2025,Ballito,BALLITOVILLE,2803,0,,,Ballito,Terrabellum,10,2025-01-10,2025-03-07,3050000,350,8714,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T5160/2025,Ballito,BALLITOVILLE,388,0,,,Ballito,David,53,2025-01-08,2025-03-07,2350000,1022,2299,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST5106/2025,Ballito,COMPENSATION BEACH,2,1,SS DOLPHIN BAY-BALLITO,1,Ballito,Compensation Beach,52B,2024-11-07,2025-03-06,4850000,181,26795,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T4296/2025,Ballito,BALLITOVILLE,609,0,,,Ballito,Townsend,43A,2024-10-27,2025-02-28,2800000,1181,2370,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST4420/2025,Ballito,BALLITOVILLE,1423,0,SS RIDGEVIEW,2,Ballito,Celtis,1,2024-10-21,2025-02-28,2495000,142,17570,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST3098/2025,Ballito,FU,931,479,SS BALLITO ROCKS,5,Ballito,Compensation Beach,56A,2024-12-18,2025-02-14,2600000,145,17931,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T36459/2024,Ballito,BALLITOVILLE,421,0,,,Ballito,Patricia,2,2024-09-24,2024-12-20,3350000,1170,2863,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T36062/2024,Ballito,BALLITOVILLE,4654,0,,,Ballito,Edward,10,,2024-12-18,0,2044,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T35054/2024,Ballito,BALLITOVILLE,480,0,,,Ballito,Ballito,13,2024-09-20,2024-12-11,2950000,1253,2354,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T34161/2024,Ballito,BALLITOVILLE,368,0,,,Ballito,Minerva,13,2024-10-25,2024-12-03,9000000,1022,8806,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T33886/2024,Ballito,BALLITOVILLE,49,0,,,Ballito,David,40,2024-09-18,2024-11-29,4300000,1022,4207,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T33168/2024,Ballito,BALLITOVILLE EXT 3,1329,0,,,Ballito,Ellis,16,2024-09-16,2024-11-25,4900000,1194,4103,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+ST32167/2024,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,10,Ballito,Sandra,25,2024-07-18,2024-11-15,2882000,54,53370,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST32167/2024,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,11,Ballito,Sandra,25,2024-07-18,2024-11-15,2882000,98,29408,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST32167/2024,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,33,Ballito,Sandra,25,2024-07-18,2024-11-15,2882000,110,26200,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T31282/2024,Ballito,BALLITOVILLE,2660,0,,,Ballito,Avonhills,28,2024-08-25,2024-11-08,2600000,526,4942,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T30656/2024,Ballito,BALLITOVILLE,535,0,,,Ballito,Elizabeth,15,2024-09-11,2024-11-04,6100000,1012,6027,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T30357/2024,Ballito,BALLITOVILLE,14,0,,,Ballito,Compensation,19A,2024-10-01,2024-10-31,10000000,1014,9861,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T28997/2024,Ballito,BALLITOVILLE,35,0,,,Ballito,Compensation,36,,2024-10-18,0,1150,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T28324/2024,Ballito,BALLITOVILLE,2691,0,,,Ballito,Tucano,3,2024-07-08,2024-10-11,2200000,511,4305,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T28228/2024,Ballito,BALLITOVILLE EXT 3,1441,0,,,Ballito,Avondale,12,2024-08-28,2024-10-10,4500000,1109,4057,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T28224/2024,Ballito,BALLITOVILLE,76,0,,,Ballito,Sandra,9,2024-08-01,2024-10-10,3500000,1091,3208,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T27807/2024,Ballito,BALLITOVILLE,67,0,,,Ballito,Minerva,14B,,2024-10-07,0,1018,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T27010/2024,Ballito,BALLITOVILLE,2709,0,,,Ballito,Tucano,22,2024-06-19,2024-09-27,2318000,364,6368,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T26135/2024,Ballito,BALLITOVILLE,26,0,,,Ballito,Compensation,39,2024-06-21,2024-09-18,10300000,1012,10177,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T25347/2024,Ballito,BALLITOVILLE,33,0,,,Ballito,Compensation,32B,2024-05-19,2024-09-11,11850000,1239,9564,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T23563/2024,Ballito,BALLITOVILLE,379,0,,,Ballito,Minerva,35,2024-04-01,2024-08-26,2000000,1389,1439,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T23564/2024,Ballito,BALLITOVILLE,55,0,,,Ballito,Minerva,34,2024-04-01,2024-08-26,750000,1036,723,True,legal_entity,natural_person,1,freehold,False,lightstone_export
+T23562/2024,Ballito,BALLITOVILLE,380,0,,,Ballito,David,37,2024-04-01,2024-08-26,3000000,1299,2309,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T22856/2024,Ballito,BALLITOVILLE,110,0,,,Ballito,Compensation,11,2024-08-01,2024-08-19,5858000,1043,5616,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T21835/2024,Ballito,BALLITOVILLE,2639,0,,,Ballito,Avonhills,7,2024-05-10,2024-08-06,3100000,668,4640,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T21330/2024,Ballito,BALLITOVILLE,432,0,,,Ballito,Ashley,12,2024-06-24,2024-07-31,3800000,1012,3754,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T18823/2024,Ballito,BALLITOVILLE EXT 3,1442,0,,,Ballito,Avondale,10,2023-10-06,2024-07-08,3850000,1590,2421,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST18218/2024,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,44,Ballito,Sandra,25,2024-01-10,2024-07-02,3100000,306,10130,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST17078/2024,Ballito,BALLITOVILLE,87,0,SS SALMON BAY HOUSE,4,Ballito,Compensation,24,2023-11-16,2024-06-25,2050000,95,21578,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T15821/2024,Ballito,BALLITOVILLE,2701,0,,,Ballito,Tucano,14,2024-03-29,2024-06-14,2300000,448,5133,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T15709/2024,Ballito,BALLITOVILLE,403,0,,,Ballito,Patricia,34B,2024-01-10,2024-06-13,1760000,1743,1009,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T15246/2024,Ballito,BALLITOVILLE,2000,0,,,Ballito,Forestview,23,2024-03-03,2024-06-10,2300000,385,5974,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST15316/2024,Ballito,BALLITOVILLE EXT 3,1415,0,SS ELLIS PLACE MEWS,6,Ballito,Ellis,23,2024-04-10,2024-06-10,2450000,179,13687,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T12801/2024,Ballito,BALLITOVILLE EXT 3,1239,0,,,Ballito,Warren Heights,1239,2023-09-20,2024-05-17,3325000,952,3492,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T10559/2024,Ballito,BALLITOVILLE,508,0,,,Ballito,Elizabeth,30,2024-02-15,2024-04-30,2950000,1012,2915,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T9801/2024,Ballito,BALLITOVILLE,565,1,,,Ballito,Ballito,5,2023-12-19,2024-04-24,4900000,1079,4541,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST9034/2024,Ballito,BALLITOVILLE,1367,0,SS BALLITO BESIGHEIDSENTRUM,28,Ballito,Ballito,1,,2024-04-16,0,77,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST9035/2024,Ballito,BALLITOVILLE,1367,0,SS BALLITO BESIGHEIDSENTRUM,28,Ballito,Ballito,1,2022-04-11,2024-04-16,760000,77,9870,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T7495/2024,Ballito,BALLITOVILLE,602,0,,,Ballito,Townsend,29,2024-01-26,2024-04-03,2800000,1025,2731,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T5020/2024,Ballito,BALLITOVILLE,1994,0,,,Ballito,Forestview,17,,2024-03-06,0,374,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T4853/2024,Ballito,BALLITOVILLE,2662,0,,,Ballito,Woodview,1,2023-11-06,2024-03-05,2100000,437,4805,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T4727/2024,Ballito,BALLITOVILLE,578,0,,,Ballito,Townsend,16,2023-11-20,2024-03-04,2700000,1013,2665,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T2919/2024,Ballito,BALLITOVILLE,579,0,,,Ballito,Townsend,14,2023-11-13,2024-02-13,3600000,1012,3557,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T2813/2024,Ballito,BALLITOVILLE,601,0,,,Ballito,Townsend,27,2023-11-28,2024-02-12,2550000,1025,2487,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T2850/2024,Ballito,BALLITOVILLE,2007,0,,,Ballito,Forestview,30,2023-10-31,2024-02-12,2000000,496,4032,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST2525/2024,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,44,Ballito,Sandra,25,,2024-02-07,0,306,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2526/2024,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,45,Ballito,Sandra,25,,2024-02-07,0,61,0,False,legal_entity,legal_entity,1,sectional_title,False,lightstone_export
+ST2528/2024,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,45,Ballito,Sandra,25,2023-02-01,2024-02-07,710000,61,11639,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST2527/2024,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,46,Ballito,Sandra,25,,2024-02-07,0,13,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2528/2024,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,46,Ballito,Sandra,25,2023-02-01,2024-02-07,710000,13,54615,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST2529/2024,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,47,Ballito,Sandra,25,,2024-02-07,0,212,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+T566/2024,Ballito,BALLITOVILLE,74,0,,,Ballito,Sandra,5,,2024-01-15,0,1048,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T176/2024,Ballito,BALLITOVILLE,1096,0,,,Ballito,David,49,2023-10-30,2024-01-08,5000000,2044,2446,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T37276/2023,Ballito,BALLITOVILLE,2686,0,,,Ballito,Woodview,25,2023-10-18,2023-12-21,900000,458,1965,True,natural_person,natural_person,1,freehold,False,lightstone_export
+T36586/2023,Ballito,BALLITOVILLE,501,0,,,Ballito,Ashley,19,,2023-12-18,0,1267,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+ST36672/2023,Ballito,BALLITOVILLE EXT 3,1417,0,SS CAIRNGORM,2,Ballito,Avondale,3,,2023-12-18,0,410,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+T35974/2023,Ballito,BALLITOVILLE,2505,1,,,Ballito,Ballito,3,2023-10-16,2023-12-12,3245700,1100,2950,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T35613/2023,Ballito,BALLITOVILLE,2505,0,,,Ballito,Townsend,6A,2023-10-16,2023-12-08,4400000,1202,3660,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T34132/2023,Ballito,BALLITOVILLE,447,0,,,Ballito,Patricia,33,2023-10-30,2023-11-28,8200000,1156,7093,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+ST34154/2023,Ballito,BALLITOVILLE,1416,0,SS GRACELAND,8,Ballito,Avondale,1,2023-09-12,2023-11-28,1600000,129,12403,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T33642/2023,Ballito,BALLITOVILLE,2008,0,,,Ballito,Forestview,31,2023-08-03,2023-11-23,2370000,508,4665,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T32221/2023,Ballito,BALLITOVILLE,452,0,,,Ballito,Patricia,43,2023-08-30,2023-11-10,8400000,1412,5949,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST31958/2023,Ballito,BALLITOVILLE,1423,0,SS RIDGEVIEW,9,Ballito,Celtis,1,2023-07-20,2023-11-07,2000000,119,16806,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T30912/2023,Ballito,BALLITOVILLE,29,0,,,Ballito,Le Roux,2,,2023-10-30,0,935,0,False,legal_entity,natural_person,1,freehold,False,lightstone_export
+T30827/2023,Ballito,BALLITOVILLE,2815,0,,,Ballito,Terrabellum,22,2023-07-19,2023-10-27,2700000,504,5357,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T29086/2023,Ballito,BALLITOVILLE,61,0,,,Ballito,Minerva,24,2023-07-31,2023-10-13,4000000,1017,3933,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T28436/2023,Ballito,BALLITOVILLE,70,0,,,Ballito,Hawkins,10,2023-03-13,2023-10-09,3200000,1021,3134,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST28240/2023,Ballito,COMPENSATION BEACH,39,0,SS SANDPIPER BAY,21,Ballito,Compensation Beach,48,2023-07-14,2023-10-05,2800000,121,23140,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T27438/2023,Ballito,BALLITOVILLE,2812,0,,,Ballito,Terrabellum,19,2023-07-12,2023-09-27,2650000,432,6134,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T27337/2023,Ballito,BALLITOVILLE,2810,0,,,Ballito,Terrabellum,17,2023-06-15,2023-09-26,2565000,397,6460,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T27221/2023,Ballito,BALLITOVILLE,1979,0,,,Ballito,Forestview,2,2023-08-04,2023-09-22,1900000,465,4086,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T26510/2023,Ballito,BALLITOVILLE,75,0,,,Ballito,Sandra,7,2023-07-08,2023-09-15,3900000,1044,3735,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T25853/2023,Ballito,BALLITOVILLE,7,0,,,Ballito,Edward,2D,2023-08-03,2023-09-08,8100000,1022,7925,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST24698/2023,Ballito,FU,931,401,SS LA 'TOINETTE,4,Ballito,Compensation Beach,10,2023-04-12,2023-08-29,2275000,121,18801,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T23974/2023,Ballito,BALLITOVILLE,2658,0,,,Ballito,Avonhills,26,2023-06-22,2023-08-23,2800000,498,5622,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T23873/2023,Ballito,BALLITOVILLE EXT 3,1319,0,,,Ballito,,,2023-07-10,2023-08-22,4550000,902,5044,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T23057/2023,Ballito,BALLITOVILLE,2676,0,,,Ballito,Woodview,15,2023-05-11,2023-08-16,2750000,432,6365,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST22779/2023,Ballito,BALLITOVILLE,1423,0,SS RIDGEVIEW,14,Ballito,Celtis,1,2023-05-29,2023-08-11,1800000,126,14285,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST20973/2023,Ballito,FU,931,401,SS LA 'TOINETTE,6,Ballito,Compensation Beach,10,2023-02-21,2023-07-24,2360000,121,19504,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T18553/2023,Ballito,BALLITOVILLE EXT 3,1238,0,,,Ballito,Warren Heights,1238,2023-05-18,2023-07-04,3400000,1269,2679,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST17088/2023,Ballito,BALLITOVILLE,1416,0,SS GRACELAND,12,Ballito,Avondale,1,2023-02-24,2023-06-21,1875000,114,16447,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST16985/2023,Ballito,COMPENSATION BEACH,39,0,SS SANDPIPER BAY,13,Ballito,Compensation Beach,48,,2023-06-21,0,121,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+T16401/2023,Ballito,BALLITOVILLE,2636,0,,,Ballito,Avonhills,4,2023-03-23,2023-06-15,2200000,591,3722,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T14969/2023,Ballito,BALLITOVILLE,2702,0,,,Ballito,Tucano,15,2023-04-25,2023-06-01,2500000,390,6410,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T13095/2023,Ballito,BALLITOVILLE,467,0,,,Ballito,Ashley,20B,2023-03-14,2023-05-18,3950000,1019,3876,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST11452/2023,Ballito,BALLITOVILLE EXT 3,1415,0,SS ELLIS PLACE MEWS,2,Ballito,Ellis,23,2023-03-07,2023-05-04,950000,179,5307,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T11158/2023,Ballito,BALLITOVILLE,492,0,,,Ballito,Elizabeth,6,2023-03-11,2023-05-03,3900000,1022,3816,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T9670/2023,Ballito,BALLITOVILLE EXT 3,1433,0,,,Ballito,Avondale,1433,,2023-04-21,0,16207,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T9670/2023,Ballito,BALLITOVILLE EXT 3,1432,0,,,Ballito,Avondale,1432,,2023-04-21,0,16678,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T9530/2023,Ballito,BALLITOVILLE,396,0,,,Ballito,Patricia,44B,2023-02-08,2023-04-20,5800000,1579,3673,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T9316/2023,Ballito,BALLITOVILLE,536,0,,,Ballito,Elizabeth,17,2022-12-06,2023-04-18,3800000,1012,3754,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST9229/2023,Ballito,BALLITOVILLE,1423,0,SS RIDGEVIEW,8,Ballito,Celtis,1,2023-02-06,2023-04-18,2300000,118,19491,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST7975/2023,Ballito,BALLITOVILLE,1423,0,SS RIDGEVIEW,17,Ballito,Celtis,1,,2023-04-04,0,142,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST7383/2023,Ballito,FU,931,401,SS LA 'TOINETTE,8,Ballito,Compensation Beach,10,2022-12-07,2023-03-31,3000000,121,24793,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T7052/2023,Ballito,BALLITOVILLE,406,0,,,Ballito,Patricia,30,2022-08-22,2023-03-30,4850000,1579,3071,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T6153/2023,Ballito,BALLITOVILLE,2640,0,,,Ballito,Avonhills,8,2023-01-09,2023-03-24,2850000,481,5925,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T5521/2023,Ballito,BALLITOVILLE,1984,0,,,Ballito,Forestview,7,2022-10-29,2023-03-16,1900000,465,4086,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T5583/2023,Ballito,BALLITOVILLE,4736,0,,,Ballito,Townsend,7A,,2023-03-16,0,3486,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T5584/2023,Ballito,BALLITOVILLE,4736,1,,,Ballito,,,,2023-03-16,0,1178,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T5585/2023,Ballito,BALLITOVILLE,4736,1,,,Ballito,,,2022-06-23,2023-03-16,3500000,1178,2971,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T5426/2023,Ballito,BALLITOVILLE,2700,0,,,Ballito,Tucano,13,2022-11-22,2023-03-13,2400000,429,5594,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T4743/2023,Ballito,BALLITOVILLE,618,0,,,Ballito,Edward,1,2022-11-08,2023-02-28,11900000,2035,5847,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T2849/2023,Ballito,BALLITOVILLE,611,0,,,Ballito,Le Roux,4,2022-09-26,2023-02-10,15850000,935,16951,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T2845/2023,Ballito,BALLITOVILLE EXT 3,1341,0,,,Ballito,Ellis,15,2022-11-17,2023-02-10,3200000,900,3555,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST2244/2023,Ballito,COMPENSATION BEACH,39,0,SS SANDPIPER BAY,12,Ballito,Compensation Beach,48,2022-11-24,2023-02-02,3300000,118,27966,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T1883/2023,Ballito,BALLITOVILLE,33,0,,,Ballito,Compensation,32B,2022-08-24,2023-01-27,7250000,1239,5851,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T42245/2022,Ballito,BALLITOVILLE,2645,0,,,Ballito,Avonhills,13,2022-10-05,2022-11-25,3000000,569,5272,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST40156/2022,Ballito,BALLITOVILLE,1367,0,SS BALLITO BESIGHEIDSENTRUM,27,Ballito,Ballito,1,2022-05-25,2022-11-09,3000000,303,9900,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T39892/2022,Ballito,BALLITOVILLE EXT 3,1304,0,,,Ballito,Avondale,45,2022-07-05,2022-11-08,1300000,980,1326,True,natural_person,natural_person,1,freehold,False,lightstone_export
+T38279/2022,Ballito,BALLITOVILLE,1999,0,,,Ballito,Forestview,22,2022-07-04,2022-10-28,2285000,385,5935,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T37000/2022,Ballito,BALLITOVILLE,82,0,,,Ballito,Sandra,21,2022-05-17,2022-10-21,7750000,1034,7495,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T37001/2022,Ballito,BALLITOVILLE,81,0,,,Ballito,Sandra,19,2022-05-19,2022-10-21,4500000,1055,4265,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST36969/2022,Ballito,BALLITOVILLE,1423,0,SS RIDGEVIEW,14,Ballito,Celtis,1,,2022-10-20,0,126,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+T34114/2022,Ballito,BALLITOVILLE EXT 3,1311,0,,,Ballito,Avondale,31,2022-07-14,2022-09-27,4600000,1229,3742,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T33452/2022,Ballito,BALLITOVILLE,2659,0,,,Ballito,Avonhills,27,2022-05-16,2022-09-22,2775000,499,5561,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST32556/2022,Ballito,COMPENSATION BEACH,2,1,SS DOLPHIN BAY-BALLITO,10,Ballito,Compensation Beach,52B,2022-07-18,2022-09-16,4300000,174,24712,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T32353/2022,Ballito,BALLITOVILLE,2813,0,,,Ballito,Terrabellum,20,2022-07-14,2022-09-15,2675000,435,6149,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T31089/2022,Ballito,BALLITOVILLE,101,0,,,Ballito,Edward,13,2021-09-14,2022-09-07,4000000,1082,3696,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T30572/2022,Ballito,BALLITOVILLE,423,0,,,Ballito,Patricia,1B,2022-05-09,2022-08-31,3650000,1019,3581,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T29688/2022,Ballito,BALLITOVILLE,37,0,,,Ballito,Compensation,40,2022-06-30,2022-08-25,5100000,1066,4784,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST27885/2022,Ballito,FU,931,501,SS DRIFTWOOD,13,Ballito,Compensation Beach,56B,2022-02-10,2022-08-11,3700000,176,21022,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST28527/2022,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,41,Ballito,Sandra,25,,2022-08-08,0,380,0,False,legal_entity,legal_entity,1,sectional_title,False,lightstone_export
+ST28528/2022,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,42,Ballito,Sandra,25,,2022-08-08,0,28,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST28529/2022,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,43,Ballito,Sandra,25,,2022-08-08,0,138,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST27414/2022,Ballito,COMPENSATION BEACH,39,0,SS SANDPIPER BAY,16,Ballito,Compensation Beach,48,2022-04-05,2022-08-05,900000,119,7563,False,legal_entity,legal_entity,2,sectional_title,True,lightstone_export
+ST26527/2022,Ballito,BALLITOVILLE,111,0,SS BALLITO VIEW,8,Ballito,Compensation,13,2022-04-28,2022-07-29,2500000,156,16025,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST24185/2022,Ballito,COMPENSATION BEACH,39,0,SS SANDPIPER BAY,15,Ballito,Compensation Beach,48,2022-02-08,2022-07-15,2550000,119,21428,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T23523/2022,Ballito,BALLITOVILLE,100,0,,,Ballito,Edward,11,2022-02-28,2022-07-12,4550000,1022,4452,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST21761/2022,Ballito,FU,931,501,SS DRIFTWOOD,5,Ballito,Compensation Beach,56B,2022-02-27,2022-06-24,3600000,178,20224,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T21555/2022,Ballito,BALLITOVILLE,2688,0,,,Ballito,Woodview,27,2022-05-07,2022-06-23,2475000,356,6952,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST21500/2022,Ballito,COMPENSATION BEACH,39,0,SS SANDPIPER BAY,22,Ballito,Compensation Beach,48,2022-02-11,2022-06-22,2725000,121,22520,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T20230/2022,Ballito,BALLITOVILLE,2692,0,,,Ballito,Tucano,4,2022-03-28,2022-06-14,2900000,440,6590,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST20103/2022,Ballito,FU,931,501,SS DRIFTWOOD,6,Ballito,Compensation Beach,56B,2022-03-14,2022-06-13,3450000,175,19714,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T20061/2022,Ballito,BALLITOVILLE,4738,0,,,Ballito,Patricia,8,,2022-06-13,0,2044,0,False,natural_person,natural_person,2,freehold,False,lightstone_export
+T19539/2022,Ballito,BALLITOVILLE,59,0,,,Ballito,Minerva,28,2022-03-14,2022-06-09,2500000,1042,2399,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T19231/2022,Ballito,BALLITOVILLE,573,0,,,Ballito,Elizabeth,5,2022-03-01,2022-06-07,2800000,1012,2766,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T18653/2022,Ballito,BALLITOVILLE,72,0,,,Ballito,Sandra,1,2022-02-08,2022-06-03,2300000,1014,2268,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T18561/2022,Ballito,BALLITOVILLE,2700,0,,,Ballito,Tucano,13,,2022-06-02,0,429,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T18224/2022,Ballito,BALLITOVILLE,514,0,,,Ballito,Elizabeth,18,2020-08-20,2022-05-31,3200000,1012,3162,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T18105/2022,Ballito,BALLITOVILLE,570,0,,,Ballito,Elizabeth,1C,2022-02-27,2022-05-31,4300000,1367,3145,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T16867/2022,Ballito,BALLITOVILLE,376,0,,,Ballito,Minerva,29,2022-03-13,2022-05-27,5650000,1088,5193,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T16072/2022,Ballito,BALLITOVILLE,2650,0,,,Ballito,Avonhills,18,2022-02-21,2022-05-23,2800000,426,6572,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST14546/2022,Ballito,BALLITOVILLE,1423,0,SS RIDGEVIEW,11,Ballito,Celtis,1,2022-02-24,2022-05-12,2300000,142,16197,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T13167/2022,Ballito,BALLITOVILLE,2705,0,,,Ballito,Tucano,18,2022-01-31,2022-04-29,2300000,407,5651,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T10188/2022,Ballito,BALLITOVILLE,2682,0,,,Ballito,Woodview,21,,2022-04-04,0,455,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+ST9850/2022,Ballito,COMPENSATION BEACH,39,0,SS SANDPIPER BAY,9,Ballito,Compensation Beach,48,2022-01-10,2022-03-31,4100000,119,34453,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T9888/2022,Ballito,BALLITOVILLE,438,0,,,Ballito,Iris,3,2021-12-13,2022-03-31,6500000,1012,6422,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T8793/2022,Ballito,BALLITOVILLE EXT 3,1444,0,,,Ballito,Avondale,6,2022-02-03,2022-03-23,695000,1082,642,True,natural_person,natural_person,2,freehold,False,lightstone_export
+T6655/2022,Ballito,BALLITOVILLE EXT 3,1351,0,,,Ballito,Avondale,5,2022-01-03,2022-03-02,5500000,939,5857,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T6216/2022,Ballito,BALLITOVILLE,2656,0,,,Ballito,Avonhills,24,2021-12-27,2022-02-28,3000000,508,5905,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T6007/2022,Ballito,BALLITOVILLE EXT 3,1443,0,,,Ballito,Avondale,8,2021-08-04,2022-02-25,700000,1205,580,True,natural_person,natural_person,1,freehold,False,lightstone_export
+T4873/2022,Ballito,BALLITOVILLE,2687,0,,,Ballito,Woodview,26,2021-12-07,2022-02-18,1960000,442,4434,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T4789/2022,Ballito,BALLITOVILLE,11,0,,,Ballito,Edward,15A,2021-12-21,2022-02-18,6693000,1026,6523,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T4571/2022,Ballito,BALLITOVILLE,14,0,,,Ballito,Compensation,19A,2021-12-19,2022-02-16,7848750,1014,7740,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T4435/2022,Ballito,BALLITOVILLE,529,0,,,Ballito,Townsend,65,2021-11-07,2022-02-15,4300000,1044,4118,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST3998/2022,Ballito,BALLITOVILLE,1423,0,SS RIDGEVIEW,16,Ballito,Celtis,1,2021-11-09,2022-02-10,1950000,118,16525,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST3656/2022,Ballito,BALLITOVILLE EXT 3,1416,0,SS GRACELAND,3,Ballito,Avondale,1,2021-11-23,2022-02-08,2300000,174,13218,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T3240/2022,Ballito,BALLITOVILLE,472,0,,,Ballito,Patricia,51,2021-12-06,2022-02-04,4000000,1012,3952,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST2432/2022,Ballito,BALLITOVILLE,1423,0,SS RIDGEVIEW,13,Ballito,Celtis,1,2021-07-29,2022-01-28,1850000,118,15677,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T2079/2022,Ballito,BALLITOVILLE EXT 3,1318,0,,,Ballito,Ellis,7,2021-10-17,2022-01-27,2500000,903,2768,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T1940/2022,Ballito,BALLITOVILLE,520,0,,,Ballito,Allen,4,2021-11-12,2022-01-26,3750000,1013,3701,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T1473/2022,Ballito,BALLITOVILLE,2662,0,,,Ballito,Woodview,1,2021-09-22,2022-01-21,1950000,437,4462,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T1297/2022,Ballito,BALLITOVILLE,428,0,,,Ballito,Patricia,11,2021-04-30,2022-01-20,2500000,1012,2470,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T42262/2021,Ballito,BALLITOVILLE,103,0,,,Ballito,Compensation,1B,2021-11-05,2021-12-15,3900000,1043,3739,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T42052/2021,Ballito,BALLITOVILLE,488,0,,,Ballito,Elizabeth,14,2021-09-30,2021-12-14,2850000,1014,2810,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST41909/2021,Ballito,FU,931,399,SS LA MER,3,Ballito,Compensation Beach,58,2021-08-04,2021-12-13,1930000,110,17545,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T41380/2021,Ballito,BALLITOVILLE,31,0,,,Ballito,Compensation,30,2021-09-24,2021-12-10,5950000,1185,5021,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST41424/2021,Ballito,FU,931,401,SS LA 'TOINETTE,6,Ballito,Compensation Beach,10,2021-10-05,2021-12-10,2365000,121,19545,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T40417/2021,Ballito,BALLITOVILLE,604,0,,,Ballito,Townsend,33,2021-08-04,2021-12-06,2600000,1025,2536,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST40500/2021,Ballito,BALLITOVILLE EXT 3,1415,0,SS ELLIS PLACE MEWS,1,Ballito,Ellis,23,2021-11-02,2021-12-06,2400000,179,13407,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T39558/2021,Ballito,BALLITOVILLE EXT 3,1350,0,,,Ballito,Avondale,7,2021-10-14,2021-11-30,3500000,1018,3438,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T39613/2021,Ballito,BALLITOVILLE,2807,0,,,Ballito,Terrabellum,15,2021-09-01,2021-11-30,1925000,505,3811,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T39160/2021,Ballito,BALLITOVILLE,549,0,,,Ballito,Townsend,40,2020-12-07,2021-11-25,1600000,1012,1581,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T39175/2021,Ballito,BALLITOVILLE,1095,1,,,Ballito,Ashley,36,2021-09-01,2021-11-25,4000000,924,4329,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T38785/2021,Ballito,BALLITOVILLE,27,0,,,Ballito,Compensation,41,2021-10-11,2021-11-23,13700000,1012,13537,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T37296/2021,Ballito,BALLITOVILLE,495,0,,,Ballito,Ashley,11,2021-08-18,2021-11-09,7475000,1012,7386,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T36949/2021,Ballito,BALLITOVILLE,2797,0,,,Ballito,Terrabellum,4,2021-05-06,2021-11-05,2200000,419,5250,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+ST36466/2021,Ballito,COMPENSATION BEACH,40,0,SS SIMBALINA,3,Ballito,Compensation Beach,46,2021-09-07,2021-11-02,3060000,202,15148,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST35853/2021,Ballito,FU,931,501,SS DRIFTWOOD,4,Ballito,Compensation Beach,56B,2021-08-20,2021-10-27,3700000,175,21142,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T35466/2021,Ballito,BALLITOVILLE,435,0,,,Ballito,Ashley,6,2021-08-09,2021-10-26,4500000,1012,4446,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+ST35552/2021,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,270,Ballito,Avondale,1431,2021-08-05,2021-10-26,4500000,212,21226,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST35391/2021,Ballito,BALLITOVILLE EXT 3,1415,0,SS ELLIS PLACE MEWS,3,Ballito,Ellis,23,2021-05-17,2021-10-25,2250000,179,12569,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T34971/2021,Ballito,BALLITOVILLE,587,0,,,Ballito,Townsend,1,2021-05-17,2021-10-21,2800000,1145,2445,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST34716/2021,Ballito,FU,931,399,SS LA MER,4,Ballito,Compensation Beach,58,2021-06-11,2021-10-19,2210000,110,20090,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T34354/2021,Ballito,BALLITOVILLE,505,0,,,Ballito,Elizabeth,36,2021-07-26,2021-10-18,2660000,1012,2628,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T33655/2021,Ballito,BALLITOVILLE EXT 3,1438,0,,,Ballito,Tarrick,15,2021-05-25,2021-10-12,1850000,1373,1347,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T31863/2021,Ballito,BALLITOVILLE,368,0,,,Ballito,Minerva,13,2021-07-30,2021-09-27,3650000,1022,3571,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T31494/2021,Ballito,BALLITOVILLE,506,0,,,Ballito,Elizabeth,34,2021-07-12,2021-09-23,3200000,1012,3162,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T29728/2021,Ballito,BALLITOVILLE,2655,0,,,Ballito,Avonhills,23,2021-07-31,2021-09-13,3000000,517,5802,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T29751/2021,Ballito,BALLITOVILLE,504,0,,,Ballito,Elizabeth,38,2021-02-26,2021-09-13,2200000,1033,2129,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T29559/2021,Ballito,BALLITOVILLE,567,0,,,Ballito,Ballito,9,2021-06-22,2021-09-10,3500000,2153,1625,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST29126/2021,Ballito,BALLITOVILLE,111,0,SS BALLITO VIEW,10,Ballito,Compensation,13,2021-05-25,2021-09-08,1725000,142,12147,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T28420/2021,Ballito,BALLITOVILLE,372,0,,,Ballito,Minerva,21,2021-04-18,2021-09-03,4200000,1022,4109,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T27549/2021,Ballito,BALLITOVILLE,367,0,,,Ballito,Minerva,11,2021-07-02,2021-08-31,2100000,1022,2054,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST27623/2021,Ballito,BALLITOVILLE EXT 3,1417,0,SS CAIRNGORM,4,Ballito,Avondale,3,2021-05-17,2021-08-31,3000000,447,6711,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T27084/2021,Ballito,BALLITOVILLE,468,0,,,Ballito,Ashley,20A,2021-03-26,2021-08-30,5350000,1012,5286,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST27355/2021,Ballito,FU,931,399,SS LA MER,14,Ballito,Compensation Beach,58,2021-03-26,2021-08-30,1250000,47,26595,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST27401/2021,Ballito,COMPENSATION BEACH,2,1,SS DOLPHIN BAY-BALLITO,12,Ballito,Compensation Beach,52B,2021-05-24,2021-08-30,4225000,10,422500,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST27401/2021,Ballito,COMPENSATION BEACH,2,1,SS DOLPHIN BAY-BALLITO,6,Ballito,Compensation Beach,52B,2021-05-24,2021-08-30,4225000,174,24281,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST26703/2021,Ballito,COMPENSATION BEACH,39,0,SS SANDPIPER BAY,26,Ballito,Compensation Beach,48,2020-12-31,2021-08-26,2200000,119,18487,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T25496/2021,Ballito,BALLITOVILLE,361,0,,,Ballito,Hawkins,1,2021-05-11,2021-08-23,3250000,1192,2726,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T25311/2021,Ballito,BALLITOVILLE,475,0,,,Ballito,Ashley,54,2021-05-29,2021-08-20,4000000,1012,3952,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T24010/2021,Ballito,BALLITOVILLE,76,0,,,Ballito,Sandra,9,2021-05-04,2021-08-11,3550000,1091,3253,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T23513/2021,Ballito,BALLITOVILLE,49,0,,,Ballito,David,40,,2021-07-31,0,1022,0,False,natural_person,natural_person,4,freehold,False,lightstone_export
+ST23349/2021,Ballito,BALLITOVILLE EXT 3,1415,0,SS ELLIS PLACE MEWS,13,Ballito,Ellis,23,2021-04-30,2021-07-29,2600000,149,17449,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T22176/2021,Ballito,BALLITOVILLE,510,0,,,Ballito,Elizabeth,26,2021-05-21,2021-07-26,2875000,1012,2840,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T21973/2021,Ballito,BALLITOVILLE,420,0,,,Ballito,Patricia,4,2021-05-18,2021-07-23,4300000,1029,4178,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST21606/2021,Ballito,COMPENSATION BEACH,39,0,SS SANDPIPER BAY,12,Ballito,Compensation Beach,48,2021-05-07,2021-07-21,2500000,118,21186,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T20695/2021,Ballito,BALLITOVILLE,61,0,,,Ballito,Minerva,24,2021-04-30,2021-07-08,4300000,1017,4228,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST20818/2021,Ballito,BALLITOVILLE,111,0,SS BALLITO VIEW,3,Ballito,Compensation,13,2021-04-13,2021-07-08,2750000,181,15193,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST20818/2021,Ballito,BALLITOVILLE,111,0,SS BALLITO VIEW,11,Ballito,Compensation,13,2021-04-13,2021-07-08,2750000,20,137500,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T19259/2021,Ballito,BALLITOVILLE,585,0,,,Ballito,Townsend,6C,2021-02-22,2021-06-24,4400000,1864,2360,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T19242/2021,Ballito,BALLITOVILLE,117,0,,,Ballito,Sandra,10,2021-03-15,2021-06-24,1800000,1043,1725,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T18663/2021,Ballito,BALLITOVILLE,417,0,,,Ballito,,,2021-03-15,2021-06-18,2800000,1022,2739,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST17395/2021,Ballito,COMPENSATION BEACH,39,0,SS SANDPIPER BAY,20,Ballito,Compensation Beach,48,2021-01-07,2021-06-10,2800000,118,23728,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST15195/2021,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,180,Ballito,Avondale,1431,2020-11-13,2021-05-28,2450000,211,11611,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST15194/2021,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,140,Ballito,Avondale,1431,2020-11-13,2021-05-28,2437500,210,11607,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T14184/2021,Ballito,BALLITOVILLE,45,0,,,Ballito,David,48,2020-10-26,2021-05-24,3000000,1022,2935,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T13431/2021,Ballito,BALLITOVILLE,2699,0,,,Ballito,Tucano,12,2021-03-10,2021-05-19,2600000,464,5603,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T12187/2021,Ballito,BALLITOVILLE,2661,0,,,Ballito,Avonhills,29,2021-02-19,2021-05-10,2770000,517,5357,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T11879/2021,Ballito,BALLITOVILLE,477,0,,,Ballito,Ashley,50,2020-10-21,2021-05-05,2500000,1012,2470,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T11665/2021,Ballito,BALLITOVILLE,2660,0,,,Ballito,Avonhills,28,2021-02-05,2021-04-30,2610000,526,4961,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T10863/2021,Ballito,BALLITOVILLE EXT 3,1351,0,,,Ballito,Avondale,5,2021-02-12,2021-04-19,3500000,939,3727,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST10410/2021,Ballito,BALLITOVILLE EXT 3,1417,0,SS CAIRNGORM,3,Ballito,Avondale,3,2021-02-19,2021-04-13,3250000,409,7946,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T9930/2021,Ballito,BALLITOVILLE,605,0,,,Ballito,Townsend,35,2020-10-21,2021-04-07,2990000,1025,2917,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T9526/2021,Ballito,BALLITOVILLE,2671,0,,,Ballito,Woodview,10,2021-01-25,2021-03-31,1800000,397,4534,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T9289/2021,Ballito,BALLITOVILLE,63,0,,,Ballito,Minerva,22A,2020-11-24,2021-03-30,1700000,1049,1620,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T5630/2021,Ballito,BALLITOVILLE,513,0,,,Ballito,Elizabeth,20,2020-12-16,2021-03-08,3750000,1012,3705,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T5659/2021,Ballito,BALLITOVILLE,1991,0,,,Ballito,Forestview,14,2020-10-13,2021-03-08,1930000,377,5119,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T5104/2021,Ballito,BALLITOVILLE,2683,0,,,Ballito,Woodview,22,2020-11-12,2021-03-04,2150000,427,5035,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T4581/2021,Ballito,BALLITOVILLE,31,0,,,Ballito,Compensation,30,2020-08-19,2021-02-26,5125000,1185,4324,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+ST4204/2021,Ballito,FU,931,501,SS DRIFTWOOD,12,Ballito,Compensation Beach,56B,2020-12-18,2021-02-24,3250000,176,18465,False,legal_entity,legal_entity,2,sectional_title,True,lightstone_export
+ST3779/2021,Ballito,BALLITOVILLE EXT 3,1415,0,SS ELLIS PLACE MEWS,4,Ballito,Ellis,23,2020-10-12,2021-02-22,2100000,179,11731,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T3295/2021,Ballito,BALLITOVILLE EXT 3,1329,0,,,Ballito,Ellis,16,2021-01-13,2021-02-17,5316250,1194,4452,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T3132/2021,Ballito,BALLITOVILLE,519,0,,,Ballito,Allen,6,2020-11-26,2021-02-16,2450000,1013,2418,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T3089/2021,Ballito,BALLITOVILLE,39,0,,,Ballito,Compensation,44,2020-11-14,2021-02-16,3450000,1080,3194,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T2328/2021,Ballito,BALLITOVILLE,511,0,,,Ballito,Elizabeth,24,2020-11-05,2021-02-09,3450000,1012,3409,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T2116/2021,Ballito,BALLITOVILLE EXT 3,1414,0,,,Ballito,Ellis,21,2020-12-01,2021-02-05,4800000,1345,3568,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T10/2021,Ballito,BALLITOVILLE,509,0,,,Ballito,Elizabeth,28,2020-10-05,2021-01-05,2075000,1012,2050,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T42919/2020,Ballito,BALLITOVILLE,497,0,,,Ballito,Ashley,13B,2020-07-19,2020-12-22,3100000,1012,3063,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST42977/2020,Ballito,FU,931,399,SS LA MER,8,Ballito,Compensation Beach,58,2020-09-08,2020-12-22,2600000,127,20472,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST41705/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,210,Ballito,Avondale,1431,2020-09-09,2020-12-15,2800000,211,13270,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST40591/2020,Ballito,FU,931,479,SS BALLITO ROCKS,4,Ballito,Compensation Beach,56A,2020-09-03,2020-12-03,2800000,145,19310,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T39972/2020,Ballito,BALLITOVILLE,571,0,,,Ballito,Elizabeth,1D,2020-06-15,2020-11-30,2250000,1268,1774,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T39692/2020,Ballito,BALLITOVILLE,2706,0,,,Ballito,Tucano,19,2020-10-05,2020-11-27,2100000,552,3804,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T39441/2020,Ballito,BALLITOVILLE,16,0,,,Ballito,Compensation,21,2020-09-03,2020-11-26,11500000,1013,11352,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T38909/2020,Ballito,BALLITOVILLE,2709,0,,,Ballito,Tucano,22,2020-08-26,2020-11-23,2100000,364,5769,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T38866/2020,Ballito,BALLITOVILLE EXT 3,1319,0,,,Ballito,,,2020-09-08,2020-11-23,950000,902,1053,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST38725/2020,Ballito,FU,931,501,SS DRIFTWOOD,7,Ballito,Compensation Beach,56B,2020-09-22,2020-11-20,3350000,183,18306,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T38193/2020,Ballito,BALLITOVILLE,2668,0,,,Ballito,Woodview,7,2020-08-19,2020-11-19,2100000,454,4625,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST37717/2020,Ballito,FU,931,399,SS LA MER,2,Ballito,Compensation Beach,58,2020-09-30,2020-11-16,1680000,110,15272,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T37371/2020,Ballito,BALLITOVILLE,65,0,,,Ballito,Minerva,18,2020-07-27,2020-11-13,2950000,1017,2900,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T36834/2020,Ballito,BALLITOVILLE,451,0,,,Ballito,Patricia,41,2020-05-20,2020-11-10,3600000,1012,3557,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T35763/2020,Ballito,BALLITOVILLE,467,0,,,Ballito,Ashley,20B,2020-08-17,2020-11-03,3650000,1019,3581,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+ST35515/2020,Ballito,BALLITOVILLE,1423,0,SS RIDGEVIEW,9,Ballito,Celtis,1,2020-08-21,2020-10-30,1850000,119,15546,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T34626/2020,Ballito,BALLITOVILLE,466,0,,,Ballito,Ashley,22A,2020-07-22,2020-10-26,5350000,1014,5276,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T32577/2020,Ballito,BALLITOVILLE,521,0,,,Ballito,Townsend,66,2020-07-10,2020-10-09,2860000,1017,2812,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST31617/2020,Ballito,BALLITOVILLE,1423,0,SS RIDGEVIEW,8,Ballito,Celtis,1,2020-07-28,2020-10-01,1995000,118,16906,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T30108/2020,Ballito,BALLITOVILLE,2635,0,,,Ballito,Avonhills,3,2020-07-19,2020-09-22,2090000,496,4213,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T30071/2020,Ballito,BALLITOVILLE,597,0,,,Ballito,Townsend,19,2020-07-17,2020-09-21,2500000,1022,2446,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T29413/2020,Ballito,BALLITOVILLE,2690,0,,,Ballito,Tucano,2,2020-07-19,2020-09-17,2050000,517,3965,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T28874/2020,Ballito,BALLITOVILLE,41,0,,,Ballito,David,56,2020-06-23,2020-09-15,3400000,1022,3326,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T27995/2020,Ballito,BALLITOVILLE EXT 3,1339,0,,,Ballito,Ellis,19,2020-03-01,2020-09-09,3500000,990,3535,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST26986/2020,Ballito,FU,931,399,SS LA MER,13,Ballito,Compensation Beach,58,2020-06-20,2020-09-01,1720000,100,17200,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T26531/2020,Ballito,BALLITOVILLE,499,0,,,Ballito,Ashley,17A,2020-07-01,2020-08-28,2100000,1012,2075,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST25643/2020,Ballito,BALLITOVILLE,1423,0,SS RIDGEVIEW,6,Ballito,Celtis,1,2020-06-08,2020-08-21,1750000,118,14830,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST25409/2020,Ballito,COMPENSATION BEACH,39,0,SS SANDPIPER BAY,17,Ballito,Compensation Beach,48,2019-09-17,2020-08-19,1500000,119,12605,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T24914/2020,Ballito,BALLITOVILLE,376,0,,,Ballito,Minerva,29,2020-05-02,2020-08-17,2890000,1088,2656,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST22885/2020,Ballito,COMPENSATION BEACH,39,0,SS SANDPIPER BAY,2,Ballito,Compensation Beach,48,2020-01-15,2020-07-31,2300000,148,15540,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T22650/2020,Ballito,BALLITOVILLE,1094,0,,,Ballito,Ashley,1,2020-05-12,2020-07-30,3250000,2214,1467,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST22610/2020,Ballito,COMPENSATION BEACH,39,0,SS SANDPIPER BAY,18,Ballito,Compensation Beach,48,2020-03-20,2020-07-29,2700000,119,22689,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T21627/2020,Ballito,BALLITOVILLE,2671,0,,,Ballito,Woodview,10,,2020-07-14,0,397,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T19757/2020,Ballito,BALLITOVILLE,1978,0,,,Ballito,Forestview,1,2020-02-06,2020-06-17,1900000,828,2294,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T9261/2020,Ballito,BALLITOVILLE,8,0,,,Ballito,Edward,2C,2020-01-13,2020-03-25,3900000,1013,3849,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST7881/2020,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,32,Ballito,Sandra,25,2020-01-15,2020-03-19,280000,44,6363,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST6388/2020,Ballito,FU,931,501,SS DRIFTWOOD,6,Ballito,Compensation Beach,56B,2020-02-11,2020-03-09,3200000,175,18285,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T5961/2020,Ballito,BALLITOVILLE,2675,0,,,Ballito,Woodview,14,2019-12-21,2020-03-05,2100000,393,5343,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST5513/2020,Ballito,COMPENSATION BEACH,39,0,SS SANDPIPER BAY,14,Ballito,Compensation Beach,48,2020-01-21,2020-02-28,2400000,121,19834,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST3626/2020,Ballito,COMPENSATION BEACH,40,0,SS SIMBALINA,6,Ballito,Compensation Beach,46,2019-10-16,2020-02-13,2904000,202,14376,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T2978/2020,Ballito,BALLITOVILLE,73,0,,,Ballito,Sandra,3,2019-11-11,2020-02-06,2300000,1013,2270,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T2335/2020,Ballito,BALLITOVILLE,384,0,,,Ballito,David,45,2019-12-12,2020-01-31,3600000,1022,3522,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST2179/2020,Ballito,FU,931,501,SS DRIFTWOOD,4,Ballito,Compensation Beach,56B,2019-09-13,2020-01-31,2920000,175,16685,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T2090/2020,Ballito,BALLITOVILLE EXT 3,1310,0,,,Ballito,Avondale,33,2019-11-16,2020-01-30,3900000,916,4257,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST2038/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,10,Ballito,Avondale,1431,,2020-01-29,0,263,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2067/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,10,Ballito,Avondale,1431,2018-08-23,2020-01-29,4000000,263,15209,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST2047/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,100,Ballito,Avondale,1431,,2020-01-29,0,260,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2070/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,100,Ballito,Avondale,1431,2019-08-30,2020-01-29,5500000,260,21153,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST2048/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,120,Ballito,Avondale,1431,,2020-01-29,0,211,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2049/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,130,Ballito,Avondale,1431,,2020-01-29,0,211,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2050/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,140,Ballito,Avondale,1431,,2020-01-29,0,210,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2051/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,150,Ballito,Avondale,1431,,2020-01-29,0,211,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2039/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,20,Ballito,Avondale,1431,,2020-01-29,0,254,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2068/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,20,Ballito,Avondale,1431,2019-08-10,2020-01-29,4450000,254,17519,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST2040/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,30,Ballito,Avondale,1431,,2020-01-29,0,212,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2041/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,40,Ballito,Avondale,1431,,2020-01-29,0,212,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2069/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,40,Ballito,Avondale,1431,2018-08-06,2020-01-29,3956000,212,18660,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST2042/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,50,Ballito,Avondale,1431,,2020-01-29,0,212,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2043/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,60,Ballito,Avondale,1431,,2020-01-29,0,213,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2044/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,70,Ballito,Avondale,1431,,2020-01-29,0,213,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2045/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,80,Ballito,Avondale,1431,,2020-01-29,0,212,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2046/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,90,Ballito,Avondale,1431,,2020-01-29,0,253,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2052/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,170,Ballito,Avondale,1431,,2020-01-29,0,211,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2053/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,190,Ballito,Avondale,1431,,2020-01-29,0,212,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2054/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,200,Ballito,Avondale,1431,,2020-01-29,0,212,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2055/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,210,Ballito,Avondale,1431,,2020-01-29,0,211,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2056/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,220,Ballito,Avondale,1431,,2020-01-29,0,214,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2057/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,230,Ballito,Avondale,1431,,2020-01-29,0,213,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2058/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,240,Ballito,Avondale,1431,,2020-01-29,0,213,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2059/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,270,Ballito,Avondale,1431,,2020-01-29,0,212,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2060/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,280,Ballito,Avondale,1431,,2020-01-29,0,222,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2061/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,290,Ballito,Avondale,1431,,2020-01-29,0,221,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2062/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,300,Ballito,Avondale,1431,,2020-01-29,0,227,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2063/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,310,Ballito,Avondale,1431,,2020-01-29,0,227,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2064/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,320,Ballito,Avondale,1431,,2020-01-29,0,228,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2065/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,330,Ballito,Avondale,1431,,2020-01-29,0,220,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2066/2020,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,340,Ballito,Avondale,1431,,2020-01-29,0,290,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST39853/2019,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,7,Ballito,Sandra,25,2019-11-14,2019-12-18,420000,61,6885,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST39846/2019,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,6,Ballito,Sandra,25,2019-11-14,2019-12-18,950000,139,6834,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST39852/2019,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,10,Ballito,Sandra,25,2019-11-14,2019-12-18,2860000,54,52962,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST39852/2019,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,11,Ballito,Sandra,25,2019-11-14,2019-12-18,2860000,98,29183,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST39852/2019,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,35,Ballito,Sandra,25,2019-11-14,2019-12-18,2860000,506,5652,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST39532/2019,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,30,Ballito,Sandra,25,2019-11-14,2019-12-18,1130000,170,6647,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST39534/2019,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,33,Ballito,Sandra,25,2019-11-14,2019-12-18,780000,110,7090,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST39300/2019,Ballito,COMPENSATION BEACH,39,0,SS SANDPIPER BAY,14,Ballito,Compensation Beach,48,,2019-12-13,0,121,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+T37010/2019,Ballito,BALLITOVILLE,13,0,,,Ballito,Compensation,17B,2019-03-13,2019-11-29,14300000,1069,13376,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T36412/2019,Ballito,BALLITOVILLE,2654,0,,,Ballito,Avonhills,22,2019-06-27,2019-11-25,2700000,541,4990,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST36167/2019,Ballito,FU,931,501,SS DRIFTWOOD,8,Ballito,Compensation Beach,56B,2019-09-05,2019-11-22,3040000,184,16521,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST34388/2019,Ballito,BALLITOVILLE EXT 3,1416,0,SS GRACELAND,2,Ballito,Avondale,1,2019-07-01,2019-11-06,2350000,174,13505,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T33830/2019,Ballito,BALLITOVILLE,463,0,,,Ballito,Ashley,26,2019-07-29,2019-11-01,4500000,1012,4446,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST33744/2019,Ballito,FU,931,501,SS DRIFTWOOD,10,Ballito,Compensation Beach,56B,2019-08-01,2019-10-31,2995000,183,16366,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST31473/2019,Ballito,BALLITOVILLE EXT 3,1415,0,SS ELLIS PLACE MEWS,12,Ballito,Ellis,23,2019-07-24,2019-10-11,1800000,149,12080,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T31173/2019,Ballito,BALLITOVILLE,81,0,,,Ballito,Sandra,19,2019-08-06,2019-10-10,3800000,1055,3601,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T31040/2019,Ballito,BALLITOVILLE EXT 3,1246,0,,,Ballito,Avondale,1246,2019-06-21,2019-10-09,855000,995,859,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST31058/2019,Ballito,FU,931,501,SS DRIFTWOOD,13,Ballito,Compensation Beach,56B,2019-07-27,2019-10-09,3500000,176,19886,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T28921/2019,Ballito,BALLITOVILLE,576,0,,,Ballito,Elizabeth,11,2019-08-02,2019-09-26,2400000,1012,2371,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T28428/2019,Ballito,BALLITOVILLE,77,0,,,Ballito,Sandra,11,2019-07-11,2019-09-20,2050000,1073,1910,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T27270/2019,Ballito,BALLITOVILLE,2665,0,,,Ballito,Woodview,4,2019-05-31,2019-09-12,2300000,658,3495,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T27039/2019,Ballito,BALLITOVILLE,106,0,,,Ballito,Compensation,5,2019-06-26,2019-09-10,2800250,1043,2684,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T25990/2019,Ballito,BALLITOVILLE,2648,0,,,Ballito,Avonhills,16,2019-07-06,2019-08-30,2450000,419,5847,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T25491/2019,Ballito,BALLITOVILLE,18,0,,,Ballito,Compensation,25,2019-07-04,2019-08-28,4100000,1013,4047,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T24341/2019,Ballito,BALLITOVILLE,418,0,,,Ballito,,,2019-07-04,2019-08-19,1900000,1022,1859,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+ST24244/2019,Ballito,BALLITOVILLE,1423,0,SS RIDGEVIEW,12,Ballito,Celtis,1,2019-05-03,2019-08-16,1750000,119,14705,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST24067/2019,Ballito,BALLITOVILLE EXT 3,1417,0,SS CAIRNGORM,3,Ballito,Avondale,3,2019-07-11,2019-08-15,2000000,409,4889,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T23323/2019,Ballito,BALLITOVILLE EXT 3,1222,0,,,Ballito,Tarrick,16,2019-05-07,2019-08-07,2700000,916,2947,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T22485/2019,Ballito,BALLITOVILLE,539,0,,,Ballito,Elizabeth,23,2019-06-16,2019-07-31,4100000,1012,4051,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T21449/2019,Ballito,BALLITOVILLE,50,0,,,Ballito,Minerva,38,2019-05-26,2019-07-24,3700000,1092,3388,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T21116/2019,Ballito,BALLITOVILLE,425,0,,,Ballito,Patricia,5,2019-03-28,2019-07-22,3450000,1012,3409,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T20868/2019,Ballito,BALLITOVILLE,37,0,,,Ballito,Compensation,40,,2019-07-18,0,1066,0,False,legal_entity,natural_person,1,freehold,False,lightstone_export
+T20869/2019,Ballito,BALLITOVILLE,31,0,,,Ballito,Compensation,30,,2019-07-17,0,1185,0,False,legal_entity,natural_person,1,freehold,False,lightstone_export
+T20463/2019,Ballito,BALLITOVILLE,460,0,,,Ballito,Ashley,32,2018-11-11,2019-07-15,3550000,1015,3497,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST19841/2019,Ballito,BALLITOVILLE EXT 3,1415,0,SS ELLIS PLACE MEWS,6,Ballito,Ellis,23,2019-05-07,2019-07-10,1825000,179,10195,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T18920/2019,Ballito,BALLITOVILLE,76,0,,,Ballito,Sandra,9,2019-04-17,2019-07-03,2900000,1091,2658,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T18443/2019,Ballito,BALLITOVILLE,536,0,,,Ballito,Elizabeth,17,2019-04-18,2019-06-28,2800000,1012,2766,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T17608/2019,Ballito,BALLITOVILLE,2677,0,,,Ballito,Woodview,16,2018-06-28,2019-06-25,1850000,481,3846,False,natural_person,,2,freehold,True,lightstone_export
+T14657/2019,Ballito,BALLITOVILLE,2674,0,,,Ballito,Woodview,13,2019-04-05,2019-05-28,1900000,408,4656,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T14307/2019,Ballito,BALLITOVILLE,2652,0,,,Ballito,Avonhills,20,2019-03-13,2019-05-24,2550000,512,4980,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T13345/2019,Ballito,BALLITOVILLE,2004,0,,,Ballito,Forestview,27,2019-01-22,2019-05-16,2050000,564,3634,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T11723/2019,Ballito,BALLITOVILLE EXT 3,1345,0,,,Ballito,Avondale,17,2018-12-20,2019-04-29,2525000,903,2796,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T11535/2019,Ballito,BALLITOVILLE,436,0,,,Ballito,Ashley,4,2019-02-04,2019-04-26,1900000,1013,1875,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST10787/2019,Ballito,BALLITOVILLE EXT 3,1416,0,SS GRACELAND,7,Ballito,Avondale,1,2019-02-11,2019-04-16,1926000,179,10759,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T10120/2019,Ballito,BALLITOVILLE,46,0,,,Ballito,David,46,2019-01-12,2019-04-11,5300000,1022,5185,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T9750/2019,Ballito,BALLITOVILLE EXT 3,1311,0,,,Ballito,Avondale,31,,2019-04-09,0,1229,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T6566/2019,Ballito,BALLITOVILLE,2008,0,,,Ballito,Forestview,31,,2019-03-13,0,508,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T5768/2019,Ballito,BALLITOVILLE EXT 3,1414,0,,,Ballito,Ellis,21,2018-07-30,2019-03-06,3000000,1345,2230,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T3866/2019,Ballito,BALLITOVILLE,599,0,,,Ballito,Townsend,23,2018-10-24,2019-02-19,2650000,1025,2585,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T2592/2019,Ballito,BALLITOVILLE,32,0,,,Ballito,Compensation,32A,2018-09-25,2019-02-07,6670000,1368,4875,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T2135/2019,Ballito,BALLITOVILLE,443,0,,,Ballito,Patricia,25,2018-11-08,2019-02-01,3550000,1012,3507,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST1646/2019,Ballito,COMPENSATION BEACH,40,0,SS SIMBALINA,5,Ballito,Compensation Beach,46,2018-10-29,2019-01-29,2450000,121,20247,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST1646/2019,Ballito,COMPENSATION BEACH,40,0,SS SIMBALINA,17,Ballito,Compensation Beach,46,2018-10-29,2019-01-29,2450000,25,98000,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T1019/2019,Ballito,BALLITOVILLE,70,0,,,Ballito,Hawkins,10,2018-11-08,2019-01-23,2200000,1021,2154,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T906/2019,Ballito,BALLITOVILLE EXT 3,1310,0,,,Ballito,Avondale,33,2018-01-17,2019-01-22,2250000,916,2456,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T42388/2018,Ballito,BALLITOVILLE,611,0,,,Ballito,Le Roux,4,2018-11-01,2018-12-20,5080000,935,5433,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T41922/2018,Ballito,BALLITOVILLE EXT 3,1443,0,,,Ballito,Avondale,8,2018-07-19,2018-12-19,890000,1205,738,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T41344/2018,Ballito,BALLITOVILLE,422,0,,,Ballito,Patricia,1A,2018-11-01,2018-12-14,3350000,1017,3294,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST40367/2018,Ballito,COMPENSATION BEACH,39,0,SS SANDPIPER BAY,23,Ballito,Compensation Beach,48,2018-08-20,2018-12-10,2550000,119,21428,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST40100/2018,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,180,Ballito,Avondale,1431,,2018-12-08,0,211,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+T40132/2018,Ballito,BALLITOVILLE EXT 3,1340,0,,,Ballito,Ellis,17,2018-08-28,2018-12-07,4600000,906,5077,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST40098/2018,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,110,Ballito,Avondale,1431,,2018-12-06,0,212,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST40103/2018,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,110,Ballito,Avondale,1431,2016-06-27,2018-12-06,2805000,212,13231,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST40099/2018,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,160,Ballito,Avondale,1431,,2018-12-06,0,212,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST40104/2018,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,160,Ballito,Avondale,1431,2017-01-17,2018-12-06,3250000,212,15330,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST40101/2018,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,250,Ballito,Avondale,1431,,2018-12-06,0,213,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST40105/2018,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,250,Ballito,Avondale,1431,2016-07-26,2018-12-06,3356520,213,15758,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST40102/2018,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,260,Ballito,Avondale,1431,,2018-12-06,0,212,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST40106/2018,Ballito,BALLITOVILLE EXT 3,1431,0,SS THE DUNES,260,Ballito,Avondale,1431,2016-07-26,2018-12-06,3456520,212,16304,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T39415/2018,Ballito,BALLITOVILLE,2642,0,,,Ballito,Avonhills,10,2018-09-14,2018-12-03,2400000,502,4780,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T38366/2018,Ballito,BALLITOVILLE,7,0,,,Ballito,Edward,2D,2018-09-18,2018-11-28,4000000,1022,3913,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST38269/2018,Ballito,FU,931,399,SS LA MER,14,Ballito,Compensation Beach,58,2018-09-04,2018-11-27,900000,47,19148,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T37805/2018,Ballito,BALLITOVILLE,2683,0,,,Ballito,Woodview,22,,2018-11-26,0,427,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+ST37512/2018,Ballito,COMPENSATION BEACH,1,0,SS DOLPHIN COVE,2,Ballito,Compensation Beach,54B,2018-09-04,2018-11-22,5550000,245,22653,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST37512/2018,Ballito,COMPENSATION BEACH,1,0,SS DOLPHIN COVE,11,Ballito,Compensation Beach,54B,2018-09-04,2018-11-22,5550000,10,555000,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T36682/2018,Ballito,BALLITOVILLE,515,0,,,Ballito,Elizabeth,16,2018-09-06,2018-11-16,3400000,1197,2840,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T36747/2018,Ballito,BALLITOVILLE,2692,0,,,Ballito,Tucano,4,2018-09-22,2018-11-16,2200000,440,5000,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T34838/2018,Ballito,BALLITOVILLE EXT 3,1444,0,,,Ballito,Avondale,6,2018-06-15,2018-11-06,890000,1082,822,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T32886/2018,Ballito,BALLITOVILLE,117,0,,,Ballito,Sandra,10,2018-07-31,2018-10-24,1800000,1043,1725,False,natural_person,natural_person,3,freehold,True,lightstone_export
+ST32312/2018,Ballito,FU,931,501,SS DRIFTWOOD,13,Ballito,Compensation Beach,56B,2018-07-23,2018-10-19,3400000,176,19318,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST32136/2018,Ballito,COMPENSATION BEACH,39,0,SS SANDPIPER BAY,6,Ballito,Compensation Beach,48,2018-06-22,2018-10-18,2650000,119,22268,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T31641/2018,Ballito,BALLITOVILLE,120,0,,,Ballito,Sandra,4,2018-07-23,2018-10-16,2100000,1043,2013,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T31191/2018,Ballito,BALLITOVILLE,457,0,,,Ballito,Ashley,38,2018-08-22,2018-10-15,5600000,1012,5533,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T30701/2018,Ballito,BALLITOVILLE,428,0,,,Ballito,Patricia,11,2018-07-11,2018-10-09,2850000,1012,2816,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST30783/2018,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,31,Ballito,Sandra,25,2017-11-24,2018-10-09,2500000,159,15723,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST30783/2018,Ballito,BALLITOVILLE,1919,0,SS BALLITO CENTRE,34,Ballito,Sandra,25,2017-11-24,2018-10-09,2500000,138,18115,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T30586/2018,Ballito,BALLITOVILLE,591,0,,,Ballito,Townsend,7,2018-08-27,2018-10-08,4650000,1348,3449,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T29990/2018,Ballito,BALLITOVILLE,2650,0,,,Ballito,Avonhills,18,2018-05-31,2018-10-02,2000000,426,4694,False,natural_person,legal_entity,1,freehold,True,lightstone_export

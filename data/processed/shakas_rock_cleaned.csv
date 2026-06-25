@@ -1,0 +1,501 @@
+title_deed_no,estate,township,erf,portion,sectional_scheme,unit,suburb,street,street_number,sales_date,registration_date,sales_price,size_m2,price_per_m2,possible_land_only,buyer_type,seller_type,number_of_owners,property_type,is_market_sale,data_source
+ST15370/2026,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,95,Shakas Rock,,,2026-03-25,2026-06-01,3000000,105,28571,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST13889/2026,Shakas Rock,SHAKAS ROCK,235,0,SS PEBBLE BEACH,31,Shakas Rock,General Lighting,1,2026-02-08,2026-05-19,4792000,178,26921,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST12549/2026,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,54,Shakas Rock,Ocean,68,2026-03-16,2026-05-07,1250000,39,32051,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST11898/2026,Shakas Rock,FU,931,655,SS ATRIUM,5,Shakas Rock,,,2026-02-24,2026-04-30,2780000,164,16951,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST11898/2026,Shakas Rock,FU,931,655,SS ATRIUM,91,Shakas Rock,,,2026-02-24,2026-04-30,2780000,18,154444,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST11869/2026,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,5,Shakas Rock,,,2026-02-02,2026-04-29,7300000,273,26739,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST11025/2026,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,36,Shakas Rock,,,,2026-04-21,0,90,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST10876/2026,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,38,Shakas Rock,Ocean,68,2026-03-07,2026-04-20,1450000,74,19594,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST8334/2026,Shakas Rock,SHAKAS ROCK,122,0,SS EDEN PALMS,8,Shakas Rock,Main,2,2025-11-30,2026-03-30,2700000,97,27835,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST7892/2026,Shakas Rock,FU,931,629,SS PENTIRE POINT,2,Shakas Rock,,,,2026-03-25,0,216,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST7101/2026,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,50,Shakas Rock,Ocean,68,2026-02-23,2026-03-21,1850000,73,25342,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST6946/2026,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,25,Shakas Rock,,,2026-02-05,2026-03-18,3350000,76,44078,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T6436/2026,Shakas Rock,SHAKAS ROCK,104,0,,,Shakas Rock,Hill,3,2025-09-22,2026-03-16,9800000,1119,8757,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST6347/2026,Shakas Rock,SHAKAS ROCK,80,8,SS ARUBA,6,Shakas Rock,Ocean,72,2025-12-12,2026-03-13,2850000,149,19127,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST5652/2026,Shakas Rock,SHAKAS ROCK,100,0,SS CHAKAS HEIGHTS,3,Shakas Rock,Ocean,45,2026-01-22,2026-03-06,2690000,109,24678,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST5648/2026,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,11,Shakas Rock,,,2025-12-09,2026-03-06,5000000,242,20661,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST3805/2026,Shakas Rock,SHAKAS ROCK,118,0,SS ERF 118 SHAKAS ROCK,3,Shakas Rock,Ocean,56,2025-11-22,2026-02-25,4250000,238,17857,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST3240/2026,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,15,Shakas Rock,,,2025-10-22,2026-02-13,17250000,496,34778,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST2403/2026,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,52,Shakas Rock,Ocean,68,2025-11-22,2026-02-05,1440000,38,37894,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST2097/2026,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,59,Shakas Rock,,,2025-11-10,2026-02-02,2200000,61,36065,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST1536/2026,Shakas Rock,SHAKAS ROCK,80,8,SS ARUBA,2,Shakas Rock,Ocean,72,2025-10-03,2026-01-28,2900000,165,17575,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST971/2026,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,8,Shakas Rock,,,2025-09-25,2026-01-21,3300000,91,36263,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST75995/2025,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,11,Shakas Rock,,,2025-10-27,2025-12-22,3200000,77,41558,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST75836/2025,Shakas Rock,SHAKAS ROCK,100,0,SS CHAKAS HEIGHTS,4,Shakas Rock,Ocean,45,2025-10-06,2025-12-19,2950000,109,27064,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST74119/2025,Shakas Rock,FU,931,629,SS PENTIRE POINT,13,Shakas Rock,,,2025-07-14,2025-12-08,2800000,199,14070,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST73094/2025,Shakas Rock,SHAKAS ROCK,100,0,SS CHAKAS HEIGHTS,6,Shakas Rock,Ocean,45,2025-09-01,2025-11-28,3300000,109,30275,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST72729/2025,Shakas Rock,SHAKAS ROCK,100,0,SS CHAKAS HEIGHTS,8,Shakas Rock,Ocean,45,2025-08-29,2025-11-27,5000000,168,29761,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST72227/2025,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,31,Shakas Rock,Ocean,76,2025-10-22,2025-11-24,3250000,131,24809,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST71074/2025,Shakas Rock,SHAKAS ROCK,235,0,SS PEBBLE BEACH,18,Shakas Rock,General Lighting,1,2025-08-11,2025-11-14,4800000,137,35036,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST70995/2025,Shakas Rock,SHAKAS ROCK,235,0,SS PEBBLE BEACH,37,Shakas Rock,General Lighting,1,2025-10-01,2025-11-13,1950000,70,27857,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST70568/2025,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,20,Shakas Rock,,,2025-08-29,2025-11-10,8400000,418,20095,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST69749/2025,Shakas Rock,FU,931,655,SS ATRIUM,68,Shakas Rock,,,2025-09-10,2025-10-31,1800000,76,23684,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST69386/2025,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,102,Shakas Rock,,,2023-11-15,2025-10-30,1200000,50,24000,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST68320/2025,Shakas Rock,FU,931,630,SS OCEANS ON MAIN,2,Shakas Rock,,,2023-05-19,2025-10-21,5250000,173,30346,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST66589/2025,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,25,Shakas Rock,Ocean,76,2025-07-04,2025-10-03,2090000,99,21111,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST66589/2025,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,33,Shakas Rock,Ocean,76,2025-07-04,2025-10-03,2090000,17,122941,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST66564/2025,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,25,Shakas Rock,,,2025-08-04,2025-10-02,3899990,226,17256,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST65961/2025,Shakas Rock,FU,931,655,SS ATRIUM,57,Shakas Rock,,,2025-08-27,2025-09-29,1800000,76,23684,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST65610/2025,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,57,Shakas Rock,,,2025-08-01,2025-09-23,1700000,53,32075,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST65441/2025,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,52,Shakas Rock,Ocean,68,2025-07-22,2025-09-22,1250000,38,32894,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST64650/2025,Shakas Rock,SHAKAS ROCK,80,8,SS ARUBA,1,Shakas Rock,Ocean,72,2025-06-17,2025-09-16,3650000,196,18622,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST64670/2025,Shakas Rock,FU,931,655,SS ATRIUM,16,Shakas Rock,,,2025-08-05,2025-09-16,1700000,76,22368,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST63842/2025,Shakas Rock,FU,931,630,SS OCEANS ON MAIN,1,Shakas Rock,,,2024-12-12,2025-09-09,5250000,171,30701,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST63843/2025,Shakas Rock,FU,931,630,SS OCEANS ON MAIN,9,Shakas Rock,,,2023-04-05,2025-09-09,4395000,145,30310,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST63844/2025,Shakas Rock,FU,931,630,SS OCEANS ON MAIN,12,Shakas Rock,,,2024-10-18,2025-09-09,5250000,178,29494,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST63439/2025,Shakas Rock,FU,931,655,SS ATRIUM,28,Shakas Rock,,,2025-07-10,2025-09-04,1850000,76,24342,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST62871/2025,Shakas Rock,FU,931,655,SS ATRIUM,61,Shakas Rock,,,2025-05-23,2025-08-29,1800000,76,23684,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST62857/2025,Shakas Rock,SHAKAS ROCK,122,0,SS EDEN PALMS,1,Shakas Rock,Main,2,2025-07-05,2025-08-29,3250000,127,25590,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST61615/2025,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,1,Shakas Rock,,,,2025-08-20,0,84,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST61603/2025,Shakas Rock,SHAKAS ROCK,80,8,SS ARUBA,44,Shakas Rock,Ocean,72,2025-06-25,2025-08-20,1000000,98,10204,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T19230/2025,Shakas Rock,SHAKAS ROCK,96,6,,,Shakas Rock,Lindsay,3,2025-06-25,2025-07-29,4550000,1217,3738,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST19140/2025,Shakas Rock,SHAKAS ROCK,193,0,SS CHAKAS PLACE,5,Shakas Rock,Ocean,41,,2025-07-28,0,170,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST18449/2025,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,2,Shakas Rock,,,,2025-07-21,0,273,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST18450/2025,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,3,Shakas Rock,,,,2025-07-21,0,273,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST18451/2025,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,4,Shakas Rock,,,,2025-07-21,0,273,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST18452/2025,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,5,Shakas Rock,,,,2025-07-21,0,273,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST18454/2025,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,5,Shakas Rock,,,2025-02-27,2025-07-21,4757830,273,17427,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST18453/2025,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,35,Shakas Rock,,,,2025-07-21,0,273,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST17684/2025,Shakas Rock,SHAKAS ROCK,235,0,SS PEBBLE BEACH,10,Shakas Rock,General Lighting,1,2025-05-06,2025-07-11,5250000,138,38043,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST16615/2025,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,71,Shakas Rock,,,2025-01-27,2025-06-30,1995000,65,30692,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST15990/2025,Shakas Rock,FU,931,629,SS PENTIRE POINT,12,Shakas Rock,,,2025-05-09,2025-06-24,2400000,172,13953,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST14669/2025,Shakas Rock,FU,931,655,SS ATRIUM,41,Shakas Rock,,,2025-04-29,2025-06-11,2150000,100,21500,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST14390/2025,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,5,Shakas Rock,Ocean,76,,2025-06-09,0,18,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST14390/2025,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,34,Shakas Rock,Ocean,76,,2025-06-09,0,18,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+T14072/2025,Shakas Rock,SHAKAS ROCK,96,4,,,Shakas Rock,Ocean,64,2025-03-10,2025-06-05,6500000,961,6763,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST13219/2025,Shakas Rock,SHAKAS ROCK,235,0,SS PEBBLE BEACH,14,Shakas Rock,General Lighting,1,,2025-05-29,0,138,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST12050/2025,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,32,Shakas Rock,,,2025-03-23,2025-05-19,6050000,284,21302,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST11703/2025,Shakas Rock,FU,931,655,SS ATRIUM,9,Shakas Rock,,,2024-11-21,2025-05-15,1800000,76,23684,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST11413/2025,Shakas Rock,SHAKAS ROCK,235,0,SS PEBBLE BEACH,35,Shakas Rock,General Lighting,1,2024-11-23,2025-05-13,3800000,137,27737,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST9548/2025,Shakas Rock,FU,931,655,SS ATRIUM,60,Shakas Rock,,,2025-01-29,2025-04-23,2300000,164,14024,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST9441/2025,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,14,Shakas Rock,Ocean,76,2025-02-07,2025-04-16,3420000,117,29230,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST9438/2025,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,27,Shakas Rock,,,2025-01-10,2025-04-16,2750000,159,17295,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST9105/2025,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,14,Shakas Rock,,,2025-01-29,2025-04-14,12250000,449,27282,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST6459/2025,Shakas Rock,FU,931,630,SS OCEANS ON MAIN,1,Shakas Rock,,,,2025-03-20,0,171,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST6460/2025,Shakas Rock,FU,931,630,SS OCEANS ON MAIN,2,Shakas Rock,,,,2025-03-20,0,173,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST6461/2025,Shakas Rock,FU,931,630,SS OCEANS ON MAIN,3,Shakas Rock,,,,2025-03-20,0,172,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST6462/2025,Shakas Rock,FU,931,630,SS OCEANS ON MAIN,4,Shakas Rock,,,,2025-03-20,0,179,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST6468/2025,Shakas Rock,FU,931,630,SS OCEANS ON MAIN,4,Shakas Rock,,,2023-03-22,2025-03-20,5250000,179,29329,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST6463/2025,Shakas Rock,FU,931,630,SS OCEANS ON MAIN,5,Shakas Rock,,,,2025-03-20,0,182,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST6464/2025,Shakas Rock,FU,931,630,SS OCEANS ON MAIN,9,Shakas Rock,,,,2025-03-20,0,145,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST6465/2025,Shakas Rock,FU,931,630,SS OCEANS ON MAIN,10,Shakas Rock,,,,2025-03-20,0,145,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST6466/2025,Shakas Rock,FU,931,630,SS OCEANS ON MAIN,11,Shakas Rock,,,,2025-03-20,0,155,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST6469/2025,Shakas Rock,FU,931,630,SS OCEANS ON MAIN,11,Shakas Rock,,,2023-04-04,2025-03-20,4495000,155,29000,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST6467/2025,Shakas Rock,FU,931,630,SS OCEANS ON MAIN,12,Shakas Rock,,,,2025-03-20,0,178,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST6194/2025,Shakas Rock,FU,931,655,SS ATRIUM,49,Shakas Rock,,,2024-12-18,2025-03-18,1700000,80,21250,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST4247/2025,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,90,Shakas Rock,,,2024-12-24,2025-02-28,1600000,50,32000,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST2855/2025,Shakas Rock,SHAKAS ROCK,193,0,SS CHAKAS PLACE,1,Shakas Rock,Ocean,41,2024-11-12,2025-02-12,3650000,162,22530,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST2461/2025,Shakas Rock,FU,931,655,SS ATRIUM,88,Shakas Rock,,,2024-11-13,2025-02-06,140000,18,7777,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST1374/2025,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,60,Shakas Rock,Ocean,68,2024-10-07,2025-01-23,2000,313,6,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST1025/2025,Shakas Rock,FU,931,655,SS ATRIUM,12,Shakas Rock,,,2024-10-22,2025-01-20,1725000,76,22697,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST413/2025,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,61,Shakas Rock,Ocean,68,2024-10-07,2025-01-13,2000,64,31,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST36522/2024,Shakas Rock,FU,931,655,SS ATRIUM,22,Shakas Rock,,,2024-10-23,2024-12-20,1650000,76,21710,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST36099/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,28,Shakas Rock,Ocean,68,2024-06-28,2024-12-18,1800000,75,24000,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T33905/2024,Shakas Rock,SHAKAS ROCK,270,0,,,Shakas Rock,,,,2024-11-29,0,2025,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+ST32488/2024,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,32,Shakas Rock,Ocean,76,2024-08-18,2024-11-18,2300000,149,15436,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST32474/2024,Shakas Rock,FU,931,655,SS ATRIUM,64,Shakas Rock,,,2024-07-17,2024-11-18,1650000,76,21710,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST31453/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,27,Shakas Rock,Ocean,68,2024-07-11,2024-11-11,1705000,74,23040,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST30488/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,2,Shakas Rock,Ocean,68,2024-06-21,2024-10-31,1800000,75,24000,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST29681/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,59,Shakas Rock,Ocean,68,2024-02-14,2024-10-25,1056000,48,22000,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST28400/2024,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,101,Shakas Rock,,,2024-07-22,2024-10-11,1500000,49,30612,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST27731/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,32,Shakas Rock,Ocean,68,2024-01-04,2024-10-04,1550000,74,20945,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST27733/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,55,Shakas Rock,Ocean,68,2024-02-12,2024-10-04,900000,39,23076,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST27643/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,42,Shakas Rock,Ocean,68,2024-08-23,2024-10-03,1400000,74,18918,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST27292/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,36,Shakas Rock,Ocean,68,2024-05-31,2024-09-30,1350000,75,18000,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST26848/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,14,Shakas Rock,Ocean,68,2024-06-20,2024-09-26,1850000,74,25000,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST26851/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,17,Shakas Rock,Ocean,68,2024-06-28,2024-09-26,1850000,74,25000,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST26872/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,57,Shakas Rock,Ocean,68,2023-12-20,2024-09-26,900000,39,23076,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST26497/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,15,Shakas Rock,Ocean,68,2024-06-21,2024-09-20,1850000,74,25000,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST26510/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,18,Shakas Rock,Ocean,68,2024-07-08,2024-09-20,1850000,74,25000,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST26401/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,52,Shakas Rock,Ocean,68,2024-01-28,2024-09-19,900000,38,23684,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST25960/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,1,Shakas Rock,Ocean,68,2023-12-27,2024-09-16,1800000,75,24000,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST25117/2024,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,17,Shakas Rock,,,,2024-09-09,0,527,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST25118/2024,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,17,Shakas Rock,,,2023-04-21,2024-09-09,15425000,527,29269,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST24836/2024,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,89,Shakas Rock,,,2024-07-14,2024-09-05,1700000,49,34693,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST23913/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,20,Shakas Rock,Ocean,68,2024-01-04,2024-08-27,1800000,75,24000,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST23651/2024,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,30,Shakas Rock,,,2024-06-01,2024-08-26,3600000,107,33644,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST23444/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,13,Shakas Rock,Ocean,68,2023-12-20,2024-08-23,1813000,74,24500,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T23181/2024,Shakas Rock,SHAKAS ROCK,133,3,,,Shakas Rock,Shakas Rock,133,,2024-08-22,0,1628,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+ST23004/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,16,Shakas Rock,Ocean,68,2024-02-09,2024-08-20,1990000,74,26891,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST23005/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,19,Shakas Rock,Ocean,68,2024-01-10,2024-08-20,1850000,74,25000,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST22740/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,3,Shakas Rock,Ocean,68,2024-04-16,2024-08-16,2800000,162,17283,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T21792/2024,Shakas Rock,SHAKAS ROCK,103,0,,,Shakas Rock,Hill,1,2024-04-04,2024-08-06,7500000,936,8012,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST20293/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,1,Shakas Rock,Ocean,68,,2024-07-22,0,75,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20294/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,2,Shakas Rock,Ocean,68,,2024-07-22,0,75,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20295/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,3,Shakas Rock,Ocean,68,,2024-07-22,0,162,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20296/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,4,Shakas Rock,Ocean,68,,2024-07-22,0,160,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20354/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,4,Shakas Rock,Ocean,68,2023-12-22,2024-07-22,2800000,160,17500,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST20297/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,5,Shakas Rock,Ocean,68,,2024-07-22,0,163,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20355/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,5,Shakas Rock,Ocean,68,2023-12-18,2024-07-22,2800000,163,17177,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20298/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,6,Shakas Rock,Ocean,68,,2024-07-22,0,73,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20356/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,6,Shakas Rock,Ocean,68,2024-01-30,2024-07-22,2300000,73,31506,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20299/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,7,Shakas Rock,Ocean,68,,2024-07-22,0,73,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20357/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,7,Shakas Rock,Ocean,68,2024-03-06,2024-07-22,1950000,73,26712,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST20300/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,8,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20358/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,8,Shakas Rock,Ocean,68,2023-12-20,2024-07-22,1900000,74,25675,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20301/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,9,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20359/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,9,Shakas Rock,Ocean,68,2024-05-20,2024-07-22,1715000,74,23175,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST20302/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,10,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20360/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,10,Shakas Rock,Ocean,68,2023-12-20,2024-07-22,1900000,74,25675,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20303/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,11,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20361/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,11,Shakas Rock,Ocean,68,2023-12-20,2024-07-22,1900000,74,25675,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20304/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,12,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20362/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,12,Shakas Rock,Ocean,68,2024-03-05,2024-07-22,2200000,74,29729,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST20305/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,13,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20306/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,14,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20307/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,15,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20308/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,16,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20309/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,17,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20310/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,18,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20311/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,19,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20312/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,20,Shakas Rock,Ocean,68,,2024-07-22,0,75,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20313/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,21,Shakas Rock,Ocean,68,,2024-07-22,0,73,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20363/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,21,Shakas Rock,Ocean,68,2024-02-21,2024-07-22,1850000,73,25342,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20314/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,22,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20364/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,22,Shakas Rock,Ocean,68,2024-05-14,2024-07-22,1900000,74,25675,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST20315/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,23,Shakas Rock,Ocean,68,,2024-07-22,0,75,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20365/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,23,Shakas Rock,Ocean,68,2024-04-16,2024-07-22,1950000,75,26000,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST20316/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,24,Shakas Rock,Ocean,68,,2024-07-22,0,73,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20366/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,24,Shakas Rock,Ocean,68,2024-03-20,2024-07-22,1800000,73,24657,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST20317/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,25,Shakas Rock,Ocean,68,,2024-07-22,0,75,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20367/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,25,Shakas Rock,Ocean,68,2024-01-31,2024-07-22,1800000,75,24000,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST20318/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,26,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20368/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,26,Shakas Rock,Ocean,68,2024-03-19,2024-07-22,1800000,74,24324,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST20319/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,27,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20320/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,28,Shakas Rock,Ocean,68,,2024-07-22,0,75,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20321/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,29,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20369/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,29,Shakas Rock,Ocean,68,2024-01-20,2024-07-22,1800000,74,24324,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20322/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,30,Shakas Rock,Ocean,68,,2024-07-22,0,72,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20370/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,30,Shakas Rock,Ocean,68,2023-12-30,2024-07-22,1600000,72,22222,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST20323/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,31,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20371/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,31,Shakas Rock,Ocean,68,2024-01-17,2024-07-22,1600000,74,21621,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20324/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,32,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20325/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,33,Shakas Rock,Ocean,68,,2024-07-22,0,76,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20372/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,33,Shakas Rock,Ocean,68,2024-01-18,2024-07-22,1600000,76,21052,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST20326/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,34,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20373/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,34,Shakas Rock,Ocean,68,2024-01-04,2024-07-22,1550000,74,20945,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST20327/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,35,Shakas Rock,Ocean,68,,2024-07-22,0,76,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20374/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,35,Shakas Rock,Ocean,68,2024-02-07,2024-07-22,1650000,76,21710,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST20328/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,36,Shakas Rock,Ocean,68,,2024-07-22,0,75,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20329/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,37,Shakas Rock,Ocean,68,,2024-07-22,0,78,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20375/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,37,Shakas Rock,Ocean,68,2024-02-29,2024-07-22,1350000,78,17307,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20330/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,38,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20376/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,38,Shakas Rock,Ocean,68,2024-03-29,2024-07-22,1500000,74,20270,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST20331/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,39,Shakas Rock,Ocean,68,,2024-07-22,0,77,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20377/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,39,Shakas Rock,Ocean,68,2024-05-24,2024-07-22,1550000,77,20129,False,natural_person,legal_entity,3,sectional_title,True,lightstone_export
+ST20332/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,40,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20378/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,40,Shakas Rock,Ocean,68,2024-01-08,2024-07-22,1450000,74,19594,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST20333/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,41,Shakas Rock,Ocean,68,,2024-07-22,0,76,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20379/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,41,Shakas Rock,Ocean,68,2024-02-10,2024-07-22,1500000,76,19736,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20334/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,42,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20335/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,43,Shakas Rock,Ocean,68,,2024-07-22,0,76,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20380/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,43,Shakas Rock,Ocean,68,2024-02-21,2024-07-22,1450000,76,19078,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST20336/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,44,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20381/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,44,Shakas Rock,Ocean,68,2024-01-29,2024-07-22,1450000,74,19594,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST20337/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,45,Shakas Rock,Ocean,68,,2024-07-22,0,76,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20382/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,45,Shakas Rock,Ocean,68,2024-05-17,2024-07-22,1450000,76,19078,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20338/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,46,Shakas Rock,Ocean,68,,2024-07-22,0,74,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20383/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,46,Shakas Rock,Ocean,68,2024-01-29,2024-07-22,1450000,74,19594,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20339/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,47,Shakas Rock,Ocean,68,,2024-07-22,0,77,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20384/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,47,Shakas Rock,Ocean,68,2024-01-16,2024-07-22,1450000,77,18831,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20340/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,48,Shakas Rock,Ocean,68,,2024-07-22,0,76,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20385/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,48,Shakas Rock,Ocean,68,2024-01-18,2024-07-22,1450000,76,19078,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20341/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,49,Shakas Rock,Ocean,68,,2024-07-22,0,78,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20386/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,49,Shakas Rock,Ocean,68,2024-01-20,2024-07-22,1450000,78,18589,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20342/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,50,Shakas Rock,Ocean,68,,2024-07-22,0,73,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20387/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,50,Shakas Rock,Ocean,68,2024-02-21,2024-07-22,1450000,73,19863,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST20343/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,51,Shakas Rock,Ocean,68,,2024-07-22,0,75,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20388/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,51,Shakas Rock,Ocean,68,2023-12-20,2024-07-22,1450000,75,19333,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20344/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,52,Shakas Rock,Ocean,68,,2024-07-22,0,38,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20345/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,53,Shakas Rock,Ocean,68,,2024-07-22,0,39,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20389/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,53,Shakas Rock,Ocean,68,2024-01-25,2024-07-22,900000,39,23076,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST20346/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,54,Shakas Rock,Ocean,68,,2024-07-22,0,39,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20390/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,54,Shakas Rock,Ocean,68,2024-01-30,2024-07-22,1078000,39,27641,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST20347/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,55,Shakas Rock,Ocean,68,,2024-07-22,0,39,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20348/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,56,Shakas Rock,Ocean,68,,2024-07-22,0,39,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20391/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,56,Shakas Rock,Ocean,68,2024-01-16,2024-07-22,882000,39,22615,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20349/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,57,Shakas Rock,Ocean,68,,2024-07-22,0,39,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20350/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,58,Shakas Rock,Ocean,68,,2024-07-22,0,48,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20392/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,58,Shakas Rock,Ocean,68,2023-12-20,2024-07-22,1100000,48,22916,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20351/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,59,Shakas Rock,Ocean,68,,2024-07-22,0,48,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20352/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,60,Shakas Rock,Ocean,68,,2024-07-22,0,313,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20353/2024,Shakas Rock,SHAKAS ROCK,244,0,SS CHAKAS ROCK CHALETS,61,Shakas Rock,Ocean,68,,2024-07-22,0,64,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20134/2024,Shakas Rock,SHAKAS ROCK,193,0,SS CHAKAS PLACE,6,Shakas Rock,Ocean,41,2024-05-31,2024-07-19,4000000,173,23121,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST19787/2024,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,59,Shakas Rock,,,2024-05-21,2024-07-16,1950000,61,31967,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST19788/2024,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,69,Shakas Rock,,,2024-05-01,2024-07-16,2000000,106,18867,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST15781/2024,Shakas Rock,FU,931,655,SS ATRIUM,42,Shakas Rock,,,2024-04-29,2024-06-13,2200000,100,22000,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST15042/2024,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,21,Shakas Rock,,,2024-02-29,2024-06-06,2900000,107,27102,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST14803/2024,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,10,Shakas Rock,Ocean,76,2024-04-14,2024-06-04,2400000,94,25531,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST14653/2024,Shakas Rock,FU,931,655,SS ATRIUM,59,Shakas Rock,,,2024-04-01,2024-06-03,1543000,76,20302,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST12622/2024,Shakas Rock,SHAKAS ROCK,101,0,SS SAN MARINO,17,Shakas Rock,Ocean,60,2024-01-18,2024-05-15,3000000,163,18404,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T9967/2024,Shakas Rock,SHAKAS ROCK,269,0,,,Shakas Rock,Short,8,2024-02-01,2024-04-25,5500000,2205,2494,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST6069/2024,Shakas Rock,FU,931,629,SS PENTIRE POINT,21,Shakas Rock,,,2024-01-16,2024-03-18,3772000,239,15782,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST5193/2024,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,87,Shakas Rock,,,2024-02-05,2024-03-07,2000000,62,32258,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST5192/2024,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,93,Shakas Rock,,,2024-01-13,2024-03-07,2350000,97,24226,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST3689/2024,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,1,Shakas Rock,,,,2024-02-21,0,387,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST3690/2024,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,1,Shakas Rock,,,2023-08-03,2024-02-21,6300000,387,16279,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST1229/2024,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,48,Shakas Rock,,,2023-09-08,2024-01-24,3750000,128,29296,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST34287/2023,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,52,Shakas Rock,,,2023-10-18,2023-11-29,2750000,89,30898,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T33948/2023,Shakas Rock,SHAKAS ROCK,131,0,,,Shakas Rock,Main,5,2023-09-08,2023-11-27,3350000,668,5014,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST33385/2023,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,95,Shakas Rock,,,2023-08-24,2023-11-21,2200000,105,20952,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST33357/2023,Shakas Rock,FU,931,655,SS ATRIUM,74,Shakas Rock,,,2023-09-19,2023-11-21,2400000,100,24000,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST30711/2023,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,31,Shakas Rock,,,2022-10-28,2023-10-26,5600000,288,19444,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST30438/2023,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,45,Shakas Rock,,,,2023-10-24,0,91,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST26981/2023,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,14,Shakas Rock,Ocean,76,2023-06-20,2023-09-20,1800000,117,15384,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST24723/2023,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,12,Shakas Rock,,,2023-07-04,2023-08-29,13600000,487,27926,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST24574/2023,Shakas Rock,SHAKAS ROCK,101,0,SS SAN MARINO,7,Shakas Rock,Ocean,60,2023-06-12,2023-08-28,2500000,20,125000,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST24574/2023,Shakas Rock,SHAKAS ROCK,101,0,SS SAN MARINO,8,Shakas Rock,Ocean,60,2023-06-12,2023-08-28,2500000,10,250000,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST24574/2023,Shakas Rock,SHAKAS ROCK,101,0,SS SAN MARINO,1,Shakas Rock,Ocean,60,2023-06-12,2023-08-28,2500000,138,18115,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST23783/2023,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,16,Shakas Rock,,,,2023-08-21,0,334,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST23784/2023,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,16,Shakas Rock,,,2023-02-16,2023-08-21,9000000,334,26946,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST23020/2023,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,98,Shakas Rock,,,2023-06-30,2023-08-15,2470000,123,20081,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST21247/2023,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,70,Shakas Rock,,,2023-05-29,2023-07-26,1800000,52,34615,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST21258/2023,Shakas Rock,SHAKAS ROCK,80,8,SS ARUBA,22,Shakas Rock,Ocean,72,2023-05-14,2023-07-26,2700000,171,15789,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST20641/2023,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,96,Shakas Rock,,,2023-04-03,2023-07-20,2750000,116,23706,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST19910/2023,Shakas Rock,SHAKAS ROCK,235,0,SS PEBBLE BEACH,19,Shakas Rock,General Lighting,1,,2023-07-17,0,179,0,False,legal_entity,natural_person,1,sectional_title,False,lightstone_export
+ST19540/2023,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,9,Shakas Rock,,,2023-05-19,2023-07-13,10000000,421,23752,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST19229/2023,Shakas Rock,FU,931,629,SS PENTIRE POINT,19,Shakas Rock,,,2023-03-01,2023-07-11,3000000,200,15000,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST19229/2023,Shakas Rock,FU,931,629,SS PENTIRE POINT,22,Shakas Rock,,,2023-03-01,2023-07-11,3000000,18,166666,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST18658/2023,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,43,Shakas Rock,,,2023-04-12,2023-07-05,3345000,84,39821,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST17867/2023,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,58,Shakas Rock,,,2023-03-03,2023-06-28,1725000,66,26136,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST17876/2023,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,84,Shakas Rock,,,2023-04-14,2023-06-28,2195000,65,33769,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST14027/2023,Shakas Rock,FU,931,655,SS ATRIUM,45,Shakas Rock,,,2023-02-20,2023-05-25,3300000,215,15348,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST14028/2023,Shakas Rock,FU,931,655,SS ATRIUM,77,Shakas Rock,,,2023-02-20,2023-05-25,100000,18,5555,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST12731/2023,Shakas Rock,SHAKAS ROCK,80,8,SS ARUBA,37,Shakas Rock,Ocean,72,2023-03-17,2023-05-15,1200000,133,9022,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST12750/2023,Shakas Rock,SHAKAS ROCK,80,8,SS ARUBA,38,Shakas Rock,Ocean,72,2023-03-17,2023-05-15,1200000,132,9090,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST12756/2023,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,34,Shakas Rock,,,,2023-05-15,0,260,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST12757/2023,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,34,Shakas Rock,,,2023-02-06,2023-05-15,4800000,260,18461,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T12171/2023,Shakas Rock,SHAKAS ROCK,96,5,,,Shakas Rock,Lindsay,1,2023-01-13,2023-05-10,4800000,989,4853,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST10285/2023,Shakas Rock,FU,931,655,SS ATRIUM,2,Shakas Rock,,,2021-12-01,2023-04-25,1015000,76,13355,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST8784/2023,Shakas Rock,FU,931,655,SS ATRIUM,65,Shakas Rock,,,2023-02-24,2023-04-13,2450000,164,14939,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST8784/2023,Shakas Rock,FU,931,655,SS ATRIUM,84,Shakas Rock,,,2023-02-24,2023-04-13,2450000,18,136111,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST8634/2023,Shakas Rock,FU,931,629,SS PENTIRE POINT,17,Shakas Rock,,,2023-02-01,2023-04-12,4000000,232,17241,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST8634/2023,Shakas Rock,FU,931,629,SS PENTIRE POINT,25,Shakas Rock,,,2023-02-01,2023-04-12,4000000,18,222222,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST8634/2023,Shakas Rock,FU,931,629,SS PENTIRE POINT,26,Shakas Rock,,,2023-02-01,2023-04-12,4000000,10,400000,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST8275/2023,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,32,Shakas Rock,,,2023-01-19,2023-04-05,4800000,284,16901,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST7432/2023,Shakas Rock,FU,931,655,SS ATRIUM,16,Shakas Rock,,,2023-01-03,2023-03-31,1650000,76,21710,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST7433/2023,Shakas Rock,FU,931,655,SS ATRIUM,83,Shakas Rock,,,2023-01-03,2023-03-31,170000,18,9444,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST7148/2023,Shakas Rock,FU,931,629,SS PENTIRE POINT,6,Shakas Rock,,,2022-11-24,2023-03-30,2500000,174,14367,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST6101/2023,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,19,Shakas Rock,,,2022-11-28,2023-03-23,2800000,91,30769,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST5857/2023,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,1,Shakas Rock,Ocean,76,2022-11-14,2023-03-20,1900000,93,20430,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST5463/2023,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,27,Shakas Rock,,,2023-01-09,2023-03-13,3300000,102,32352,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST4861/2023,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,26,Shakas Rock,,,2022-09-27,2023-02-28,2750000,158,17405,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T4602/2023,Shakas Rock,FU,931,630,,,Shakas Rock,,,2022-12-14,2023-02-27,15410000,9788,1574,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST3551/2023,Shakas Rock,FU,931,655,SS ATRIUM,37,Shakas Rock,,,2022-09-30,2023-02-17,1200000,76,15789,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST2091/2023,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,11,Shakas Rock,,,2022-11-21,2023-01-31,2700000,77,35064,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST2105/2023,Shakas Rock,FU,931,655,SS ATRIUM,7,Shakas Rock,,,2022-09-26,2023-01-31,1350000,76,17763,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST1246/2023,Shakas Rock,FU,931,655,SS ATRIUM,32,Shakas Rock,,,2022-10-04,2023-01-19,1400000,76,18421,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T46449/2022,Shakas Rock,SHAKAS ROCK,132,0,,,Shakas Rock,Main,3,2022-04-25,2022-12-21,4700000,818,5745,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST45870/2022,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,29,Shakas Rock,Ocean,76,2022-10-27,2022-12-19,3190000,131,24351,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST44731/2022,Shakas Rock,FU,931,655,SS ATRIUM,6,Shakas Rock,,,2022-02-22,2022-12-12,1550000,76,20394,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST44331/2022,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,105,Shakas Rock,,,2022-10-13,2022-12-08,3380000,105,32190,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST43171/2022,Shakas Rock,SHAKAS ROCK,235,0,SS PEBBLE BEACH,20,Shakas Rock,General Lighting,1,2021-11-30,2022-12-01,2900000,179,16201,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST41569/2022,Shakas Rock,SHAKAS ROCK,100,0,SS CHAKAS HEIGHTS,8,Shakas Rock,Ocean,45,,2022-11-21,0,168,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST41568/2022,Shakas Rock,SHAKAS ROCK,100,0,SS CHAKAS HEIGHTS,7,Shakas Rock,Ocean,45,,2022-11-21,0,156,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST41589/2022,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,31,Shakas Rock,,,,2022-11-21,0,288,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST41590/2022,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,32,Shakas Rock,,,,2022-11-21,0,284,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST41591/2022,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,33,Shakas Rock,,,,2022-11-21,0,293,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST41592/2022,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,33,Shakas Rock,,,2022-06-27,2022-11-21,3000000,293,10238,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST41157/2022,Shakas Rock,FU,931,655,SS ATRIUM,41,Shakas Rock,,,2022-02-21,2022-11-18,2200000,100,22000,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST40919/2022,Shakas Rock,SHAKAS ROCK,118,0,SS ERF 118 SHAKAS ROCK,3,Shakas Rock,Ocean,56,2022-05-31,2022-11-16,3650000,238,15336,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST40771/2022,Shakas Rock,FU,931,629,SS PENTIRE POINT,18,Shakas Rock,,,2022-08-31,2022-11-15,2590000,180,14388,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST39831/2022,Shakas Rock,FU,931,655,SS ATRIUM,42,Shakas Rock,,,2022-02-22,2022-11-08,2000000,100,20000,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST40000/2022,Shakas Rock,FU,931,655,SS ATRIUM,70,Shakas Rock,,,2022-07-01,2022-11-08,2365000,164,14420,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST40000/2022,Shakas Rock,FU,931,655,SS ATRIUM,85,Shakas Rock,,,2022-07-01,2022-11-08,2365000,18,131388,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST39789/2022,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,24,Shakas Rock,Ocean,76,2022-09-22,2022-11-07,2150000,118,18220,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T39019/2022,Shakas Rock,SHAKAS ROCK,96,4,,,Shakas Rock,Ocean,64,2022-08-18,2022-11-01,5600000,961,5827,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST38189/2022,Shakas Rock,FU,931,655,SS ATRIUM,61,Shakas Rock,,,2022-07-20,2022-10-27,1580000,76,20789,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST37542/2022,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,20,Shakas Rock,Ocean,76,2022-07-16,2022-10-24,2700000,119,22689,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST36655/2022,Shakas Rock,FU,931,655,SS ATRIUM,69,Shakas Rock,,,2022-07-10,2022-10-17,1460000,76,19210,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST36656/2022,Shakas Rock,FU,931,655,SS ATRIUM,90,Shakas Rock,,,2022-08-10,2022-10-17,140000,18,7777,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T35322/2022,Shakas Rock,FU,931,913,,,Shakas Rock,Pigeonwood,931,2022-03-15,2022-10-05,3450000,2448,1409,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST32566/2022,Shakas Rock,SHAKAS ROCK,80,8,SS ARUBA,4,Shakas Rock,Ocean,72,2022-06-27,2022-09-16,2810000,180,15611,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T32332/2022,Shakas Rock,SHAKAS ROCK,126,2,,,Shakas Rock,Main,11,2022-03-25,2022-09-15,6360000,1821,3492,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T32253/2022,Shakas Rock,SHAKAS ROCK,96,14,,,Shakas Rock,Ocean,66,2022-07-08,2022-09-14,4780000,1216,3930,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T29922/2022,Shakas Rock,SHAKAS ROCK,269,0,,,Shakas Rock,Short,8,,2022-08-26,0,2205,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+ST26223/2022,Shakas Rock,SHAKAS ROCK,80,8,SS ARUBA,19,Shakas Rock,Ocean,72,2022-05-22,2022-07-28,3600000,187,19251,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST25776/2022,Shakas Rock,SHAKAS ROCK,80,8,SS ARUBA,39,Shakas Rock,Ocean,72,2022-01-25,2022-07-26,2300000,131,17557,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST25678/2022,Shakas Rock,FU,931,655,SS ATRIUM,75,Shakas Rock,,,2022-02-04,2022-07-26,2800000,215,13023,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST25679/2022,Shakas Rock,FU,931,655,SS ATRIUM,82,Shakas Rock,,,2022-02-04,2022-07-26,90000,18,5000,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST22961/2022,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,9,Shakas Rock,,,2022-03-25,2022-07-06,3500000,107,32710,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST22775/2022,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,20,Shakas Rock,,,2022-01-20,2022-07-06,8000000,418,19138,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST20555/2022,Shakas Rock,FU,931,655,SS ATRIUM,34,Shakas Rock,,,2022-03-31,2022-06-15,1685000,76,22171,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST20314/2022,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,22,Shakas Rock,,,2021-12-31,2022-06-14,725000,90,8055,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST19748/2022,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,15,Shakas Rock,,,,2022-06-09,0,496,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST19749/2022,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,15,Shakas Rock,,,2021-04-06,2022-06-09,10232000,496,20629,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST18482/2022,Shakas Rock,FU,931,655,SS ATRIUM,81,Shakas Rock,,,2022-04-06,2022-06-01,200000,18,11111,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST18326/2022,Shakas Rock,FU,931,655,SS ATRIUM,16,Shakas Rock,,,2022-03-13,2022-05-31,1620000,76,21315,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST18326/2022,Shakas Rock,FU,931,655,SS ATRIUM,83,Shakas Rock,,,2022-03-13,2022-05-31,1620000,18,90000,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST18052/2022,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,74,Shakas Rock,,,2022-03-03,2022-05-30,1700000,62,27419,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST14124/2022,Shakas Rock,FU,931,655,SS ATRIUM,71,Shakas Rock,,,2021-08-27,2022-05-09,1650000,100,16500,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST13233/2022,Shakas Rock,SHAKAS ROCK,122,0,SS EDEN PALMS,3,Shakas Rock,Main,2,2021-12-24,2022-04-29,2590000,83,31204,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST11925/2022,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,82,Shakas Rock,,,2022-01-06,2022-04-13,2250000,105,21428,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST10155/2022,Shakas Rock,SHAKAS ROCK,235,0,SS PEBBLE BEACH,6,Shakas Rock,General Lighting,1,2021-12-12,2022-04-01,3070000,138,22246,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST8952/2022,Shakas Rock,FU,931,655,SS ATRIUM,72,Shakas Rock,,,2021-10-31,2022-03-24,1990000,100,19900,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST5481/2022,Shakas Rock,SHAKAS ROCK,235,0,SS PEBBLE BEACH,36,Shakas Rock,General Lighting,1,2021-11-19,2022-02-23,2935000,137,21423,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T5196/2022,Shakas Rock,SHAKAS ROCK,132,0,,,Shakas Rock,Main,3,2021-09-29,2022-02-22,3300000,818,4034,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST5066/2022,Shakas Rock,FU,931,655,SS ATRIUM,33,Shakas Rock,,,2021-12-01,2022-02-21,1485000,76,19539,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST3812/2022,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,16,Shakas Rock,,,2021-11-24,2022-02-09,2500000,107,23364,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST43237/2021,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,33,Shakas Rock,,,2021-09-16,2021-12-20,2700000,91,29670,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST42131/2021,Shakas Rock,SHAKAS ROCK,122,0,SS EDEN PALMS,7,Shakas Rock,Main,2,2021-02-11,2021-12-14,2850000,125,22800,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST40800/2021,Shakas Rock,SHAKAS ROCK,235,0,SS PEBBLE BEACH,18,Shakas Rock,General Lighting,1,2021-08-26,2021-12-08,3950000,137,28832,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST40488/2021,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,29,Shakas Rock,Ocean,76,2021-10-07,2021-12-06,1600000,131,12213,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST40534/2021,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,13,Shakas Rock,Ocean,76,2021-09-29,2021-12-06,2450000,171,14327,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST40068/2021,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,26,Shakas Rock,,,2021-09-27,2021-12-02,3150000,158,19936,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST37582/2021,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,10,Shakas Rock,,,2021-07-02,2021-11-11,2800000,89,31460,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T35092/2021,Shakas Rock,SHAKAS ROCK,96,11,,,Shakas Rock,Chagupe,2,2021-03-03,2021-10-22,6495000,978,6641,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST33432/2021,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,103,Shakas Rock,,,2021-05-19,2021-10-08,550000,97,5670,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST33285/2021,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,70,Shakas Rock,,,2021-06-03,2021-10-07,1575000,52,30288,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST32978/2021,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,57,Shakas Rock,,,2021-06-25,2021-10-05,1275000,53,24056,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST31922/2021,Shakas Rock,FU,931,655,SS ATRIUM,20,Shakas Rock,,,2021-05-19,2021-09-27,2100000,164,12804,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST30983/2021,Shakas Rock,FU,931,629,SS PENTIRE POINT,25,Shakas Rock,,,2021-05-07,2021-09-20,225000,18,12500,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST30983/2021,Shakas Rock,FU,931,629,SS PENTIRE POINT,26,Shakas Rock,,,2021-05-07,2021-09-20,225000,10,22500,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST30963/2021,Shakas Rock,SHAKAS ROCK,101,0,SS SAN MARINO,14,Shakas Rock,Ocean,60,2021-06-28,2021-09-20,2700000,164,16463,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST30537/2021,Shakas Rock,SHAKAS ROCK,80,8,SS ARUBA,20,Shakas Rock,Ocean,72,2020-09-25,2021-09-16,2950000,185,15945,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST29845/2021,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,27,Shakas Rock,,,2021-08-25,2021-09-13,2750000,159,17295,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST29613/2021,Shakas Rock,SHAKAS ROCK,80,8,SS ARUBA,11,Shakas Rock,Ocean,72,2021-07-23,2021-09-10,2995000,190,15763,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST29538/2021,Shakas Rock,FU,931,655,SS ATRIUM,80,Shakas Rock,,,2021-03-24,2021-09-10,2175000,18,120833,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST29616/2021,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,13,Shakas Rock,,,2019-09-11,2021-09-10,10900000,467,23340,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST29492/2021,Shakas Rock,SHAKAS ROCK,80,8,SS ARUBA,45,Shakas Rock,Ocean,72,2021-06-18,2021-09-09,2350000,132,17803,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST29485/2021,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,89,Shakas Rock,,,2021-04-23,2021-09-09,1200000,49,24489,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST29523/2021,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,14,Shakas Rock,,,,2021-09-09,0,449,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST29524/2021,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,14,Shakas Rock,,,2020-08-05,2021-09-09,6784000,449,15109,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST29033/2021,Shakas Rock,FU,931,655,SS ATRIUM,47,Shakas Rock,,,2021-06-23,2021-09-07,1600000,80,20000,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST28801/2021,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,28,Shakas Rock,Ocean,76,2021-06-07,2021-09-06,2550000,99,25757,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST28477/2021,Shakas Rock,SHAKAS ROCK,235,0,SS PEBBLE BEACH,12,Shakas Rock,General Lighting,1,2021-05-10,2021-09-03,3300000,138,23913,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T28094/2021,Shakas Rock,SHAKAS ROCK,96,8,,,Shakas Rock,Lindsay,7,2021-05-19,2021-09-02,5550000,1282,4329,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+ST27672/2021,Shakas Rock,FU,931,655,SS ATRIUM,68,Shakas Rock,,,2021-05-21,2021-08-31,1460000,76,19210,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST26050/2021,Shakas Rock,FU,931,629,SS PENTIRE POINT,17,Shakas Rock,,,2021-01-15,2021-08-25,3000000,232,12931,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST26490/2021,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,30,Shakas Rock,,,2021-03-09,2021-08-25,3950000,217,18202,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST25606/2021,Shakas Rock,FU,931,655,SS ATRIUM,55,Shakas Rock,,,2020-12-14,2021-08-23,2700000,164,16463,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST25389/2021,Shakas Rock,SHAKAS ROCK,80,8,SS ARUBA,3,Shakas Rock,Ocean,72,2021-06-15,2021-08-20,2450000,172,14244,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST25426/2021,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,4,Shakas Rock,,,,2021-08-20,0,130,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST25176/2021,Shakas Rock,SHAKAS ROCK,235,0,SS PEBBLE BEACH,24,Shakas Rock,General Lighting,1,2020-11-27,2021-08-19,1000000,137,7299,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST23557/2021,Shakas Rock,SHAKAS ROCK,122,0,SS EDEN PALMS,6,Shakas Rock,Main,2,2021-03-30,2021-07-30,2550000,97,26288,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST23201/2021,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,25,Shakas Rock,,,2021-05-12,2021-07-28,2400000,76,31578,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST21592/2021,Shakas Rock,FU,931,629,SS PENTIRE POINT,4,Shakas Rock,,,2021-03-16,2021-07-21,2600000,203,12807,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST16460/2021,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,13,Shakas Rock,,,,2021-06-04,0,467,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST16461/2021,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,29,Shakas Rock,,,,2021-06-04,0,217,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST16463/2021,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,29,Shakas Rock,,,2020-12-02,2021-06-04,3670000,217,16912,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST16462/2021,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,30,Shakas Rock,,,,2021-06-04,0,217,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST15327/2021,Shakas Rock,SHAKAS ROCK,193,0,SS CHAKAS PLACE,2,Shakas Rock,Ocean,41,2020-12-21,2021-05-31,3250000,166,19578,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST14735/2021,Shakas Rock,FU,931,629,SS PENTIRE POINT,7,Shakas Rock,,,2021-02-08,2021-05-26,2475000,194,12757,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T13153/2021,Shakas Rock,SHAKAS ROCK,105,0,,,Shakas Rock,Hill,7,2021-02-26,2021-05-18,2000000,973,2055,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST12982/2021,Shakas Rock,FU,931,655,SS ATRIUM,9,Shakas Rock,,,2021-02-10,2021-05-17,1580000,76,20789,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST12800/2021,Shakas Rock,SHAKAS ROCK,235,0,SS PEBBLE BEACH,21,Shakas Rock,General Lighting,1,2021-02-17,2021-05-14,2800000,137,20437,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST11345/2021,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,69,Shakas Rock,,,,2021-04-26,0,106,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST10646/2021,Shakas Rock,SHAKAS ROCK,80,8,SS ARUBA,15,Shakas Rock,Ocean,72,2020-09-21,2021-04-15,3073000,203,15137,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST10638/2021,Shakas Rock,SHAKAS ROCK,101,0,SS SAN MARINO,5,Shakas Rock,Ocean,60,2021-01-20,2021-04-15,1850000,130,14230,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST10165/2021,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,10,Shakas Rock,Ocean,76,2020-11-05,2021-04-09,1750000,94,18617,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST9600/2021,Shakas Rock,FU,931,655,SS ATRIUM,48,Shakas Rock,,,2020-10-26,2021-03-31,1420000,80,17750,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST9601/2021,Shakas Rock,FU,931,655,SS ATRIUM,50,Shakas Rock,,,2020-10-31,2021-03-31,2200000,164,13414,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST9365/2021,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,58,Shakas Rock,,,2020-12-10,2021-03-30,1400000,66,21212,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST7108/2021,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,77,Shakas Rock,,,2020-08-24,2021-03-15,1700000,50,34000,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST5990/2021,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,54,Shakas Rock,,,2020-12-03,2021-03-09,2750000,93,29569,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST6012/2021,Shakas Rock,SHAKAS ROCK,100,0,SS CHAKAS HEIGHTS,5,Shakas Rock,Ocean,45,2020-12-21,2021-03-09,3200000,109,29357,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST5282/2021,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,50,Shakas Rock,,,2020-11-30,2021-03-04,2300000,90,25555,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST4645/2021,Shakas Rock,SHAKAS ROCK,235,0,SS PEBBLE BEACH,37,Shakas Rock,General Lighting,1,2021-01-13,2021-02-26,1550000,70,22142,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST4203/2021,Shakas Rock,SHAKAS ROCK,80,8,SS ARUBA,43,Shakas Rock,Ocean,72,2020-09-30,2021-02-24,1600000,98,16326,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST3740/2021,Shakas Rock,SHAKAS ROCK,100,0,SS CHAKAS HEIGHTS,6,Shakas Rock,Ocean,45,2020-09-25,2021-02-19,2200000,109,20183,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST3035/2021,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,18,Shakas Rock,Ocean,76,2020-10-22,2021-02-15,2175000,117,18589,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST2538/2021,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,81,Shakas Rock,,,2020-09-02,2021-02-10,1675000,81,20679,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST2549/2021,Shakas Rock,FU,931,655,SS ATRIUM,5,Shakas Rock,,,2020-08-19,2021-02-10,2050000,164,12500,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST2548/2021,Shakas Rock,FU,931,655,SS ATRIUM,91,Shakas Rock,,,2020-08-19,2021-02-10,100000,18,5555,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST2451/2021,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,28,Shakas Rock,,,2020-10-29,2021-02-09,2970000,129,23023,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST1108/2021,Shakas Rock,FU,931,629,SS PENTIRE POINT,11,Shakas Rock,,,2020-09-04,2021-01-22,2925000,243,12037,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST274/2021,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,72,Shakas Rock,,,2020-11-08,2021-01-11,1850000,61,30327,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST69/2021,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,23,Shakas Rock,,,2020-10-23,2021-01-05,5050000,268,18843,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST70/2021,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,28,Shakas Rock,,,,2021-01-05,0,216,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST71/2021,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,28,Shakas Rock,,,2020-08-11,2021-01-05,3550000,216,16435,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST42570/2020,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,84,Shakas Rock,,,2020-09-24,2020-12-18,1700000,65,26153,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST42292/2020,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,60,Shakas Rock,,,2020-10-02,2020-12-17,1525000,65,23461,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST42343/2020,Shakas Rock,FU,931,655,SS ATRIUM,65,Shakas Rock,,,2020-07-30,2020-12-17,2100000,164,12804,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST42343/2020,Shakas Rock,FU,931,655,SS ATRIUM,84,Shakas Rock,,,2020-07-30,2020-12-17,2100000,18,116666,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST41482/2020,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,9,Shakas Rock,,,2020-10-14,2020-12-09,2450000,107,22897,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST40349/2020,Shakas Rock,FU,931,655,SS ATRIUM,64,Shakas Rock,,,2020-07-20,2020-12-02,1350000,76,17763,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST39970/2020,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,71,Shakas Rock,,,2020-08-22,2020-11-30,1485000,65,22846,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST39997/2020,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,86,Shakas Rock,,,2020-09-02,2020-11-30,1800000,65,27692,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST39973/2020,Shakas Rock,SHAKAS ROCK,100,0,SS CHAKAS HEIGHTS,3,Shakas Rock,Ocean,45,2020-07-28,2020-11-30,2500000,109,22935,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST39801/2020,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,73,Shakas Rock,,,2020-09-11,2020-11-27,1550000,65,23846,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T37650/2020,Shakas Rock,SHAKAS ROCK,133,8,,,Shakas Rock,Ocean,37C,2020-08-15,2020-11-16,7500000,2275,3296,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST37010/2020,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,20,Shakas Rock,Ocean,76,2020-08-08,2020-11-11,2400000,119,20168,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST36568/2020,Shakas Rock,SHAKAS ROCK,80,8,SS ARUBA,42,Shakas Rock,Ocean,72,2020-07-28,2020-11-06,1600000,99,16161,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST35986/2020,Shakas Rock,SHAKAS ROCK,80,8,SS ARUBA,1,Shakas Rock,Ocean,72,2020-08-27,2020-11-04,2675000,196,13647,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST35531/2020,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,21,Shakas Rock,,,2020-06-13,2020-10-30,5900000,340,17352,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST34925/2020,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,26,Shakas Rock,,,,2020-10-27,0,158,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST34926/2020,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,27,Shakas Rock,,,,2020-10-27,0,159,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST34577/2020,Shakas Rock,FU,931,629,SS PENTIRE POINT,8,Shakas Rock,,,2020-08-03,2020-10-23,2700000,239,11297,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T33481/2020,Shakas Rock,SHAKAS ROCK,129,0,,,Shakas Rock,Main,9,2020-08-11,2020-10-16,2300000,763,3014,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T33301/2020,Shakas Rock,SHAKAS ROCK,96,11,,,Shakas Rock,Chagupe,2,2020-06-25,2020-10-15,3622500,978,3703,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+ST32700/2020,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,25,Shakas Rock,,,2019-11-05,2020-10-09,3600000,226,15929,False,legal_entity,legal_entity,2,sectional_title,True,lightstone_export
+ST30942/2020,Shakas Rock,FU,931,655,SS ATRIUM,57,Shakas Rock,,,2020-07-30,2020-09-25,1295000,76,17039,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST29744/2020,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,28,Shakas Rock,Ocean,76,2020-05-25,2020-09-18,1500000,99,15151,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST29142/2020,Shakas Rock,SHAKAS ROCK,193,0,SS CHAKAS PLACE,1,Shakas Rock,Ocean,41,2020-03-12,2020-09-16,2750000,162,16975,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST27889/2020,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,24,Shakas Rock,,,2020-03-09,2020-09-08,3200000,210,15238,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T26518/2020,Shakas Rock,SHAKAS ROCK,96,17,,,Shakas Rock,,,,2020-08-28,0,1941,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+ST26445/2020,Shakas Rock,SHAKAS ROCK,122,0,SS EDEN PALMS,1,Shakas Rock,Main,2,2020-05-11,2020-08-27,3250000,127,25590,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST22399/2020,Shakas Rock,SHAKAS ROCK,100,0,SS CHAKAS HEIGHTS,2,Shakas Rock,Ocean,45,2020-03-26,2020-07-24,2200000,109,20183,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST22074/2020,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,59,Shakas Rock,,,2020-02-19,2020-07-21,1750000,61,28688,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST22098/2020,Shakas Rock,SHAKAS ROCK,80,8,SS ARUBA,41,Shakas Rock,Ocean,72,2020-06-01,2020-07-21,1200000,98,12244,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST21405/2020,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,7,Shakas Rock,,,2019-11-11,2020-07-07,7200000,422,17061,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST20962/2020,Shakas Rock,FU,931,629,SS PENTIRE POINT,20,Shakas Rock,,,2019-11-25,2020-07-02,1600000,196,8163,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST20489/2020,Shakas Rock,FU,931,655,SS ATRIUM,46,Shakas Rock,,,2020-01-21,2020-06-25,1335000,80,16687,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST19938/2020,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,23,Shakas Rock,,,,2020-06-19,0,268,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST19939/2020,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,24,Shakas Rock,,,,2020-06-19,0,210,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST19940/2020,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,25,Shakas Rock,,,,2020-06-19,0,226,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST19792/2020,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,67,Shakas Rock,,,2020-01-19,2020-06-17,1900000,98,19387,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST19729/2020,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,31,Shakas Rock,Ocean,76,2019-11-20,2020-06-15,1666000,131,12717,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST10062/2020,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,92,Shakas Rock,,,2020-01-26,2020-05-18,1500000,50,30000,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST9607/2020,Shakas Rock,SHAKAS ROCK,193,0,SS CHAKAS PLACE,8,Shakas Rock,Ocean,41,2020-01-24,2020-03-25,3077000,173,17786,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T9345/2020,Shakas Rock,SHAKAS ROCK,96,18,,,Shakas Rock,Lindsay,96,2019-12-02,2020-03-25,2150000,1019,2109,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST8603/2020,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,5,Shakas Rock,,,2020-02-03,2020-03-23,2550000,92,27717,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T7933/2020,Shakas Rock,FU,931,656,,,Shakas Rock,,,2020-01-09,2020-03-20,10000000,5269,1897,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+ST7693/2020,Shakas Rock,FU,931,655,SS ATRIUM,72,Shakas Rock,,,2018-08-14,2020-03-18,1750000,100,17500,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST7518/2020,Shakas Rock,SHAKAS ROCK,235,0,SS PEBBLE BEACH,15,Shakas Rock,General Lighting,1,2019-11-25,2020-03-17,2200000,138,15942,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST7382/2020,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,79,Shakas Rock,,,2020-01-14,2020-03-16,1550000,50,31000,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST6769/2020,Shakas Rock,SHAKAS ROCK,80,8,SS ARUBA,43,Shakas Rock,Ocean,72,2019-09-11,2020-03-11,1220000,98,12448,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST6755/2020,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,64,Shakas Rock,,,2020-01-24,2020-03-11,1550000,50,31000,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST6593/2020,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,80,Shakas Rock,,,2020-01-29,2020-03-10,2380000,97,24536,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST4820/2020,Shakas Rock,FU,931,655,SS ATRIUM,68,Shakas Rock,,,2019-09-30,2020-02-25,1300000,76,17105,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T4566/2020,Shakas Rock,FU,931,627,,,Shakas Rock,,,2019-09-20,2020-02-24,16500000,8270,1995,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST4622/2020,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,30,Shakas Rock,,,2019-12-04,2020-02-24,2300000,107,21495,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST3815/2020,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,6,Shakas Rock,,,,2020-02-14,0,503,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST3817/2020,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,6,Shakas Rock,,,2019-08-20,2020-02-14,8000000,503,15904,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST3816/2020,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,7,Shakas Rock,,,,2020-02-14,0,422,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST3233/2020,Shakas Rock,FU,931,655,SS ATRIUM,4,Shakas Rock,,,2019-10-16,2020-02-10,1400000,76,18421,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST3138/2020,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,65,Shakas Rock,,,2019-11-25,2020-02-07,1185000,49,24183,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST2549/2020,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,13,Shakas Rock,Ocean,76,2019-12-20,2020-02-03,2250000,171,13157,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST1410/2020,Shakas Rock,FU,931,655,SS ATRIUM,26,Shakas Rock,,,2019-10-24,2020-01-24,1575000,76,20723,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST1410/2020,Shakas Rock,FU,931,655,SS ATRIUM,87,Shakas Rock,,,2019-10-24,2020-01-24,1575000,18,87500,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST1135/2020,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,70,Shakas Rock,,,2019-11-15,2020-01-22,1160000,52,22307,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST39275/2019,Shakas Rock,SHAKAS ROCK,80,8,SS ARUBA,22,Shakas Rock,Ocean,72,2019-09-20,2019-12-13,2525000,171,14766,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST35164/2019,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,87,Shakas Rock,,,2019-10-01,2019-11-13,1650000,62,26612,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST35014/2019,Shakas Rock,FU,931,655,SS ATRIUM,12,Shakas Rock,,,2019-09-06,2019-11-12,1400000,76,18421,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST34025/2019,Shakas Rock,FU,931,655,SS ATRIUM,14,Shakas Rock,,,2019-07-05,2019-11-04,1390000,76,18289,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST32844/2019,Shakas Rock,SHAKAS ROCK,100,0,SS CHAKAS HEIGHTS,2,Shakas Rock,Ocean,45,,2019-10-23,0,109,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST32257/2019,Shakas Rock,SHAKAS ROCK,80,8,SS ARUBA,49,Shakas Rock,Ocean,72,2019-07-28,2019-10-18,2400000,210,11428,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST31292/2019,Shakas Rock,FU,931,655,SS ATRIUM,26,Shakas Rock,,,2019-08-17,2019-10-11,1575000,76,20723,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST31292/2019,Shakas Rock,FU,931,655,SS ATRIUM,87,Shakas Rock,,,2019-08-17,2019-10-11,1575000,18,87500,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST29701/2019,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,31,Shakas Rock,,,2019-07-12,2019-10-01,2600000,91,28571,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST28895/2019,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,75,Shakas Rock,,,2019-07-04,2019-09-26,1450000,65,22307,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST28994/2019,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,96,Shakas Rock,,,2019-08-02,2019-09-26,2300000,116,19827,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST28537/2019,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,57,Shakas Rock,,,2019-06-25,2019-09-20,1220000,53,23018,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST25020/2019,Shakas Rock,SHAKAS ROCK,122,0,SS EDEN PALMS,5,Shakas Rock,Main,2,2019-07-10,2019-08-23,2200000,85,25882,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST24562/2019,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,99,Shakas Rock,,,2019-05-09,2019-08-20,1480000,49,30204,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST23638/2019,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,49,Shakas Rock,,,2019-04-28,2019-08-12,2750000,107,25700,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST23006/2019,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,12,Shakas Rock,,,,2019-08-05,0,487,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST23007/2019,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,12,Shakas Rock,,,2018-02-22,2019-08-05,9000000,487,18480,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST22250/2019,Shakas Rock,FU,931,655,SS ATRIUM,22,Shakas Rock,,,2019-05-22,2019-07-30,1425000,76,18750,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST22250/2019,Shakas Rock,FU,931,655,SS ATRIUM,88,Shakas Rock,,,2019-05-22,2019-07-30,1425000,18,79166,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST22274/2019,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,8,Shakas Rock,,,2018-05-14,2019-07-30,6945000,426,16302,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST21094/2019,Shakas Rock,SHAKAS ROCK,268,0,SS TAHARI COASTAL ESTATE,18,Shakas Rock,,,2019-06-03,2019-07-19,8400000,423,19858,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T20881/2019,Shakas Rock,SHAKAS ROCK,96,11,,,Shakas Rock,Chagupe,2,2019-04-17,2019-07-18,1500000,978,1533,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST20928/2019,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,83,Shakas Rock,,,2019-06-11,2019-07-18,1195000,52,22980,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST20638/2019,Shakas Rock,FU,931,655,SS ATRIUM,59,Shakas Rock,,,2019-05-16,2019-07-16,1400000,76,18421,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST20412/2019,Shakas Rock,SHAKAS ROCK,126,4,SS CHAKAS COVE,66,Shakas Rock,,,2019-04-13,2019-07-15,1250000,50,25000,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST19331/2019,Shakas Rock,SHAKAS ROCK,235,0,SS PEBBLE BEACH,23,Shakas Rock,General Lighting,1,2018-12-12,2019-07-05,600000,137,4379,False,legal_entity,natural_person,2,sectional_title,True,lightstone_export
+T18291/2019,Shakas Rock,SHAKAS ROCK,132,0,,,Shakas Rock,Main,3,2019-04-03,2019-06-28,2470000,818,3019,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST17112/2019,Shakas Rock,SHAKAS ROCK,91,11,SS SIESTA,35,Shakas Rock,Ocean,76,2019-05-07,2019-06-19,2100000,140,15000,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST16807/2019,Shakas Rock,FU,931,655,SS ATRIUM,71,Shakas Rock,,,2018-07-13,2019-06-14,2400000,100,24000,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST16257/2019,Shakas Rock,FU,931,655,SS ATRIUM,11,Shakas Rock,,,2019-04-01,2019-06-10,1320000,76,17368,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export

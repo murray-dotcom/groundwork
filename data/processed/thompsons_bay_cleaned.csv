@@ -1,0 +1,501 @@
+title_deed_no,estate,township,erf,portion,sectional_scheme,unit,suburb,street,street_number,sales_date,registration_date,sales_price,size_m2,price_per_m2,possible_land_only,buyer_type,seller_type,number_of_owners,property_type,is_market_sale,data_source
+ST16101/2026,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,1,Thompsons Bay,Ocean,67,2026-03-09,2026-06-09,6200000,142,43661,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST16101/2026,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,2,Thompsons Bay,Ocean,67,2026-03-09,2026-06-09,6200000,39,158974,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST16101/2026,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,8,Thompsons Bay,Ocean,67,2026-03-09,2026-06-09,6200000,10,620000,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST15597/2026,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,110,Thompsons Bay,Ocean,247,2026-04-01,2026-06-03,3300000,17,194117,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST15597/2026,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,91,Thompsons Bay,Ocean,247,2026-04-01,2026-06-03,3300000,153,21568,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST11860/2026,Thompsons Bay,SHAKAS ROCK,90,1,SS MILKWOOD,8,Thompsons Bay,Ocean,84,2026-01-01,2026-04-29,3500000,232,15086,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST9838/2026,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,26,Thompsons Bay,Ocean,101,2026-01-08,2026-04-14,2700000,119,22689,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST6080/2026,Thompsons Bay,SHAKAS ROCK,90,5,SS LES DAUPHINE,16,Thompsons Bay,Ocean,86,2025-12-01,2026-03-11,3300000,232,14224,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST6066/2026,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,76,Thompsons Bay,Ocean,67,2026-01-16,2026-03-11,3750000,170,22058,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST4357/2026,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,4,Thompsons Bay,Ocean,101,2025-11-07,2026-02-27,2550000,131,19465,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST3826/2026,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,54,Thompsons Bay,Ocean,92,2025-12-10,2026-02-25,2060000,95,21684,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST3231/2026,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,98,Thompsons Bay,Ocean,247,2025-11-04,2026-02-13,3195000,175,18257,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST3231/2026,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,117,Thompsons Bay,Ocean,247,2025-11-04,2026-02-13,3195000,34,93970,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST2514/2026,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,45,Thompsons Bay,Ocean,92,2025-12-04,2026-02-06,3600000,144,25000,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST2210/2026,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,14,Thompsons Bay,Ocean,247,2025-12-12,2026-02-03,4275000,154,27759,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST74876/2025,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,88,Thompsons Bay,Ocean,247,2025-09-29,2025-12-12,3600000,154,23376,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST74876/2025,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,107,Thompsons Bay,Ocean,247,2025-09-29,2025-12-12,3600000,17,211764,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST74875/2025,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,1,Thompsons Bay,Ocean,101,2025-09-03,2025-12-12,3000000,128,23437,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST70575/2025,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,39,Thompsons Bay,Ocean,67,2025-09-25,2025-11-10,4500000,19,236842,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST70031/2025,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,115,Thompsons Bay,Ocean,92,2025-09-14,2025-11-04,3590000,17,211176,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST70031/2025,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,60,Thompsons Bay,Ocean,92,2025-09-14,2025-11-04,3590000,115,31217,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST66870/2025,Thompsons Bay,SHAKAS ROCK,252,0,SS MARICHEL,3,Thompsons Bay,Ocean,87,2025-08-18,2025-10-07,11300000,299,37792,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST65579/2025,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,46,Thompsons Bay,Ocean,67,2025-02-25,2025-09-23,5500000,148,37162,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST65579/2025,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,47,Thompsons Bay,Ocean,67,2025-02-25,2025-09-23,5500000,20,275000,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST65255/2025,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,108,Thompsons Bay,Ocean,92,2025-06-13,2025-09-19,2900000,17,170588,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST65255/2025,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,11,Thompsons Bay,Ocean,92,2025-06-13,2025-09-19,2900000,115,25217,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST64641/2025,Thompsons Bay,SHAKAS ROCK,243,0,SS THE ISLANDS,6,Thompsons Bay,Ocean,61,2025-08-01,2025-09-16,3000000,152,19736,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST62586/2025,Thompsons Bay,SHAKAS ROCK,243,0,SS THE ISLANDS,15,Thompsons Bay,Ocean,61,2025-02-07,2025-08-28,4300000,136,31617,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST61511/2025,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,76,Thompsons Bay,Ocean,67,,2025-08-19,0,170,0,False,natural_person,,2,sectional_title,False,lightstone_export
+ST20045/2025,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,76,Thompsons Bay,Ocean,92,2025-06-23,2025-08-05,2200000,95,23157,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST19181/2025,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,6,Thompsons Bay,Ocean,67,2025-06-10,2025-07-29,5995000,178,33679,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST19181/2025,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,9,Thompsons Bay,Ocean,67,2025-06-10,2025-07-29,5995000,15,399666,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST19181/2025,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,5,Thompsons Bay,Ocean,67,2025-06-10,2025-07-29,5995000,3,1998333,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST18694/2025,Thompsons Bay,SHAKAS ROCK,244,1,SS CHAKAS DUNES,5,Thompsons Bay,,,2025-05-20,2025-07-23,1495000,48,31145,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST18444/2025,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,85,Thompsons Bay,Ocean,92,2025-04-08,2025-07-21,298725,17,17572,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST17705/2025,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,80,Thompsons Bay,Ocean,92,2025-05-19,2025-07-11,2335000,95,24578,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST17581/2025,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,5,Thompsons Bay,Ocean,92,2025-05-18,2025-07-10,3500000,115,30434,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST17459/2025,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,84,Thompsons Bay,Ocean,92,2025-05-09,2025-07-09,2500000,17,147058,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST17459/2025,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,49,Thompsons Bay,Ocean,92,2025-05-09,2025-07-09,2500000,115,21739,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST17217/2025,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,15,Thompsons Bay,Ocean,101,2025-05-10,2025-07-07,3185000,127,25078,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST16612/2025,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,64,Thompsons Bay,Ocean,92,2025-05-13,2025-06-30,3472500,115,30195,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST15344/2025,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,42,Thompsons Bay,Ocean,92,2025-04-08,2025-06-18,2600000,115,22608,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST15014/2025,Thompsons Bay,SHAKAS ROCK,243,0,SS THE ISLANDS,12,Thompsons Bay,Ocean,61,2025-03-27,2025-06-13,3300000,154,21428,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST14151/2025,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,36,Thompsons Bay,Ocean,67,2025-04-10,2025-06-05,5000000,134,37313,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST14151/2025,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,37,Thompsons Bay,Ocean,67,2025-04-10,2025-06-05,5000000,20,250000,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST10568/2025,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,26,Thompsons Bay,Ocean,101,2025-03-25,2025-05-06,2370000,119,19915,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST9729/2025,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,74,Thompsons Bay,Ocean,92,2025-02-02,2025-04-24,2250000,95,23684,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST6068/2025,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,4,Thompsons Bay,,,2024-11-30,2025-03-17,3600000,161,22360,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST5773/2025,Thompsons Bay,SHAKAS ROCK,90,1,SS MILKWOOD,11,Thompsons Bay,Ocean,84,2025-01-13,2025-03-13,3600000,345,10434,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST4213/2025,Thompsons Bay,SHAKAS ROCK,248,0,SS LA ROCELLA,5,Thompsons Bay,Ocean,93,2024-11-11,2025-02-27,7700000,350,22000,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST4213/2025,Thompsons Bay,SHAKAS ROCK,248,0,SS LA ROCELLA,7,Thompsons Bay,Ocean,93,2024-11-11,2025-02-27,7700000,16,481250,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST3311/2025,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,12,Thompsons Bay,Ocean,101,2024-09-25,2025-02-18,2950000,128,23046,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST1945/2025,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,75,Thompsons Bay,Ocean,67,,2025-01-30,0,276,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST1847/2025,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,80,Thompsons Bay,Ocean,92,2024-11-15,2025-01-29,1825000,95,19210,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST1069/2025,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,67,Thompsons Bay,Ocean,67,2024-10-20,2025-01-21,3195000,120,26625,False,natural_person,,1,sectional_title,True,lightstone_export
+ST484/2025,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,115,Thompsons Bay,Ocean,247,2024-10-26,2025-01-14,4000000,17,235294,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST484/2025,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,102,Thompsons Bay,Ocean,247,2024-10-26,2025-01-14,4000000,153,26143,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST35586/2024,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,23,Thompsons Bay,Ocean,67,2024-10-18,2024-12-13,4995000,2,2497500,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST35586/2024,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,13,Thompsons Bay,Ocean,67,2024-10-18,2024-12-13,4995000,180,27750,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T33904/2024,Thompsons Bay,SHAKAS ROCK,90,10,,,Thompsons Bay,,,2024-07-18,2024-11-29,1150,423,2,True,legal_entity,legal_entity,1,freehold,False,lightstone_export
+ST33238/2024,Thompsons Bay,SHAKAS ROCK,244,1,SS CHAKAS DUNES,3,Thompsons Bay,,,2024-08-02,2024-11-25,1200000,67,17910,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST33237/2024,Thompsons Bay,SHAKAS ROCK,244,1,SS CHAKAS DUNES,4,Thompsons Bay,,,2024-08-02,2024-11-25,1200000,67,17910,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST31315/2024,Thompsons Bay,SHAKAS ROCK,83,0,SS MIRAMAR,4,Thompsons Bay,Ocean,91,2021-12-15,2024-11-08,8900000,441,20181,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST30995/2024,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,102,Thompsons Bay,Ocean,92,2024-08-21,2024-11-06,325000,17,19117,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST30994/2024,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,28,Thompsons Bay,Ocean,92,2024-08-21,2024-11-06,2725000,115,23695,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST30737/2024,Thompsons Bay,SHAKAS ROCK,244,1,SS CHAKAS DUNES,1,Thompsons Bay,,,,2024-11-04,0,123,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST30746/2024,Thompsons Bay,SHAKAS ROCK,244,1,SS CHAKAS DUNES,1,Thompsons Bay,,,2024-09-12,2024-11-04,2350000,123,19105,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST30738/2024,Thompsons Bay,SHAKAS ROCK,244,1,SS CHAKAS DUNES,2,Thompsons Bay,,,,2024-11-04,0,123,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST30743/2024,Thompsons Bay,SHAKAS ROCK,244,1,SS CHAKAS DUNES,2,Thompsons Bay,,,2024-09-12,2024-11-04,2350000,123,19105,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST30739/2024,Thompsons Bay,SHAKAS ROCK,244,1,SS CHAKAS DUNES,3,Thompsons Bay,,,,2024-11-04,0,67,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST30740/2024,Thompsons Bay,SHAKAS ROCK,244,1,SS CHAKAS DUNES,4,Thompsons Bay,,,,2024-11-04,0,67,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST30741/2024,Thompsons Bay,SHAKAS ROCK,244,1,SS CHAKAS DUNES,5,Thompsons Bay,,,,2024-11-04,0,48,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST30744/2024,Thompsons Bay,SHAKAS ROCK,244,1,SS CHAKAS DUNES,5,Thompsons Bay,,,2024-06-08,2024-11-04,1100000,48,22916,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST30742/2024,Thompsons Bay,SHAKAS ROCK,244,1,SS CHAKAS DUNES,6,Thompsons Bay,,,,2024-11-04,0,48,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST30745/2024,Thompsons Bay,SHAKAS ROCK,244,1,SS CHAKAS DUNES,6,Thompsons Bay,,,2024-07-26,2024-11-04,1100000,48,22916,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST30493/2024,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,55,Thompsons Bay,Ocean,67,2024-08-08,2024-10-31,3900000,138,28260,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST30240/2024,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,30,Thompsons Bay,Ocean,101,2024-09-25,2024-10-30,2200000,120,18333,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST28103/2024,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,21,Thompsons Bay,Ocean,92,2024-08-13,2024-10-09,2270000,95,23894,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST28131/2024,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,10,Thompsons Bay,Ocean,92,2024-08-10,2024-10-09,3400000,115,29565,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST27750/2024,Thompsons Bay,SHAKAS ROCK,90,1,SS MILKWOOD,3,Thompsons Bay,Ocean,84,2024-07-23,2024-10-04,2400000,232,10344,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST27089/2024,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,21,Thompsons Bay,,,2024-07-22,2024-09-27,3250000,197,16497,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST26731/2024,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,3,Thompsons Bay,,,2024-06-14,2024-09-25,3200000,160,20000,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST26745/2024,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,31,Thompsons Bay,Ocean,101,2024-07-16,2024-09-25,1950000,120,16250,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST25965/2024,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,40,Thompsons Bay,Ocean,92,2024-07-11,2024-09-16,1620000,95,17052,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST25966/2024,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,40,Thompsons Bay,Ocean,92,2024-07-19,2024-09-16,2500000,95,26315,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST25965/2024,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,92,Thompsons Bay,Ocean,92,2024-07-11,2024-09-16,1620000,17,95294,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST25966/2024,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,92,Thompsons Bay,Ocean,92,2024-07-19,2024-09-16,2500000,17,147058,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST25795/2024,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,41,Thompsons Bay,Ocean,247,2024-06-21,2024-09-13,3100000,17,182352,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST25795/2024,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,14,Thompsons Bay,Ocean,247,2024-06-21,2024-09-13,3100000,154,20129,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST24863/2024,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,34,Thompsons Bay,Ocean,92,2024-06-13,2024-09-06,3420000,115,29739,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST24863/2024,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,96,Thompsons Bay,Ocean,92,2024-06-13,2024-09-06,3420000,17,201176,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST23920/2024,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,22,Thompsons Bay,Ocean,101,2024-07-19,2024-08-27,2130000,128,16640,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST22016/2024,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,4,Thompsons Bay,Ocean,247,2024-06-16,2024-08-07,3750000,153,24509,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST22016/2024,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,32,Thompsons Bay,Ocean,247,2024-06-16,2024-08-07,3750000,17,220588,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST21772/2024,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,65,Thompsons Bay,Ocean,247,2024-07-07,2024-08-05,3500000,154,22727,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST21772/2024,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,84,Thompsons Bay,Ocean,247,2024-07-07,2024-08-05,3500000,17,205882,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST20851/2024,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,63,Thompsons Bay,Ocean,247,2024-06-08,2024-07-26,4800000,175,27428,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST20851/2024,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,81,Thompsons Bay,Ocean,247,2024-06-08,2024-07-26,4800000,33,145454,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T20292/2024,Thompsons Bay,SHAKAS ROCK,244,1,,,Thompsons Bay,,,,2024-07-22,0,3367,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+ST19893/2024,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,11,Thompsons Bay,Ocean,101,2024-01-18,2024-07-17,2600000,128,20312,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST15930/2024,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,1,Thompsons Bay,,,2024-03-15,2024-06-14,2600000,196,13265,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST15759/2024,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,22,Thompsons Bay,Ocean,92,2023-10-07,2024-06-13,2350000,95,24736,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST13560/2024,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,9,Thompsons Bay,Ocean,92,2024-04-12,2024-05-23,2075000,115,18043,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST9191/2024,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,22,Thompsons Bay,,,2023-10-16,2024-04-18,65000,16,4062,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST9154/2024,Thompsons Bay,SHAKAS ROCK,252,0,SS MARICHEL,10,Thompsons Bay,Ocean,87,2023-12-13,2024-04-17,10500000,377,27851,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST8492/2024,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,3,Thompsons Bay,Ocean,92,2024-01-12,2024-04-11,2200000,95,23157,False,natural_person,natural_person,3,sectional_title,True,lightstone_export
+ST4691/2024,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,71,Thompsons Bay,Ocean,67,2023-11-21,2024-03-01,4630000,146,31712,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST3645/2024,Thompsons Bay,SHAKAS ROCK,90,5,SS LES DAUPHINE,5,Thompsons Bay,Ocean,86,2023-08-24,2024-02-21,3200000,172,18604,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST1843/2024,Thompsons Bay,SHAKAS ROCK,243,0,SS THE ISLANDS,3,Thompsons Bay,Ocean,61,2023-12-12,2024-01-31,3800000,157,24203,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST1328/2024,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,66,Thompsons Bay,Ocean,92,2023-11-09,2024-01-24,4600000,191,24083,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST35214/2023,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,56,Thompsons Bay,Ocean,92,2023-10-17,2023-12-05,1660000,95,17473,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST34018/2023,Thompsons Bay,SHAKAS ROCK,252,0,SS MARICHEL,5,Thompsons Bay,Ocean,87,2023-07-19,2023-11-27,8500000,358,23743,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST29895/2023,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,18,Thompsons Bay,Ocean,92,2023-08-12,2023-10-20,2800000,115,24347,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST29893/2023,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,91,Thompsons Bay,Ocean,92,2023-09-06,2023-10-20,325000,17,19117,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST29641/2023,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,37,Thompsons Bay,Ocean,247,2023-06-07,2023-10-19,2800000,17,164705,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST29641/2023,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,9,Thompsons Bay,Ocean,247,2023-06-07,2023-10-19,2800000,153,18300,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST29435/2023,Thompsons Bay,SHAKAS ROCK,90,5,SS LES DAUPHINE,3,Thompsons Bay,Ocean,86,2023-07-20,2023-10-18,5245000,232,22607,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST29339/2023,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,17,Thompsons Bay,,,2023-07-21,2023-10-17,2895000,196,14770,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST28405/2023,Thompsons Bay,SHAKAS ROCK,243,0,SS THE ISLANDS,13,Thompsons Bay,Ocean,61,2023-07-09,2023-10-09,4250000,152,27960,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST28127/2023,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,22,Thompsons Bay,Ocean,67,2023-08-12,2023-10-04,4450000,2,2225000,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST28127/2023,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,12,Thompsons Bay,Ocean,67,2023-08-12,2023-10-04,4450000,180,24722,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST27985/2023,Thompsons Bay,SHAKAS ROCK,90,5,SS LES DAUPHINE,14,Thompsons Bay,Ocean,86,2023-08-14,2023-10-03,3200000,172,18604,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST24982/2023,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,44,Thompsons Bay,Ocean,92,2023-07-07,2023-08-31,3280000,115,28521,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST24443/2023,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,3,Thompsons Bay,,,2023-06-12,2023-08-25,2063000,160,12893,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST21709/2023,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,25,Thompsons Bay,Ocean,101,2023-02-05,2023-07-31,2100000,119,17647,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST18984/2023,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,73,Thompsons Bay,Ocean,247,2023-04-26,2023-07-07,3350000,17,197058,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST18984/2023,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,54,Thompsons Bay,Ocean,247,2023-04-26,2023-07-07,3350000,153,21895,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST16945/2023,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,22,Thompsons Bay,Ocean,92,,2023-06-20,0,95,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST16187/2023,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,89,Thompsons Bay,Ocean,92,2023-03-06,2023-06-14,100000,17,5882,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST14030/2023,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,36,Thompsons Bay,Ocean,67,2023-01-26,2023-05-25,4200000,134,31343,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST14030/2023,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,37,Thompsons Bay,Ocean,67,2023-01-26,2023-05-25,4200000,20,210000,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST12429/2023,Thompsons Bay,SHAKAS ROCK,90,1,SS MILKWOOD,6,Thompsons Bay,Ocean,84,2023-04-11,2023-05-11,3300000,232,14224,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST10294/2023,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,40,Thompsons Bay,Ocean,92,2022-12-05,2023-04-25,1500000,95,15789,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST10294/2023,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,92,Thompsons Bay,Ocean,92,2022-12-05,2023-04-25,1500000,17,88235,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST8895/2023,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,85,Thompsons Bay,Ocean,92,2023-01-24,2023-04-14,300000,17,17647,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST8898/2023,Thompsons Bay,SHAKAS ROCK,90,1,SS MILKWOOD,7,Thompsons Bay,Ocean,84,2023-02-24,2023-04-14,2870000,232,12370,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST8259/2023,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,105,Thompsons Bay,Ocean,92,2023-01-13,2023-04-05,2260000,17,132941,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST8259/2023,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,104,Thompsons Bay,Ocean,92,2023-01-13,2023-04-05,2260000,17,132941,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST8259/2023,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,24,Thompsons Bay,Ocean,92,2023-01-13,2023-04-05,2260000,95,23789,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST5458/2023,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,27,Thompsons Bay,Ocean,247,2022-10-12,2023-03-13,3800000,17,223529,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST5458/2023,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,105,Thompsons Bay,Ocean,247,2022-10-12,2023-03-13,3800000,175,21714,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST5458/2023,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,26,Thompsons Bay,Ocean,247,2022-10-12,2023-03-13,3800000,17,223529,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T4562/2023,Thompsons Bay,SHAKAS ROCK,91,5,,,Thompsons Bay,Rock,1,2022-11-01,2023-02-27,3250000,1349,2409,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST3943/2023,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,31,Thompsons Bay,Ocean,92,2022-11-29,2023-02-21,3412792,144,23699,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST2628/2023,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,62,Thompsons Bay,Ocean,247,2022-12-02,2023-02-08,4650000,175,26571,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST788/2023,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,52,Thompsons Bay,Ocean,67,,2023-01-12,0,113,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST549/2023,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,15,Thompsons Bay,Ocean,247,2022-10-18,2023-01-10,3550000,153,23202,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST549/2023,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,42,Thompsons Bay,Ocean,247,2022-10-18,2023-01-10,3550000,17,208823,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST43138/2022,Thompsons Bay,SHAKAS ROCK,83,0,SS MIRAMAR,2,Thompsons Bay,Ocean,91,2022-07-01,2022-12-01,4000000,396,10101,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST42967/2022,Thompsons Bay,SHAKAS ROCK,248,0,SS LA ROCELLA,3,Thompsons Bay,Ocean,93,2022-06-24,2022-11-30,7700000,312,24679,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST42967/2022,Thompsons Bay,SHAKAS ROCK,248,0,SS LA ROCELLA,8,Thompsons Bay,Ocean,93,2022-06-24,2022-11-30,7700000,15,513333,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST42749/2022,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,45,Thompsons Bay,Ocean,92,2022-09-06,2022-11-29,3550000,144,24652,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST42749/2022,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,86,Thompsons Bay,Ocean,92,2022-09-06,2022-11-29,3550000,17,208823,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST42558/2022,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,14,Thompsons Bay,Ocean,67,2022-09-12,2022-11-28,4500000,180,25000,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST42558/2022,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,24,Thompsons Bay,Ocean,67,2022-09-12,2022-11-28,4500000,2,2250000,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST40440/2022,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,106,Thompsons Bay,Ocean,92,2022-03-28,2022-11-11,250000,17,14705,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST40441/2022,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,15,Thompsons Bay,Ocean,92,2022-03-28,2022-11-11,3500000,115,30434,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST39996/2022,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,60,Thompsons Bay,Ocean,67,,2022-11-08,0,114,0,False,legal_entity,natural_person,1,sectional_title,False,lightstone_export
+ST36946/2022,Thompsons Bay,SHAKAS ROCK,83,0,SS MIRAMAR,2,Thompsons Bay,Ocean,91,2022-03-08,2022-10-20,4550000,396,11489,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST32294/2022,Thompsons Bay,SHAKAS ROCK,243,0,SS THE ISLANDS,4,Thompsons Bay,Ocean,61,2022-06-06,2022-09-13,3500000,152,23026,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST31415/2022,Thompsons Bay,SHAKAS ROCK,243,0,SS THE ISLANDS,8,Thompsons Bay,Ocean,61,2022-02-22,2022-09-09,4600000,211,21800,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST31307/2022,Thompsons Bay,SHAKAS ROCK,90,5,SS LES DAUPHINE,13,Thompsons Bay,Ocean,86,2022-06-28,2022-09-08,3700000,172,21511,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST31204/2022,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,59,Thompsons Bay,Ocean,67,2022-06-06,2022-09-07,2850000,120,23750,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST26509/2022,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,109,Thompsons Bay,Ocean,92,2022-03-22,2022-07-29,120000,17,7058,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST21130/2022,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,10,Thompsons Bay,Ocean,67,2022-02-17,2022-06-20,4300000,150,28666,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST21130/2022,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,11,Thompsons Bay,Ocean,67,2022-02-17,2022-06-20,4300000,19,226315,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST18626/2022,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,38,Thompsons Bay,Ocean,67,2022-02-27,2022-06-02,3900000,136,28676,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST18626/2022,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,39,Thompsons Bay,Ocean,67,2022-02-27,2022-06-02,3900000,19,205263,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST14535/2022,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,99,Thompsons Bay,Ocean,92,2022-02-16,2022-05-12,2795000,17,164411,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST14535/2022,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,47,Thompsons Bay,Ocean,92,2022-02-16,2022-05-12,2795000,144,19409,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST11078/2022,Thompsons Bay,SHAKAS ROCK,252,0,SS MARICHEL,9,Thompsons Bay,Ocean,87,2022-02-04,2022-04-08,9000000,414,21739,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T8985/2022,Thompsons Bay,SHAKAS ROCK,204,11,,,Thompsons Bay,,,,2022-03-23,0,4870,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+ST8379/2022,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,121,Thompsons Bay,Ocean,247,2022-01-31,2022-03-17,3000000,17,176470,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST8379/2022,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,97,Thompsons Bay,Ocean,247,2022-01-31,2022-03-17,3000000,153,19607,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST6678/2022,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,110,Thompsons Bay,Ocean,92,2022-01-17,2022-03-02,1990000,17,117058,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST6678/2022,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,83,Thompsons Bay,Ocean,92,2022-01-17,2022-03-02,1990000,95,20947,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST6707/2022,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,74,Thompsons Bay,Ocean,67,,2022-03-02,0,364,0,False,natural_person,,1,sectional_title,False,lightstone_export
+ST6708/2022,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,74,Thompsons Bay,Ocean,67,2021-10-04,2022-03-02,7400000,364,20329,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST5090/2022,Thompsons Bay,SHAKAS ROCK,90,1,SS MILKWOOD,6,Thompsons Bay,Ocean,84,2022-01-10,2022-02-21,2650000,232,11422,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST4892/2022,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,21,Thompsons Bay,Ocean,101,2021-10-01,2022-02-18,3000000,132,22727,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST2434/2022,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,71,Thompsons Bay,Ocean,67,2021-12-08,2022-01-28,3700000,146,25342,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST1679/2022,Thompsons Bay,SHAKAS ROCK,252,0,SS MARICHEL,6,Thompsons Bay,Ocean,87,2021-11-18,2022-01-24,7100000,357,19887,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST543/2022,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,82,Thompsons Bay,Ocean,92,2021-11-09,2022-01-12,1900000,95,20000,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST42215/2021,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,54,Thompsons Bay,Ocean,67,2021-09-29,2021-12-15,3700000,131,28244,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST37042/2021,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,2,Thompsons Bay,,,2021-08-04,2021-11-05,2150000,171,12573,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST36690/2021,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,76,Thompsons Bay,Ocean,92,2021-09-01,2021-11-04,1820000,95,19157,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST34732/2021,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,19,Thompsons Bay,,,,2021-10-19,0,196,0,False,legal_entity,natural_person,1,sectional_title,False,lightstone_export
+ST34733/2021,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,19,Thompsons Bay,,,2021-03-25,2021-10-19,2700000,196,13775,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST33293/2021,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,24,Thompsons Bay,Ocean,101,2021-06-21,2021-10-07,2200000,129,17054,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST32981/2021,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,50,Thompsons Bay,Ocean,67,2021-04-20,2021-10-05,2325000,118,19703,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST30521/2021,Thompsons Bay,SHAKAS ROCK,90,1,SS MILKWOOD,4,Thompsons Bay,Ocean,84,2021-05-29,2021-09-16,2450000,232,10560,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST30297/2021,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,19,Thompsons Bay,Ocean,101,2021-05-11,2021-09-15,2250000,131,17175,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST27618/2021,Thompsons Bay,SHAKAS ROCK,243,0,SS THE ISLANDS,19,Thompsons Bay,Ocean,61,2021-06-08,2021-08-31,4400000,155,28387,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST27397/2021,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,71,Thompsons Bay,Ocean,247,2021-03-30,2021-08-30,2800000,17,164705,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST27397/2021,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,52,Thompsons Bay,Ocean,247,2021-03-30,2021-08-30,2800000,154,18181,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST22993/2021,Thompsons Bay,SHAKAS ROCK,81,0,SS ROCHE-NOIR,6,Thompsons Bay,Ocean,95,2021-05-07,2021-07-27,6799000,278,24456,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST22079/2021,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,42,Thompsons Bay,Ocean,92,2021-05-03,2021-07-23,2300000,115,20000,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST19413/2021,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,66,Thompsons Bay,Ocean,92,2021-03-27,2021-06-25,3900000,191,20418,False,natural_person,legal_entity,3,sectional_title,True,lightstone_export
+ST17612/2021,Thompsons Bay,SHAKAS ROCK,83,0,SS MIRAMAR,2,Thompsons Bay,Ocean,91,,2021-06-11,0,396,0,False,legal_entity,natural_person,1,sectional_title,False,lightstone_export
+T17100/2021,Thompsons Bay,SHAKAS ROCK,90,0,,,Thompsons Bay,Ocean,73,2021-02-23,2021-06-09,14000000,5566,2515,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST16706/2021,Thompsons Bay,SHAKAS ROCK,90,5,SS LES DAUPHINE,14,Thompsons Bay,Ocean,86,2021-04-08,2021-06-07,3050000,172,17732,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST13953/2021,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,61,Thompsons Bay,Ocean,67,2020-11-28,2021-05-21,2650000,115,23043,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T13458/2021,Thompsons Bay,SHAKAS ROCK,90,9,,,Thompsons Bay,Ocean,75,,2021-05-19,0,2596,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+ST7669/2021,Thompsons Bay,SHAKAS ROCK,90,5,SS LES DAUPHINE,3,Thompsons Bay,Ocean,86,2020-12-01,2021-03-16,4197500,232,18092,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST7437/2021,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,4,Thompsons Bay,Ocean,247,2021-01-18,2021-03-15,2700000,153,17647,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST7437/2021,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,32,Thompsons Bay,Ocean,247,2021-01-18,2021-03-15,2700000,17,158823,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST7044/2021,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,76,Thompsons Bay,Ocean,247,2020-11-24,2021-03-12,4300000,33,130303,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST7044/2021,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,62,Thompsons Bay,Ocean,247,2020-11-24,2021-03-12,4300000,175,24571,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST6679/2021,Thompsons Bay,SHAKAS ROCK,252,0,SS MARICHEL,5,Thompsons Bay,Ocean,87,2021-01-24,2021-03-11,8850000,358,24720,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST5786/2021,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,55,Thompsons Bay,Ocean,92,2020-11-30,2021-03-08,1850000,95,19473,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST5311/2021,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,28,Thompsons Bay,,,2020-12-09,2021-03-04,110000,14,7857,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST5314/2021,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,11,Thompsons Bay,Ocean,247,2021-01-14,2021-03-04,3500000,175,20000,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST5314/2021,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,36,Thompsons Bay,Ocean,247,2021-01-14,2021-03-04,3500000,34,102941,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST4876/2021,Thompsons Bay,SHAKAS ROCK,243,0,SS THE ISLANDS,15,Thompsons Bay,Ocean,61,2020-09-15,2021-03-02,3400000,136,25000,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST4913/2021,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,31,Thompsons Bay,Ocean,92,2020-12-17,2021-03-02,3392250,144,23557,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST3885/2021,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,15,Thompsons Bay,,,2020-11-15,2021-02-22,2150000,161,13354,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST3425/2021,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,61,Thompsons Bay,Ocean,247,2020-10-26,2021-02-17,2650000,153,17320,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST3425/2021,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,80,Thompsons Bay,Ocean,247,2020-10-26,2021-02-17,2650000,17,155882,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST35739/2020,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,21,Thompsons Bay,Ocean,92,2020-08-05,2020-11-03,1650000,95,17368,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST35269/2020,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,62,Thompsons Bay,Ocean,67,2020-07-20,2020-10-29,3000000,143,20979,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST33868/2020,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,115,Thompsons Bay,Ocean,92,2020-06-25,2020-10-20,1750000,17,102941,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST33868/2020,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,60,Thompsons Bay,Ocean,92,2020-06-25,2020-10-20,1750000,115,15217,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST31811/2020,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,13,Thompsons Bay,Ocean,92,2020-08-17,2020-10-05,2600000,115,22608,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST29770/2020,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,15,Thompsons Bay,Ocean,67,2019-12-18,2020-09-18,3883000,180,21572,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST29770/2020,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,25,Thompsons Bay,Ocean,67,2019-12-18,2020-09-18,3883000,2,1941500,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST26343/2020,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,78,Thompsons Bay,Ocean,92,2020-05-30,2020-08-26,1750000,95,18421,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST26008/2020,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,1,Thompsons Bay,Ocean,101,2020-06-10,2020-08-24,2200000,128,17187,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST25791/2020,Thompsons Bay,SHAKAS ROCK,252,0,SS MARICHEL,9,Thompsons Bay,Ocean,87,2020-06-02,2020-08-21,4000000,414,9661,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST24852/2020,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,55,Thompsons Bay,Ocean,92,2020-03-26,2020-08-14,1350000,95,14210,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST21408/2020,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,68,Thompsons Bay,Ocean,247,2020-02-19,2020-07-07,3700000,175,21142,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST21408/2020,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,82,Thompsons Bay,Ocean,247,2020-02-19,2020-07-07,3700000,33,112121,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST20991/2020,Thompsons Bay,SHAKAS ROCK,252,0,SS MARICHEL,11,Thompsons Bay,Ocean,87,2019-08-16,2020-07-03,6000000,377,15915,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST20131/2020,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,63,Thompsons Bay,Ocean,247,2020-02-21,2020-06-23,3100000,175,17714,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST20131/2020,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,81,Thompsons Bay,Ocean,247,2020-02-21,2020-06-23,3100000,33,93939,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST19850/2020,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,18,Thompsons Bay,Ocean,101,2019-12-13,2020-06-18,2250000,119,18907,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST9933/2020,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,93,Thompsons Bay,Ocean,247,2020-02-20,2020-03-26,3400000,175,19428,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST9933/2020,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,112,Thompsons Bay,Ocean,247,2020-02-20,2020-03-26,3400000,17,200000,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST9933/2020,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,111,Thompsons Bay,Ocean,247,2020-02-20,2020-03-26,3400000,17,200000,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST7867/2020,Thompsons Bay,SHAKAS ROCK,243,0,SS THE ISLANDS,1,Thompsons Bay,Ocean,61,2019-09-09,2020-03-19,4250000,135,31481,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST7893/2020,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,59,Thompsons Bay,Ocean,92,2019-11-22,2020-03-19,2200000,115,19130,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST5756/2020,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,23,Thompsons Bay,Ocean,92,2019-12-03,2020-03-02,1900000,95,20000,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T4420/2020,Thompsons Bay,SHAKAS ROCK,91,6,,,Thompsons Bay,Rock,3,2019-08-29,2020-02-21,4200000,1262,3328,False,natural_person,natural_person,3,freehold,True,lightstone_export
+ST4188/2020,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,3,Thompsons Bay,Ocean,92,2019-11-13,2020-02-19,1825000,95,19210,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST535/2020,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,51,Thompsons Bay,Ocean,67,2019-06-04,2020-01-14,2700000,118,22881,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST39258/2019,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,21,Thompsons Bay,Ocean,101,2019-06-19,2019-12-13,2000000,132,15151,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST28473/2019,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,106,Thompsons Bay,Ocean,92,2019-07-10,2019-09-20,170000,17,10000,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST27761/2019,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,103,Thompsons Bay,Ocean,247,2019-06-27,2019-09-16,2600000,153,16993,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST27761/2019,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,116,Thompsons Bay,Ocean,247,2019-06-27,2019-09-16,2600000,34,76470,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST24555/2019,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,108,Thompsons Bay,Ocean,92,2019-06-04,2019-08-20,2700000,17,158823,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST24555/2019,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,11,Thompsons Bay,Ocean,92,2019-06-04,2019-08-20,2700000,115,23478,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T23813/2019,Thompsons Bay,SHAKAS ROCK,85,0,,,Thompsons Bay,Ocean,85,2019-05-17,2019-08-14,780000,2360,330,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T23814/2019,Thompsons Bay,SHAKAS ROCK,86,0,,,Thompsons Bay,Ocean,83,2019-05-17,2019-08-14,220000,1864,118,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST19516/2019,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,10,Thompsons Bay,Ocean,92,2019-05-07,2019-07-08,2500000,115,21739,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST19042/2019,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,101,Thompsons Bay,Ocean,247,2019-04-08,2019-07-03,2000000,153,13071,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST19042/2019,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,114,Thompsons Bay,Ocean,247,2019-04-08,2019-07-03,2000000,17,117647,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST17790/2019,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,53,Thompsons Bay,Ocean,67,2019-05-06,2019-06-26,2600000,113,23008,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST16986/2019,Thompsons Bay,SHAKAS ROCK,90,5,SS LES DAUPHINE,9,Thompsons Bay,Ocean,86,2019-01-28,2019-06-18,2800000,172,16279,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST16490/2019,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,110,Thompsons Bay,Ocean,247,2019-04-09,2019-06-12,2450000,17,144117,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST16490/2019,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,91,Thompsons Bay,Ocean,247,2019-04-09,2019-06-12,2450000,153,16013,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST13430/2019,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,50,Thompsons Bay,Ocean,247,2019-02-13,2019-05-16,3400000,34,100000,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST13430/2019,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,23,Thompsons Bay,Ocean,247,2019-02-13,2019-05-16,3400000,175,19428,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST11633/2019,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,22,Thompsons Bay,,,2018-10-12,2019-04-26,100000,16,6250,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST6820/2019,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,7,Thompsons Bay,Ocean,247,2019-01-10,2019-03-14,2166000,154,14064,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST6820/2019,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,34,Thompsons Bay,Ocean,247,2019-01-10,2019-03-14,2166000,17,127411,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST3183/2019,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,20,Thompsons Bay,Ocean,101,2018-12-06,2019-02-12,1850000,131,14122,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST2713/2019,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,79,Thompsons Bay,Ocean,92,2018-10-14,2019-02-07,1800000,95,18947,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST2536/2019,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,25,Thompsons Bay,Ocean,101,2018-11-06,2019-02-06,1999000,119,16798,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST1208/2019,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,58,Thompsons Bay,Ocean,92,2018-10-14,2019-01-24,2750000,115,23913,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST40370/2018,Thompsons Bay,SHAKAS ROCK,81,0,SS ROCHE-NOIR,5,Thompsons Bay,Ocean,95,2018-09-14,2018-12-10,4775000,278,17176,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST37694/2018,Thompsons Bay,SHAKAS ROCK,243,0,SS THE ISLANDS,1,Thompsons Bay,Ocean,61,2018-10-23,2018-11-23,4250000,135,31481,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST36377/2018,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,37,Thompsons Bay,Ocean,92,2018-08-14,2018-11-14,1800000,95,18947,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST33498/2018,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,113,Thompsons Bay,Ocean,247,2018-08-27,2018-10-26,2500000,17,147058,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST33498/2018,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,100,Thompsons Bay,Ocean,247,2018-08-27,2018-10-26,2500000,153,16339,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST33178/2018,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,15,Thompsons Bay,Ocean,247,2018-08-13,2018-10-25,2400000,153,15686,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST33178/2018,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,42,Thompsons Bay,Ocean,247,2018-08-13,2018-10-25,2400000,17,141176,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST32294/2018,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,70,Thompsons Bay,Ocean,247,2018-08-14,2018-10-19,3150000,33,95454,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST32294/2018,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,56,Thompsons Bay,Ocean,247,2018-08-14,2018-10-19,3150000,175,18000,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST29824/2018,Thompsons Bay,SHAKAS ROCK,252,0,SS MARICHEL,12,Thompsons Bay,Ocean,87,2018-08-27,2018-09-28,6000000,376,15957,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST29633/2018,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,71,Thompsons Bay,Ocean,247,2018-08-21,2018-09-27,2650000,17,155882,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST29633/2018,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,52,Thompsons Bay,Ocean,247,2018-08-21,2018-09-27,2650000,154,17207,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST29268/2018,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,98,Thompsons Bay,Ocean,247,2018-04-23,2018-09-25,1515000,175,8657,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST29268/2018,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,117,Thompsons Bay,Ocean,247,2018-04-23,2018-09-25,1515000,34,44558,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T28045/2018,Thompsons Bay,SHAKAS ROCK,90,7,,,Thompsons Bay,Ocean,90,2018-06-26,2018-09-13,969231,1007,962,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T28046/2018,Thompsons Bay,SHAKAS ROCK,90,8,,,Thompsons Bay,Ocean,75,2018-06-22,2018-09-13,11630769,1589,7319,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST22303/2018,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,43,Thompsons Bay,Ocean,247,2018-05-02,2018-07-23,2540000,17,149411,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST22303/2018,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,16,Thompsons Bay,Ocean,247,2018-05-02,2018-07-23,2540000,153,16601,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST22163/2018,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,15,Thompsons Bay,Ocean,101,2018-03-13,2018-07-20,2100000,127,16535,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T19814/2018,Thompsons Bay,SHAKAS ROCK,85,0,,,Thompsons Bay,Ocean,85,2018-05-05,2018-07-03,780000,2360,330,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T19815/2018,Thompsons Bay,SHAKAS ROCK,85,0,,,Thompsons Bay,Ocean,85,2018-05-05,2018-07-03,780000,2360,330,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T19816/2018,Thompsons Bay,SHAKAS ROCK,85,0,,,Thompsons Bay,Ocean,85,2018-05-05,2018-07-03,780000,2360,330,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T19582/2018,Thompsons Bay,SHAKAS ROCK,86,0,,,Thompsons Bay,Ocean,83,2018-05-05,2018-06-29,220000,1864,118,True,natural_person,natural_person,1,freehold,False,lightstone_export
+T19583/2018,Thompsons Bay,SHAKAS ROCK,86,0,,,Thompsons Bay,Ocean,83,2018-05-05,2018-06-29,220000,1864,118,True,natural_person,natural_person,2,freehold,False,lightstone_export
+T19584/2018,Thompsons Bay,SHAKAS ROCK,86,0,,,Thompsons Bay,Ocean,83,2018-05-05,2018-06-29,220000,1864,118,True,natural_person,natural_person,1,freehold,False,lightstone_export
+ST13560/2018,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,19,Thompsons Bay,Ocean,101,2018-02-09,2018-05-09,1500000,131,11450,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST13372/2018,Thompsons Bay,SHAKAS ROCK,90,1,SS MILKWOOD,8,Thompsons Bay,Ocean,84,2018-03-15,2018-05-08,2700000,232,11637,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST10134/2018,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,18,Thompsons Bay,Ocean,101,2018-02-20,2018-04-13,2000000,119,16806,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST9359/2018,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,76,Thompsons Bay,Ocean,247,2018-01-16,2018-04-09,3200000,33,96969,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST9359/2018,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,62,Thompsons Bay,Ocean,247,2018-01-16,2018-04-09,3200000,175,18285,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST8606/2018,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,68,Thompsons Bay,Ocean,247,2017-02-16,2018-03-28,2500000,175,14285,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST8606/2018,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,82,Thompsons Bay,Ocean,247,2017-02-16,2018-03-28,2500000,33,75757,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST5345/2018,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,72,Thompsons Bay,Ocean,92,2017-12-22,2018-03-07,1650000,95,17368,False,natural_person,natural_person,3,sectional_title,True,lightstone_export
+ST5316/2018,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,41,Thompsons Bay,Ocean,247,2017-12-14,2018-03-07,2200000,17,129411,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST5316/2018,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,14,Thompsons Bay,Ocean,247,2017-12-14,2018-03-07,2200000,154,14285,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST4356/2018,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,85,Thompsons Bay,Ocean,92,2017-12-23,2018-02-12,2700000,17,158823,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST4356/2018,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,44,Thompsons Bay,Ocean,92,2017-12-23,2018-02-12,2700000,115,23478,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST952/2018,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,7,Thompsons Bay,Ocean,101,2017-08-07,2018-01-12,2000000,102,19607,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST37738/2017,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,66,Thompsons Bay,Ocean,92,2017-08-21,2017-11-27,2850000,191,14921,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST32141/2017,Thompsons Bay,SHAKAS ROCK,243,0,SS THE ISLANDS,20,Thompsons Bay,Ocean,61,,2017-10-16,0,152,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST32140/2017,Thompsons Bay,SHAKAS ROCK,243,0,SS THE ISLANDS,18,Thompsons Bay,Ocean,61,,2017-10-16,0,152,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST30801/2017,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,29,Thompsons Bay,,,2017-08-05,2017-10-04,135000,16,8437,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST25626/2017,Thompsons Bay,SHAKAS ROCK,90,1,SS MILKWOOD,8,Thompsons Bay,Ocean,84,2017-06-01,2017-08-23,2250000,232,9698,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST25329/2017,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,14,Thompsons Bay,,,2017-03-21,2017-08-21,2000000,171,11695,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST25330/2017,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,18,Thompsons Bay,Ocean,67,2017-03-28,2017-08-21,3500000,180,19444,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST25161/2017,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,26,Thompsons Bay,,,2017-07-03,2017-08-18,120000,14,8571,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST18129/2017,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,53,Thompsons Bay,Ocean,67,2017-05-05,2017-06-23,2170000,113,19203,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST17851/2017,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,31,Thompsons Bay,Ocean,92,2017-02-10,2017-06-21,3118150,144,21653,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST17323/2017,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,68,Thompsons Bay,Ocean,67,2017-05-03,2017-06-20,2500000,114,21929,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST16949/2017,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,67,Thompsons Bay,Ocean,67,2017-05-08,2017-06-15,2600000,120,21666,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST16641/2017,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,29,Thompsons Bay,Ocean,101,2017-02-22,2017-06-13,1950000,119,16386,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST11463/2017,Thompsons Bay,SHAKAS ROCK,90,1,SS MILKWOOD,8,Thompsons Bay,Ocean,84,,2017-05-02,0,232,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST10433/2017,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,3,Thompsons Bay,Ocean,92,2017-02-08,2017-04-19,1300000,95,13684,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST7953/2017,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,21,Thompsons Bay,Ocean,247,2016-12-02,2017-03-24,2400000,153,15686,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST7953/2017,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,48,Thompsons Bay,Ocean,247,2016-12-02,2017-03-24,2400000,17,141176,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST7779/2017,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,73,Thompsons Bay,Ocean,247,2017-01-27,2017-03-23,2500000,17,147058,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST7779/2017,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,54,Thompsons Bay,Ocean,247,2017-01-27,2017-03-23,2500000,153,16339,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST7306/2017,Thompsons Bay,SHAKAS ROCK,248,0,SS LA ROCELLA,1,Thompsons Bay,Ocean,93,2017-01-26,2017-03-17,12000000,351,34188,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST6098/2017,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,4,Thompsons Bay,Ocean,101,2016-11-13,2017-03-09,2350000,131,17938,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST5209/2017,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,54,Thompsons Bay,Ocean,92,2016-11-21,2017-03-01,1590000,95,16736,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST3071/2017,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,18,Thompsons Bay,,,2016-12-01,2017-02-09,2775000,198,14015,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST3071/2017,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,24,Thompsons Bay,,,2016-12-01,2017-02-09,2775000,14,198214,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST2517/2017,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,7,Thompsons Bay,,,,2017-02-03,0,160,0,False,legal_entity,natural_person,1,sectional_title,False,lightstone_export
+ST2357/2017,Thompsons Bay,SHAKAS ROCK,243,0,SS THE ISLANDS,8,Thompsons Bay,Ocean,61,2016-11-21,2017-02-01,2550000,211,12085,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST1414/2017,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,74,Thompsons Bay,Ocean,92,2016-11-25,2017-01-20,1575000,95,16578,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST862/2017,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,4,Thompsons Bay,,,2016-11-06,2017-01-13,2600000,161,16149,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST38702/2016,Thompsons Bay,SHAKAS ROCK,248,0,SS LA ROCELLA,3,Thompsons Bay,Ocean,93,2016-08-22,2016-12-08,2021184,312,6478,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST38703/2016,Thompsons Bay,SHAKAS ROCK,248,0,SS LA ROCELLA,8,Thompsons Bay,Ocean,93,2016-08-22,2016-12-08,40000,15,2666,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T35407/2016,Thompsons Bay,SHAKAS ROCK,85,0,,,Thompsons Bay,Ocean,85,,2016-11-17,0,2360,0,False,natural_person,natural_person,10,freehold,False,lightstone_export
+T35408/2016,Thompsons Bay,SHAKAS ROCK,86,0,,,Thompsons Bay,Ocean,83,,2016-11-17,0,1864,0,False,natural_person,natural_person,10,freehold,False,lightstone_export
+ST35382/2016,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,1,Thompsons Bay,Ocean,247,2016-09-16,2016-11-16,230000,154,1493,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST34864/2016,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,116,Thompsons Bay,Ocean,92,2016-06-01,2016-11-11,2200000,17,129411,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST34864/2016,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,57,Thompsons Bay,Ocean,92,2016-06-01,2016-11-11,2200000,115,19130,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST31895/2016,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,56,Thompsons Bay,Ocean,92,2016-07-13,2016-10-24,1570000,95,16526,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST32041/2016,Thompsons Bay,SHAKAS ROCK,90,5,SS LES DAUPHINE,12,Thompsons Bay,Ocean,86,2016-08-23,2016-10-24,3700000,232,15948,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST30977/2016,Thompsons Bay,SHAKAS ROCK,90,1,SS MILKWOOD,11,Thompsons Bay,Ocean,84,2016-06-30,2016-10-17,2100000,345,6086,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST28230/2016,Thompsons Bay,SHAKAS ROCK,90,5,SS LES DAUPHINE,9,Thompsons Bay,Ocean,86,2016-08-11,2016-09-26,2800000,172,16279,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST27258/2016,Thompsons Bay,SHAKAS ROCK,90,1,SS MILKWOOD,10,Thompsons Bay,Ocean,84,2016-06-28,2016-09-15,2200000,234,9401,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST25850/2016,Thompsons Bay,SHAKAS ROCK,252,0,SS MARICHEL,10,Thompsons Bay,Ocean,87,2016-06-30,2016-09-06,5800000,377,15384,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST23777/2016,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,82,Thompsons Bay,Ocean,92,2016-06-10,2016-08-25,1500000,95,15789,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST23647/2016,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,88,Thompsons Bay,Ocean,92,2016-06-11,2016-08-24,2750000,17,161764,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST23647/2016,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,48,Thompsons Bay,Ocean,92,2016-06-11,2016-08-24,2750000,144,19097,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST21686/2016,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,25,Thompsons Bay,Ocean,101,2016-02-22,2016-07-29,1050000,119,8823,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST20987/2016,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,65,Thompsons Bay,Ocean,92,2016-06-01,2016-07-25,1250000,95,13157,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST15866/2016,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,14,Thompsons Bay,,,2016-02-12,2016-06-06,2200000,171,12865,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST14200/2016,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,26,Thompsons Bay,,,2016-02-22,2016-05-25,50000,14,3571,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST12815/2016,Thompsons Bay,SHAKAS ROCK,83,0,SS MIRAMAR,1,Thompsons Bay,Ocean,91,2016-02-28,2016-05-13,11500000,421,27315,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST11915/2016,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,64,Thompsons Bay,Ocean,92,2015-12-28,2016-05-05,2096000,115,18226,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST10505/2016,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,35,Thompsons Bay,Ocean,92,2016-03-02,2016-04-20,2375000,115,20652,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST10505/2016,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,95,Thompsons Bay,Ocean,92,2016-03-02,2016-04-20,2375000,17,139705,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST7977/2016,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,29,Thompsons Bay,Ocean,92,2016-02-15,2016-03-23,2650000,144,18402,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST7977/2016,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,101,Thompsons Bay,Ocean,92,2016-02-15,2016-03-23,2650000,17,155882,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST7054/2016,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,12,Thompsons Bay,Ocean,101,2015-12-11,2016-03-16,1850000,128,14453,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST6774/2016,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,17,Thompsons Bay,,,2015-09-15,2016-03-15,1800000,196,9183,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST2010/2016,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,107,Thompsons Bay,Ocean,247,2015-09-04,2016-01-28,1,17,0,False,legal_entity,natural_person,1,sectional_title,False,lightstone_export
+ST39579/2015,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,70,Thompsons Bay,Ocean,247,2014-04-23,2015-12-04,2650000,33,80303,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST39579/2015,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,56,Thompsons Bay,Ocean,247,2014-04-23,2015-12-04,2650000,175,15142,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST39096/2015,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,2,Thompsons Bay,Ocean,247,2015-09-02,2015-12-02,2195000,154,14253,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST39096/2015,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,33,Thompsons Bay,Ocean,247,2015-09-02,2015-12-02,2195000,17,129117,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST38786/2015,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,7,Thompsons Bay,Ocean,247,2015-10-23,2015-11-30,2000000,154,12987,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST38786/2015,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,34,Thompsons Bay,Ocean,247,2015-10-23,2015-11-30,2000000,17,117647,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST33417/2015,Thompsons Bay,SHAKAS ROCK,243,0,SS THE ISLANDS,7,Thompsons Bay,Ocean,61,2015-07-07,2015-10-23,3040000,209,14545,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST32868/2015,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,18,Thompsons Bay,Ocean,247,2015-06-02,2015-10-21,2900000,175,16571,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST32868/2015,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,45,Thompsons Bay,Ocean,247,2015-06-02,2015-10-21,2900000,33,87878,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST32116/2015,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,23,Thompsons Bay,Ocean,101,2015-06-11,2015-10-14,1995000,128,15585,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST29291/2015,Thompsons Bay,SHAKAS ROCK,83,0,SS MIRAMAR,2,Thompsons Bay,Ocean,91,2015-06-23,2015-09-18,6800000,396,17171,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST29033/2015,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,17,Thompsons Bay,Ocean,247,2015-06-23,2015-09-16,2700000,175,15428,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST29033/2015,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,44,Thompsons Bay,Ocean,247,2015-06-23,2015-09-16,2700000,33,81818,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST26594/2015,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,11,Thompsons Bay,Ocean,247,2015-03-31,2015-08-27,2550000,175,14571,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST26594/2015,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,36,Thompsons Bay,Ocean,247,2015-03-31,2015-08-27,2550000,34,75000,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST26135/2015,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,55,Thompsons Bay,Ocean,92,2015-06-18,2015-08-24,1450000,95,15263,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST23816/2015,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,69,Thompsons Bay,Ocean,247,2015-04-04,2015-07-31,2900000,175,16571,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST23816/2015,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,87,Thompsons Bay,Ocean,247,2015-04-04,2015-07-31,2900000,33,87878,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST22978/2015,Thompsons Bay,SHAKAS ROCK,243,0,SS THE ISLANDS,12,Thompsons Bay,Ocean,61,2015-04-08,2015-07-27,2500000,154,16233,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST21125/2015,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,37,Thompsons Bay,Ocean,247,2015-05-22,2015-07-13,2475000,17,145588,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST21125/2015,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,9,Thompsons Bay,Ocean,247,2015-05-22,2015-07-13,2475000,153,16176,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST17332/2015,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,41,Thompsons Bay,Ocean,92,2015-04-07,2015-06-11,1600000,115,13913,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST15902/2015,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,13,Thompsons Bay,,,2015-04-05,2015-06-01,2200000,161,13664,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST14755/2015,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,61,Thompsons Bay,Ocean,247,2015-02-24,2015-05-22,2420000,153,15816,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST14755/2015,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,80,Thompsons Bay,Ocean,247,2015-02-24,2015-05-22,2420000,17,142352,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST13696/2015,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,30,Thompsons Bay,Ocean,101,2015-03-07,2015-05-18,1945000,120,16208,False,natural_person,natural_person,3,sectional_title,True,lightstone_export
+ST12134/2015,Thompsons Bay,SHAKAS ROCK,90,5,SS LES DAUPHINE,14,Thompsons Bay,Ocean,86,2015-03-06,2015-05-05,2785000,172,16191,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST10461/2015,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,65,Thompsons Bay,Ocean,247,2014-09-26,2015-04-21,2550000,154,16558,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST10461/2015,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,84,Thompsons Bay,Ocean,247,2014-09-26,2015-04-21,2550000,17,150000,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST9369/2015,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,56,Thompsons Bay,Ocean,67,2014-07-01,2015-04-10,2752000,124,22193,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST7631/2015,Thompsons Bay,SHAKAS ROCK,90,5,SS LES DAUPHINE,9,Thompsons Bay,Ocean,86,2014-09-26,2015-03-23,2500000,172,14534,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST7008/2015,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,45,Thompsons Bay,Ocean,92,2015-01-22,2015-03-17,3000000,144,20833,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST7008/2015,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,86,Thompsons Bay,Ocean,92,2015-01-22,2015-03-17,3000000,17,176470,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST6661/2015,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,72,Thompsons Bay,Ocean,92,2014-11-27,2015-03-13,1250000,95,13157,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST40428/2014,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,5,Thompsons Bay,,,2014-10-02,2014-11-27,1960000,175,11200,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST40445/2014,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,53,Thompsons Bay,Ocean,92,2014-10-11,2014-11-27,1480000,95,15578,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST40266/2014,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,21,Thompsons Bay,,,2014-09-10,2014-11-26,2200000,197,11167,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST37053/2014,Thompsons Bay,SHAKAS ROCK,252,0,SS MARICHEL,7,Thompsons Bay,Ocean,87,2014-08-29,2014-11-06,7130000,372,19166,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST36922/2014,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,72,Thompsons Bay,Ocean,67,2014-08-14,2014-11-05,2400000,124,19354,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST35470/2014,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,14,Thompsons Bay,Ocean,92,2014-08-25,2014-10-24,2150000,115,18695,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T34538/2014,Thompsons Bay,SHAKAS ROCK,204,0,,,Thompsons Bay,,,2013-03-06,2014-10-17,1000,1358,0,True,legal_entity,legal_entity,1,freehold,False,lightstone_export
+ST33859/2014,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,81,Thompsons Bay,Ocean,92,2014-07-04,2014-10-13,1425000,95,15000,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST33859/2014,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,111,Thompsons Bay,Ocean,92,2014-07-04,2014-10-13,1425000,17,83823,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST33833/2014,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,65,Thompsons Bay,Ocean,67,2014-07-15,2014-10-10,2250000,125,18000,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST31211/2014,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,1,Thompsons Bay,Ocean,247,2014-06-03,2014-09-17,2050000,154,13311,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST31083/2014,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,37,Thompsons Bay,Ocean,247,2014-06-17,2014-09-16,2250000,17,132352,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST31083/2014,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,9,Thompsons Bay,Ocean,247,2014-06-17,2014-09-16,2250000,153,14705,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST27995/2014,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,19,Thompsons Bay,Ocean,67,2014-04-15,2014-08-20,3150000,180,17500,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST27995/2014,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,29,Thompsons Bay,Ocean,67,2014-04-15,2014-08-20,3150000,2,1575000,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST27085/2014,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,1,Thompsons Bay,Ocean,67,,2014-08-13,0,142,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST27085/2014,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,2,Thompsons Bay,Ocean,67,,2014-08-13,0,39,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST27085/2014,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,8,Thompsons Bay,Ocean,67,,2014-08-13,0,10,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST24175/2014,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,58,Thompsons Bay,Ocean,67,2014-03-31,2014-07-23,1700000,119,14285,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST22701/2014,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,60,Thompsons Bay,Ocean,67,2014-05-17,2014-07-11,1750000,114,15350,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST21946/2014,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,85,Thompsons Bay,Ocean,92,2014-05-21,2014-07-04,2600000,17,152941,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST21946/2014,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,44,Thompsons Bay,Ocean,92,2014-05-21,2014-07-04,2600000,115,22608,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST20629/2014,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,68,Thompsons Bay,Ocean,247,2013-10-31,2014-06-24,2726662,175,15580,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20629/2014,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,82,Thompsons Bay,Ocean,247,2013-10-31,2014-06-24,2726662,33,82626,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20396/2014,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,71,Thompsons Bay,Ocean,67,2014-03-18,2014-06-23,2545000,146,17431,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST19161/2014,Thompsons Bay,SHAKAS ROCK,243,0,SS THE ISLANDS,1,Thompsons Bay,Ocean,61,2014-03-19,2014-06-12,2800000,135,20740,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST18178/2014,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,109,Thompsons Bay,Ocean,92,2014-02-10,2014-06-06,2300000,17,135294,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST18178/2014,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,9,Thompsons Bay,Ocean,92,2014-02-10,2014-06-06,2300000,115,20000,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST16587/2014,Thompsons Bay,SHAKAS ROCK,90,1,SS MILKWOOD,9,Thompsons Bay,Ocean,84,2013-11-26,2014-05-26,2050000,232,8836,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST15936/2014,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,11,Thompsons Bay,,,2014-02-24,2014-05-21,1975000,170,11617,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST15091/2014,Thompsons Bay,SHAKAS ROCK,252,0,SS MARICHEL,5,Thompsons Bay,Ocean,87,2013-12-21,2014-05-14,6475000,358,18086,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST14444/2014,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,105,Thompsons Bay,Ocean,92,2014-03-26,2014-05-08,90000,17,5294,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST9822/2014,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,88,Thompsons Bay,Ocean,92,2014-01-02,2014-03-26,2385000,17,140294,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST9822/2014,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,48,Thompsons Bay,Ocean,92,2014-01-02,2014-03-26,2385000,144,16562,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST9822/2014,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,89,Thompsons Bay,Ocean,92,2014-01-02,2014-03-26,2385000,17,140294,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST9559/2014,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,68,Thompsons Bay,Ocean,92,2014-01-25,2014-03-25,1350000,95,14210,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST8813/2014,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,51,Thompsons Bay,Ocean,67,2014-01-10,2014-03-17,2200000,118,18644,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST5301/2014,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,14,Thompsons Bay,Ocean,67,2013-10-22,2014-02-26,4100000,180,22777,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST5301/2014,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,24,Thompsons Bay,Ocean,67,2013-10-22,2014-02-26,4100000,2,2050000,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST5198/2014,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,35,Thompsons Bay,Ocean,247,2013-11-26,2014-02-25,1815000,17,106764,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST5198/2014,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,8,Thompsons Bay,Ocean,247,2013-11-26,2014-02-25,1815000,154,11785,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST4769/2014,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,34,Thompsons Bay,Ocean,92,2013-11-27,2014-02-20,2500000,115,21739,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST4769/2014,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,96,Thompsons Bay,Ocean,92,2013-11-27,2014-02-20,2500000,17,147058,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST3682/2014,Thompsons Bay,SHAKAS ROCK,248,0,SS LA ROCELLA,8,Thompsons Bay,Ocean,93,2013-09-17,2014-02-10,40000,15,2666,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST2087/2014,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,27,Thompsons Bay,Ocean,247,2013-10-23,2014-01-28,2700000,17,158823,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST2087/2014,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,105,Thompsons Bay,Ocean,247,2013-10-23,2014-01-28,2700000,175,15428,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST2087/2014,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,26,Thompsons Bay,Ocean,247,2013-10-23,2014-01-28,2700000,17,158823,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST40382/2013,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,31,Thompsons Bay,Ocean,67,2013-06-19,2013-12-11,2300000,2,1150000,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST40382/2013,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,21,Thompsons Bay,Ocean,67,2013-06-19,2013-12-11,2300000,180,12777,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST39364/2013,Thompsons Bay,SHAKAS ROCK,83,0,SS MIRAMAR,1,Thompsons Bay,Ocean,91,2013-09-28,2013-12-03,10400000,421,24703,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST36631/2013,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,17,Thompsons Bay,Ocean,92,2013-08-15,2013-11-14,1700000,115,14782,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST34495/2013,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,23,Thompsons Bay,Ocean,92,2013-06-27,2013-10-29,1150000,95,12105,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST32015/2013,Thompsons Bay,SHAKAS ROCK,248,0,SS LA ROCELLA,1,Thompsons Bay,Ocean,93,2013-08-26,2013-10-09,7500000,351,21367,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST31874/2013,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,72,Thompsons Bay,Ocean,92,2013-09-07,2013-10-08,1130000,95,11894,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST30194/2013,Thompsons Bay,SHAKAS ROCK,81,0,SS ROCHE-NOIR,4,Thompsons Bay,Ocean,95,2013-07-14,2013-09-26,7000000,318,22012,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST29634/2013,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,51,Thompsons Bay,Ocean,67,,2013-09-23,0,118,0,False,natural_person,legal_entity,2,sectional_title,False,lightstone_export
+ST29631/2013,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,54,Thompsons Bay,Ocean,92,2013-06-16,2013-09-23,1100000,95,11578,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST28229/2013,Thompsons Bay,SHAKAS ROCK,90,5,SS LES DAUPHINE,2,Thompsons Bay,Ocean,86,2013-06-21,2013-09-11,2300000,172,13372,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST27601/2013,Thompsons Bay,SHAKAS ROCK,90,5,SS LES DAUPHINE,8,Thompsons Bay,Ocean,86,2013-07-08,2013-09-06,2100000,232,9051,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST27332/2013,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,41,Thompsons Bay,Ocean,247,2013-07-03,2013-09-03,1900000,17,111764,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST27332/2013,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,14,Thompsons Bay,Ocean,247,2013-07-03,2013-09-03,1900000,154,12337,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST27015/2013,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,22,Thompsons Bay,Ocean,92,2013-06-24,2013-08-30,1500000,95,15789,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST26608/2013,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,70,Thompsons Bay,Ocean,92,2013-04-10,2013-08-28,1350000,95,14210,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST26587/2013,Thompsons Bay,SHAKAS ROCK,90,5,SS LES DAUPHINE,10,Thompsons Bay,Ocean,86,2013-07-15,2013-08-28,2200000,172,12790,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST25072/2013,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,34,Thompsons Bay,Ocean,67,2013-03-15,2013-08-16,3600000,148,24324,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST25072/2013,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,35,Thompsons Bay,Ocean,67,2013-03-15,2013-08-16,3600000,19,189473,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST23845/2013,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,82,Thompsons Bay,Ocean,92,2013-05-09,2013-08-06,1330000,95,14000,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST22912/2013,Thompsons Bay,SHAKAS ROCK,83,0,SS MIRAMAR,4,Thompsons Bay,Ocean,91,2013-05-08,2013-07-25,8500000,441,19274,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T11873/2013,Thompsons Bay,SHAKAS ROCK,90,0,,,Thompsons Bay,Ocean,73,2012-12-23,2013-04-29,8750000,5566,1572,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST11265/2013,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,115,Thompsons Bay,Ocean,247,2013-01-04,2013-04-23,2200000,17,129411,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST11265/2013,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,102,Thompsons Bay,Ocean,247,2013-01-04,2013-04-23,2200000,153,14379,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST10951/2013,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,4,Thompsons Bay,,,2013-01-15,2013-04-19,2650000,161,16459,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST9185/2013,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,55,Thompsons Bay,Ocean,92,2013-01-18,2013-03-28,1270000,95,13368,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST7056/2013,Thompsons Bay,SHAKAS ROCK,248,0,SS LA ROCELLA,5,Thompsons Bay,Ocean,93,2012-12-19,2013-03-13,5400000,350,15428,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST7056/2013,Thompsons Bay,SHAKAS ROCK,248,0,SS LA ROCELLA,7,Thompsons Bay,Ocean,93,2012-12-19,2013-03-13,5400000,16,337500,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST6174/2013,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,98,Thompsons Bay,Ocean,92,2013-01-16,2013-03-05,3400000,17,200000,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST6174/2013,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,32,Thompsons Bay,Ocean,92,2013-01-16,2013-03-05,3400000,144,23611,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST39091/2012,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,8,Thompsons Bay,Ocean,92,2012-09-06,2012-12-11,1875000,115,16304,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST38520/2012,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,16,Thompsons Bay,Ocean,101,2012-08-23,2012-12-07,600000,127,4724,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST37873/2012,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,12,Thompsons Bay,Ocean,92,2012-09-24,2012-12-04,2200000,115,19130,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST35362/2012,Thompsons Bay,SHAKAS ROCK,90,5,SS LES DAUPHINE,13,Thompsons Bay,Ocean,86,2012-09-19,2012-11-15,1875000,172,10901,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST31760/2012,Thompsons Bay,SHAKAS ROCK,243,0,SS THE ISLANDS,16,Thompsons Bay,Ocean,61,,2012-10-16,0,144,0,False,natural_person,legal_entity,1,sectional_title,False,lightstone_export
+ST31404/2012,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,113,Thompsons Bay,Ocean,247,2012-05-29,2012-10-12,1900000,17,111764,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST31404/2012,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,100,Thompsons Bay,Ocean,247,2012-05-29,2012-10-12,1900000,153,12418,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST29260/2012,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,80,Thompsons Bay,Ocean,92,2012-08-02,2012-09-25,1270000,95,13368,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST28919/2012,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,102,Thompsons Bay,Ocean,92,2012-07-17,2012-09-20,1750000,17,102941,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST28919/2012,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,28,Thompsons Bay,Ocean,92,2012-07-17,2012-09-20,1750000,115,15217,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST26952/2012,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,60,Thompsons Bay,Ocean,247,2012-05-03,2012-09-03,2050000,153,13398,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST26952/2012,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,79,Thompsons Bay,Ocean,247,2012-05-03,2012-09-03,2050000,17,120588,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST25277/2012,Thompsons Bay,SHAKAS ROCK,80,3,SS THE BEACON,16,Thompsons Bay,Ocean,92,2012-04-11,2012-08-20,1900000,115,16521,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST23830/2012,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,69,Thompsons Bay,Ocean,67,2012-01-26,2012-08-06,1700000,114,14912,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST21833/2012,Thompsons Bay,SHAKAS ROCK,80,10,SS MARTINIQUE CHAKAS ROCK,36,Thompsons Bay,Ocean,67,2012-05-16,2012-07-24,2550000,134,19029,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST20657/2012,Thompsons Bay,SHAKAS ROCK,204,14,SS KALLISTI,17,Thompsons Bay,Ocean,101,2012-04-04,2012-07-12,1750000,119,14705,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST18645/2012,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,41,Thompsons Bay,Ocean,247,,2012-06-26,0,17,0,False,natural_person,,2,sectional_title,False,lightstone_export
+ST18645/2012,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,14,Thompsons Bay,Ocean,247,,2012-06-26,0,154,0,False,natural_person,,2,sectional_title,False,lightstone_export
+ST17901/2012,Thompsons Bay,SHAKAS ROCK,243,0,SS THE ISLANDS,3,Thompsons Bay,Ocean,61,2012-03-13,2012-06-20,2500000,157,15923,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST17640/2012,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,15,Thompsons Bay,Ocean,247,2012-02-24,2012-06-19,1300000,153,8496,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST17640/2012,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,42,Thompsons Bay,Ocean,247,2012-02-24,2012-06-19,1300000,17,76470,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST17214/2012,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,27,Thompsons Bay,Ocean,247,,2012-06-14,0,17,0,False,natural_person,legal_entity,1,sectional_title,False,lightstone_export
+ST17214/2012,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,105,Thompsons Bay,Ocean,247,,2012-06-14,0,175,0,False,natural_person,legal_entity,1,sectional_title,False,lightstone_export
+ST17210/2012,Thompsons Bay,SHAKAS ROCK,204,5,SS KAMARI,12,Thompsons Bay,,,2012-04-04,2012-06-14,1950000,160,12187,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST17214/2012,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,26,Thompsons Bay,Ocean,247,,2012-06-14,0,17,0,False,natural_person,legal_entity,1,sectional_title,False,lightstone_export
+ST16100/2012,Thompsons Bay,SHAKAS ROCK,247,0,SS LONG ISLAND,12,Thompsons Bay,Ocean,247,2012-03-14,2012-06-05,2400000,175,13714,False,natural_person,natural_person,2,sectional_title,True,lightstone_export

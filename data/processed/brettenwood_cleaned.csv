@@ -1,0 +1,501 @@
+title_deed_no,estate,township,erf,portion,sectional_scheme,unit,suburb,street,street_number,sales_date,registration_date,sales_price,size_m2,price_per_m2,possible_land_only,buyer_type,seller_type,number_of_owners,property_type,is_market_sale,data_source
+T16191/2026,Brettenwood Coastal Estate,BRETTENWOOD,169,0,,,Brettenwood,Kingfisher,169,2026-03-11,2026-06-10,5150000,780,6602,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST13970/2026,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,27,Brettenwood,,,2026-03-09,2026-05-20,4100000,178,23033,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T12646/2026,Brettenwood Coastal Estate,BRETTENWOOD,208,0,,,Brettenwood,Malachite,208,2026-03-06,2026-05-08,6500000,795,8176,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST11880/2026,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,74,Brettenwood,,,2026-02-23,2026-04-29,1875000,88,21306,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T10827/2026,Brettenwood Coastal Estate,BRETTENWOOD,171,0,,,Brettenwood,Spurwig,171,2025-09-22,2026-04-20,1350000,703,1920,True,natural_person,natural_person,2,freehold,False,lightstone_export
+ST8655/2026,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,75,Brettenwood,,,2026-01-16,2026-03-31,2150000,88,24431,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST8624/2026,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,3,Brettenwood,,,2025-10-01,2026-03-31,3300000,173,19075,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T6691/2026,Brettenwood Coastal Estate,BRETTENWOOD,221,4,,,Brettenwood,Hornbill,4,2026-01-14,2026-03-17,6600000,960,6875,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+ST6788/2026,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,72,Brettenwood,,,2026-01-08,2026-03-17,1950000,88,22159,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T6116/2026,Brettenwood Coastal Estate,BRETTENWOOD,332,0,,,Brettenwood,,,2025-12-31,2026-03-12,2100000,2495,841,True,legal_entity,natural_person,1,freehold,False,lightstone_export
+T6018/2026,Brettenwood Coastal Estate,BRETTENWOOD,114,0,,,Brettenwood,,,2025-12-05,2026-03-11,9000000,1112,8093,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T5985/2026,Brettenwood Coastal Estate,BRETTENWOOD,524,0,,,Brettenwood,Jacana,524,2025-12-14,2026-03-11,5750000,1019,5642,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST4604/2026,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,24,Brettenwood,,,2025-11-07,2026-03-02,3900000,159,24528,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST1159/2026,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,8,Brettenwood,,,2025-09-08,2026-01-23,3750000,219,17123,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST850/2026,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,11,Brettenwood,,,2025-11-16,2026-01-20,5600000,291,19243,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T45/2026,Brettenwood Coastal Estate,BRETTENWOOD,307,0,,,Brettenwood,Plover,307,2025-10-21,2026-01-06,6900000,993,6948,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T75516/2025,Brettenwood Coastal Estate,BRETTENWOOD,53,0,,,Brettenwood,Fish Eagle,53,2025-08-29,2025-12-18,8360000,1105,7565,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST75212/2025,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,17,Brettenwood,,,2025-10-27,2025-12-15,3725000,216,17245,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T71442/2025,Brettenwood Coastal Estate,BRETTENWOOD,221,5,,,Brettenwood,,,2025-09-16,2025-11-17,6200000,1074,5772,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T71160/2025,Brettenwood Coastal Estate,BRETTENWOOD,88,0,,,Brettenwood,Kingfisher,88,,2025-11-14,0,1273,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T69605/2025,Brettenwood Coastal Estate,BRETTENWOOD,197,0,,,Brettenwood,Kingfisher,197,2025-07-31,2025-10-31,5350000,987,5420,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST69506/2025,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,38,Brettenwood,,,2025-01-26,2025-10-30,2780000,152,18289,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T67633/2025,Brettenwood Coastal Estate,BRETTENWOOD,72,0,,,Brettenwood,Kingfisher,72,2025-06-02,2025-10-14,8500000,1034,8220,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T66650/2025,Brettenwood Coastal Estate,BRETTENWOOD,286,0,,,Brettenwood,,,,2025-10-03,0,840,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+ST63562/2025,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,54,Brettenwood,,,2025-06-27,2025-09-05,3000000,170,17647,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T62518/2025,Brettenwood Coastal Estate,BRETTENWOOD,532,0,,,Brettenwood,Jacana,532,2025-05-27,2025-08-28,7450000,1183,6297,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T61535/2025,Brettenwood Coastal Estate,BRETTENWOOD,165,0,,,Brettenwood,Kingfisher,165,2025-06-24,2025-08-20,6900000,905,7624,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T18916/2025,Brettenwood Coastal Estate,BRETTENWOOD,205,0,,,Brettenwood,Malachite,205,2025-05-07,2025-07-25,4000000,922,4338,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST18668/2025,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,21,Brettenwood,,,2025-01-07,2025-07-23,5750000,335,17164,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T16421/2025,Brettenwood Coastal Estate,BRETTENWOOD,264,0,,,Brettenwood,,,2025-04-25,2025-06-30,7695000,808,9523,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T10023/2025,Brettenwood Coastal Estate,BRETTENWOOD,265,0,,,Brettenwood,,,2025-02-15,2025-04-30,5700000,706,8073,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST10219/2025,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,69,Brettenwood,,,2025-02-19,2025-04-30,1800000,88,20454,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T9523/2025,Brettenwood Coastal Estate,BRETTENWOOD,29,0,,,Brettenwood,Franolin,29,2025-01-17,2025-04-22,600000,1092,549,True,legal_entity,natural_person,1,freehold,False,lightstone_export
+T8657/2025,Brettenwood Coastal Estate,BRETTENWOOD,322,0,,,Brettenwood,,,2025-01-05,2025-04-10,7400000,1360,5441,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T8435/2025,Brettenwood Coastal Estate,BRETTENWOOD,90,0,,,Brettenwood,Kingfisher,90,2025-01-24,2025-04-09,12400000,1194,10385,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST7744/2025,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,19,Brettenwood,,,2024-12-13,2025-04-02,5100000,288,17708,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T6922/2025,Brettenwood Coastal Estate,BRETTENWOOD,221,9,,,Brettenwood,Hornbill,9,2025-01-13,2025-03-26,6500000,923,7042,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST6426/2025,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,35,Brettenwood,,,2025-02-09,2025-03-20,4250000,192,22135,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T6267/2025,Brettenwood Coastal Estate,BRETTENWOOD,496,0,,,Brettenwood,,,2021-11-27,2025-03-19,5900000,1010,5841,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T3964/2025,Brettenwood Coastal Estate,BRETTENWOOD,290,0,,,Brettenwood,,,2024-11-07,2025-02-26,6800000,1278,5320,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST2868/2025,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,12,Brettenwood,,,2024-10-25,2025-02-12,2900000,112,25892,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST2467/2025,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,23,Brettenwood,,,2024-12-28,2025-02-06,2540000,127,20000,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST2269/2025,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,22,Brettenwood,,,2024-09-18,2025-02-04,2900000,120,24166,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T1996/2025,Brettenwood Coastal Estate,BRETTENWOOD,221,8,,,Brettenwood,Hornbill,8,2024-11-20,2025-01-31,6350000,906,7008,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T582/2025,Brettenwood Coastal Estate,BRETTENWOOD,85,0,,,Brettenwood,Kingfisher,85,2024-10-28,2025-01-16,6650000,1132,5874,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T35720/2024,Brettenwood Coastal Estate,BRETTENWOOD,62,0,,,Brettenwood,Malachite,62,2024-11-02,2024-12-17,7100000,1382,5137,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST33968/2024,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,18,Brettenwood,,,2024-09-26,2024-11-29,2995000,121,24752,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST32491/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,21,Brettenwood,,,2024-09-05,2024-11-18,3650000,219,16666,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T32050/2024,Brettenwood Coastal Estate,BRETTENWOOD,283,0,,,Brettenwood,Plover,283,2024-07-29,2024-11-15,6400000,1291,4957,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST30237/2024,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,28,Brettenwood,,,2024-08-23,2024-10-30,4050000,177,22881,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T30003/2024,Brettenwood Coastal Estate,BRETTENWOOD,148,0,,,Brettenwood,Falcons,148,2023-10-16,2024-10-29,7950000,1310,6068,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST30052/2024,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,16,Brettenwood,,,2024-09-02,2024-10-29,2880000,121,23801,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST28369/2024,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,31,Brettenwood,,,2024-07-30,2024-10-11,4150000,187,22192,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T26118/2024,Brettenwood Coastal Estate,BRETTENWOOD,44,0,,,Brettenwood,Fish Eagle,44,2024-06-18,2024-09-18,5900000,1151,5125,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T26112/2024,Brettenwood Coastal Estate,BRETTENWOOD,221,7,,,Brettenwood,Hornbill,7,2024-03-11,2024-09-18,6300000,901,6992,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T25998/2024,Brettenwood Coastal Estate,BRETTENWOOD,104,0,,,Brettenwood,Kingfisher,104,2024-06-14,2024-09-17,7225000,1329,5436,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST22398/2024,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,25,Brettenwood,,,2024-07-05,2024-08-13,3925000,178,22050,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T22227/2024,Brettenwood Coastal Estate,BRETTENWOOD,169,0,,,Brettenwood,Kingfisher,169,2024-05-22,2024-08-12,4940000,780,6333,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST21877/2024,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,71,Brettenwood,,,2024-04-01,2024-08-06,1800000,88,20454,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T20216/2024,Brettenwood Coastal Estate,BRETTENWOOD,26,0,,,Brettenwood,Franolin,26,2024-05-13,2024-07-22,6100000,879,6939,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T20176/2024,Brettenwood Coastal Estate,BRETTENWOOD,166,0,,,Brettenwood,Kingfisher,166,2024-04-22,2024-07-22,5650000,1101,5131,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T17627/2024,Brettenwood Coastal Estate,BRETTENWOOD,260,0,,,Brettenwood,,,2024-04-09,2024-06-28,5800000,1535,3778,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T17014/2024,Brettenwood Coastal Estate,BRETTENWOOD,17,0,,,Brettenwood,Malachite,17,2024-03-28,2024-06-25,7500000,974,7700,False,natural_person,legal_entity,4,freehold,True,lightstone_export
+ST11901/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,1,Brettenwood,,,,2024-05-09,0,245,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11902/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,5,Brettenwood,,,,2024-05-09,0,276,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11903/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,6,Brettenwood,,,,2024-05-09,0,280,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11904/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,7,Brettenwood,,,,2024-05-09,0,282,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11897/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,2,Brettenwood,,,,2024-05-09,0,257,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11898/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,3,Brettenwood,,,,2024-05-09,0,240,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11899/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,4,Brettenwood,,,,2024-05-09,0,263,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11900/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,8,Brettenwood,,,,2024-05-09,0,250,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11905/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,9,Brettenwood,,,,2024-05-09,0,250,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11906/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,10,Brettenwood,,,,2024-05-09,0,268,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11907/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,11,Brettenwood,,,,2024-05-09,0,283,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11908/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,12,Brettenwood,,,,2024-05-09,0,273,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11909/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,13,Brettenwood,,,,2024-05-09,0,238,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11910/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,14,Brettenwood,,,,2024-05-09,0,228,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11911/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,15,Brettenwood,,,,2024-05-09,0,252,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11912/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,16,Brettenwood,,,,2024-05-09,0,244,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11913/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,17,Brettenwood,,,,2024-05-09,0,216,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11914/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,18,Brettenwood,,,,2024-05-09,0,218,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11915/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,19,Brettenwood,,,,2024-05-09,0,258,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11916/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,20,Brettenwood,,,,2024-05-09,0,252,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11917/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,21,Brettenwood,,,,2024-05-09,0,219,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11918/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,22,Brettenwood,,,,2024-05-09,0,220,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11919/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,23,Brettenwood,,,,2024-05-09,0,256,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST11921/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,23,Brettenwood,,,2023-09-06,2024-05-09,3958250,256,15461,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST11920/2024,Brettenwood Coastal Estate,BRETTENWOOD,472,0,SS WEAVERS NEST,24,Brettenwood,,,,2024-05-09,0,257,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+T11496/2024,Brettenwood Coastal Estate,BRETTENWOOD,10,0,,,Brettenwood,Sunbird,10,2024-02-28,2024-05-07,1600000,3134,510,True,natural_person,natural_person,1,freehold,False,lightstone_export
+T10335/2024,Brettenwood Coastal Estate,BRETTENWOOD,163,0,,,Brettenwood,Kingfisher,163,2024-03-22,2024-04-29,5100000,1043,4889,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST9724/2024,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,17,Brettenwood,,,2024-02-29,2024-04-23,2900000,120,24166,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST8193/2024,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,75,Brettenwood,,,2024-02-19,2024-04-09,1650000,88,18750,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST6769/2024,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,25,Brettenwood,,,2023-12-06,2024-03-25,3000000,237,12658,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST6642/2024,Brettenwood Coastal Estate,BRETTENWOOD,220,0,SS PELICAN PLACE,7,Brettenwood,,,2020-09-22,2024-03-22,3375000,150,22500,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST6643/2024,Brettenwood Coastal Estate,BRETTENWOOD,220,0,SS PELICAN PLACE,7,Brettenwood,,,2023-11-10,2024-03-22,3850000,150,25666,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T5807/2024,Brettenwood Coastal Estate,BRETTENWOOD,536,0,,,Brettenwood,Jacana,536,2024-01-05,2024-03-14,7250000,1105,6561,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST5105/2024,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,56,Brettenwood,,,2023-10-20,2024-03-07,2544750,152,16741,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T4122/2024,Brettenwood Coastal Estate,BRETTENWOOD,30,0,,,Brettenwood,Franolin,30,,2024-02-27,0,935,0,False,natural_person,natural_person,2,freehold,False,lightstone_export
+ST3373/2024,Brettenwood Coastal Estate,BRETTENWOOD,193,0,SS HERON PLACE,6,Brettenwood,Brettenwood,193,2023-12-02,2024-02-19,5395000,249,21666,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST2519/2024,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,15,Brettenwood,,,2023-10-17,2024-02-07,2995000,121,24752,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST4810/2024,Brettenwood Coastal Estate,BRETTENWOOD,220,0,SS PELICAN PLACE,1,Brettenwood,,,2023-10-16,2024-02-04,6000000,208,28846,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T36732/2023,Brettenwood Coastal Estate,BRETTENWOOD,495,0,,,Brettenwood,,,2023-09-08,2023-12-19,6900000,1879,3672,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T36593/2023,Brettenwood Coastal Estate,BRETTENWOOD,208,0,,,Brettenwood,Malachite,208,2023-08-25,2023-12-18,5100000,795,6415,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST34017/2023,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,59,Brettenwood,,,2023-09-26,2023-11-27,3100000,171,18128,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST33661/2023,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,14,Brettenwood,,,2023-09-10,2023-11-23,5100000,296,17229,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T27555/2023,Brettenwood Coastal Estate,BRETTENWOOD,172,0,,,Brettenwood,Kestrel,172,2023-06-21,2023-09-28,3000000,655,4580,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST27241/2023,Brettenwood Coastal Estate,BRETTENWOOD,220,0,SS PELICAN PLACE,5,Brettenwood,,,2020-07-28,2023-09-22,3800000,194,19587,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T25063/2023,Brettenwood Coastal Estate,BRETTENWOOD,532,0,,,Brettenwood,Jacana,532,2023-03-30,2023-09-01,7200000,1183,6086,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST24971/2023,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,20,Brettenwood,,,2023-06-26,2023-08-31,5200000,294,17687,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST23941/2023,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,41,Brettenwood,,,,2023-08-22,0,169,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+T23092/2023,Brettenwood Coastal Estate,BRETTENWOOD,169,0,,,Brettenwood,Kingfisher,169,,2023-08-16,0,780,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T22556/2023,Brettenwood Coastal Estate,BRETTENWOOD,86,0,,,Brettenwood,Kingfisher,86,2023-05-24,2023-08-10,6700000,1111,6030,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST22250/2023,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,32,Brettenwood,,,2023-04-12,2023-08-04,2685000,127,21141,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T22038/2023,Brettenwood Coastal Estate,BRETTENWOOD,103,0,,,Brettenwood,Kingfisher,103,2023-01-17,2023-08-03,6600000,1430,4615,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST22004/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,19,Brettenwood,,,2022-12-08,2023-08-02,3650000,157,23248,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T21075/2023,Brettenwood Coastal Estate,BRETTENWOOD,126,0,,,Brettenwood,,,2023-02-24,2023-07-25,7000000,1002,6986,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST20993/2023,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,12,Brettenwood,,,2023-05-09,2023-07-24,4350000,297,14646,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T20608/2023,Brettenwood Coastal Estate,BRETTENWOOD,523,0,,,Brettenwood,Jacana,523,2023-04-02,2023-07-20,6600000,926,7127,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST20628/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,1,Brettenwood,,,2023-05-18,2023-07-20,2900000,113,25663,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST19900/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,7,Brettenwood,,,2020-01-30,2023-07-17,3375000,161,20962,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST19352/2023,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,27,Brettenwood,,,2023-05-05,2023-07-12,3400000,178,19101,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST19200/2023,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,15,Brettenwood,,,2023-04-17,2023-07-11,5000000,297,16835,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST18840/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,20,Brettenwood,,,2021-02-24,2023-07-06,3375000,135,25000,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T17767/2023,Brettenwood Coastal Estate,BRETTENWOOD,203,0,,,Brettenwood,Kingfisher,203,2023-04-01,2023-06-28,5350000,812,6588,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T17373/2023,Brettenwood Coastal Estate,BRETTENWOOD,490,0,,,Brettenwood,,,2023-05-08,2023-06-23,1700000,1185,1434,True,natural_person,legal_entity,1,freehold,False,lightstone_export
+ST15502/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,21,Brettenwood,,,2021-02-17,2023-06-07,4175000,194,21520,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST14672/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,24,Brettenwood,,,,2023-05-30,0,159,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST14673/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,25,Brettenwood,,,,2023-05-30,0,178,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST14674/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,26,Brettenwood,,,,2023-05-30,0,158,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST14675/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,27,Brettenwood,,,,2023-05-30,0,121,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST14677/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,27,Brettenwood,,,2020-07-29,2023-05-30,2850000,121,23553,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST14676/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,28,Brettenwood,,,,2023-05-30,0,177,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST14183/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,1,Brettenwood,,,2021-01-18,2023-05-26,2575000,113,22787,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST11014/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,23,Brettenwood,,,2021-04-12,2023-05-02,3701390,173,21395,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST9383/2023,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,73,Brettenwood,,,2023-01-22,2023-04-19,1775000,88,20170,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T7110/2023,Brettenwood Coastal Estate,BRETTENWOOD,52,0,,,Brettenwood,Fish Eagle,52,2023-01-27,2023-03-30,2250000,1056,2130,True,legal_entity,natural_person,1,freehold,False,lightstone_export
+ST6738/2023,Brettenwood Coastal Estate,BRETTENWOOD,220,0,SS PELICAN PLACE,4,Brettenwood,,,,2023-03-28,0,144,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST6741/2023,Brettenwood Coastal Estate,BRETTENWOOD,220,0,SS PELICAN PLACE,4,Brettenwood,,,2022-06-18,2023-03-28,3375000,144,23437,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST6739/2023,Brettenwood Coastal Estate,BRETTENWOOD,220,0,SS PELICAN PLACE,5,Brettenwood,,,,2023-03-28,0,194,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST6740/2023,Brettenwood Coastal Estate,BRETTENWOOD,220,0,SS PELICAN PLACE,7,Brettenwood,,,,2023-03-28,0,150,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST6262/2023,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,36,Brettenwood,,,2023-01-19,2023-03-24,3000000,169,17751,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T5710/2023,Brettenwood Coastal Estate,BRETTENWOOD,118,0,,,Brettenwood,,,2022-10-31,2023-03-17,5250000,1000,5250,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T4724/2023,Brettenwood Coastal Estate,BRETTENWOOD,99,0,,,Brettenwood,Kingfisher,99,2022-11-30,2023-02-28,6800000,980,6938,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST4331/2023,Brettenwood Coastal Estate,BRETTENWOOD,193,0,SS HERON PLACE,2,Brettenwood,Brettenwood,193,2022-12-14,2023-02-24,5080000,262,19389,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T3579/2023,Brettenwood Coastal Estate,BRETTENWOOD,167,0,,,Brettenwood,Kingfisher,167,,2023-02-17,0,1001,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+ST3253/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,11,Brettenwood,,,2022-10-27,2023-02-15,3975000,155,25645,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST3287/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,1,Brettenwood,,,,2023-02-15,0,113,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST3288/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,2,Brettenwood,,,,2023-02-15,0,172,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST3298/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,2,Brettenwood,,,2022-11-10,2023-02-15,3774000,172,21941,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST3289/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,3,Brettenwood,,,,2023-02-15,0,136,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST3299/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,3,Brettenwood,,,2020-11-10,2023-02-15,2995000,136,22022,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST3290/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,4,Brettenwood,,,,2023-02-15,0,156,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST3300/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,4,Brettenwood,,,2020-09-11,2023-02-15,3375000,156,21634,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST3291/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,5,Brettenwood,,,,2023-02-15,0,156,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST3301/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,5,Brettenwood,,,2020-02-18,2023-02-15,3395000,156,21762,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST3292/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,6,Brettenwood,,,,2023-02-15,0,175,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST3302/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,6,Brettenwood,,,2020-12-01,2023-02-15,3652644,175,20872,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST3293/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,19,Brettenwood,,,,2023-02-15,0,157,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST3294/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,20,Brettenwood,,,,2023-02-15,0,135,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST3295/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,21,Brettenwood,,,,2023-02-15,0,194,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST3296/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,22,Brettenwood,,,,2023-02-15,0,120,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST3297/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,23,Brettenwood,,,,2023-02-15,0,173,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST3006/2023,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,76,Brettenwood,,,2022-10-31,2023-02-13,1700000,88,19318,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST2876/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,8,Brettenwood,,,2020-02-03,2023-02-10,2595000,115,22565,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST2521/2023,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,10,Brettenwood,,,2022-11-17,2023-02-07,4100000,159,25786,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST2407/2023,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,37,Brettenwood,,,2022-10-31,2023-02-06,2750000,151,18211,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T1863/2023,Brettenwood Coastal Estate,BRETTENWOOD,21,0,,,Brettenwood,Malachite,21,2022-10-22,2023-01-27,5100000,527,9677,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST1434/2023,Brettenwood Coastal Estate,BRETTENWOOD,193,0,SS HERON PLACE,8,Brettenwood,Brettenwood,193,2022-10-24,2023-01-23,4550000,238,19117,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T809/2023,Brettenwood Coastal Estate,BRETTENWOOD,157,0,,,Brettenwood,Falcons,157,2022-10-26,2023-01-13,7260000,725,10013,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T625/2023,Brettenwood Coastal Estate,BRETTENWOOD,536,0,,,Brettenwood,Jacana,536,2022-09-28,2023-01-11,3500000,1105,3167,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T4/2023,Brettenwood Coastal Estate,BRETTENWOOD,502,0,,,Brettenwood,Plover,502,2022-09-12,2023-01-03,6500000,1002,6487,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST43553/2022,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,10,Brettenwood,,,2022-10-04,2022-12-05,5280000,316,16708,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T43187/2022,Brettenwood Coastal Estate,BRETTENWOOD,153,0,,,Brettenwood,Falcons,153,,2022-12-02,0,904,0,False,legal_entity,natural_person,1,freehold,False,lightstone_export
+ST41620/2022,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,1,Brettenwood,,,2022-08-26,2022-11-22,4050000,272,14889,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST40611/2022,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,7,Brettenwood,,,,2022-11-14,0,161,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST40612/2022,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,8,Brettenwood,,,,2022-11-14,0,115,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST40613/2022,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,9,Brettenwood,,,,2022-11-14,0,120,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST40621/2022,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,9,Brettenwood,,,2021-02-01,2022-11-14,2995000,120,24958,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST40614/2022,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,10,Brettenwood,,,,2022-11-14,0,159,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST40615/2022,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,11,Brettenwood,,,,2022-11-14,0,155,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST40616/2022,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,12,Brettenwood,,,,2022-11-14,0,112,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST40617/2022,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,15,Brettenwood,,,,2022-11-14,0,121,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST40618/2022,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,16,Brettenwood,,,,2022-11-14,0,121,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST40619/2022,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,17,Brettenwood,,,,2022-11-14,0,120,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST40620/2022,Brettenwood Coastal Estate,BRETTENWOOD,222,0,SS PALM SWIFT,18,Brettenwood,,,,2022-11-14,0,121,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+T39647/2022,Brettenwood Coastal Estate,BRETTENWOOD,170,0,,,Brettenwood,Kingfisher,170,2022-08-24,2022-11-07,5600000,753,7436,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST36975/2022,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,8,Brettenwood,,,2022-04-25,2022-10-20,4669757,317,14731,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST36643/2022,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,5,Brettenwood,,,2022-08-12,2022-10-17,2050000,104,19711,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T35008/2022,Brettenwood Coastal Estate,BRETTENWOOD,83,0,,,Brettenwood,Kingfisher,83,2022-07-13,2022-10-03,6200000,1144,5419,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T35007/2022,Brettenwood Coastal Estate,BRETTENWOOD,323,0,,,Brettenwood,,,2022-07-06,2022-10-03,7375000,1226,6015,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T34759/2022,Brettenwood Coastal Estate,BRETTENWOOD,284,0,,,Brettenwood,Plover,284,2022-07-08,2022-09-30,5800000,1024,5664,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T34371/2022,Brettenwood Coastal Estate,BRETTENWOOD,319,0,,,Brettenwood,,,2022-07-22,2022-09-28,1750000,978,1789,True,natural_person,natural_person,2,freehold,False,lightstone_export
+T33501/2022,Brettenwood Coastal Estate,BRETTENWOOD,256,0,,,Brettenwood,,,2022-07-29,2022-09-22,4650000,1059,4390,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T31937/2022,Brettenwood Coastal Estate,BRETTENWOOD,206,0,,,Brettenwood,Malachite,206,2021-12-09,2022-09-12,5950000,851,6991,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T31278/2022,Brettenwood Coastal Estate,BRETTENWOOD,33,0,,,Brettenwood,Franolin,33,2022-06-22,2022-09-08,1900000,1038,1830,True,natural_person,natural_person,2,freehold,False,lightstone_export
+T30996/2022,Brettenwood Coastal Estate,BRETTENWOOD,112,0,,,Brettenwood,,,2022-05-29,2022-09-06,7200000,1037,6943,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T28715/2022,Brettenwood Coastal Estate,BRETTENWOOD,24,0,,,Brettenwood,Franolin,24,2022-03-24,2022-08-19,4650000,703,6614,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T27830/2022,Brettenwood Coastal Estate,BRETTENWOOD,166,0,,,Brettenwood,Kingfisher,166,2022-03-27,2022-08-11,5650000,1101,5131,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T24437/2022,Brettenwood Coastal Estate,BRETTENWOOD,146,0,,,Brettenwood,,,2022-04-04,2022-07-19,9500000,1006,9443,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST23482/2022,Brettenwood Coastal Estate,BRETTENWOOD,220,0,SS PELICAN PLACE,6,Brettenwood,,,2020-11-03,2022-07-11,5099940,214,23831,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST22983/2022,Brettenwood Coastal Estate,BRETTENWOOD,195,0,SS KINGFISHER LAKES,3,Brettenwood,,,,2022-07-06,0,288,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+T22691/2022,Brettenwood Coastal Estate,BRETTENWOOD,209,0,,,Brettenwood,Malachite,209,2022-04-05,2022-07-05,5350000,959,5578,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST22733/2022,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,30,Brettenwood,,,2022-04-08,2022-07-05,4250000,190,22368,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T21697/2022,Brettenwood Coastal Estate,BRETTENWOOD,52,0,,,Brettenwood,Fish Eagle,52,2022-02-25,2022-06-24,2400000,1056,2272,True,natural_person,natural_person,1,freehold,False,lightstone_export
+T21385/2022,Brettenwood Coastal Estate,BRETTENWOOD,41,0,,,Brettenwood,Fish Eagle,41,2022-03-01,2022-06-21,5700000,1577,3614,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST19885/2022,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,9,Brettenwood,,,2022-02-10,2022-06-10,5850000,341,17155,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T19594/2022,Brettenwood Coastal Estate,BRETTENWOOD,491,0,,,Brettenwood,,,2022-04-12,2022-06-09,2000000,1247,1603,True,legal_entity,legal_entity,1,freehold,False,lightstone_export
+ST19303/2022,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,60,Brettenwood,,,2022-01-28,2022-06-07,3300000,171,19298,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T16242/2022,Brettenwood Coastal Estate,BRETTENWOOD,266,0,,,Brettenwood,,,2022-01-13,2022-05-24,5800000,828,7004,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T15918/2022,Brettenwood Coastal Estate,BRETTENWOOD,25,0,,,Brettenwood,Franolin,25,2022-02-14,2022-05-20,6700000,758,8839,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST12276/2022,Brettenwood Coastal Estate,BRETTENWOOD,220,0,SS PELICAN PLACE,2,Brettenwood,,,2019-04-24,2022-04-14,4093484,186,22007,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T11593/2022,Brettenwood Coastal Estate,BRETTENWOOD,84,0,,,Brettenwood,Kingfisher,84,2022-01-31,2022-04-11,8000000,1065,7511,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T8754/2022,Brettenwood Coastal Estate,BRETTENWOOD,95,0,,,Brettenwood,Kingfisher,95,2022-01-21,2022-03-23,7700000,1455,5292,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T8487/2022,Brettenwood Coastal Estate,BRETTENWOOD,491,0,,,Brettenwood,,,2022-01-31,2022-03-18,1750000,1247,1403,True,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T8131/2022,Brettenwood Coastal Estate,BRETTENWOOD,221,9,,,Brettenwood,Hornbill,9,2021-11-08,2022-03-16,750000,923,812,True,legal_entity,natural_person,1,freehold,False,lightstone_export
+T7679/2022,Brettenwood Coastal Estate,BRETTENWOOD,314,0,,,Brettenwood,,,2021-11-26,2022-03-14,2400000,1016,2362,True,natural_person,legal_entity,2,freehold,False,lightstone_export
+ST6280/2022,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,2,Brettenwood,,,2021-12-21,2022-02-28,3150000,173,18208,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST6079/2022,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,75,Brettenwood,,,2022-01-17,2022-02-25,1700000,88,19318,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T4672/2022,Brettenwood Coastal Estate,BRETTENWOOD,332,0,,,Brettenwood,,,2021-04-20,2022-02-17,2300000,2495,921,True,natural_person,legal_entity,2,freehold,False,lightstone_export
+T3941/2022,Brettenwood Coastal Estate,BRETTENWOOD,6,0,,,Brettenwood,Sunbird,6,2021-11-18,2022-02-10,3350000,4190,799,True,natural_person,legal_entity,2,freehold,False,lightstone_export
+T3390/2022,Brettenwood Coastal Estate,BRETTENWOOD,48,0,,,Brettenwood,Fish Eagle,48,2021-11-11,2022-02-07,2500000,1387,1802,True,natural_person,legal_entity,1,freehold,False,lightstone_export
+T2559/2022,Brettenwood Coastal Estate,BRETTENWOOD,322,0,,,Brettenwood,,,2021-11-12,2022-01-31,7000000,1360,5147,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T2360/2022,Brettenwood Coastal Estate,BRETTENWOOD,318,0,,,Brettenwood,,,2021-11-30,2022-01-28,5450000,1071,5088,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T1798/2022,Brettenwood Coastal Estate,BRETTENWOOD,221,4,,,Brettenwood,Hornbill,4,2021-11-08,2022-01-25,862500,960,898,True,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T1801/2022,Brettenwood Coastal Estate,BRETTENWOOD,221,5,,,Brettenwood,,,2021-11-08,2022-01-25,862500,1074,803,True,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T1799/2022,Brettenwood Coastal Estate,BRETTENWOOD,221,8,,,Brettenwood,Hornbill,8,2021-11-08,2022-01-25,862500,906,951,True,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T1377/2022,Brettenwood Coastal Estate,BRETTENWOOD,525,0,,,Brettenwood,Jacana,525,2021-06-23,2022-01-20,6100000,1089,5601,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T400/2022,Brettenwood Coastal Estate,BRETTENWOOD,306,0,,,Brettenwood,Plover,306,2021-08-25,2022-01-12,7800000,1098,7103,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST69/2022,Brettenwood Coastal Estate,BRETTENWOOD,220,0,SS PELICAN PLACE,8,Brettenwood,,,2019-12-05,2022-01-05,3375000,176,19176,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T43298/2021,Brettenwood Coastal Estate,BRETTENWOOD,530,0,,,Brettenwood,Jacana,530,2021-09-13,2021-12-21,5600000,952,5882,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST43249/2021,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,4,Brettenwood,,,,2021-12-20,0,271,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST42706/2021,Brettenwood Coastal Estate,BRETTENWOOD,220,0,SS PELICAN PLACE,1,Brettenwood,,,,2021-12-15,0,208,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST42709/2021,Brettenwood Coastal Estate,BRETTENWOOD,220,0,SS PELICAN PLACE,1,Brettenwood,,,2019-11-13,2021-12-15,5030591,208,24185,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST42707/2021,Brettenwood Coastal Estate,BRETTENWOOD,220,0,SS PELICAN PLACE,2,Brettenwood,,,,2021-12-15,0,186,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST42708/2021,Brettenwood Coastal Estate,BRETTENWOOD,220,0,SS PELICAN PLACE,6,Brettenwood,,,,2021-12-15,0,214,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST41423/2021,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,43,Brettenwood,,,2021-10-07,2021-12-10,2680000,152,17631,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST40476/2021,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,12,Brettenwood,,,2021-09-03,2021-12-06,4490000,313,14345,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T39241/2021,Brettenwood Coastal Estate,BRETTENWOOD,291,9,,,Brettenwood,,,2021-08-25,2021-11-25,4600000,832,5528,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T38265/2021,Brettenwood Coastal Estate,BRETTENWOOD,257,0,,,Brettenwood,,,2021-03-03,2021-11-18,7297500,1115,6544,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T38177/2021,Brettenwood Coastal Estate,BRETTENWOOD,63,0,,,Brettenwood,Malachite,63,2021-09-06,2021-11-17,2500000,1147,2179,True,natural_person,legal_entity,2,freehold,False,lightstone_export
+T36963/2021,Brettenwood Coastal Estate,BRETTENWOOD,206,0,,,Brettenwood,Malachite,206,2021-09-22,2021-11-05,1600000,851,1880,True,legal_entity,natural_person,1,freehold,False,lightstone_export
+T33472/2021,Brettenwood Coastal Estate,BRETTENWOOD,506,0,,,Brettenwood,Plover,506,2021-08-16,2021-10-11,6450000,1441,4476,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T32628/2021,Brettenwood Coastal Estate,BRETTENWOOD,79,0,,,Brettenwood,Kingfisher,79,2021-05-05,2021-10-04,6300000,938,6716,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T32545/2021,Brettenwood Coastal Estate,BRETTENWOOD,124,0,,,Brettenwood,,,2021-07-25,2021-10-01,6800000,839,8104,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST32489/2021,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,26,Brettenwood,,,2021-08-19,2021-09-30,2800000,131,21374,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T31115/2021,Brettenwood Coastal Estate,BRETTENWOOD,529,0,,,Brettenwood,Jacana,529,2021-04-21,2021-09-21,5850000,1219,4799,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T29169/2021,Brettenwood Coastal Estate,BRETTENWOOD,526,0,,,Brettenwood,Jacana,526,2021-04-13,2021-09-08,5250000,1223,4292,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST29368/2021,Brettenwood Coastal Estate,BRETTENWOOD,220,0,SS PELICAN PLACE,3,Brettenwood,,,,2021-09-08,0,152,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST29370/2021,Brettenwood Coastal Estate,BRETTENWOOD,220,0,SS PELICAN PLACE,3,Brettenwood,,,2020-06-25,2021-09-08,3600000,152,23684,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST29369/2021,Brettenwood Coastal Estate,BRETTENWOOD,220,0,SS PELICAN PLACE,8,Brettenwood,,,,2021-09-08,0,176,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+T29004/2021,Brettenwood Coastal Estate,BRETTENWOOD,192,0,,,Brettenwood,Kingfisher,192,,2021-09-07,0,855,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T28697/2021,Brettenwood Coastal Estate,BRETTENWOOD,505,0,,,Brettenwood,Plover,505,2021-06-04,2021-09-06,5450000,1120,4866,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T28388/2021,Brettenwood Coastal Estate,BRETTENWOOD,286,0,,,Brettenwood,,,2021-05-04,2021-09-03,5800000,840,6904,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T28440/2021,Brettenwood Coastal Estate,BRETTENWOOD,315,0,,,Brettenwood,,,2021-04-16,2021-09-03,6950000,1042,6669,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T27179/2021,Brettenwood Coastal Estate,BRETTENWOOD,19,0,,,Brettenwood,Malachite,19,2021-06-25,2021-08-30,6650000,921,7220,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST27356/2021,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,74,Brettenwood,,,2021-03-23,2021-08-30,1970000,88,22386,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST27357/2021,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,58,Brettenwood,,,2021-03-30,2021-08-30,2900000,152,19078,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T26631/2021,Brettenwood Coastal Estate,BRETTENWOOD,249,0,,,Brettenwood,,,2021-05-04,2021-08-26,1350000,1086,1243,True,natural_person,natural_person,1,freehold,False,lightstone_export
+ST25762/2021,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,34,Brettenwood,,,2021-04-12,2021-08-24,3700000,272,13602,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T25561/2021,Brettenwood Coastal Estate,BRETTENWOOD,308,0,,,Brettenwood,Plover,308,2021-04-21,2021-08-23,1350000,914,1477,True,natural_person,natural_person,2,freehold,False,lightstone_export
+T25077/2021,Brettenwood Coastal Estate,BRETTENWOOD,160,0,,,Brettenwood,Falcons,160,2020-03-09,2021-08-19,4800000,1079,4448,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T25154/2021,Brettenwood Coastal Estate,BRETTENWOOD,185,0,,,Brettenwood,Spurwig,185,,2021-08-19,0,721,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T24860/2021,Brettenwood Coastal Estate,BRETTENWOOD,474,0,,,Brettenwood,,,2021-05-08,2021-08-18,9100000,1637,5558,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T25247/2021,Brettenwood Coastal Estate,BRETTENWOOD,531,0,,,Brettenwood,,,2021-05-27,2021-07-30,5250000,918,5718,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T23286/2021,Brettenwood Coastal Estate,BRETTENWOOD,247,0,,,Brettenwood,,,2020-12-18,2021-07-29,5700000,1002,5688,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T20442/2021,Brettenwood Coastal Estate,BRETTENWOOD,319,0,,,Brettenwood,,,2021-03-22,2021-07-07,1750000,978,1789,True,natural_person,natural_person,2,freehold,False,lightstone_export
+ST20167/2021,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,39,Brettenwood,,,2021-04-17,2021-07-05,2750000,153,17973,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T19030/2021,Brettenwood Coastal Estate,BRETTENWOOD,536,0,,,Brettenwood,Jacana,536,2020-11-09,2021-06-22,1623800,1105,1469,True,natural_person,legal_entity,1,freehold,False,lightstone_export
+ST18165/2021,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,7,Brettenwood,,,,2021-06-15,0,315,0,False,legal_entity,legal_entity,1,sectional_title,False,lightstone_export
+ST18164/2021,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,8,Brettenwood,,,,2021-06-15,0,317,0,False,legal_entity,legal_entity,1,sectional_title,False,lightstone_export
+T17502/2021,Brettenwood Coastal Estate,BRETTENWOOD,502,0,,,Brettenwood,Plover,502,,2021-06-11,0,1002,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T17503/2021,Brettenwood Coastal Estate,BRETTENWOOD,502,0,,,Brettenwood,Plover,502,,2021-06-11,0,1002,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T15409/2021,Brettenwood Coastal Estate,BRETTENWOOD,136,0,,,Brettenwood,,,2021-02-21,2021-05-31,7200000,1741,4135,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST15504/2021,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,6,Brettenwood,,,2020-12-03,2021-05-31,4600000,315,14603,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T15084/2021,Brettenwood Coastal Estate,BRETTENWOOD,490,0,,,Brettenwood,,,2021-01-16,2021-05-28,1600000,1185,1350,True,legal_entity,natural_person,1,freehold,False,lightstone_export
+T14376/2021,Brettenwood Coastal Estate,BRETTENWOOD,525,0,,,Brettenwood,Jacana,525,2021-01-22,2021-05-25,1480000,1089,1359,True,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T10962/2021,Brettenwood Coastal Estate,BRETTENWOOD,121,0,,,Brettenwood,,,2021-02-23,2021-04-20,6300000,1351,4663,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST9871/2021,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,26,Brettenwood,,,2021-01-25,2021-04-06,2400000,131,18320,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST8473/2021,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,16,Brettenwood,,,2021-01-07,2021-03-19,2900000,292,9931,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST8474/2021,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,17,Brettenwood,,,2021-01-07,2021-03-19,2900000,288,10069,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST8475/2021,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,20,Brettenwood,,,2021-01-07,2021-03-19,3200000,294,10884,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T7899/2021,Brettenwood Coastal Estate,BRETTENWOOD,260,0,,,Brettenwood,,,2020-10-28,2021-03-17,5683300,1535,3702,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T6337/2021,Brettenwood Coastal Estate,BRETTENWOOD,528,0,,,Brettenwood,Jacana,528,2020-10-23,2021-03-10,5650000,1288,4386,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T4716/2021,Brettenwood Coastal Estate,BRETTENWOOD,137,0,,,Brettenwood,,,2020-11-12,2021-03-01,5975000,1378,4335,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T4564/2021,Brettenwood Coastal Estate,BRETTENWOOD,282,0,,,Brettenwood,Plover,282,2020-12-02,2021-02-26,1900000,1236,1537,True,legal_entity,natural_person,1,freehold,False,lightstone_export
+ST3419/2021,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,69,Brettenwood,,,2020-11-03,2021-02-17,1800000,88,20454,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T2813/2021,Brettenwood Coastal Estate,BRETTENWOOD,294,0,,,Brettenwood,Plover,294,2020-11-20,2021-02-12,1650000,1304,1265,True,natural_person,natural_person,2,freehold,False,lightstone_export
+ST2896/2021,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,50,Brettenwood,,,2020-11-13,2021-02-12,2650000,152,17434,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T42872/2020,Brettenwood Coastal Estate,BRETTENWOOD,167,0,,,Brettenwood,Kingfisher,167,2020-11-11,2020-12-21,5500000,1001,5494,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T41579/2020,Brettenwood Coastal Estate,BRETTENWOOD,165,0,,,Brettenwood,Kingfisher,165,2020-01-13,2020-12-10,4600000,905,5082,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST41617/2020,Brettenwood Coastal Estate,BRETTENWOOD,193,0,SS HERON PLACE,8,Brettenwood,Brettenwood,193,2020-07-30,2020-12-10,4350000,238,18277,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T41379/2020,Brettenwood Coastal Estate,BRETTENWOOD,527,0,,,Brettenwood,Jacana,527,2020-03-16,2020-12-09,5500000,1111,4950,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST41278/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,32,Brettenwood,,,2020-09-21,2020-12-09,3750000,189,19841,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T39932/2020,Brettenwood Coastal Estate,BRETTENWOOD,179,0,,,Brettenwood,Heron,179,2020-09-06,2020-11-30,3995000,759,5263,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T38022/2020,Brettenwood Coastal Estate,BRETTENWOOD,61,0,,,Brettenwood,Malachite,61,2020-10-19,2020-11-18,2500000,924,2705,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T37348/2020,Brettenwood Coastal Estate,BRETTENWOOD,307,0,,,Brettenwood,Plover,307,2020-08-15,2020-11-13,6300000,993,6344,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T35630/2020,Brettenwood Coastal Estate,BRETTENWOOD,94,0,,,Brettenwood,Kingfisher,94,2020-08-21,2020-11-02,8500000,1199,7089,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T35447/2020,Brettenwood Coastal Estate,BRETTENWOOD,45,0,,,Brettenwood,Fish Eagle,45,,2020-10-30,0,1117,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T35445/2020,Brettenwood Coastal Estate,BRETTENWOOD,521,0,,,Brettenwood,Plover,521,,2020-10-30,0,2245,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T34743/2020,Brettenwood Coastal Estate,BRETTENWOOD,292,0,,,Brettenwood,,,2020-07-10,2020-10-26,1200000,1423,843,True,legal_entity,natural_person,1,freehold,False,lightstone_export
+T34463/2020,Brettenwood Coastal Estate,BRETTENWOOD,533,0,,,Brettenwood,Jacana,533,2020-08-20,2020-10-23,1800000,1301,1383,True,natural_person,natural_person,2,freehold,False,lightstone_export
+ST33797/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,29,Brettenwood,,,2018-02-23,2020-10-19,3264000,179,18234,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST32883/2020,Brettenwood Coastal Estate,BRETTENWOOD,193,0,SS HERON PLACE,6,Brettenwood,Brettenwood,193,,2020-10-13,0,249,0,False,legal_entity,natural_person,1,sectional_title,False,lightstone_export
+ST32884/2020,Brettenwood Coastal Estate,BRETTENWOOD,193,0,SS HERON PLACE,6,Brettenwood,Brettenwood,193,2020-07-03,2020-10-13,3850000,249,15461,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T32313/2020,Brettenwood Coastal Estate,BRETTENWOOD,44,0,,,Brettenwood,Fish Eagle,44,2020-07-17,2020-10-07,4500000,1151,3909,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST31531/2020,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,17,Brettenwood,,,2018-03-28,2020-09-30,3500000,297,11784,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T31389/2020,Brettenwood Coastal Estate,BRETTENWOOD,293,0,,,Brettenwood,Plover,293,2020-08-11,2020-09-30,7200000,1199,6005,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T30573/2020,Brettenwood Coastal Estate,BRETTENWOOD,59,0,,,Brettenwood,Malachite,59,2020-06-15,2020-09-23,4550000,782,5818,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T30721/2020,Brettenwood Coastal Estate,BRETTENWOOD,184,0,,,Brettenwood,Spurwig,184,2020-07-12,2020-09-23,4650000,802,5798,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T30166/2020,Brettenwood Coastal Estate,BRETTENWOOD,170,0,,,Brettenwood,Kingfisher,170,2020-07-26,2020-09-22,1025000,753,1361,True,natural_person,natural_person,1,freehold,False,lightstone_export
+ST29761/2020,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,52,Brettenwood,,,2018-03-15,2020-09-18,1910000,152,12565,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T29345/2020,Brettenwood Coastal Estate,BRETTENWOOD,96,0,,,Brettenwood,Kingfisher,96,2020-07-07,2020-09-17,6000000,1221,4914,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T29274/2020,Brettenwood Coastal Estate,BRETTENWOOD,55,0,,,Brettenwood,Fish Eagle,55,2020-07-03,2020-09-17,4225000,898,4704,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST29420/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,24,Brettenwood,,,2020-02-13,2020-09-17,5000000,202,24752,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST26461/2020,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,68,Brettenwood,,,2020-06-10,2020-08-27,1995000,88,22670,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST26338/2020,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,49,Brettenwood,,,2020-03-09,2020-08-26,2700000,152,17763,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T25113/2020,Brettenwood Coastal Estate,BRETTENWOOD,539,0,,,Brettenwood,Jacana,539,2020-05-13,2020-08-18,1150000,995,1155,True,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T24947/2020,Brettenwood Coastal Estate,BRETTENWOOD,248,0,,,Brettenwood,,,2020-06-15,2020-08-17,5500000,1172,4692,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST24154/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,35,Brettenwood,,,2020-05-01,2020-08-11,3000000,192,15625,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T23730/2020,Brettenwood Coastal Estate,BRETTENWOOD,245,0,,,Brettenwood,,,2020-03-26,2020-08-06,1650000,854,1932,True,natural_person,legal_entity,1,freehold,False,lightstone_export
+T23752/2020,Brettenwood Coastal Estate,BRETTENWOOD,530,0,,,Brettenwood,Jacana,530,2020-02-19,2020-08-06,1000000,952,1050,True,natural_person,legal_entity,1,freehold,False,lightstone_export
+T21980/2020,Brettenwood Coastal Estate,BRETTENWOOD,301,0,,,Brettenwood,Plover,301,2020-04-22,2020-07-21,1500000,1605,934,True,natural_person,natural_person,2,freehold,False,lightstone_export
+T21250/2020,Brettenwood Coastal Estate,BRETTENWOOD,291,0,,,Brettenwood,,,2020-02-13,2020-07-06,2300000,11824,194,True,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T21064/2020,Brettenwood Coastal Estate,BRETTENWOOD,308,0,,,Brettenwood,Plover,308,2020-03-26,2020-07-03,950000,914,1039,True,natural_person,legal_entity,2,freehold,False,lightstone_export
+ST20545/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,6,Brettenwood,,,2018-04-16,2020-06-26,2815000,173,16271,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST20546/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,34,Brettenwood,,,2020-02-03,2020-06-26,2739825,179,15306,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST20548/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,10,Brettenwood,,,,2020-06-26,0,304,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20561/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,10,Brettenwood,,,2018-01-15,2020-06-26,5130000,304,16875,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20549/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,11,Brettenwood,,,,2020-06-26,0,291,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20562/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,11,Brettenwood,,,2018-10-15,2020-06-26,5030000,291,17285,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20550/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,12,Brettenwood,,,,2020-06-26,0,313,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20563/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,12,Brettenwood,,,2018-11-23,2020-06-26,3552000,313,11348,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20551/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,13,Brettenwood,,,,2020-06-26,0,300,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20564/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,13,Brettenwood,,,2018-07-17,2020-06-26,3000000,300,10000,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST20552/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,14,Brettenwood,,,,2020-06-26,0,296,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20565/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,14,Brettenwood,,,2019-08-30,2020-06-26,5339750,296,18039,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20553/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,15,Brettenwood,,,,2020-06-26,0,296,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20566/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,15,Brettenwood,,,2018-02-07,2020-06-26,4880000,296,16486,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST20554/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,16,Brettenwood,,,,2020-06-26,0,292,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20555/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,17,Brettenwood,,,,2020-06-26,0,288,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20556/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,18,Brettenwood,,,,2020-06-26,0,298,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20567/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,18,Brettenwood,,,2018-10-28,2020-06-26,3262400,298,10947,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST20557/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,19,Brettenwood,,,,2020-06-26,0,288,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20568/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,19,Brettenwood,,,2019-06-04,2020-06-26,5000000,288,17361,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST20558/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,20,Brettenwood,,,,2020-06-26,0,294,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20559/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,21,Brettenwood,,,,2020-06-26,0,335,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20569/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,21,Brettenwood,,,2018-03-18,2020-06-26,3006408,335,8974,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20547/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,9,Brettenwood,,,,2020-06-26,0,341,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST20560/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,9,Brettenwood,,,2018-03-23,2020-06-26,5400000,341,15835,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T20216/2020,Brettenwood Coastal Estate,BRETTENWOOD,112,0,,,Brettenwood,,,2020-03-08,2020-06-25,5200000,1037,5014,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T19966/2020,Brettenwood Coastal Estate,BRETTENWOOD,102,0,,,Brettenwood,Kingfisher,102,2020-03-16,2020-06-22,4500000,904,4977,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST20001/2020,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,21,Brettenwood,,,2019-11-30,2020-06-22,2500000,131,19083,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T9711/2020,Brettenwood Coastal Estate,BRETTENWOOD,117,0,,,Brettenwood,,,2019-10-14,2020-03-25,7000000,936,7478,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T8749/2020,Brettenwood Coastal Estate,BRETTENWOOD,258,0,,,Brettenwood,,,2020-01-26,2020-03-24,1650000,1195,1380,True,natural_person,legal_entity,1,freehold,False,lightstone_export
+ST7281/2020,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,53,Brettenwood,,,2020-01-22,2020-03-13,3000000,170,17647,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T3207/2020,Brettenwood Coastal Estate,BRETTENWOOD,285,0,,,Brettenwood,,,2019-07-10,2020-02-10,6300000,1307,4820,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST2562/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,1,Brettenwood,,,,2020-02-03,0,264,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2584/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,1,Brettenwood,,,2017-12-07,2020-02-03,3600000,264,13636,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST2563/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,2,Brettenwood,,,,2020-02-03,0,173,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2585/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,2,Brettenwood,,,2017-11-28,2020-02-03,2790000,173,16127,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST2564/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,3,Brettenwood,,,,2020-02-03,0,173,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2586/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,3,Brettenwood,,,2018-01-15,2020-02-03,2790000,173,16127,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST2565/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,4,Brettenwood,,,,2020-02-03,0,175,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2587/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,4,Brettenwood,,,2018-09-01,2020-02-03,2820000,175,16114,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST2566/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,5,Brettenwood,,,,2020-02-03,0,104,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2588/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,5,Brettenwood,,,2018-06-16,2020-02-03,1718000,104,16519,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST2567/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,6,Brettenwood,,,,2020-02-03,0,173,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2568/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,7,Brettenwood,,,,2020-02-03,0,173,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2589/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,7,Brettenwood,,,2018-01-17,2020-02-03,2790000,173,16127,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST2569/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,8,Brettenwood,,,,2020-02-03,0,219,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2590/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,8,Brettenwood,,,2017-12-06,2020-02-03,3350000,219,15296,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST2570/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,22,Brettenwood,,,,2020-02-03,0,226,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2591/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,22,Brettenwood,,,2017-12-04,2020-02-03,4830000,226,21371,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST2571/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,23,Brettenwood,,,,2020-02-03,0,202,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2592/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,23,Brettenwood,,,2018-11-14,2020-02-03,4500000,202,22277,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST2572/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,24,Brettenwood,,,,2020-02-03,0,202,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2593/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,24,Brettenwood,,,2018-03-26,2020-02-03,4600000,202,22772,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST2573/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,25,Brettenwood,,,,2020-02-03,0,237,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2594/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,25,Brettenwood,,,2018-03-29,2020-02-03,2700000,237,11392,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST2574/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,26,Brettenwood,,,,2020-02-03,0,186,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2595/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,26,Brettenwood,,,2017-12-15,2020-02-03,3360000,186,18064,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST2575/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,27,Brettenwood,,,,2020-02-03,0,178,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2596/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,27,Brettenwood,,,2018-03-12,2020-02-03,3100000,178,17415,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST2576/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,28,Brettenwood,,,,2020-02-03,0,179,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2597/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,28,Brettenwood,,,2019-01-29,2020-02-03,2670400,179,14918,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST2577/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,29,Brettenwood,,,,2020-02-03,0,179,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2578/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,30,Brettenwood,,,,2020-02-03,0,190,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2598/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,30,Brettenwood,,,2018-05-07,2020-02-03,3640000,190,19157,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST2579/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,31,Brettenwood,,,,2020-02-03,0,187,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2599/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,31,Brettenwood,,,2019-11-19,2020-02-03,3016228,187,16129,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST2580/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,32,Brettenwood,,,,2020-02-03,0,189,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2600/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,32,Brettenwood,,,2019-07-08,2020-02-03,3640000,189,19259,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST2581/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,33,Brettenwood,,,,2020-02-03,0,178,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2601/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,33,Brettenwood,,,2018-02-21,2020-02-03,2990000,178,16797,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST2582/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,34,Brettenwood,,,,2020-02-03,0,179,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2583/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,35,Brettenwood,,,,2020-02-03,0,192,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST2602/2020,Brettenwood Coastal Estate,BRETTENWOOD,108,0,SS WAGTAIL,35,Brettenwood,,,2018-02-21,2020-02-03,2500000,192,13020,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T1733/2020,Brettenwood Coastal Estate,BRETTENWOOD,177,0,,,Brettenwood,Heron,177,,2020-01-28,0,748,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T685/2020,Brettenwood Coastal Estate,BRETTENWOOD,501,0,,,Brettenwood,Plover,501,2019-10-04,2020-01-17,1750000,982,1782,True,natural_person,natural_person,1,freehold,False,lightstone_export
+T38627/2019,Brettenwood Coastal Estate,BRETTENWOOD,196,0,,,Brettenwood,Kingfisher,196,2019-09-15,2019-12-10,1750000,1452,1205,True,legal_entity,natural_person,1,freehold,False,lightstone_export
+T36332/2019,Brettenwood Coastal Estate,BRETTENWOOD,52,0,,,Brettenwood,Fish Eagle,52,2019-08-22,2019-11-25,2200000,1056,2083,True,natural_person,legal_entity,2,freehold,False,lightstone_export
+T36337/2019,Brettenwood Coastal Estate,BRETTENWOOD,303,0,,,Brettenwood,Fish Eagle,50,2019-08-22,2019-11-25,7800000,2186,3568,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T35104/2019,Brettenwood Coastal Estate,BRETTENWOOD,159,0,,,Brettenwood,Falcons,159,2019-09-18,2019-11-13,1750000,1102,1588,True,natural_person,legal_entity,1,freehold,False,lightstone_export
+T34922/2019,Brettenwood Coastal Estate,BRETTENWOOD,46,0,,,Brettenwood,Fish Eagle,46,2018-10-10,2019-11-12,5940000,1015,5852,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T33395/2019,Brettenwood Coastal Estate,BRETTENWOOD,202,0,,,Brettenwood,Kingfisher,202,2019-09-27,2019-10-29,4900000,746,6568,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T32801/2019,Brettenwood Coastal Estate,BRETTENWOOD,299,0,,,Brettenwood,Plover,299,2019-09-04,2019-10-23,1615000,1444,1118,True,natural_person,,2,freehold,False,lightstone_export
+T32375/2019,Brettenwood Coastal Estate,BRETTENWOOD,16,0,,,Brettenwood,Malachite,16,2019-02-04,2019-10-21,6000000,989,6066,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T31855/2019,Brettenwood Coastal Estate,BRETTENWOOD,8,0,,,Brettenwood,Sunbird,8,2019-06-08,2019-10-16,8250000,3142,2625,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST31233/2019,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,22,Brettenwood,,,2019-07-30,2019-10-10,2250000,131,17175,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T28570/2019,Brettenwood Coastal Estate,BRETTENWOOD,180,0,,,Brettenwood,Heron,180,2019-06-28,2019-09-23,3950000,594,6649,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T28611/2019,Brettenwood Coastal Estate,BRETTENWOOD,246,0,,,Brettenwood,,,2019-02-10,2019-09-23,1570000,1012,1551,True,natural_person,legal_entity,1,freehold,False,lightstone_export
+T28714/2019,Brettenwood Coastal Estate,BRETTENWOOD,43,0,,,Brettenwood,Fish Eagle,43,2019-07-31,2019-09-20,1600000,1158,1381,True,natural_person,natural_person,1,freehold,False,lightstone_export
+T28316/2019,Brettenwood Coastal Estate,BRETTENWOOD,163,0,,,Brettenwood,Kingfisher,163,2019-06-15,2019-09-19,4700000,1043,4506,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T27554/2019,Brettenwood Coastal Estate,BRETTENWOOD,168,0,,,Brettenwood,Kingfisher,168,2019-06-08,2019-09-13,5400000,843,6405,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T25946/2019,Brettenwood Coastal Estate,BRETTENWOOD,221,7,,,Brettenwood,Hornbill,7,2019-03-22,2019-08-30,1530000,901,1698,True,natural_person,legal_entity,2,freehold,False,lightstone_export
+T25842/2019,Brettenwood Coastal Estate,BRETTENWOOD,6,0,,,Brettenwood,Sunbird,6,2019-06-01,2019-08-29,2950000,4190,704,True,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T25485/2019,Brettenwood Coastal Estate,BRETTENWOOD,34,0,,,Brettenwood,Franolin,34,2018-08-14,2019-08-28,5800000,1088,5330,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T23415/2019,Brettenwood Coastal Estate,BRETTENWOOD,291,13,,,Brettenwood,,,2019-01-31,2019-08-07,1000,7715,0,True,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T21683/2019,Brettenwood Coastal Estate,BRETTENWOOD,289,0,,,Brettenwood,,,,2019-07-25,0,1127,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+ST21273/2019,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,58,Brettenwood,,,2016-06-20,2019-07-22,2300000,152,15131,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T19754/2019,Brettenwood Coastal Estate,BRETTENWOOD,65,0,,,Brettenwood,Malachite,65,2018-07-17,2019-07-10,1500000,969,1547,True,natural_person,legal_entity,2,freehold,False,lightstone_export
+T17081/2019,Brettenwood Coastal Estate,BRETTENWOOD,291,12,,,Brettenwood,,,2018-10-12,2019-06-19,3200000,824,3883,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST16212/2019,Brettenwood Coastal Estate,BRETTENWOOD,193,0,SS HERON PLACE,7,Brettenwood,Brettenwood,193,2019-04-10,2019-06-10,4450000,240,18541,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST15695/2019,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,53,Brettenwood,,,2016-02-10,2019-06-05,2570000,170,15117,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST14095/2019,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,51,Brettenwood,,,2016-07-06,2019-05-22,2200000,152,14473,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST13822/2019,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,60,Brettenwood,,,2015-11-24,2019-05-20,2570000,171,15029,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST12550/2019,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,33,Brettenwood,,,,2019-05-07,0,283,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST12551/2019,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,33,Brettenwood,,,2019-03-08,2019-05-07,3100000,283,10954,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST12552/2019,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,50,Brettenwood,,,2016-09-21,2019-05-07,2200000,152,14473,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST12443/2019,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,64,Brettenwood,,,2016-01-06,2019-05-06,2400000,153,15686,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T11966/2019,Brettenwood Coastal Estate,BRETTENWOOD,493,0,,,Brettenwood,,,2018-06-13,2019-04-30,1514000,1107,1367,True,natural_person,legal_entity,1,freehold,False,lightstone_export
+T11737/2019,Brettenwood Coastal Estate,BRETTENWOOD,323,0,,,Brettenwood,,,2019-02-25,2019-04-29,6900000,1226,5628,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T10737/2019,Brettenwood Coastal Estate,BRETTENWOOD,5,0,,,Brettenwood,Sunbird,5,2019-01-21,2019-04-16,2400000,3107,772,True,natural_person,natural_person,2,freehold,False,lightstone_export
+T8551/2019,Brettenwood Coastal Estate,BRETTENWOOD,525,0,,,Brettenwood,Jacana,525,2018-09-04,2019-03-29,1500000,1089,1377,True,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T8550/2019,Brettenwood Coastal Estate,BRETTENWOOD,535,0,,,Brettenwood,Jacana,535,2018-12-04,2019-03-29,1600000,1164,1374,True,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T8549/2019,Brettenwood Coastal Estate,BRETTENWOOD,540,0,,,Brettenwood,,,,2019-03-29,0,1638,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T8100/2019,Brettenwood Coastal Estate,BRETTENWOOD,306,0,,,Brettenwood,Plover,306,2018-07-06,2019-03-26,7600000,1098,6921,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T7897/2019,Brettenwood Coastal Estate,BRETTENWOOD,15,0,,,Brettenwood,Malachite,15,2018-11-22,2019-03-25,5200000,1006,5168,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T4733/2019,Brettenwood Coastal Estate,BRETTENWOOD,99,0,,,Brettenwood,Kingfisher,99,,2019-02-26,0,980,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T4551/2019,Brettenwood Coastal Estate,BRETTENWOOD,106,0,,,Brettenwood,,,2018-11-30,2019-02-25,1450000,1536,944,True,natural_person,legal_entity,2,freehold,False,lightstone_export
+ST4283/2019,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,67,Brettenwood,,,2016-05-19,2019-02-21,2450000,153,16013,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T2616/2019,Brettenwood Coastal Estate,BRETTENWOOD,523,0,,,Brettenwood,Jacana,523,2018-08-24,2019-02-07,1600000,926,1727,True,natural_person,legal_entity,1,freehold,False,lightstone_export
+T2188/2019,Brettenwood Coastal Estate,BRETTENWOOD,61,0,,,Brettenwood,Malachite,61,2018-11-22,2019-02-04,1700000,924,1839,True,natural_person,legal_entity,1,freehold,False,lightstone_export
+T1632/2019,Brettenwood Coastal Estate,BRETTENWOOD,157,0,,,Brettenwood,Falcons,157,2018-10-21,2019-01-29,5000000,725,6896,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T1599/2019,Brettenwood Coastal Estate,BRETTENWOOD,30,0,,,Brettenwood,Franolin,30,2018-10-03,2019-01-29,1600000,935,1711,True,natural_person,natural_person,1,freehold,False,lightstone_export
+ST1505/2019,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,19,Brettenwood,,,2016-07-18,2019-01-28,3500000,297,11784,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T1231/2019,Brettenwood Coastal Estate,BRETTENWOOD,295,0,,,Brettenwood,Plover,295,2018-10-10,2019-01-25,5850000,1025,5707,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T37666/2018,Brettenwood Coastal Estate,BRETTENWOOD,184,0,,,Brettenwood,Spurwig,184,2018-10-23,2018-11-23,3100000,802,3865,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T37061/2018,Brettenwood Coastal Estate,BRETTENWOOD,128,0,,,Brettenwood,,,2018-08-31,2018-11-20,1900000,1501,1265,True,legal_entity,natural_person,1,freehold,False,lightstone_export
+T34819/2018,Brettenwood Coastal Estate,BRETTENWOOD,149,0,,,Brettenwood,Falcons,149,2018-07-31,2018-11-06,8600000,1909,4504,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T33805/2018,Brettenwood Coastal Estate,BRETTENWOOD,220,0,,,Brettenwood,,,,2018-10-30,0,9625,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T33043/2018,Brettenwood Coastal Estate,BRETTENWOOD,9,0,,,Brettenwood,Sunbird,9,2018-08-31,2018-10-25,3600000,3281,1097,True,natural_person,natural_person,1,freehold,False,lightstone_export
+ST33242/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,47,Brettenwood,,,,2018-10-25,0,170,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST33254/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,47,Brettenwood,,,2015-11-10,2018-10-25,1700000,170,10000,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST33255/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,47,Brettenwood,,,2018-02-14,2018-10-25,2700000,170,15882,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST33243/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,48,Brettenwood,,,,2018-10-25,0,170,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST33256/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,48,Brettenwood,,,2018-09-14,2018-10-25,2995000,170,17617,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST33244/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,49,Brettenwood,,,,2018-10-25,0,152,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST33257/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,49,Brettenwood,,,2015-12-07,2018-10-25,2175000,152,14309,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST33245/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,50,Brettenwood,,,,2018-10-25,0,152,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST33246/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,51,Brettenwood,,,,2018-10-25,0,152,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST33247/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,52,Brettenwood,,,,2018-10-25,0,152,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST33248/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,53,Brettenwood,,,,2018-10-25,0,170,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST33249/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,54,Brettenwood,,,,2018-10-25,0,170,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST33258/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,54,Brettenwood,,,2015-12-04,2018-10-25,2570000,170,15117,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST33250/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,55,Brettenwood,,,,2018-10-25,0,152,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST33259/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,55,Brettenwood,,,2015-12-07,2018-10-25,2300000,152,15131,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST33251/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,56,Brettenwood,,,,2018-10-25,0,152,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST33260/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,56,Brettenwood,,,2016-02-29,2018-10-25,2300000,152,15131,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST33252/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,57,Brettenwood,,,,2018-10-25,0,152,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST33261/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,57,Brettenwood,,,2016-03-30,2018-10-25,2300000,152,15131,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST33253/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,58,Brettenwood,,,,2018-10-25,0,152,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+T32241/2018,Brettenwood Coastal Estate,BRETTENWOOD,293,0,,,Brettenwood,Plover,293,2018-07-27,2018-10-19,2000000,1199,1668,True,natural_person,natural_person,1,freehold,False,lightstone_export
+ST32012/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,18,Brettenwood,,,2015-11-24,2018-10-17,4250000,297,14309,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST30210/2018,Brettenwood Coastal Estate,BRETTENWOOD,193,0,SS HERON PLACE,3,Brettenwood,Brettenwood,193,2018-08-25,2018-10-03,4700000,257,18287,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T30001/2018,Brettenwood Coastal Estate,BRETTENWOOD,498,0,,,Brettenwood,Plover,498,2018-08-15,2018-10-02,6650000,995,6683,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T29768/2018,Brettenwood Coastal Estate,BRETTENWOOD,80,0,,,Brettenwood,Kingfisher,80,2018-08-14,2018-09-28,2400000,1032,2325,True,natural_person,natural_person,2,freehold,False,lightstone_export
+T29698/2018,Brettenwood Coastal Estate,BRETTENWOOD,294,0,,,Brettenwood,Plover,294,2018-07-25,2018-09-28,1800000,1304,1380,True,natural_person,legal_entity,2,freehold,False,lightstone_export
+ST27022/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,72,Brettenwood,,,2018-04-24,2018-09-05,1750000,88,19886,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST26701/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,65,Brettenwood,,,2016-06-30,2018-09-03,2570000,171,15029,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T25472/2018,Brettenwood Coastal Estate,BRETTENWOOD,248,0,,,Brettenwood,,,2018-06-25,2018-08-22,7400000,1172,6313,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST25081/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,16,Brettenwood,,,2014-02-17,2018-08-17,3290000,297,11077,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T23622/2018,Brettenwood Coastal Estate,BRETTENWOOD,123,0,,,Brettenwood,,,2017-12-14,2018-08-02,7000000,869,8055,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T22654/2018,Brettenwood Coastal Estate,BRETTENWOOD,120,0,,,Brettenwood,,,2018-05-29,2018-07-26,6500000,1309,4965,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST21875/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,63,Brettenwood,,,2016-10-05,2018-07-17,2450000,153,16013,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST21876/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,66,Brettenwood,,,2016-09-26,2018-07-17,2450000,153,16013,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST21636/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,62,Brettenwood,,,2016-10-05,2018-07-16,2450000,153,16013,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST21364/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,61,Brettenwood,,,2016-02-09,2018-07-13,2400000,153,15686,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T20677/2018,Brettenwood Coastal Estate,BRETTENWOOD,526,0,,,Brettenwood,Jacana,526,2017-07-07,2018-07-09,1450000,1223,1185,True,natural_person,legal_entity,2,freehold,False,lightstone_export
+T20676/2018,Brettenwood Coastal Estate,BRETTENWOOD,533,0,,,Brettenwood,Jacana,533,2018-02-02,2018-07-09,1600000,1301,1229,True,natural_person,legal_entity,1,freehold,False,lightstone_export
+ST19770/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,20,Brettenwood,,,2014-01-08,2018-07-02,3300000,297,11111,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST19685/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,73,Brettenwood,,,2018-04-12,2018-06-29,1800000,88,20454,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T18769/2018,Brettenwood Coastal Estate,BRETTENWOOD,221,3,,,Brettenwood,Hornbill,3,2017-08-08,2018-06-22,550000,943,583,True,natural_person,natural_person,1,freehold,False,lightstone_export
+T17104/2018,Brettenwood Coastal Estate,BRETTENWOOD,116,0,,,Brettenwood,,,2018-02-14,2018-06-08,5400000,990,5454,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST17148/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,70,Brettenwood,,,2016-11-04,2018-06-08,1490000,88,16931,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST16671/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,59,Brettenwood,,,2015-11-25,2018-06-05,2570000,171,15029,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST15107/2018,Brettenwood Coastal Estate,BRETTENWOOD,131,0,SS BRETTENWOOD LAKES,12,Brettenwood,,,2017-06-02,2018-05-22,4150000,297,13973,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T14803/2018,Brettenwood Coastal Estate,BRETTENWOOD,523,0,,,Brettenwood,Jacana,523,2018-02-23,2018-05-18,1450000,926,1565,True,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T14804/2018,Brettenwood Coastal Estate,BRETTENWOOD,524,0,,,Brettenwood,Jacana,524,2018-02-12,2018-05-18,1450000,1019,1422,True,natural_person,legal_entity,2,freehold,False,lightstone_export
+T14805/2018,Brettenwood Coastal Estate,BRETTENWOOD,527,0,,,Brettenwood,Jacana,527,2018-03-12,2018-05-18,1380000,1111,1242,True,legal_entity,legal_entity,1,freehold,False,lightstone_export

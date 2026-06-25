@@ -1,0 +1,501 @@
+title_deed_no,estate,township,erf,portion,sectional_scheme,unit,suburb,street,street_number,sales_date,registration_date,sales_price,size_m2,price_per_m2,possible_land_only,buyer_type,seller_type,number_of_owners,property_type,is_market_sale,data_source
+ST15212/2026,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,11,Umhlali Beach,Iphala,48,2026-02-10,2026-05-29,3000000,147,20408,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST14560/2026,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,50,Umhlali Beach,Iphala,48,2025-12-03,2026-05-26,3300000,161,20496,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST12423/2026,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,21,Umhlali Beach,Ocean,33,2026-02-11,2026-05-06,4100967,160,25631,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST11605/2026,Umhlali Beach,SHAKAS ROCK,181,0,SS CATFISH,9,Umhlali Beach,Ocean,23,2026-03-08,2026-04-28,4000000,185,21621,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST11138/2026,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,15,Umhlali Beach,Ocean,33,2026-01-14,2026-04-22,5050000,218,23165,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST11039/2026,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,1,Umhlali Beach,Ocean,31,2026-02-28,2026-04-21,2450000,94,26063,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST8658/2026,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,2,Umhlali Beach,Ocean,31,2026-01-26,2026-03-31,2335000,84,27797,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST4394/2026,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,20,Umhlali Beach,Ocean,35,2025-11-17,2026-02-27,4900000,265,18490,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST4433/2026,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,8,Umhlali Beach,Ocean,35,2025-12-03,2026-02-27,3600000,176,20454,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T2809/2026,Umhlali Beach,SHAKAS ROCK,160,1,,,Umhlali Beach,Shad,2,2025-11-07,2026-02-12,8500000,1484,5727,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T301/2026,Umhlali Beach,SHAKAS ROCK,159,1,,,Umhlali Beach,,,2025-05-17,2026-01-08,2200000,394,5583,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST71846/2025,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,15,Umhlali Beach,Ocean,31,2025-08-29,2025-11-19,3350000,94,35638,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST70288/2025,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,15,Umhlali Beach,Ocean,21,2025-09-18,2025-11-06,3100000,167,18562,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST69505/2025,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,13,Umhlali Beach,Ocean,31,2025-08-29,2025-10-30,2850000,94,30319,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST69298/2025,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,47,Umhlali Beach,Iphala,48,2025-07-21,2025-10-29,3380000,147,22993,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST68359/2025,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,7,Umhlali Beach,Ocean,21,2025-08-31,2025-10-21,3290000,117,28119,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST67638/2025,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,6,Umhlali Beach,Ocean,33,2025-08-05,2025-10-14,5300000,214,24766,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST66096/2025,Umhlali Beach,SHAKAS ROCK,133,1,SS THE MOORINGS,2,Umhlali Beach,Ipahla,2,2025-07-21,2025-09-29,2200000,165,13333,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T65232/2025,Umhlali Beach,SHAKAS ROCK,136,0,,,Umhlali Beach,Ipahla,3A,,2025-09-19,0,1234,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+ST64662/2025,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,7,Umhlali Beach,Ocean,46,2025-04-22,2025-09-16,1350000,165,8181,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T64099/2025,Umhlali Beach,SHAKAS ROCK,249,0,,,Umhlali Beach,Dolphin,27,2025-07-25,2025-09-11,7800000,1851,4213,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST63955/2025,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,1,Umhlali Beach,Ocean,33,2025-05-22,2025-09-10,4200000,172,24418,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST63550/2025,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,12,Umhlali Beach,Ocean,33,2025-08-03,2025-09-05,5300000,212,25000,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST63449/2025,Umhlali Beach,SHAKAS ROCK,133,1,SS THE MOORINGS,3,Umhlali Beach,Ipahla,2,,2025-09-04,0,146,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST62592/2025,Umhlali Beach,SHAKAS ROCK,140,0,SS BUXTEHUDE,9,Umhlali Beach,Ocean,29,2025-04-04,2025-08-28,3393000,154,22032,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST61211/2025,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,40,Umhlali Beach,Iphala,48,2025-06-11,2025-08-15,2700000,144,18750,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST60295/2025,Umhlali Beach,SHAKAS ROCK,192,0,SS BEAU RIVAGE,14,Umhlali Beach,Little Maritzburg,32,2025-07-07,2025-08-07,4800000,231,20779,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST15551/2025,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,4,Umhlali Beach,Ocean,35,2025-04-13,2025-06-19,4000000,175,22857,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST13228/2025,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,14,Umhlali Beach,Ocean,35,2025-02-06,2025-05-29,4900000,175,28000,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST12936/2025,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,9,Umhlali Beach,Ocean,31,2025-04-15,2025-05-27,2200000,94,23404,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST10985/2025,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,15,Umhlali Beach,Ocean,35,2025-03-12,2025-05-09,4150000,176,23579,False,natural_person,legal_entity,4,sectional_title,True,lightstone_export
+ST10559/2025,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,5,Umhlali Beach,Ocean,31,2025-02-19,2025-05-06,2350000,94,25000,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST9224/2025,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,9,Umhlali Beach,Ocean,46,2025-02-23,2025-04-15,2670000,165,16181,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T7469/2025,Umhlali Beach,SHAKAS ROCK,148,0,,,Umhlali Beach,Dolphin,25A,2025-02-08,2025-03-31,7000000,2560,2734,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST4886/2025,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,3,Umhlali Beach,Ocean,35,2024-12-04,2025-03-04,6000000,176,34090,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST35811/2024,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,6,Umhlali Beach,Ocean,31,,2024-12-17,0,84,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST30098/2024,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,46,Umhlali Beach,Iphala,48,2024-07-24,2024-10-30,2900000,159,18238,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST30048/2024,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,14,Umhlali Beach,Ocean,35,2024-09-18,2024-10-29,4750000,175,27142,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST29285/2024,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,11,Umhlali Beach,Ocean,33,2024-08-06,2024-10-22,4500000,208,21634,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST29033/2024,Umhlali Beach,SHAKAS ROCK,192,0,SS BEAU RIVAGE,1,Umhlali Beach,Little Maritzburg,32,2024-07-29,2024-10-18,4325000,225,19222,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST24631/2024,Umhlali Beach,SHAKAS ROCK,153,0,SS SOLSTICE,3,Umhlali Beach,Ocean,19,2024-04-19,2024-09-03,5520000,224,24642,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T23181/2024,Umhlali Beach,SHAKAS ROCK,133,2,,,Umhlali Beach,Shakas Rock,133,,2024-08-22,0,795,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+ST22026/2024,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,3,Umhlali Beach,Ocean,35,2024-06-28,2024-08-07,4300000,176,24431,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T19364/2024,Umhlali Beach,SHAKAS ROCK,136,1,,,Umhlali Beach,Ipahla,3,2024-05-13,2024-07-12,2500000,1068,2340,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST18710/2024,Umhlali Beach,SHAKAS ROCK,141,0,SS CRAYFISH COTTAGE,5,Umhlali Beach,Ocean,27,2024-04-26,2024-07-05,3250000,115,28260,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST16962/2024,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,8,Umhlali Beach,Iphala,48,2024-04-15,2024-06-24,2100000,147,14285,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T16739/2024,Umhlali Beach,SHAKAS ROCK,192,2,,,Umhlali Beach,Dolphin,15,,2024-06-21,0,1687,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+ST13187/2024,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,10,Umhlali Beach,Ocean,33,2024-03-27,2024-05-21,4400000,213,20657,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST12011/2024,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,10,Umhlali Beach,Ocean,21,2023-12-29,2024-05-10,3100000,116,26724,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T10009/2024,Umhlali Beach,SHAKAS ROCK,178,0,,,Umhlali Beach,Dolphin,14,2023-12-30,2024-04-25,6900000,1425,4842,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST9142/2024,Umhlali Beach,SHAKAS ROCK,140,0,SS BUXTEHUDE,6,Umhlali Beach,Ocean,29,2024-01-16,2024-04-17,3650000,155,23548,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T8946/2024,Umhlali Beach,SHAKAS ROCK,162,0,,,Umhlali Beach,Ocean,24,2023-11-22,2024-04-16,2800000,1355,2066,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST8501/2024,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,32,Umhlali Beach,Iphala,48,2024-02-20,2024-04-11,3100000,146,21232,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST3374/2024,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,61,Umhlali Beach,Iphala,48,2023-12-06,2024-02-19,3300000,146,22602,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST3396/2024,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,43,Umhlali Beach,Iphala,48,2023-12-09,2024-02-19,3300000,161,20496,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST3194/2024,Umhlali Beach,SHAKAS ROCK,141,0,SS CRAYFISH COTTAGE,10,Umhlali Beach,Ocean,27,2023-11-30,2024-02-15,3800000,115,33043,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST2165/2024,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,4,Umhlali Beach,Ocean,33,2023-10-24,2024-02-02,3950000,170,23235,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST33258/2023,Umhlali Beach,SHAKAS ROCK,153,0,SS SOLSTICE,3,Umhlali Beach,Ocean,19,2023-06-01,2023-11-20,3100000,224,13839,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST32267/2023,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,10,Umhlali Beach,Ocean,46,2023-09-07,2023-11-10,3200000,165,19393,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST31842/2023,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,12,Umhlali Beach,Ocean,31,2023-10-12,2023-11-06,2550000,84,30357,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST31136/2023,Umhlali Beach,SHAKAS ROCK,133,1,SS THE MOORINGS,4,Umhlali Beach,Ipahla,2,,2023-10-31,0,167,0,False,legal_entity,natural_person,1,sectional_title,False,lightstone_export
+ST31137/2023,Umhlali Beach,SHAKAS ROCK,133,1,SS THE MOORINGS,4,Umhlali Beach,Ipahla,2,,2023-10-31,0,167,0,False,natural_person,legal_entity,2,sectional_title,False,lightstone_export
+ST31145/2023,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,7,Umhlali Beach,Ocean,21,2023-07-30,2023-10-31,2600000,117,22222,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T29039/2023,Umhlali Beach,SHAKAS ROCK,192,1,,,Umhlali Beach,Dolphin,13,2023-04-24,2023-10-13,2150000,1297,1657,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST26238/2023,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,8,Umhlali Beach,Ocean,35,,2023-09-13,0,176,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST24203/2023,Umhlali Beach,SHAKAS ROCK,153,0,SS SOLSTICE,2,Umhlali Beach,Ocean,19,2023-06-08,2023-08-24,8380000,252,33253,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST24213/2023,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,8,Umhlali Beach,Ocean,31,2023-07-01,2023-08-24,2150000,84,25595,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST21701/2023,Umhlali Beach,SHAKAS ROCK,172,0,SS PALM SANDS,1,Umhlali Beach,Iphala,7,2022-12-22,2023-07-31,2200000,136,16176,False,legal_entity,natural_person,2,sectional_title,True,lightstone_export
+ST21704/2023,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,3,Umhlali Beach,Ocean,31,2023-05-15,2023-07-31,1900000,94,20212,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST21702/2023,Umhlali Beach,SHAKAS ROCK,172,0,SS PALM SANDS,2,Umhlali Beach,Iphala,7,2022-12-12,2023-07-31,2000000,136,14705,False,legal_entity,natural_person,2,sectional_title,True,lightstone_export
+ST21703/2023,Umhlali Beach,SHAKAS ROCK,172,0,SS PALM SANDS,3,Umhlali Beach,Iphala,7,2022-12-22,2023-07-31,2300000,136,16911,False,legal_entity,natural_person,2,sectional_title,True,lightstone_export
+ST21485/2023,Umhlali Beach,SHAKAS ROCK,138,0,SS PORTOFINO,4,Umhlali Beach,Ipahla,1,2023-02-13,2023-07-28,4300000,253,16996,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST21222/2023,Umhlali Beach,SHAKAS ROCK,181,0,SS CATFISH,5,Umhlali Beach,Ocean,23,2023-05-11,2023-07-26,2500000,182,13736,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST17688/2023,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,2,Umhlali Beach,Ocean,31,2023-05-02,2023-06-27,2050000,84,24404,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST16821/2023,Umhlali Beach,SHAKAS ROCK,140,0,SS BUXTEHUDE,10,Umhlali Beach,Ocean,29,,2023-06-19,0,154,0,False,legal_entity,natural_person,1,sectional_title,False,lightstone_export
+ST14595/2023,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,3,Umhlali Beach,Ocean,33,2023-04-13,2023-05-30,4100000,174,23563,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST13321/2023,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,5,Umhlali Beach,Ocean,31,2023-02-13,2023-05-19,2200000,94,23404,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST12277/2023,Umhlali Beach,SHAKAS ROCK,140,0,SS BUXTEHUDE,4,Umhlali Beach,Ocean,29,,2023-05-10,0,154,0,False,legal_entity,natural_person,1,sectional_title,False,lightstone_export
+ST11242/2023,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,11,Umhlali Beach,Ocean,46,2023-02-03,2023-05-03,3125000,150,20833,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST9222/2023,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,7,Umhlali Beach,Ocean,35,2023-02-02,2023-04-18,3800000,175,21714,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST4347/2023,Umhlali Beach,SHAKAS ROCK,133,11,SS IPAHLE LODGE,6,Umhlali Beach,Ipahla,4,2023-01-16,2023-02-24,1850000,148,12500,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST2113/2023,Umhlali Beach,SHAKAS ROCK,145,0,SS CHAKA ISLES,4,Umhlali Beach,Ocean,25,2022-01-26,2023-01-31,4500000,236,19067,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST1671/2023,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,61,Umhlali Beach,Iphala,48,2022-07-19,2023-01-26,3025000,146,20719,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST1230/2023,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,44,Umhlali Beach,Iphala,48,2022-10-25,2023-01-19,3310000,144,22986,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T45149/2022,Umhlali Beach,SHAKAS ROCK,173,2,,,Umhlali Beach,Dolphin,24,2022-07-29,2022-12-14,4200000,1838,2285,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST40995/2022,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,11,Umhlali Beach,Ocean,33,2022-08-18,2022-11-17,3950000,208,18990,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST38147/2022,Umhlali Beach,SHAKAS ROCK,192,0,SS BEAU RIVAGE,15,Umhlali Beach,Little Maritzburg,32,2022-01-06,2022-10-27,4000000,231,17316,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST35614/2022,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,15,Umhlali Beach,Ocean,21,2022-07-13,2022-10-07,2030000,167,12155,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST33836/2022,Umhlali Beach,SHAKAS ROCK,145,0,SS CHAKA ISLES,2,Umhlali Beach,Ocean,25,2022-05-28,2022-09-23,6000000,214,28037,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST33381/2022,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,5,Umhlali Beach,Ocean,35,2022-05-13,2022-09-21,4340000,177,24519,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST29924/2022,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,47,Umhlali Beach,Iphala,48,2022-03-10,2022-08-26,2600000,147,17687,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST29377/2022,Umhlali Beach,SHAKAS ROCK,192,0,SS BEAU RIVAGE,14,Umhlali Beach,Little Maritzburg,32,2022-05-18,2022-08-23,4500000,231,19480,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST27220/2022,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,59,Umhlali Beach,Iphala,48,2022-05-05,2022-08-04,2900000,145,20000,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST26201/2022,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,6,Umhlali Beach,Iphala,48,2022-04-08,2022-07-28,2550000,146,17465,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T24745/2022,Umhlali Beach,SHAKAS ROCK,249,1,,,Umhlali Beach,,,2022-05-22,2022-07-21,1500000,1598,938,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST24293/2022,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,1,Umhlali Beach,Ocean,21,2022-05-25,2022-07-18,5750000,118,48728,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST22442/2022,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,8,Umhlali Beach,Ocean,46,2022-03-31,2022-06-30,2300000,165,13939,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST21519/2022,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,2,Umhlali Beach,Ocean,35,2022-02-24,2022-06-22,3500000,181,19337,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST20150/2022,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,16,Umhlali Beach,Ocean,46,2022-04-16,2022-06-14,2750000,179,15363,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST19772/2022,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,1,Umhlali Beach,Ocean,31,2022-02-22,2022-06-10,2195000,94,23351,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST19713/2022,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,11,Umhlali Beach,Ocean,46,2022-04-20,2022-06-09,2500000,150,16666,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST18659/2022,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,26,Umhlali Beach,Iphala,48,2022-02-05,2022-06-03,2200000,145,15172,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST18357/2022,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,17,Umhlali Beach,Ocean,46,2022-04-07,2022-05-31,2500000,165,15151,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST14149/2022,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,16,Umhlali Beach,Ocean,35,2022-03-03,2022-05-09,4500000,176,25568,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST13887/2022,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,51,Umhlali Beach,Iphala,48,2022-01-15,2022-05-06,3400000,147,23129,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST11926/2022,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,53,Umhlali Beach,Iphala,48,2022-02-07,2022-04-13,2400000,146,16438,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST10658/2022,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,40,Umhlali Beach,Iphala,48,2022-01-30,2022-04-07,2500000,144,17361,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T3766/2022,Umhlali Beach,SHAKAS ROCK,161,0,,,Umhlali Beach,Ocean,22,2021-11-29,2022-02-09,2500000,1359,1839,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST35549/2021,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,28,Umhlali Beach,Iphala,48,2021-08-14,2021-10-26,2700000,146,18493,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST33932/2021,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,41,Umhlali Beach,Iphala,48,2021-08-06,2021-10-13,3350000,160,20937,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T31377/2021,Umhlali Beach,SHAKAS ROCK,156,0,,,Umhlali Beach,Little Maritzburg,33,,2021-09-22,0,1376,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+ST30025/2021,Umhlali Beach,SHAKAS ROCK,140,0,SS BUXTEHUDE,2,Umhlali Beach,Ocean,29,2021-02-01,2021-09-14,3050000,167,18263,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST29303/2021,Umhlali Beach,SHAKAS ROCK,141,0,SS CRAYFISH COTTAGE,4,Umhlali Beach,Ocean,27,2021-04-27,2021-09-08,2600000,115,22608,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST27685/2021,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,10,Umhlali Beach,Ocean,46,,2021-08-31,0,165,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+T28845/2021,Umhlali Beach,SHAKAS ROCK,177,0,,,Umhlali Beach,Dolphin,18,2021-05-31,2021-08-27,4700000,1827,2572,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST25225/2021,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,13,Umhlali Beach,Ocean,46,2021-06-06,2021-08-19,2500000,165,15151,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST24982/2021,Umhlali Beach,SHAKAS ROCK,133,1,SS THE MOORINGS,2,Umhlali Beach,Ipahla,2,2021-06-07,2021-08-18,1000000,165,6060,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T23323/2021,Umhlali Beach,SHAKAS ROCK,249,0,,,Umhlali Beach,Dolphin,27,2021-01-13,2021-07-29,6000000,1851,3241,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T23322/2021,Umhlali Beach,SHAKAS ROCK,249,1,,,Umhlali Beach,,,2020-05-18,2021-07-29,750000,1598,469,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T17736/2021,Umhlali Beach,SHAKAS ROCK,160,1,,,Umhlali Beach,Shad,2,2021-03-12,2021-06-14,6050000,1484,4076,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST17186/2021,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,56,Umhlali Beach,Iphala,48,2021-02-12,2021-06-09,1650000,146,11301,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST16639/2021,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,17,Umhlali Beach,Ocean,33,2021-02-25,2021-06-07,3775000,170,22205,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST14633/2021,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,3,Umhlali Beach,Iphala,48,2021-04-04,2021-05-26,2750000,162,16975,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST14409/2021,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,55,Umhlali Beach,Iphala,48,2021-01-21,2021-05-25,2350000,146,16095,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST12953/2021,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,28,Umhlali Beach,Iphala,48,2020-12-30,2021-05-17,1650000,146,11301,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST7671/2021,Umhlali Beach,SHAKAS ROCK,138,0,SS PORTOFINO,3,Umhlali Beach,Ipahla,1,2020-12-09,2021-03-16,3900000,263,14828,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST4920/2021,Umhlali Beach,SHAKAS ROCK,133,1,SS THE MOORINGS,7,Umhlali Beach,Ipahla,2,2020-11-25,2021-03-02,2350000,206,11407,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST4059/2021,Umhlali Beach,SHAKAS ROCK,133,1,SS THE MOORINGS,6,Umhlali Beach,Ipahla,2,2020-10-12,2021-02-23,1999000,164,12189,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST3602/2021,Umhlali Beach,SHAKAS ROCK,141,0,SS CRAYFISH COTTAGE,5,Umhlali Beach,Ocean,27,2020-12-24,2021-02-18,2300000,115,20000,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST2067/2021,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,7,Umhlali Beach,Ocean,46,2020-10-27,2021-02-04,2700000,165,16363,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T41132/2020,Umhlali Beach,SHAKAS ROCK,160,0,,,Umhlali Beach,Shad,3,,2020-12-08,0,4875,0,False,legal_entity,natural_person,1,freehold,False,lightstone_export
+ST30684/2020,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,9,Umhlali Beach,Ocean,33,2020-07-28,2020-09-23,2550000,211,12085,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T29289/2020,Umhlali Beach,SHAKAS ROCK,157,0,,,Umhlali Beach,Little Maritzburg,31,2019-12-04,2020-09-17,7000000,1375,5090,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST27743/2020,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,32,Umhlali Beach,Iphala,48,2020-06-24,2020-09-07,2850000,146,19520,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T26966/2020,Umhlali Beach,SHAKAS ROCK,173,3,,,Umhlali Beach,Dolphin,26,,2020-09-01,0,1477,0,False,natural_person,legal_entity,1,freehold,False,lightstone_export
+ST24558/2020,Umhlali Beach,SHAKAS ROCK,181,0,SS CATFISH,10,Umhlali Beach,Ocean,23,2020-03-17,2020-08-13,2900000,185,15675,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST5885/2020,Umhlali Beach,SHAKAS ROCK,133,11,SS IPAHLE LODGE,5,Umhlali Beach,Ipahla,4,2020-01-16,2020-03-03,1700000,148,11486,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST33131/2019,Umhlali Beach,SHAKAS ROCK,141,0,SS CRAYFISH COTTAGE,4,Umhlali Beach,Ocean,27,2019-07-16,2019-10-25,2000000,115,17391,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T30877/2019,Umhlali Beach,SHAKAS ROCK,149,2,,,Umhlali Beach,Dolphin,1,2019-08-21,2019-10-08,4410000,1345,3278,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST24914/2019,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,16,Umhlali Beach,Ocean,35,2019-07-08,2019-08-23,3750000,176,21306,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST22267/2019,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,12,Umhlali Beach,Ocean,21,2019-05-09,2019-07-30,1850000,134,13805,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST20705/2019,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,14,Umhlali Beach,Ocean,35,2019-04-09,2019-07-17,3100000,175,17714,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST20359/2019,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,58,Umhlali Beach,Iphala,48,2019-05-10,2019-07-12,2300000,145,15862,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T15896/2019,Umhlali Beach,SHAKAS ROCK,173,3,,,Umhlali Beach,Dolphin,26,,2019-06-07,0,1477,0,False,legal_entity,natural_person,2,freehold,False,lightstone_export
+T15387/2019,Umhlali Beach,SHAKAS ROCK,165,0,,,Umhlali Beach,Dolphin,9,2019-03-01,2019-06-03,2100000,1353,1552,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST13721/2019,Umhlali Beach,SHAKAS ROCK,181,0,SS CATFISH,6,Umhlali Beach,Ocean,23,2019-02-18,2019-05-20,2200000,184,11956,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST12894/2019,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,8,Umhlali Beach,Ocean,46,,2019-05-10,0,165,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+T11269/2019,Umhlali Beach,SHAKAS ROCK,173,4,,,Umhlali Beach,Dolphin,31,2019-01-30,2019-04-24,2550000,1353,1884,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST6793/2019,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,4,Umhlali Beach,Iphala,48,2019-01-26,2019-03-14,2100000,147,14285,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST3672/2019,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,7,Umhlali Beach,Ocean,31,2018-09-29,2019-02-15,1565000,94,16648,False,natural_person,natural_person,3,sectional_title,True,lightstone_export
+ST1107/2019,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,19,Umhlali Beach,Ocean,33,,2019-01-24,0,234,0,False,legal_entity,natural_person,1,sectional_title,False,lightstone_export
+ST42033/2018,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,48,Umhlali Beach,Iphala,48,2018-10-16,2018-12-19,2500000,161,15527,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST38990/2018,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,15,Umhlali Beach,Ocean,33,2018-07-29,2018-11-29,3600000,218,16513,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST33501/2018,Umhlali Beach,SHAKAS ROCK,153,0,SS SOLSTICE,5,Umhlali Beach,Ocean,19,2018-03-14,2018-10-26,3750000,310,12096,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST32278/2018,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,31,Umhlali Beach,Iphala,48,2018-07-18,2018-10-19,3000000,146,20547,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST32283/2018,Umhlali Beach,SHAKAS ROCK,181,0,SS CATFISH,9,Umhlali Beach,Ocean,23,2018-08-10,2018-10-19,2550000,185,13783,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T31903/2018,Umhlali Beach,SHAKAS ROCK,170,0,,,Umhlali Beach,Ipahla,13,,2018-10-17,0,2023,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+ST28382/2018,Umhlali Beach,SHAKAS ROCK,181,0,SS CATFISH,4,Umhlali Beach,Ocean,23,2018-08-08,2018-09-14,2550000,143,17832,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST28416/2018,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,5,Umhlali Beach,Ocean,31,,2018-09-14,0,94,0,False,natural_person,natural_person,2,sectional_title,False,lightstone_export
+ST24385/2018,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,4,Umhlali Beach,Ocean,31,2018-04-21,2018-08-13,1687000,84,20083,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST22386/2018,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,6,Umhlali Beach,Ocean,33,2018-05-03,2018-07-24,3172500,214,14824,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST21334/2018,Umhlali Beach,SHAKAS ROCK,192,0,SS BEAU RIVAGE,10,Umhlali Beach,Little Maritzburg,32,2018-05-03,2018-07-13,4800000,229,20960,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST16513/2018,Umhlali Beach,SHAKAS ROCK,153,0,SS SOLSTICE,4,Umhlali Beach,Ocean,19,2018-02-24,2018-06-04,3700000,225,16444,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST13953/2018,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,15,Umhlali Beach,Ocean,31,2018-03-08,2018-05-14,3300000,94,35106,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST8913/2018,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,56,Umhlali Beach,Iphala,48,2017-12-03,2018-04-04,1760000,146,12054,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST7151/2018,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,1,Umhlali Beach,Ocean,46,2017-11-13,2018-03-19,2500000,214,11682,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST6389/2018,Umhlali Beach,SHAKAS ROCK,153,0,SS SOLSTICE,3,Umhlali Beach,Ocean,19,2017-06-23,2018-03-15,3500000,224,15625,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST6199/2018,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,11,Umhlali Beach,Ocean,35,2017-10-08,2018-03-14,3350000,179,18715,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T4713/2018,Umhlali Beach,SHAKAS ROCK,160,0,,,Umhlali Beach,Shad,3,2017-03-14,2018-02-16,2500000,4875,512,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T4622/2018,Umhlali Beach,SHAKAS ROCK,157,0,,,Umhlali Beach,Little Maritzburg,31,,2018-02-15,0,1375,0,False,natural_person,natural_person,3,freehold,False,lightstone_export
+ST1310/2018,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,34,Umhlali Beach,Iphala,48,2017-10-31,2018-01-17,2120000,146,14520,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST1181/2018,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,6,Umhlali Beach,Ocean,46,2017-07-04,2018-01-15,2950000,200,14750,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST858/2018,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,2,Umhlali Beach,Iphala,48,2017-09-24,2018-01-10,2268200,148,15325,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST41202/2017,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,17,Umhlali Beach,Ocean,46,2017-10-17,2017-12-15,2025000,165,12272,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST33906/2017,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,44,Umhlali Beach,Iphala,48,2017-06-28,2017-10-27,2700000,144,18750,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T32115/2017,Umhlali Beach,SHAKAS ROCK,148,0,,,Umhlali Beach,Dolphin,25A,,2017-10-16,0,2560,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T20189/2017,Umhlali Beach,SHAKAS ROCK,173,4,,,Umhlali Beach,Dolphin,31,2017-04-22,2017-07-11,2230000,1353,1648,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST16014/2017,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,53,Umhlali Beach,Iphala,48,2017-03-28,2017-06-07,2000000,146,13698,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST13007/2017,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,9,Umhlali Beach,Ocean,21,2017-02-22,2017-05-16,1925000,117,16452,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST12987/2017,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,51,Umhlali Beach,Iphala,48,2017-02-16,2017-05-16,2200000,147,14965,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST12266/2017,Umhlali Beach,SHAKAS ROCK,138,0,SS PORTOFINO,4,Umhlali Beach,Ipahla,1,2017-01-17,2017-05-09,3850000,253,15217,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST12046/2017,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,16,Umhlali Beach,Ocean,33,2017-03-06,2017-05-08,3175000,166,19126,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST11767/2017,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,59,Umhlali Beach,Iphala,48,2017-02-17,2017-05-04,2150000,145,14827,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST9955/2017,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,45,Umhlali Beach,Iphala,48,2017-02-02,2017-04-11,2720000,161,16894,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST9475/2017,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,21,Umhlali Beach,Ocean,33,2017-02-10,2017-04-06,4285000,160,26781,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST8826/2017,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,1,Umhlali Beach,Ocean,21,2017-01-10,2017-03-31,3000000,118,25423,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST5994/2017,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,10,Umhlali Beach,Ocean,46,2016-10-03,2017-03-08,2500000,165,15151,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST2752/2017,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,14,Umhlali Beach,Ocean,33,2016-10-10,2017-02-07,2500000,170,14705,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST2093/2017,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,1,Umhlali Beach,Iphala,48,2016-10-07,2017-01-30,2500000,162,15432,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST1664/2017,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,3,Umhlali Beach,Iphala,48,,2017-01-25,0,162,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST38990/2016,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,7,Umhlali Beach,Ocean,46,2016-10-09,2016-12-12,2650000,165,16060,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T37810/2016,Umhlali Beach,SHAKAS ROCK,149,2,,,Umhlali Beach,Dolphin,1,2016-09-24,2016-12-01,4200000,1345,3122,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST35145/2016,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,3,Umhlali Beach,Ocean,31,2016-08-12,2016-11-15,1640000,94,17446,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST34725/2016,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,23,Umhlali Beach,Iphala,48,2016-09-30,2016-11-11,2100000,152,13815,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST34684/2016,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,11,Umhlali Beach,Ocean,31,2016-08-16,2016-11-10,1560000,94,16595,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST33422/2016,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,30,Umhlali Beach,Iphala,48,2016-02-08,2016-11-01,2187500,146,14982,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST30966/2016,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,17,Umhlali Beach,Ocean,33,2016-08-24,2016-10-17,3475000,170,20441,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST27063/2016,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,13,Umhlali Beach,Ocean,33,2016-07-14,2016-09-14,2800000,220,12727,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST26166/2016,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,28,Umhlali Beach,Iphala,48,2016-04-26,2016-09-07,2270000,146,15547,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST22833/2016,Umhlali Beach,SHAKAS ROCK,133,1,SS THE MOORINGS,1,Umhlali Beach,Ipahla,2,2016-05-28,2016-08-15,1800000,127,14173,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST20408/2016,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,18,Umhlali Beach,Ocean,33,2016-04-05,2016-07-19,3700000,248,14919,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST19996/2016,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,4,Umhlali Beach,Ocean,31,2016-05-02,2016-07-14,1500000,84,17857,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST17513/2016,Umhlali Beach,SHAKAS ROCK,138,0,SS PORTOFINO,3,Umhlali Beach,Ipahla,1,,2016-06-21,0,263,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST17515/2016,Umhlali Beach,SHAKAS ROCK,138,0,SS PORTOFINO,3,Umhlali Beach,Ipahla,1,2015-12-02,2016-06-21,3300000,263,12547,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST17514/2016,Umhlali Beach,SHAKAS ROCK,138,0,SS PORTOFINO,4,Umhlali Beach,Ipahla,1,,2016-06-21,0,253,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST16196/2016,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,12,Umhlali Beach,Ocean,46,2016-05-17,2016-06-08,2500000,165,15151,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST15984/2016,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,4,Umhlali Beach,Ocean,21,2015-10-21,2016-06-07,2700000,118,22881,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST13001/2016,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,12,Umhlali Beach,Ocean,33,2016-01-23,2016-05-16,2550000,212,12028,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T12135/2016,Umhlali Beach,SHAKAS ROCK,171,0,,,Umhlali Beach,Ipahla,9,2015-09-15,2016-05-09,650000,1799,361,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST10854/2016,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,16,Umhlali Beach,Iphala,48,2015-10-06,2016-04-25,1825000,148,12331,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST5579/2016,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,2,Umhlali Beach,Ocean,31,2016-01-15,2016-03-03,1695000,84,20178,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST5319/2016,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,40,Umhlali Beach,Iphala,48,2015-12-15,2016-03-01,1890000,144,13125,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST4590/2016,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,15,Umhlali Beach,Ocean,31,2015-12-22,2016-02-23,2110000,94,22446,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T1825/2016,Umhlali Beach,SHAKAS ROCK,173,4,,,Umhlali Beach,Dolphin,31,2014-12-09,2016-01-27,1300255,1353,961,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST1862/2016,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,52,Umhlali Beach,Iphala,48,2015-08-22,2016-01-27,1700000,145,11724,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST1404/2016,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,12,Umhlali Beach,Ocean,46,2015-11-30,2016-01-21,2275000,165,13787,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST33698/2015,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,3,Umhlali Beach,Ocean,35,2015-08-07,2015-10-26,2500000,176,14204,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST32130/2015,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,3,Umhlali Beach,Ocean,46,2014-11-14,2015-10-14,2300000,200,11500,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST30341/2015,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,9,Umhlali Beach,Ocean,31,2015-08-02,2015-09-30,1500000,94,15957,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST27640/2015,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,15,Umhlali Beach,Ocean,46,2014-10-30,2015-09-03,1500000,190,7894,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST23024/2015,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,25,Umhlali Beach,Iphala,48,2015-04-21,2015-07-27,2500000,160,15625,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST22607/2015,Umhlali Beach,SHAKAS ROCK,192,0,SS BEAU RIVAGE,4,Umhlali Beach,Little Maritzburg,32,2015-05-20,2015-07-23,4850000,207,23429,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST22003/2015,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,10,Umhlali Beach,Ocean,21,2014-02-10,2015-07-20,1700000,116,14655,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST16652/2015,Umhlali Beach,SHAKAS ROCK,138,0,SS PORTOFINO,1,Umhlali Beach,Ipahla,1,2014-12-11,2015-06-05,3050000,254,12007,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST13683/2015,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,13,Umhlali Beach,Ocean,35,2014-09-16,2015-05-18,3625000,182,19917,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST11804/2015,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,3,Umhlali Beach,Ocean,33,2015-02-17,2015-04-30,2800000,174,16091,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST7798/2015,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,9,Umhlali Beach,Ocean,46,2015-02-11,2015-03-24,1700000,165,10303,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST7463/2015,Umhlali Beach,SHAKAS ROCK,140,0,SS BUXTEHUDE,3,Umhlali Beach,Ocean,29,2015-01-18,2015-03-20,2350000,154,15259,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST6990/2015,Umhlali Beach,SHAKAS ROCK,141,0,SS CRAYFISH COTTAGE,8,Umhlali Beach,Ocean,27,2015-01-17,2015-03-17,2600000,115,22608,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T5698/2015,Umhlali Beach,SHAKAS ROCK,176,0,,,Umhlali Beach,Dolphin,20,2014-10-19,2015-03-05,3650000,1718,2124,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST3205/2015,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,4,Umhlali Beach,Ocean,31,2014-09-22,2015-02-11,1200000,84,14285,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T2875/2015,Umhlali Beach,SHAKAS ROCK,149,0,,,Umhlali Beach,Dolphin,2,2014-11-07,2015-02-09,4500000,1874,2401,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST2608/2015,Umhlali Beach,SHAKAS ROCK,181,0,SS CATFISH,10,Umhlali Beach,Ocean,23,2014-09-30,2015-02-05,2200000,185,11891,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST1879/2015,Umhlali Beach,SHAKAS ROCK,181,0,SS CATFISH,9,Umhlali Beach,Ocean,23,2014-08-15,2015-01-29,1650000,185,8918,False,legal_entity,natural_person,2,sectional_title,True,lightstone_export
+ST43527/2014,Umhlali Beach,SHAKAS ROCK,133,1,SS THE MOORINGS,1,Umhlali Beach,Ipahla,2,2014-10-05,2014-12-17,1510000,127,11889,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST43351/2014,Umhlali Beach,SHAKAS ROCK,138,0,SS PORTOFINO,2,Umhlali Beach,Ipahla,1,,2014-12-15,0,242,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST43352/2014,Umhlali Beach,SHAKAS ROCK,138,0,SS PORTOFINO,2,Umhlali Beach,Ipahla,1,2014-05-26,2014-12-15,2175000,242,8987,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST43350/2014,Umhlali Beach,SHAKAS ROCK,138,0,SS PORTOFINO,1,Umhlali Beach,Ipahla,1,,2014-12-15,0,254,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST43040/2014,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,12,Umhlali Beach,Ocean,31,2014-11-10,2014-12-12,1450000,84,17261,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST42632/2014,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,35,Umhlali Beach,Iphala,48,2014-07-18,2014-12-11,2100000,145,14482,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST41370/2014,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,11,Umhlali Beach,Ocean,46,,2014-12-03,0,150,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST38471/2014,Umhlali Beach,SHAKAS ROCK,172,0,SS PALM SANDS,2,Umhlali Beach,Iphala,7,2014-08-19,2014-11-19,1150000,136,8455,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST35482/2014,Umhlali Beach,SHAKAS ROCK,133,1,SS THE MOORINGS,1,Umhlali Beach,Ipahla,2,2014-07-08,2014-10-24,1113641,127,8768,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST35192/2014,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,3,Umhlali Beach,Iphala,48,2014-08-22,2014-10-22,1900000,162,11728,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T31964/2014,Umhlali Beach,SHAKAS ROCK,163,0,,,Umhlali Beach,Dolphin,5,2014-06-06,2014-09-25,2800000,1355,2066,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST27442/2014,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,1,Umhlali Beach,Ocean,46,2014-04-10,2014-08-15,2100000,214,9813,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST24149/2014,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,1,Umhlali Beach,Ocean,21,,2014-07-23,0,118,0,False,natural_person,legal_entity,1,sectional_title,False,lightstone_export
+ST18056/2014,Umhlali Beach,SHAKAS ROCK,181,0,SS CATFISH,7,Umhlali Beach,Ocean,23,2014-01-27,2014-06-04,1900000,184,10326,False,natural_person,legal_entity,5,sectional_title,True,lightstone_export
+ST17796/2014,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,11,Umhlali Beach,Ocean,33,2014-03-20,2014-06-04,2850000,208,13701,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST17376/2014,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,11,Umhlali Beach,Ocean,21,,2014-05-30,0,134,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST17057/2014,Umhlali Beach,SHAKAS ROCK,141,0,SS CRAYFISH COTTAGE,9,Umhlali Beach,Ocean,27,,2014-05-29,0,115,0,False,legal_entity,natural_person,1,sectional_title,False,lightstone_export
+ST17058/2014,Umhlali Beach,SHAKAS ROCK,141,0,SS CRAYFISH COTTAGE,9,Umhlali Beach,Ocean,27,2013-11-13,2014-05-29,2000000,115,17391,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST14740/2014,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,8,Umhlali Beach,Iphala,48,2014-02-17,2014-05-12,1450000,147,9863,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST10606/2014,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,7,Umhlali Beach,Ocean,35,2013-11-01,2014-04-01,2850000,175,16285,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T9046/2014,Umhlali Beach,SHAKAS ROCK,169,0,,,Umhlali Beach,Ipahla,15,2014-01-07,2014-03-19,2700000,2189,1233,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST5493/2014,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,5,Umhlali Beach,Ocean,46,2013-12-11,2014-02-28,1950000,211,9241,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST5360/2014,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,57,Umhlali Beach,Iphala,48,2013-12-04,2014-02-27,1500000,145,10344,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T5382/2014,Umhlali Beach,SHAKAS ROCK,168,0,,,Umhlali Beach,Ipahla,17,2013-11-02,2014-02-27,3750000,3334,1124,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST3025/2014,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,21,Umhlali Beach,Ocean,33,2013-06-24,2014-02-04,3600000,160,22500,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST750/2014,Umhlali Beach,SHAKAS ROCK,140,0,SS BUXTEHUDE,3,Umhlali Beach,Ocean,29,2013-08-22,2014-01-14,800000,154,5194,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST40591/2013,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,11,Umhlali Beach,Ocean,31,2013-08-11,2013-12-12,1170000,94,12446,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST39251/2013,Umhlali Beach,SHAKAS ROCK,153,0,SS SOLSTICE,6,Umhlali Beach,Ocean,19,2013-10-03,2013-12-02,3250000,310,10483,False,natural_person,legal_entity,3,sectional_title,True,lightstone_export
+T35397/2013,Umhlali Beach,SHAKAS ROCK,173,5,,,Umhlali Beach,Dolphin,29,2013-07-01,2013-11-06,531000,1353,392,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST33584/2013,Umhlali Beach,SHAKAS ROCK,133,11,SS IPAHLE LODGE,2,Umhlali Beach,Ipahla,4,2013-08-21,2013-10-23,1300000,149,8724,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST27325/2013,Umhlali Beach,SHAKAS ROCK,172,0,SS PALM SANDS,3,Umhlali Beach,Iphala,7,2013-03-01,2013-09-03,995000,136,7316,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST24669/2013,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,41,Umhlali Beach,Iphala,48,2013-07-01,2013-08-14,1750000,160,10937,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST19296/2013,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,24,Umhlali Beach,Iphala,48,2013-05-08,2013-06-27,1700000,152,11184,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST17738/2013,Umhlali Beach,SHAKAS ROCK,140,0,SS BUXTEHUDE,7,Umhlali Beach,Ocean,29,,2013-06-13,0,153,0,False,natural_person,legal_entity,2,sectional_title,False,lightstone_export
+ST11408/2013,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,41,Umhlali Beach,Iphala,48,2012-11-16,2013-04-24,1790000,160,11187,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST9678/2013,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,10,Umhlali Beach,Ocean,35,2012-12-05,2013-04-08,1200965,255,4709,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T8877/2013,Umhlali Beach,SHAKAS ROCK,135,0,,,Umhlali Beach,Ipahla,5,,2013-03-28,0,1277,0,False,legal_entity,natural_person,1,freehold,False,lightstone_export
+ST7776/2013,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,53,Umhlali Beach,Iphala,48,2012-10-17,2013-03-19,1650000,146,11301,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T379/2013,Umhlali Beach,SHAKAS ROCK,192,4,,,Umhlali Beach,Dolphin,3,2012-10-01,2013-01-10,2250000,1024,2197,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST40749/2012,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,8,Umhlali Beach,Ocean,35,,2012-12-20,0,176,0,False,natural_person,legal_entity,2,sectional_title,False,lightstone_export
+ST39760/2012,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,7,Umhlali Beach,Ocean,46,,2012-12-18,0,165,0,False,natural_person,legal_entity,1,sectional_title,False,lightstone_export
+ST38805/2012,Umhlali Beach,SHAKAS ROCK,141,0,SS CRAYFISH COTTAGE,3,Umhlali Beach,Ocean,27,2012-07-26,2012-12-10,1750000,115,15217,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST38574/2012,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,3,Umhlali Beach,Ocean,33,,2012-12-07,0,174,0,False,natural_person,legal_entity,1,sectional_title,False,lightstone_export
+ST38563/2012,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,16,Umhlali Beach,Ocean,33,,2012-12-07,0,166,0,False,natural_person,legal_entity,1,sectional_title,False,lightstone_export
+ST37440/2012,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,8,Umhlali Beach,Ocean,46,,2012-11-30,0,165,0,False,natural_person,legal_entity,1,sectional_title,False,lightstone_export
+ST32651/2012,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,12,Umhlali Beach,Ocean,46,2012-09-07,2012-10-24,1650000,165,10000,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST28931/2012,Umhlali Beach,SHAKAS ROCK,145,0,SS CHAKA ISLES,2,Umhlali Beach,Ocean,25,2012-04-25,2012-09-20,3500000,214,16355,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T24271/2012,Umhlali Beach,SHAKAS ROCK,156,0,,,Umhlali Beach,Little Maritzburg,33,,2012-08-10,0,1376,0,False,natural_person,legal_entity,1,freehold,False,lightstone_export
+ST20621/2012,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,9,Umhlali Beach,Ocean,46,2012-04-26,2012-07-12,1595000,165,9666,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST18045/2012,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,6,Umhlali Beach,Ocean,33,2012-05-04,2012-06-21,2800000,214,13084,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST15881/2012,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,6,Umhlali Beach,Ocean,21,2012-04-30,2012-06-04,1000000,134,7462,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST15882/2012,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,23,Umhlali Beach,Ocean,21,,2012-06-04,0,276,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST15728/2012,Umhlali Beach,SHAKAS ROCK,133,1,SS THE MOORINGS,3,Umhlali Beach,Ipahla,2,2012-02-23,2012-06-01,1650000,146,11301,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST14425/2012,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,36,Umhlali Beach,Iphala,48,2012-01-27,2012-05-24,1500000,146,10273,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST13774/2012,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,1,Umhlali Beach,Iphala,48,2012-02-06,2012-05-21,1600000,162,9876,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST13627/2012,Umhlali Beach,SHAKAS ROCK,192,0,SS BEAU RIVAGE,12,Umhlali Beach,Little Maritzburg,32,2012-03-09,2012-05-18,3200000,232,13793,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST13189/2012,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,10,Umhlali Beach,Ocean,46,2012-01-23,2012-05-16,1550000,165,9393,False,natural_person,,2,sectional_title,True,lightstone_export
+ST11781/2012,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,3,Umhlali Beach,Iphala,48,2011-12-17,2012-05-03,1700000,162,10493,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST11005/2012,Umhlali Beach,SHAKAS ROCK,145,0,SS CHAKA ISLES,4,Umhlali Beach,Ocean,25,2012-01-19,2012-04-24,4000000,236,16949,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST8360/2012,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,42,Umhlali Beach,Iphala,48,2012-01-06,2012-03-28,1700000,145,11724,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST7770/2012,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,8,Umhlali Beach,Iphala,48,2011-09-15,2012-03-22,1000000,147,6802,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST5366/2012,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,17,Umhlali Beach,Ocean,35,2012-01-27,2012-03-01,3100000,180,17222,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST2845/2012,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,37,Umhlali Beach,Iphala,48,2011-10-17,2012-02-07,1000000,145,6896,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST1085/2012,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,19,Umhlali Beach,Iphala,48,2011-05-06,2012-01-19,1350000,152,8881,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST34032/2011,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,17,Umhlali Beach,Ocean,46,,2011-10-20,0,165,0,False,natural_person,legal_entity,1,sectional_title,False,lightstone_export
+ST34033/2011,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,17,Umhlali Beach,Ocean,46,2011-09-01,2011-10-20,1500000,165,9090,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST27980/2011,Umhlali Beach,SHAKAS ROCK,133,11,SS IPAHLE LODGE,4,Umhlali Beach,Ipahla,4,2011-03-24,2011-09-02,1050000,95,11052,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T25915/2011,Umhlali Beach,SHAKAS ROCK,160,2,,,Umhlali Beach,Shad,1,2011-05-10,2011-08-19,7000000,1349,5189,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T24435/2011,Umhlali Beach,SHAKAS ROCK,137,0,,,Umhlali Beach,Ocean,40,,2011-08-08,0,2473,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+ST21911/2011,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,25,Umhlali Beach,Iphala,48,2011-05-06,2011-07-15,1950000,160,12187,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST16926/2011,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,1,Umhlali Beach,Ocean,46,2011-03-09,2011-05-31,500000,214,2336,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T16474/2011,Umhlali Beach,SHAKAS ROCK,173,4,,,Umhlali Beach,Dolphin,31,2011-02-23,2011-05-27,2100000,1353,1552,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST16115/2011,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,4,Umhlali Beach,Ocean,33,2011-02-25,2011-05-25,2000000,170,11764,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST14374/2011,Umhlali Beach,SHAKAS ROCK,153,0,SS SOLSTICE,3,Umhlali Beach,Ocean,19,2010-12-23,2011-05-10,1550000,224,6919,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T9014/2011,Umhlali Beach,SHAKAS ROCK,169,0,,,Umhlali Beach,Ipahla,15,2011-01-03,2011-03-18,1950000,2189,890,False,natural_person,natural_person,3,freehold,True,lightstone_export
+ST7232/2011,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,15,Umhlali Beach,Ocean,33,2011-01-14,2011-03-09,2500000,218,11467,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST7233/2011,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,15,Umhlali Beach,Ocean,33,2011-01-31,2011-03-09,2500000,218,11467,False,legal_entity,,1,sectional_title,True,lightstone_export
+ST5770/2011,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,9,Umhlali Beach,Ocean,33,2010-07-27,2011-02-24,2500000,211,11848,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST4334/2011,Umhlali Beach,SHAKAS ROCK,133,11,SS IPAHLE LODGE,1,Umhlali Beach,Ipahla,4,,2011-02-10,0,182,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST1727/2011,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,12,Umhlali Beach,Ocean,31,2010-11-29,2011-01-19,1450000,84,17261,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST42642/2010,Umhlali Beach,SHAKAS ROCK,133,11,SS IPAHLE LODGE,3,Umhlali Beach,Ipahla,4,2010-10-28,2010-12-23,1200000,148,8108,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST38561/2010,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,11,Umhlali Beach,Ocean,46,,2010-11-25,0,150,0,False,natural_person,legal_entity,2,sectional_title,False,lightstone_export
+ST35750/2010,Umhlali Beach,SHAKAS ROCK,192,0,SS BEAU RIVAGE,12,Umhlali Beach,Little Maritzburg,32,2010-04-22,2010-11-05,3100000,232,13362,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST32372/2010,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,13,Umhlali Beach,Ocean,21,2010-06-17,2010-10-11,1750000,166,10542,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST32203/2010,Umhlali Beach,SHAKAS ROCK,172,0,SS PALM SANDS,1,Umhlali Beach,Iphala,7,2010-08-21,2010-10-08,1100000,136,8088,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST19340/2010,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,16,Umhlali Beach,Ocean,35,2010-03-29,2010-06-21,3030000,176,17215,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST17529/2010,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,1,Umhlali Beach,Ocean,35,,2010-06-04,0,182,0,False,legal_entity,natural_person,1,sectional_title,False,lightstone_export
+T16941/2010,Umhlali Beach,SHAKAS ROCK,149,2,,,Umhlali Beach,Dolphin,1,,2010-06-01,0,1345,0,False,natural_person,legal_entity,1,freehold,False,lightstone_export
+ST14378/2010,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,10,Umhlali Beach,Ocean,33,2009-10-04,2010-05-10,2500000,213,11737,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST9122/2010,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,5,Umhlali Beach,Ocean,33,2009-07-23,2010-03-29,17096,172,99,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST5408/2010,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,35,Umhlali Beach,Iphala,48,2009-11-11,2010-02-26,2200000,145,15172,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST4585/2010,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,6,Umhlali Beach,Ocean,33,2009-08-09,2010-02-22,2500000,214,11682,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST3522/2010,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,20,Umhlali Beach,Iphala,48,2009-03-11,2010-02-11,1620000,151,10728,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST39252/2009,Umhlali Beach,SHAKAS ROCK,133,1,SS THE MOORINGS,1,Umhlali Beach,Ipahla,2,2009-05-20,2009-10-29,760000,127,5984,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST37699/2009,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,8,Umhlali Beach,Ocean,21,2009-09-09,2009-10-19,1500000,117,12820,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST37429/2009,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,9,Umhlali Beach,Ocean,35,2009-07-17,2009-10-16,2400000,176,13636,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST33473/2009,Umhlali Beach,SHAKAS ROCK,192,0,SS BEAU RIVAGE,8,Umhlali Beach,Little Maritzburg,32,2009-02-04,2009-09-14,2200000,223,9865,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST30959/2009,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,2,Umhlali Beach,Ocean,35,2009-06-08,2009-08-24,1800000,181,9944,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST30133/2009,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,12,Umhlali Beach,Ocean,31,2009-04-24,2009-08-19,1350000,84,16071,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST29230/2009,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,17,Umhlali Beach,Ocean,35,2009-05-29,2009-08-12,1400000,180,7777,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST28006/2009,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,5,Umhlali Beach,Ocean,35,2009-02-12,2009-07-29,2000000,177,11299,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST26941/2009,Umhlali Beach,SHAKAS ROCK,172,0,SS PALM SANDS,1,Umhlali Beach,Iphala,7,2009-05-18,2009-07-22,850000,136,6250,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST22624/2009,Umhlali Beach,SHAKAS ROCK,133,1,SS THE MOORINGS,7,Umhlali Beach,Ipahla,2,2008-12-24,2009-06-18,1250000,206,6067,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST21188/2009,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,9,Umhlali Beach,Ocean,31,2009-04-01,2009-06-08,1200000,94,12765,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST12986/2009,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,2,Umhlali Beach,Ocean,31,2008-11-07,2009-04-06,701000,84,8345,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST12987/2009,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,2,Umhlali Beach,Ocean,31,2009-01-16,2009-04-06,975000,84,11607,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST8268/2009,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,17,Umhlali Beach,Ocean,21,1987-10-22,2009-03-10,1100000,132,8333,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST8269/2009,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,21,Umhlali Beach,Ocean,21,1983-09-22,2009-03-10,1600000,217,7373,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST8267/2009,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,14,Umhlali Beach,Ocean,21,1988-11-14,2009-03-10,1200000,137,8759,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST46908/2008,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,8,Umhlali Beach,Ocean,31,,2008-10-10,0,84,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST44763/2008,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,9,Umhlali Beach,Ocean,46,2008-05-20,2008-09-26,1550000,165,9393,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST36487/2008,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,5,Umhlali Beach,Iphala,48,2008-07-08,2008-08-01,1700000,161,10559,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST33825/2008,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,16,Umhlali Beach,Ocean,35,2008-05-14,2008-07-15,1970000,176,11193,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST29062/2008,Umhlali Beach,SHAKAS ROCK,140,0,SS BUXTEHUDE,4,Umhlali Beach,Ocean,29,2008-04-03,2008-06-19,800000,154,5194,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST14330/2008,Umhlali Beach,SHAKAS ROCK,192,0,SS BEAU RIVAGE,4,Umhlali Beach,Little Maritzburg,32,2007-12-20,2008-03-31,4500000,207,21739,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T12550/2008,Umhlali Beach,SHAKAS ROCK,157,0,,,Umhlali Beach,Little Maritzburg,31,,2008-03-19,0,1375,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T11613/2008,Umhlali Beach,SHAKAS ROCK,171,0,,,Umhlali Beach,Ipahla,9,2007-10-23,2008-03-13,1400000,1799,778,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T62486/2007,Umhlali Beach,SHAKAS ROCK,173,3,,,Umhlali Beach,Dolphin,26,2007-06-21,2007-12-13,1650000,1477,1117,False,natural_person,natural_person,3,freehold,True,lightstone_export
+T54096/2007,Umhlali Beach,SHAKAS ROCK,135,0,,,Umhlali Beach,Ipahla,5,2007-09-24,2007-11-01,2200000,1277,1722,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T48709/2007,Umhlali Beach,SHAKAS ROCK,160,2,,,Umhlali Beach,Shad,1,2007-08-07,2007-10-04,5000000,1349,3706,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST38967/2007,Umhlali Beach,SHAKAS ROCK,181,0,SS CATFISH,4,Umhlali Beach,Ocean,23,2007-03-10,2007-08-13,1360000,143,9510,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST35889/2007,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,9,Umhlali Beach,Ocean,31,2007-02-16,2007-07-30,1100000,94,11702,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST29754/2007,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,3,Umhlali Beach,Ocean,46,2007-03-09,2007-07-02,1700000,200,8500,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST25922/2007,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,34,Umhlali Beach,Iphala,48,2007-02-26,2007-05-30,1850000,146,12671,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST21764/2007,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,9,Umhlali Beach,Ocean,21,2007-01-23,2007-05-10,1400000,117,11965,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST19036/2007,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,15,Umhlali Beach,Ocean,31,2007-01-25,2007-04-30,1550000,94,16489,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST18040/2007,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,8,Umhlali Beach,Ocean,33,2007-01-10,2007-04-23,2850000,192,14843,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST17335/2007,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,14,Umhlali Beach,Iphala,48,2006-12-29,2007-04-19,1300000,147,8843,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST16502/2007,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,9,Umhlali Beach,Ocean,33,2006-11-29,2007-04-16,2600000,211,12322,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST15347/2007,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,13,Umhlali Beach,Ocean,35,2007-01-12,2007-04-05,3520000,182,19340,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST14425/2007,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,1,Umhlali Beach,Ocean,35,2006-12-12,2007-03-30,2095000,182,11510,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T12621/2007,Umhlali Beach,SHAKAS ROCK,161,0,,,Umhlali Beach,Ocean,22,2006-05-19,2007-03-20,1610000,1359,1184,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST11754/2007,Umhlali Beach,SHAKAS ROCK,140,0,SS BUXTEHUDE,6,Umhlali Beach,Ocean,29,2006-11-10,2007-03-14,1500000,155,9677,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST10064/2007,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,26,Umhlali Beach,Iphala,48,2006-11-02,2007-03-02,1400000,145,9655,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST7767/2007,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,31,Umhlali Beach,Iphala,48,2006-12-11,2007-02-16,1880000,146,12876,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST2584/2007,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,15,Umhlali Beach,Ocean,21,2006-10-20,2007-01-19,975000,167,5838,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST865/2007,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,40,Umhlali Beach,Iphala,48,2006-09-19,2007-01-08,1500000,144,10416,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T62165/2006,Umhlali Beach,SHAKAS ROCK,173,4,,,Umhlali Beach,Dolphin,31,2006-08-15,2006-12-06,1150000,1353,849,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T61742/2006,Umhlali Beach,SHAKAS ROCK,177,0,,,Umhlali Beach,Dolphin,18,2006-08-11,2006-12-04,2500000,1827,1368,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T54970/2006,Umhlali Beach,SHAKAS ROCK,135,0,,,Umhlali Beach,Ipahla,5,2006-08-30,2006-10-31,2100000,1277,1644,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST41150/2006,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,7,Umhlali Beach,Iphala,48,2006-04-22,2006-08-24,1350000,147,9183,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST38099/2006,Umhlali Beach,SHAKAS ROCK,133,1,SS THE MOORINGS,3,Umhlali Beach,Ipahla,2,2006-05-24,2006-08-10,1380000,146,9452,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST37470/2006,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,48,Umhlali Beach,Iphala,48,2006-05-29,2006-08-07,1600000,161,9937,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST34067/2006,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,2,Umhlali Beach,Ocean,46,2006-05-17,2006-07-24,2060000,216,9537,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST31160/2006,Umhlali Beach,SHAKAS ROCK,181,0,SS CATFISH,5,Umhlali Beach,Ocean,23,2006-02-08,2006-07-06,1775000,182,9752,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST24614/2006,Umhlali Beach,SHAKAS ROCK,133,11,SS IPAHLE LODGE,2,Umhlali Beach,Ipahla,4,2006-04-06,2006-06-06,1480000,149,9932,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST24227/2006,Umhlali Beach,SHAKAS ROCK,140,0,SS BUXTEHUDE,4,Umhlali Beach,Ocean,29,1999-09-28,2006-06-02,75000,154,487,False,natural_person,natural_person,3,sectional_title,True,lightstone_export
+ST24042/2006,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,7,Umhlali Beach,Ocean,31,2006-03-30,2006-06-01,1250000,94,13297,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST23718/2006,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,2,Umhlali Beach,Iphala,48,2006-02-17,2006-05-31,1325000,148,8952,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST21040/2006,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,12,Umhlali Beach,Iphala,48,2006-03-14,2006-05-18,1560000,146,10684,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST17181/2006,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,63,Umhlali Beach,Iphala,48,,2006-04-24,0,138,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST17182/2006,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,64,Umhlali Beach,Iphala,48,,2006-04-24,0,138,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+T15018/2006,Umhlali Beach,SHAKAS ROCK,138,0,,,Umhlali Beach,Ipahla,1,2005-12-15,2006-04-10,2835000,2294,1235,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST10449/2006,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,13,Umhlali Beach,Ocean,35,2005-10-21,2006-03-14,2550000,182,14010,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST62747/2005,Umhlali Beach,SHAKAS ROCK,140,0,SS BUXTEHUDE,2,Umhlali Beach,Ocean,29,2005-07-29,2005-12-02,1525000,167,9131,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST56865/2005,Umhlali Beach,SHAKAS ROCK,172,0,SS PALM SANDS,1,Umhlali Beach,Iphala,7,2005-09-02,2005-11-04,825000,136,6066,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST56890/2005,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,22,Umhlali Beach,Ocean,33,2005-07-31,2005-11-04,2700000,169,15976,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST55689/2005,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,52,Umhlali Beach,Iphala,48,2005-08-26,2005-10-28,1450000,145,10000,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST48949/2005,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,56,Umhlali Beach,Iphala,48,2005-07-22,2005-09-23,1200000,146,8219,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST46892/2005,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,19,Umhlali Beach,Ocean,35,2005-05-27,2005-09-13,200643,177,1133,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T36847/2005,Umhlali Beach,SHAKAS ROCK,160,2,,,Umhlali Beach,Shad,1,2005-05-21,2005-07-25,2200000,1349,1630,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T34370/2005,Umhlali Beach,SHAKAS ROCK,138,0,,,Umhlali Beach,Ipahla,1,2005-03-10,2005-07-08,2500000,2294,1089,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST25799/2005,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,20,Umhlali Beach,Iphala,48,2005-03-19,2005-05-30,1480000,151,9801,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST24898/2005,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,2,Umhlali Beach,Ocean,31,2005-02-07,2005-05-25,1100000,84,13095,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST19684/2005,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,10,Umhlali Beach,Ocean,21,2005-02-17,2005-04-29,1400000,116,12068,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST17457/2005,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,15,Umhlali Beach,Ocean,31,2005-01-24,2005-04-15,1500000,94,15957,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST15211/2005,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,10,Umhlali Beach,Ocean,46,2004-10-08,2005-04-01,1800000,165,10909,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T9520/2005,Umhlali Beach,SHAKAS ROCK,160,1,,,Umhlali Beach,Shad,2,2004-11-04,2005-03-04,2500000,1484,1684,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T9518/2005,Umhlali Beach,SHAKAS ROCK,249,0,,,Umhlali Beach,Dolphin,27,,2005-03-04,0,1851,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+ST9011/2005,Umhlali Beach,SHAKAS ROCK,133,11,SS IPAHLE LODGE,2,Umhlali Beach,Ipahla,4,2004-10-25,2005-03-01,1320000,149,8859,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST5201/2005,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,3,Umhlali Beach,Ocean,31,2004-10-19,2005-02-08,720000,94,7659,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST3491/2005,Umhlali Beach,SHAKAS ROCK,192,0,SS BEAU RIVAGE,7,Umhlali Beach,Little Maritzburg,32,2004-10-12,2005-01-27,2471000,282,8762,False,natural_person,natural_person,3,sectional_title,True,lightstone_export
+ST63403/2004,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,45,Umhlali Beach,Iphala,48,,2004-11-30,0,161,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+ST63404/2004,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,45,Umhlali Beach,Iphala,48,2004-04-16,2004-11-30,1450000,161,9006,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST61829/2004,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,9,Umhlali Beach,Ocean,31,2004-08-26,2004-11-24,1250000,94,13297,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST61865/2004,Umhlali Beach,SHAKAS ROCK,181,0,SS CATFISH,10,Umhlali Beach,Ocean,23,2004-10-04,2004-11-24,1700000,185,9189,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T61067/2004,Umhlali Beach,SHAKAS ROCK,200,2,,,Umhlali Beach,Ocean,38B,2003-12-18,2004-11-19,1550000,2040,759,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST52616/2004,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,17,Umhlali Beach,Iphala,48,2004-09-06,2004-10-11,1480000,146,10136,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T47311/2004,Umhlali Beach,SHAKAS ROCK,138,0,,,Umhlali Beach,Ipahla,1,2004-07-16,2004-09-14,2250000,2294,980,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST45887/2004,Umhlali Beach,SHAKAS ROCK,133,10,SS SKIATHOS,6,Umhlali Beach,Ocean,33,2004-03-25,2004-09-06,1950000,214,9112,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST38906/2004,Umhlali Beach,SHAKAS ROCK,192,0,SS BEAU RIVAGE,3,Umhlali Beach,Little Maritzburg,32,2004-04-30,2004-07-30,3295000,229,14388,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST32737/2004,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,14,Umhlali Beach,Iphala,48,2004-04-21,2004-06-28,830000,147,5646,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST27175/2004,Umhlali Beach,SHAKAS ROCK,153,0,SS SOLSTICE,3,Umhlali Beach,Ocean,19,2004-01-19,2004-06-03,2200000,224,9821,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST26870/2004,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,42,Umhlali Beach,Iphala,48,2004-02-09,2004-06-02,1400000,145,9655,False,natural_person,legal_entity,5,sectional_title,True,lightstone_export
+T23962/2004,Umhlali Beach,SHAKAS ROCK,138,0,,,Umhlali Beach,Ipahla,1,2004-01-17,2004-05-20,2200000,2294,959,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST23766/2004,Umhlali Beach,SHAKAS ROCK,145,0,SS CHAKA ISLES,4,Umhlali Beach,Ocean,25,2004-03-03,2004-05-19,2200000,236,9322,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST20703/2004,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,53,Umhlali Beach,Iphala,48,2004-03-01,2004-05-04,1000000,146,6849,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST13819/2004,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,12,Umhlali Beach,Iphala,48,2003-12-17,2004-03-25,1200000,146,8219,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST10125/2004,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,12,Umhlali Beach,Ocean,46,2003-12-16,2004-03-04,1150000,165,6969,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST3217/2004,Umhlali Beach,SHAKAS ROCK,192,0,SS BEAU RIVAGE,7,Umhlali Beach,Little Maritzburg,32,2003-11-23,2004-01-28,1950000,282,6914,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST2467/2004,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,56,Umhlali Beach,Iphala,48,2003-10-21,2004-01-22,108273,146,741,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST729/2004,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,1,Umhlali Beach,Ocean,21,2003-10-10,2004-01-07,1500000,118,12711,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T77160/2003,Umhlali Beach,SHAKAS ROCK,169,0,,,Umhlali Beach,Ipahla,15,,2003-12-19,0,2189,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+ST74947/2003,Umhlali Beach,SHAKAS ROCK,133,1,SS THE MOORINGS,3,Umhlali Beach,Ipahla,2,2003-10-06,2003-12-11,300000,146,2054,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST70232/2003,Umhlali Beach,SHAKAS ROCK,133,11,SS IPAHLE LODGE,3,Umhlali Beach,Ipahla,4,2003-10-02,2003-11-26,770000,148,5202,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST69983/2003,Umhlali Beach,SHAKAS ROCK,141,0,SS CRAYFISH COTTAGE,7,Umhlali Beach,Ocean,27,2003-10-12,2003-11-25,1150000,137,8394,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST65278/2003,Umhlali Beach,SHAKAS ROCK,192,0,SS BEAU RIVAGE,8,Umhlali Beach,Little Maritzburg,32,2003-07-25,2003-11-12,1950000,223,8744,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST61365/2003,Umhlali Beach,SHAKAS ROCK,172,0,SS PALM SANDS,1,Umhlali Beach,Iphala,7,2003-08-27,2003-10-22,550000,136,4044,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST60414/2003,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,4,Umhlali Beach,Ocean,46,2003-08-18,2003-10-17,1550000,213,7276,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T59927/2003,Umhlali Beach,SHAKAS ROCK,160,1,,,Umhlali Beach,Shad,2,2003-08-01,2003-10-16,2015000,1484,1357,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST59943/2003,Umhlali Beach,SHAKAS ROCK,145,0,SS CHAKA ISLES,2,Umhlali Beach,Ocean,25,2003-08-20,2003-10-16,2400000,214,11214,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T56199/2003,Umhlali Beach,SHAKAS ROCK,138,0,,,Umhlali Beach,Ipahla,1,2003-06-27,2003-10-01,1070000,2294,466,True,legal_entity,natural_person,1,freehold,False,lightstone_export
+ST55990/2003,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,15,Umhlali Beach,Ocean,21,2003-07-15,2003-09-30,810000,167,4850,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST55404/2003,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,14,Umhlali Beach,Iphala,48,2003-05-31,2003-09-29,550000,147,3741,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST54294/2003,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,57,Umhlali Beach,Iphala,48,2003-08-09,2003-09-23,895000,145,6172,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST51449/2003,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,21,Umhlali Beach,Iphala,48,2003-08-18,2003-09-16,700000,152,4605,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST51448/2003,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,47,Umhlali Beach,Iphala,48,2003-08-13,2003-09-16,625000,147,4251,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST46720/2003,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,18,Umhlali Beach,Ocean,35,2003-06-11,2003-08-26,1200000,179,6703,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T45395/2003,Umhlali Beach,SHAKAS ROCK,158,0,,,Umhlali Beach,Little Maritzburg,29,2003-06-02,2003-08-19,2970000,1376,2158,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST40951/2003,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,59,Umhlali Beach,Iphala,48,2003-04-25,2003-07-25,720000,145,4965,False,natural_person,,1,sectional_title,True,lightstone_export
+ST40515/2003,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,6,Umhlali Beach,Ocean,31,2003-05-18,2003-07-23,530000,84,6309,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST39628/2003,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,2,Umhlali Beach,Iphala,48,2003-04-02,2003-07-16,760000,148,5135,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST37622/2003,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,9,Umhlali Beach,Ocean,31,2003-04-04,2003-07-03,475000,94,5053,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST34074/2003,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,48,Umhlali Beach,Iphala,48,2003-04-01,2003-06-19,950000,161,5900,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T28344/2003,Umhlali Beach,SHAKAS ROCK,171,0,,,Umhlali Beach,Ipahla,9,2003-04-04,2003-05-28,680000,1799,377,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST26919/2003,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,3,Umhlali Beach,Ocean,31,2003-02-05,2003-05-21,420000,94,4468,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST26511/2003,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,19,Umhlali Beach,Ocean,35,2003-01-30,2003-05-20,450000,177,2542,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST21302/2003,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,34,Umhlali Beach,Iphala,48,2003-02-03,2003-04-25,760000,146,5205,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST15209/2003,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,22,Umhlali Beach,Iphala,48,2003-02-10,2003-03-26,745000,152,4901,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST7885/2003,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,14,Umhlali Beach,Ocean,46,2002-12-31,2003-02-19,750000,165,4545,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST7879/2003,Umhlali Beach,SHAKAS ROCK,140,0,SS BUXTEHUDE,9,Umhlali Beach,Ocean,29,2002-12-20,2003-02-19,425000,154,2759,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST6296/2003,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,20,Umhlali Beach,Iphala,48,2002-11-05,2003-02-11,625000,151,4139,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST4389/2003,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,12,Umhlali Beach,Iphala,48,2002-11-26,2003-02-04,685000,146,4691,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST73478/2002,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,7,Umhlali Beach,Ocean,31,2002-10-17,2002-12-19,300000,94,3191,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST71261/2002,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,4,Umhlali Beach,Ocean,46,2002-11-02,2002-12-11,1080000,213,5070,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST69776/2002,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,35,Umhlali Beach,Iphala,48,2002-09-25,2002-12-04,700000,145,4827,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T69664/2002,Umhlali Beach,SHAKAS ROCK,135,1,,,Umhlali Beach,Ocean,38C,2000-08-22,2002-12-04,324000,1086,298,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+ST65399/2002,Umhlali Beach,SHAKAS ROCK,134,2,SS CHAKA TERRACES,10,Umhlali Beach,Ocean,35,2002-09-03,2002-11-14,1080000,255,4235,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST65077/2002,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,15,Umhlali Beach,Ocean,46,2002-10-24,2002-11-12,500000,190,2631,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T64303/2002,Umhlali Beach,SHAKAS ROCK,176,0,,,Umhlali Beach,Dolphin,20,,2002-11-07,0,1718,0,False,natural_person,legal_entity,2,freehold,False,lightstone_export
+ST61183/2002,Umhlali Beach,SHAKAS ROCK,133,11,SS IPAHLE LODGE,1,Umhlali Beach,Ipahla,4,2002-07-02,2002-10-25,490000,182,2692,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST58644/2002,Umhlali Beach,SHAKAS ROCK,141,0,SS CRAYFISH COTTAGE,5,Umhlali Beach,Ocean,27,2002-08-08,2002-10-14,640000,115,5565,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST57406/2002,Umhlali Beach,SHAKAS ROCK,141,0,SS CRAYFISH COTTAGE,3,Umhlali Beach,Ocean,27,2001-07-31,2002-10-04,365000,115,3173,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST53022/2002,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,42,Umhlali Beach,Iphala,48,2002-05-20,2002-09-13,620000,145,4275,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST50519/2002,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,53,Umhlali Beach,Iphala,48,2002-07-17,2002-09-03,465000,146,3184,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST48526/2002,Umhlali Beach,SHAKAS ROCK,192,0,SS BEAU RIVAGE,4,Umhlali Beach,Little Maritzburg,32,2002-07-11,2002-08-26,1350000,207,6521,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST44329/2002,Umhlali Beach,SHAKAS ROCK,141,0,SS CRAYFISH COTTAGE,6,Umhlali Beach,Ocean,27,2002-05-08,2002-08-01,490000,115,4260,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST43947/2002,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,17,Umhlali Beach,Ocean,46,2002-04-05,2002-07-31,505000,165,3060,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST36088/2002,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,43,Umhlali Beach,Iphala,48,2002-04-22,2002-06-25,700000,161,4347,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T34777/2002,Umhlali Beach,SHAKAS ROCK,171,0,,,Umhlali Beach,Ipahla,9,2002-03-27,2002-06-19,485000,1799,269,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST34664/2002,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,16,Umhlali Beach,Iphala,48,2001-11-20,2002-06-18,380000,148,2567,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST33948/2002,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,12,Umhlali Beach,Ocean,21,2002-05-03,2002-06-13,435000,134,3246,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST29500/2002,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,12,Umhlali Beach,Ocean,46,2002-01-23,2002-05-27,515000,165,3121,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+T27187/2002,Umhlali Beach,SHAKAS ROCK,167,0,,,Umhlali Beach,Ipahla,12,2002-02-27,2002-05-16,300000,1415,212,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST20144/2002,Umhlali Beach,SHAKAS ROCK,139,0,SS VILLA FLAMENCO,3,Umhlali Beach,Ocean,31,2002-02-01,2002-04-22,345000,94,3670,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T19288/2002,Umhlali Beach,SHAKAS ROCK,173,3,,,Umhlali Beach,Dolphin,26,2002-03-05,2002-04-18,425000,1477,287,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST19483/2002,Umhlali Beach,SHAKAS ROCK,181,0,SS CATFISH,8,Umhlali Beach,Ocean,23,2002-01-25,2002-04-18,615000,185,3324,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST18946/2002,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,16,Umhlali Beach,Ocean,46,2001-12-21,2002-04-16,530000,179,2960,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST18709/2002,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,20,Umhlali Beach,Iphala,48,2001-12-13,2002-04-15,510000,151,3377,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T18688/2002,Umhlali Beach,SHAKAS ROCK,160,1,,,Umhlali Beach,Shad,2,2002-01-20,2002-04-15,900000,1484,606,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST17167/2002,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,9,Umhlali Beach,Ocean,46,2001-12-24,2002-04-05,455000,165,2757,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST15521/2002,Umhlali Beach,SHAKAS ROCK,181,0,SS CATFISH,5,Umhlali Beach,Ocean,23,2002-02-15,2002-03-27,320000,182,1758,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST10780/2002,Umhlali Beach,SHAKAS ROCK,153,0,SS SOLSTICE,3,Umhlali Beach,Ocean,19,2002-01-10,2002-03-06,1200000,224,5357,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST10527/2002,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,14,Umhlali Beach,Ocean,46,2001-12-28,2002-03-05,510000,165,3090,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+ST6521/2002,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,9,Umhlali Beach,Iphala,48,2001-10-13,2002-02-14,485000,148,3277,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST68243/2001,Umhlali Beach,SHAKAS ROCK,182,0,SS CHAKA SANDS,2,Umhlali Beach,Ocean,21,2001-09-20,2001-12-20,500000,118,4237,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST67449/2001,Umhlali Beach,SHAKAS ROCK,140,0,SS BUXTEHUDE,6,Umhlali Beach,Ocean,29,2001-10-14,2001-12-18,350000,155,2258,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST66873/2001,Umhlali Beach,SHAKAS ROCK,140,0,SS BUXTEHUDE,3,Umhlali Beach,Ocean,29,2001-10-14,2001-12-14,350000,154,2272,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST65651/2001,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,47,Umhlali Beach,Iphala,48,2001-09-29,2001-12-11,420000,147,2857,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST64722/2001,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,14,Umhlali Beach,Ocean,46,,2001-12-06,0,165,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST64720/2001,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,12,Umhlali Beach,Ocean,46,,2001-12-06,0,165,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST64695/2001,Umhlali Beach,SHAKAS ROCK,133,4,SS PAROS,60,Umhlali Beach,Iphala,48,2001-10-01,2001-12-06,440000,145,3034,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST64721/2001,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,13,Umhlali Beach,Ocean,46,,2001-12-06,0,165,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST64726/2001,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,13,Umhlali Beach,Ocean,46,2001-09-27,2001-12-06,530000,165,3212,False,legal_entity,legal_entity,1,sectional_title,True,lightstone_export
+ST64725/2001,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,17,Umhlali Beach,Ocean,46,,2001-12-06,0,165,0,False,legal_entity,,1,sectional_title,False,lightstone_export
+ST64723/2001,Umhlali Beach,SHAKAS ROCK,134,0,SS SEABREEZE,15,Umhlali Beach,Ocean,46,,2001-12-06,0,190,0,False,legal_entity,,1,sectional_title,False,lightstone_export

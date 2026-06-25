@@ -1,0 +1,501 @@
+title_deed_no,estate,township,erf,portion,sectional_scheme,unit,suburb,street,street_number,sales_date,registration_date,sales_price,size_m2,price_per_m2,possible_land_only,buyer_type,seller_type,number_of_owners,property_type,is_market_sale,data_source
+T13313/2026,Salt Rock,SALT ROCK,761,0,,,Salt Rock,Garland,761,2026-03-16,2026-05-14,6400000,8452,757,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T12806/2026,Salt Rock,SALT ROCK EXT 2,619,0,,,Salt Rock,Robbins,8,2026-01-17,2026-05-11,2750000,1146,2399,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T12004/2026,Salt Rock,SALT ROCK EXT 4,823,0,,,Salt Rock,Lagoon,31,2025-09-24,2026-04-30,4330000,1269,3412,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T11985/2026,Salt Rock,SALT ROCK EXT 2,628,0,,,Salt Rock,Robbins,3,2026-04-09,2026-04-30,2600000,1040,2500,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T9757/2026,Salt Rock,SALT ROCK EXT 4,917,1,,,Salt Rock,,,2023-11-30,2026-04-14,1250000,1231,1015,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T8551/2026,Salt Rock,SALT ROCK,771,0,,,Salt Rock,Mcdonald,3,2026-02-03,2026-03-31,4260000,1367,3116,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST8630/2026,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,4,Salt Rock,The Ridge,1,2025-12-30,2026-03-31,2350000,151,15562,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST7209/2026,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,28,Salt Rock,The Ridge,1,2025-12-19,2026-03-20,2500000,151,16556,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T7068/2026,Salt Rock,FU,1521,421,,,Salt Rock,Hugh Dent,29,2025-12-15,2026-03-19,3900000,1346,2897,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T5582/2026,Salt Rock,SALT ROCK EXT 3,728,0,,,Salt Rock,Hugh Dent,36,,2026-03-06,0,1068,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+ST4852/2026,Salt Rock,SALT ROCK EXT 1,477,0,SS GLENEAGLES,8,Salt Rock,Fairway,1,2025-11-20,2026-03-04,3200000,138,23188,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T4972/2026,Salt Rock,FU,1521,221,,,Salt Rock,The Ridge,1,2024-12-26,2026-03-04,3500000,1380,2536,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST4499/2026,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,34,Salt Rock,The Ridge,1,2026-01-17,2026-03-02,2500000,151,16556,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T4290/2026,Salt Rock,SALT ROCK EXT 1,541,0,,,Salt Rock,Basil Hulett,541,2025-01-30,2026-02-27,2185000,24281,89,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T1630/2026,Salt Rock,SALT ROCK EXT 2,618,0,,,Salt Rock,Robbins,10,2025-11-10,2026-01-29,3950000,1150,3434,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T1228/2026,Salt Rock,SALT ROCK EXT 2,696,0,,,Salt Rock,Gifford,27,2025-11-17,2026-01-26,3900000,1075,3627,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T413/2026,Salt Rock,SALT ROCK EXT 1,474,0,,,Salt Rock,Fairway,7,2025-11-07,2026-01-12,6250000,701,8915,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T418/2026,Salt Rock,FU,1521,436,,,Salt Rock,Ralph's,15,2025-10-07,2026-01-12,3000000,1156,2595,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST76066/2025,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,37,Salt Rock,The Ridge,1,2025-11-24,2025-12-23,2250000,153,14705,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T74970/2025,Salt Rock,SALT ROCK EXT 3,728,0,,,Salt Rock,Hugh Dent,36,2025-09-10,2025-12-15,3100000,1068,2902,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T74580/2025,Salt Rock,FU,1521,623,,,Salt Rock,Little Maritzburg,9B,,2025-12-11,0,1093,0,False,legal_entity,natural_person,1,freehold,False,lightstone_export
+T74360/2025,Salt Rock,SALT ROCK EXT 4,862,0,,,Salt Rock,Lagoon,28,2025-08-06,2025-12-10,1400000,1297,1079,True,legal_entity,natural_person,1,freehold,False,lightstone_export
+T74086/2025,Salt Rock,FU,1521,316,,,Salt Rock,Shrimp,6,2025-04-17,2025-12-08,30014806,1909,15722,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T74086/2025,Salt Rock,FU,1521,687,,,Salt Rock,,,2025-04-17,2025-12-08,30014806,1094,27435,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T73544/2025,Salt Rock,SALT ROCK EXT 4,865,0,,,Salt Rock,Milkwood,33,2025-10-01,2025-12-03,4300000,1022,4207,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T73292/2025,Salt Rock,FU,1521,498,,,Salt Rock,Crows Nest,17,2025-09-26,2025-12-02,3495000,2294,1523,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T72471/2025,Salt Rock,SALT ROCK EXT 1,377,0,,,Salt Rock,Murray,31,2025-05-04,2025-11-26,2670000,1112,2401,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST71815/2025,Salt Rock,SALT ROCK EXT 1,477,0,SS GLENEAGLES,10,Salt Rock,Fairway,1,2025-08-18,2025-11-19,3500000,140,25000,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T71773/2025,Salt Rock,FU,1521,87,,,Salt Rock,The Ridge,3,2025-08-25,2025-11-19,2950000,1598,1846,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T70066/2025,Salt Rock,FU,1521,367,,,Salt Rock,Murray,15,2025-07-26,2025-11-05,5950000,1202,4950,False,natural_person,,1,freehold,True,lightstone_export
+T69581/2025,Salt Rock,FU,1521,173,,,Salt Rock,,,2025-07-23,2025-10-31,4650000,1263,3681,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T69262/2025,Salt Rock,SALT ROCK,915,0,,,Salt Rock,Oldfield,4,2025-08-29,2025-10-29,2500000,2103,1188,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T68747/2025,Salt Rock,SALT ROCK EXT 4,917,1,,,Salt Rock,,,,2025-10-24,0,1231,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T68282/2025,Salt Rock,SALT ROCK,1292,0,,,Salt Rock,Little Maritzburg,8,2025-08-31,2025-10-21,1200000,924,1298,True,natural_person,natural_person,1,freehold,False,lightstone_export
+T67959/2025,Salt Rock,SALT ROCK EXT 4,834,0,,,Salt Rock,Milkwood,26,2025-09-09,2025-10-17,7000000,1600,4375,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T67833/2025,Salt Rock,FU,1521,629,,,Salt Rock,Ralphs,6,2025-07-23,2025-10-16,10200000,1000,10200,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T67072/2025,Salt Rock,SALT ROCK EXT 2,615,0,,,Salt Rock,Robbins,16,,2025-10-08,0,1346,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T65657/2025,Salt Rock,SALT ROCK EXT 2,667,0,,,Salt Rock,Gifford,14,2025-06-17,2025-09-25,6150000,1184,5194,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST65735/2025,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,9,Salt Rock,The Ridge,1,2025-07-09,2025-09-25,2425000,150,16166,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T65524/2025,Salt Rock,SALT ROCK EXT 2,669,0,,,Salt Rock,Gifford,18,2025-07-17,2025-09-23,8100000,1153,7025,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T61432/2025,Salt Rock,SALT ROCK,771,0,,,Salt Rock,Mcdonald,3,2025-06-30,2025-08-19,2850000,1367,2084,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST60606/2025,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,40,Salt Rock,The Ridge,1,2025-05-28,2025-08-11,2400000,152,15789,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T20032/2025,Salt Rock,SALT ROCK EXT 2,654,0,,,Salt Rock,Crest,3,2025-04-25,2025-08-05,2425000,1437,1687,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T20026/2025,Salt Rock,FU,1521,361,,,Salt Rock,Ralphs,8,2025-03-18,2025-08-05,22450000,2272,9881,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T19224/2025,Salt Rock,FU,1521,143,,,Salt Rock,Crows Nest,24,2025-01-06,2025-07-29,4500000,2302,1954,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T19114/2025,Salt Rock,SALT ROCK,920,0,,,Salt Rock,Ocean,4,2025-05-19,2025-07-28,5950000,1126,5284,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T17642/2025,Salt Rock,SALT ROCK EXT 1,426,0,,,Salt Rock,Mdoni,16,,2025-07-11,0,1178,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T17295/2025,Salt Rock,SALT ROCK,775,0,,,Salt Rock,Garden,2,2025-05-06,2025-07-08,6500000,3902,1665,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST17055/2025,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,14,Salt Rock,Lagoon,909,2025-05-05,2025-07-04,2525000,267,9456,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST15627/2025,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,38,Salt Rock,The Ridge,1,2025-02-11,2025-06-20,2300000,153,15032,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T13368/2025,Salt Rock,SALT ROCK EXT 2,675,0,,,Salt Rock,Crest,8,2024-06-21,2025-05-30,5500000,1019,5397,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T13463/2025,Salt Rock,SALT ROCK EXT 2,722,0,,,Salt Rock,Mcdonald,11,2025-02-16,2025-05-30,3500000,1059,3305,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST13073/2025,Salt Rock,FU,1521,620,SS KARAFU,1,Salt Rock,,,2025-03-24,2025-05-28,4700000,228,20614,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T12875/2025,Salt Rock,SALT ROCK EXT 1,432,0,,,Salt Rock,Lagoon,19,2025-02-06,2025-05-27,3150000,1310,2404,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST12903/2025,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,39,Salt Rock,The Ridge,1,2025-05-05,2025-05-27,2513000,152,16532,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T10810/2025,Salt Rock,FU,1521,354,,,Salt Rock,Hewitt,8,2025-02-10,2025-05-08,6000000,1054,5692,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST10550/2025,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,6,Salt Rock,Lagoon,909,2025-02-28,2025-05-06,2880000,267,10786,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+ST8511/2025,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,29,Salt Rock,The Ridge,1,2024-09-13,2025-04-09,2950000,153,19281,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T7280/2025,Salt Rock,FU,1521,623,,,Salt Rock,Little Maritzburg,9B,2025-01-23,2025-03-28,12000000,1093,10978,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T7095/2025,Salt Rock,SALT ROCK EXT 2,721,0,,,Salt Rock,Mcdonald,13,2025-02-07,2025-03-27,3600000,1059,3399,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T6666/2025,Salt Rock,SALT ROCK EXT 2,563,0,,,Salt Rock,Fayle,6,2024-12-11,2025-03-25,1085000,1174,924,True,natural_person,natural_person,1,freehold,False,lightstone_export
+T6227/2025,Salt Rock,SALT ROCK,321,0,,,Salt Rock,Hotel,17,2024-10-10,2025-03-19,10493000,1366,7681,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T5047/2025,Salt Rock,SALT ROCK EXT 1,411,0,,,Salt Rock,Ocean,12,2024-10-17,2025-03-06,3700000,1046,3537,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T4538/2025,Salt Rock,FU,1521,780,,,Salt Rock,,,2024-04-05,2025-03-03,11842180,2122,5580,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T4284/2025,Salt Rock,SALT ROCK EXT 2,712,0,,,Salt Rock,Gifford,3,2024-11-08,2025-02-28,2200000,1041,2113,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T3840/2025,Salt Rock,SALT ROCK EXT 1,423,0,,,Salt Rock,Lagoon,10,2024-12-03,2025-02-25,4700000,1139,4126,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T2830/2025,Salt Rock,SALT ROCK EXT 2,680,0,,,Salt Rock,Gifford,39,2024-12-22,2025-02-12,2850000,1067,2671,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T2041/2025,Salt Rock,SALT ROCK EXT 4,838,0,,,Salt Rock,Milkwood,18,2024-11-08,2025-01-31,3400000,1196,2842,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T1874/2025,Salt Rock,SALT ROCK EXT 2,578,0,,,Salt Rock,Garland,30,2024-10-18,2025-01-30,3300000,1165,2832,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T1779/2025,Salt Rock,SALT ROCK EXT 1,375,0,,,Salt Rock,Murray,35,2024-11-08,2025-01-29,3229000,1608,2008,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T1675/2025,Salt Rock,FU,1521,179,,,Salt Rock,Osborne,38,2024-12-18,2025-01-28,4000000,1309,3055,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T1344/2025,Salt Rock,SALT ROCK EXT 3,729,0,,,Salt Rock,Hugh Dent,38,2024-11-11,2025-01-23,4250000,1055,4028,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T35880/2024,Salt Rock,SALT ROCK EXT 3,730,0,,,Salt Rock,Hugh Dent,40,2024-10-27,2024-12-18,4150000,1050,3952,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST36082/2024,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,1,Salt Rock,Lagoon,909,2024-08-16,2024-12-18,3000000,267,11235,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T34311/2024,Salt Rock,SALT ROCK EXT 4,845,0,,,Salt Rock,Milkwood,4,2024-08-26,2024-12-04,3400000,1389,2447,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T34129/2024,Salt Rock,FU,1521,99,,,Salt Rock,Hewitt,32,2024-10-12,2024-12-03,12000000,1025,11707,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T33829/2024,Salt Rock,SALT ROCK,346,1,,,Salt Rock,Dunkirk,27A,2024-10-28,2024-11-29,3500000,999,3503,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T33814/2024,Salt Rock,SALT ROCK,903,0,,,Salt Rock,Fairway,32,,2024-11-29,0,2515,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T32551/2024,Salt Rock,SALT ROCK EXT 4,890,0,,,Salt Rock,Milkwood,21,2024-07-18,2024-11-19,3600000,1199,3002,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T30531/2024,Salt Rock,SALT ROCK EXT 1,366,0,,,Salt Rock,Crawfish,14,2023-09-15,2024-11-01,3500000,1180,2966,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T30139/2024,Salt Rock,SALT ROCK,349,0,,,Salt Rock,Dunkirk,33,2024-09-09,2024-10-30,4250000,1831,2321,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T29016/2024,Salt Rock,FU,1521,324,,,Salt Rock,Hugh Dent,41B,2024-07-24,2024-10-18,6200000,1074,5772,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T28590/2024,Salt Rock,SALT ROCK EXT 2,584,0,,,Salt Rock,Oldfield,8,2024-05-07,2024-10-15,3300000,1041,3170,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T28323/2024,Salt Rock,SALT ROCK EXT 2,676,0,,,Salt Rock,Crest,10,2024-08-06,2024-10-11,3300000,1082,3049,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T27582/2024,Salt Rock,SALT ROCK EXT 2,716,0,,,Salt Rock,Gifford,11,2024-04-30,2024-10-03,1650000,1043,1581,True,natural_person,natural_person,2,freehold,False,lightstone_export
+T26651/2024,Salt Rock,SALT ROCK EXT 1,453,0,,,Salt Rock,Fairway,49,2024-09-02,2024-09-25,5000000,1360,3676,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T24308/2024,Salt Rock,SALT ROCK EXT 1,461,0,,,Salt Rock,Fairway,33,2024-06-24,2024-08-30,3000000,1520,1973,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T22917/2024,Salt Rock,FU,1521,327,,,Salt Rock,,,,2024-08-20,0,1072,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T22076/2024,Salt Rock,FU,1521,574,,,Salt Rock,Hewitt,9,2024-05-27,2024-08-08,4000000,1015,3940,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T21942/2024,Salt Rock,FU,1521,629,,,Salt Rock,Ralphs,6,2024-07-12,2024-08-07,8000000,1000,8000,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T21556/2024,Salt Rock,FU,1521,316,,,Salt Rock,Shrimp,6,2024-04-24,2024-08-02,25000000,1909,13095,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T21556/2024,Salt Rock,FU,1521,687,,,Salt Rock,,,2024-04-24,2024-08-02,25000000,1094,22851,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T21501/2024,Salt Rock,SALT ROCK EXT 4,865,0,,,Salt Rock,Milkwood,33,2024-03-19,2024-08-01,3850000,1022,3767,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T20901/2024,Salt Rock,SALT ROCK EXT 4,889,0,,,Salt Rock,Milkwood,19,2024-05-23,2024-07-26,3400000,1216,2796,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T20579/2024,Salt Rock,SALT ROCK EXT 2,670,0,,,Salt Rock,Gifford,20,,2024-07-24,0,1155,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+ST20262/2024,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,3,Salt Rock,Lagoon,909,2024-01-08,2024-07-22,2450000,264,9280,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T19959/2024,Salt Rock,FU,1521,261,,,Salt Rock,George Hulett,13,2024-03-14,2024-07-18,7000000,2235,3131,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T19824/2024,Salt Rock,SALT ROCK EXT 2,616,0,,,Salt Rock,Robbins,14,2023-11-13,2024-07-17,3250000,2046,1588,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T18567/2024,Salt Rock,FU,1521,362,,,Salt Rock,,,,2024-07-05,0,422,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T18568/2024,Salt Rock,FU,1521,362,,,Salt Rock,,,,2024-07-05,0,422,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T18569/2024,Salt Rock,FU,1521,362,,,Salt Rock,,,,2024-07-05,0,422,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T18570/2024,Salt Rock,FU,1521,362,,,Salt Rock,,,,2024-07-05,0,422,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T18571/2024,Salt Rock,FU,1521,362,,,Salt Rock,,,,2024-07-05,0,422,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T18139/2024,Salt Rock,SALT ROCK EXT 2,649,0,,,Salt Rock,Wilkes,4,2024-04-18,2024-07-02,3175000,1090,2912,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST17355/2024,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,9,Salt Rock,The Ridge,1,2024-03-17,2024-06-27,2400000,150,16000,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T17023/2024,Salt Rock,SALT ROCK EXT 2,614,0,,,Salt Rock,Robbins,18,2024-05-03,2024-06-25,3600000,1430,2517,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T13156/2024,Salt Rock,SALT ROCK EXT 1,447,0,,,Salt Rock,Garden,12,2024-02-27,2024-05-21,3200000,1930,1658,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T13133/2024,Salt Rock,SALT ROCK,1468,0,,,Salt Rock,,,2024-01-21,2024-05-21,5000000,1980,2525,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T12988/2024,Salt Rock,FU,1521,195,,,Salt Rock,Knox,2,,2024-05-20,0,942,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T11622/2024,Salt Rock,FU,1521,533,,,Salt Rock,Osborne,2,2024-02-11,2024-05-08,6700000,2101,3188,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T9559/2024,Salt Rock,SALT ROCK EXT 2,633,0,,,Salt Rock,Robbins,13,2023-12-24,2024-04-22,3400000,1240,2741,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T9380/2024,Salt Rock,FU,1521,31,,,Salt Rock,Hewitt,4,2024-02-02,2024-04-19,9550000,1122,8511,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T7977/2024,Salt Rock,FU,1521,533,,,Salt Rock,Osborne,2,,2024-04-08,0,2101,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T7978/2024,Salt Rock,FU,1521,533,,,Salt Rock,Osborne,2,2020-05-28,2024-04-08,2600000,2101,1237,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T7506/2024,Salt Rock,FU,1521,388,,,Salt Rock,Murray,8,2023-12-01,2024-04-03,3200000,1216,2631,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T7009/2024,Salt Rock,SALT ROCK,343,0,,,Salt Rock,Osborne,22,2024-01-27,2024-03-27,4700000,921,5103,False,legal_entity,natural_person,2,freehold,True,lightstone_export
+T7097/2024,Salt Rock,SALT ROCK,1466,0,,,Salt Rock,Murray,9,2024-02-07,2024-03-27,4550000,1685,2700,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T5349/2024,Salt Rock,SALT ROCK EXT 2,619,0,,,Salt Rock,Robbins,8,2023-05-24,2024-03-11,1500000,1146,1308,True,natural_person,natural_person,2,freehold,False,lightstone_export
+T4191/2024,Salt Rock,FU,1521,28,,,Salt Rock,Peter Hulett,29,2023-03-13,2024-02-28,1800000,1106,1627,True,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T4214/2024,Salt Rock,SALT ROCK EXT 4,891,0,,,Salt Rock,Baobab,10,,2024-02-28,0,1077,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T4217/2024,Salt Rock,SALT ROCK EXT 4,894,0,,,Salt Rock,Lagoon,25,,2024-02-28,0,975,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T4216/2024,Salt Rock,SALT ROCK EXT 4,893,0,,,Salt Rock,Mdoni,24,,2024-02-28,0,1102,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T4215/2024,Salt Rock,SALT ROCK EXT 4,892,0,,,Salt Rock,Milkwood,15,,2024-02-28,0,1151,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T4261/2024,Salt Rock,SALT ROCK EXT 4,867,0,,,Salt Rock,Milkwood,29,2023-11-08,2024-02-28,2750000,990,2777,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T4212/2024,Salt Rock,FU,1521,739,,,Salt Rock,Hewitt,33,2023-12-04,2024-02-28,4475000,1573,2844,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T3622/2024,Salt Rock,SALT ROCK EXT 2,600,0,,,Salt Rock,Salt Rock,600,,2024-02-21,0,8375,0,False,legal_entity,,1,freehold,False,lightstone_export
+T3621/2024,Salt Rock,SALT ROCK EXT 2,599,0,,,Salt Rock,Salt Rock,599,,2024-02-21,0,8578,0,False,legal_entity,,1,freehold,False,lightstone_export
+T3620/2024,Salt Rock,SALT ROCK EXT 2,587,0,,,Salt Rock,Garland,1,,2024-02-21,0,6455,0,False,legal_entity,,1,freehold,False,lightstone_export
+T3619/2024,Salt Rock,SALT ROCK EXT 2,566,0,,,Salt Rock,Fayle,12,,2024-02-21,0,2151,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T2837/2024,Salt Rock,SALT ROCK EXT 2,706,0,,,Salt Rock,Hugh Dent,14,,2024-02-12,0,1255,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T1774/2024,Salt Rock,FU,1521,132,,,Salt Rock,Hewitt,49,2023-11-17,2024-01-31,4500000,1074,4189,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T35769/2023,Salt Rock,SALT ROCK EXT 4,888,0,,,Salt Rock,Milkwood,17,2022-06-08,2023-12-11,4400000,1167,3770,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST34264/2023,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,19,Salt Rock,The Ridge,1,2023-08-19,2023-11-29,2500000,150,16666,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST34300/2023,Salt Rock,FU,1521,620,SS KARAFU,5,Salt Rock,,,2023-09-04,2023-11-29,4000000,228,17543,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+ST33252/2023,Salt Rock,SALT ROCK EXT 1,477,0,SS GLENEAGLES,1,Salt Rock,Fairway,1,2023-09-15,2023-11-20,2450000,151,16225,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T33172/2023,Salt Rock,FU,1521,85,,,Salt Rock,Club,34,2023-08-07,2023-11-20,3200000,1308,2446,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T31405/2023,Salt Rock,FU,1521,321,,,Salt Rock,Hugh Dent,39,2023-09-05,2023-11-03,3400000,1272,2672,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T30645/2023,Salt Rock,SALT ROCK EXT 1,390,1,,,Salt Rock,Crawfish,1,2023-09-02,2023-10-26,2935000,958,3063,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T29551/2023,Salt Rock,FU,1521,156,,,Salt Rock,Fairway,16,2023-07-19,2023-10-19,3750000,1503,2495,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST28590/2023,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,9,Salt Rock,Lagoon,909,2023-07-03,2023-10-10,3250000,269,12081,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T27547/2023,Salt Rock,SALT ROCK EXT 2,573,0,,,Salt Rock,Gifford,23,2022-12-17,2023-09-28,3400000,1310,2595,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T26590/2023,Salt Rock,SALT ROCK EXT 1,446,0,,,Salt Rock,Garden,10,2023-07-17,2023-09-18,3950000,1943,2032,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST26003/2023,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,27,Salt Rock,The Ridge,1,2023-05-23,2023-09-11,2600000,151,17218,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+ST25091/2023,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,7,Salt Rock,Lagoon,909,2023-06-19,2023-09-01,2875000,267,10767,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T23860/2023,Salt Rock,FU,1521,183,,,Salt Rock,Little Maritzburg,19,2023-04-21,2023-08-22,17000000,1132,15017,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T22834/2023,Salt Rock,SALT ROCK EXT 2,664,0,,,Salt Rock,Gifford,8,2023-06-11,2023-08-14,4995000,1469,3400,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T22352/2023,Salt Rock,FU,1521,499,,,Salt Rock,,,2022-11-18,2023-08-07,4100000,1794,2285,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T22026/2023,Salt Rock,SALT ROCK,1467,0,,,Salt Rock,Fairway,14,2022-12-23,2023-08-03,4200000,1905,2204,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T21623/2023,Salt Rock,SALT ROCK EXT 2,666,0,,,Salt Rock,Gifford,12,2023-02-22,2023-07-31,4400000,1308,3363,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T21446/2023,Salt Rock,FU,1521,182,,,Salt Rock,Little Maritzburg,21,2023-06-01,2023-07-28,14350000,1148,12500,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T21131/2023,Salt Rock,SALT ROCK EXT 2,639,0,,,Salt Rock,Robbins,25,2023-05-11,2023-07-26,1860000,1320,1409,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T20726/2023,Salt Rock,SALT ROCK EXT 2,682,0,,,Salt Rock,Gifford,35,2023-02-22,2023-07-21,3236347,1050,3082,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T19944/2023,Salt Rock,SALT ROCK EXT 1,774,0,,,Salt Rock,Valley,5,2023-05-02,2023-07-18,20000000,3264,6127,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T19828/2023,Salt Rock,FU,1521,369,,,Salt Rock,Murray,11,2023-05-11,2023-07-17,5000000,1370,3649,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T19627/2023,Salt Rock,SALT ROCK EXT 4,828,0,,,Salt Rock,Mdoni,28,2023-05-26,2023-07-14,3686000,1135,3247,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T19510/2023,Salt Rock,SALT ROCK EXT 4,860,0,,,Salt Rock,Lagoon,30,2023-06-11,2023-07-13,4825000,1135,4251,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T19278/2023,Salt Rock,FU,1521,171,,,Salt Rock,Fairway,24,2023-05-04,2023-07-12,3500000,1338,2615,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T18781/2023,Salt Rock,SALT ROCK,746,0,,,Salt Rock,Dunkirk,20,2022-10-30,2023-07-06,10500000,4863,2159,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST17996/2023,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,22,Salt Rock,The Ridge,1,2023-03-16,2023-06-29,2350000,150,15666,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T18003/2023,Salt Rock,FU,1521,676,,,Salt Rock,Murray,2,2023-04-13,2023-06-29,4150000,1803,2301,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T15887/2023,Salt Rock,SALT ROCK EXT 4,887,0,,,Salt Rock,Milkwood,15,2023-01-24,2023-06-09,2200000,1203,1828,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T14511/2023,Salt Rock,SALT ROCK EXT 2,677,0,,,Salt Rock,Crest,12,2023-02-20,2023-05-30,5600000,1115,5022,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T13934/2023,Salt Rock,SALT ROCK EXT 1,378,0,,,Salt Rock,Crawfish,7,2023-03-03,2023-05-25,950000,1398,679,True,natural_person,natural_person,2,freehold,False,lightstone_export
+ST12540/2023,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,17,Salt Rock,Lagoon,909,2022-11-24,2023-05-12,2595000,267,9719,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T12299/2023,Salt Rock,FU,1521,140,,,Salt Rock,Murray,3,2022-10-06,2023-05-11,5533000,2012,2750,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T10987/2023,Salt Rock,SALT ROCK EXT 1,747,0,,,Salt Rock,Salt Rock,747,2023-01-20,2023-05-02,4200000,139,30215,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T10987/2023,Salt Rock,SALT ROCK EXT 1,1463,0,,,Salt Rock,Dolphin,7,2023-01-20,2023-05-02,4200000,1878,2236,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T9694/2023,Salt Rock,SALT ROCK EXT 3,742,0,,,Salt Rock,Hugh Dent,47,2023-02-10,2023-04-21,6700000,1279,5238,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T9510/2023,Salt Rock,SALT ROCK,1466,0,,,Salt Rock,Murray,9,2022-09-12,2023-04-20,4750000,1685,2818,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T9015/2023,Salt Rock,SALT ROCK EXT 2,567,0,,,Salt Rock,Fayle,14,2023-01-31,2023-04-17,3950000,1155,3419,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T8871/2023,Salt Rock,FU,1521,764,,,Salt Rock,Club,36,,2023-04-14,0,2309,0,False,natural_person,natural_person,2,freehold,False,lightstone_export
+T8872/2023,Salt Rock,FU,1521,764,,,Salt Rock,Club,36,2020-12-18,2023-04-14,6800000,2309,2944,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T7093/2023,Salt Rock,FU,1521,381,,,Salt Rock,Mdoni,13,2023-02-04,2023-03-30,2800000,1058,2646,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T5715/2023,Salt Rock,SALT ROCK EXT 4,825,0,,,Salt Rock,Lagoon,29,2022-09-29,2023-03-17,4800000,1367,3511,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T5706/2023,Salt Rock,SALT ROCK EXT 2,630,0,,,Salt Rock,Robbins,7,2022-12-13,2023-03-17,3850000,1081,3561,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T5016/2023,Salt Rock,SALT ROCK EXT 2,616,0,,,Salt Rock,Robbins,14,,2023-03-02,0,2046,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T4054/2023,Salt Rock,SALT ROCK EXT 2,696,0,,,Salt Rock,Gifford,27,2022-12-16,2023-02-22,2300000,1075,2139,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T1131/2023,Salt Rock,SALT ROCK,319,0,,,Salt Rock,Hotel,13,2022-09-15,2023-01-18,10700000,1416,7556,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T1047/2023,Salt Rock,SALT ROCK EXT 2,612,0,,,Salt Rock,Robbins,28,2022-10-26,2023-01-17,2325000,1178,1973,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T902/2023,Salt Rock,SALT ROCK EXT 1,409,0,,,Salt Rock,Ocean,8,2022-10-08,2023-01-16,3600000,1083,3324,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T617/2023,Salt Rock,SALT ROCK EXT 1,435,0,,,Salt Rock,Lagoon,13,2022-01-21,2023-01-11,900000,1344,669,True,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T46405/2022,Salt Rock,SALT ROCK EXT 2,615,0,,,Salt Rock,Robbins,16,,2022-12-21,0,1346,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T44250/2022,Salt Rock,SALT ROCK,772,0,,,Salt Rock,Valley,2,2022-08-23,2022-12-08,17825000,3379,5275,False,natural_person,natural_person,4,freehold,True,lightstone_export
+T42444/2022,Salt Rock,SALT ROCK EXT 4,871,0,,,Salt Rock,Baobab,14,2022-09-08,2022-11-28,6350000,1253,5067,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T42016/2022,Salt Rock,FU,1521,395,,,Salt Rock,Hewitt,45,2022-08-08,2022-11-24,7900000,1249,6325,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T38278/2022,Salt Rock,SALT ROCK EXT 3,732,0,,,Salt Rock,Wilkes,13,2022-06-15,2022-10-28,3650000,1038,3516,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T37856/2022,Salt Rock,SALT ROCK EXT 1,369,0,,,Salt Rock,Crawfish,8,2022-06-14,2022-10-26,2300000,1247,1844,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T36178/2022,Salt Rock,SALT ROCK EXT 3,730,0,,,Salt Rock,Hugh Dent,40,2022-07-29,2022-10-12,2750000,1050,2619,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T33937/2022,Salt Rock,SALT ROCK,897,0,,,Salt Rock,Dolphin,3,2022-03-14,2022-09-26,7696000,971,7925,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T32991/2022,Salt Rock,SALT ROCK EXT 4,855,0,,,Salt Rock,Lagoon,40,2022-05-22,2022-09-19,5050000,1233,4095,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T32079/2022,Salt Rock,SALT ROCK,325,0,,,Salt Rock,Peter Hulett,11,2022-07-19,2022-09-13,1400000,1591,879,True,natural_person,natural_person,1,freehold,False,lightstone_export
+T31127/2022,Salt Rock,SALT ROCK EXT 4,834,0,,,Salt Rock,Milkwood,26,2022-05-28,2022-09-07,6500000,1600,4062,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T30468/2022,Salt Rock,SALT ROCK EXT 4,884,0,,,Salt Rock,Milkwood,15B,2022-06-24,2022-08-31,1800000,1247,1443,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST28039/2022,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,30,Salt Rock,The Ridge,1,2022-05-23,2022-08-15,1900000,153,12418,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST27869/2022,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,13,Salt Rock,Lagoon,909,2022-04-11,2022-08-11,2350000,267,8801,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T26286/2022,Salt Rock,SALT ROCK EXT 2,638,0,,,Salt Rock,Robbins,23,2022-04-08,2022-07-29,1850000,1305,1417,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T26181/2022,Salt Rock,FU,1521,391,,,Salt Rock,Murray,14,2022-04-11,2022-07-28,3175000,1049,3026,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T25239/2022,Salt Rock,SALT ROCK EXT 2,593,0,,,Salt Rock,Robbins,31,2022-03-21,2022-07-22,4650000,1082,4297,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST25295/2022,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,7,Salt Rock,Lagoon,909,2022-02-14,2022-07-22,2500000,267,9363,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T22242/2022,Salt Rock,SALT ROCK EXT 2,705,0,,,Salt Rock,Hugh Dent,16,2022-02-08,2022-06-30,3050000,1354,2252,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T21830/2022,Salt Rock,SALT ROCK EXT 2,662,0,,,Salt Rock,Gifford,6,2022-04-04,2022-06-27,2800000,1263,2216,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T21608/2022,Salt Rock,SALT ROCK EXT 1,747,0,,,Salt Rock,Salt Rock,747,2021-10-02,2022-06-23,2900000,139,20863,False,natural_person,natural_person,4,freehold,True,lightstone_export
+T21607/2022,Salt Rock,SALT ROCK EXT 1,1463,0,,,Salt Rock,Dolphin,7,,2022-06-23,0,1878,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T21608/2022,Salt Rock,SALT ROCK EXT 1,1463,0,,,Salt Rock,Dolphin,7,2021-10-02,2022-06-23,2900000,1878,1544,False,natural_person,natural_person,4,freehold,True,lightstone_export
+T19603/2022,Salt Rock,SALT ROCK EXT 4,829,0,,,Salt Rock,Mdoni,30,2022-03-24,2022-06-09,1350000,1259,1072,True,natural_person,natural_person,2,freehold,False,lightstone_export
+T16926/2022,Salt Rock,SALT ROCK EXT 2,709,0,,,Salt Rock,Hugh Dent,8,2022-02-01,2022-05-27,3050000,1204,2533,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST16120/2022,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,19,Salt Rock,The Ridge,1,2022-02-08,2022-05-23,2500000,150,16666,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T13826/2022,Salt Rock,SALT ROCK EXT 1,448,0,,,Salt Rock,Garden,14,2021-10-01,2022-05-06,4245000,2025,2096,False,natural_person,natural_person,3,freehold,True,lightstone_export
+T13073/2022,Salt Rock,SALT ROCK EXT 2,722,0,,,Salt Rock,Mcdonald,11,2021-08-24,2022-04-28,2700000,1059,2549,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T12775/2022,Salt Rock,FU,1521,233,,,Salt Rock,Peter Hulett,19,2021-10-12,2022-04-25,3400000,1106,3074,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T11630/2022,Salt Rock,SALT ROCK EXT 1,374,0,,,Salt Rock,Murray,37A,2022-01-27,2022-04-11,2150000,1072,2005,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T10084/2022,Salt Rock,FU,1521,182,,,Salt Rock,Little Maritzburg,21,2022-01-16,2022-04-01,12000000,1148,10452,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T9413/2022,Salt Rock,FU,1521,86,,,Salt Rock,Boundery,3,2021-11-17,2022-03-29,3200000,1483,2157,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T9010/2022,Salt Rock,SALT ROCK EXT 4,856,0,,,Salt Rock,Lagoon,38,2021-06-16,2022-03-25,5250000,1611,3258,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T8492/2022,Salt Rock,SALT ROCK EXT 2,707,0,,,Salt Rock,Hugh Dent,12,2021-11-18,2022-03-18,2050000,1332,1539,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T7471/2022,Salt Rock,SALT ROCK EXT 4,830,0,,,Salt Rock,Mdoni,32,2021-12-02,2022-03-11,920000,1137,809,True,natural_person,natural_person,2,freehold,False,lightstone_export
+T7210/2022,Salt Rock,SALT ROCK EXT 1,365,0,,,Salt Rock,Crawfish,16,,2022-03-08,0,1359,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T7177/2022,Salt Rock,FU,1521,177,,,Salt Rock,Osborne,34,2021-11-30,2022-03-08,3400000,1175,2893,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST6953/2022,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,1,Salt Rock,Lagoon,909,2022-01-20,2022-03-04,2700000,267,10112,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T6730/2022,Salt Rock,SALT ROCK EXT 1,428,0,,,Salt Rock,Mdoni,20,2021-12-22,2022-03-03,3500000,1155,3030,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T6162/2022,Salt Rock,SALT ROCK EXT 1,411,0,,,Salt Rock,Ocean,12,2021-08-13,2022-02-28,3250000,1046,3107,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+ST6282/2022,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,14,Salt Rock,Lagoon,909,2021-11-26,2022-02-28,2370000,267,8876,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T5790/2022,Salt Rock,SALT ROCK EXT 1,387,0,,,Salt Rock,Valley,6,2021-06-05,2022-02-24,2800000,1209,2315,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T5391/2022,Salt Rock,SALT ROCK EXT 2,627,0,,,Salt Rock,Hugh Dent,28,2021-11-11,2022-02-23,3000000,1170,2564,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T4065/2022,Salt Rock,SALT ROCK,766,0,,,Salt Rock,Fairway,17,2022-01-07,2022-02-11,4800000,2443,1964,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T3562/2022,Salt Rock,FU,1521,161,,,Salt Rock,Club,2,2021-10-12,2022-02-08,5300000,1307,4055,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T2737/2022,Salt Rock,FU,1521,324,,,Salt Rock,Hugh Dent,41B,2021-06-14,2022-02-01,6750000,1074,6284,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T501/2022,Salt Rock,SALT ROCK EXT 1,474,1,,,Salt Rock,,,2021-10-01,2022-01-12,2750000,512,5371,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST43394/2021,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,18,Salt Rock,Lagoon,909,2021-10-12,2021-12-21,2500000,267,9363,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T42393/2021,Salt Rock,SALT ROCK,360,1,,,Salt Rock,Mdoni,5,2021-06-08,2021-12-15,1400000,1028,1361,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T42284/2021,Salt Rock,SALT ROCK EXT 1,466,1,,,Salt Rock,Garden,23,2019-04-26,2021-12-15,2350000,862,2726,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T40617/2021,Salt Rock,FU,1521,215,,,Salt Rock,Club,35,2021-09-19,2021-12-07,3750000,1549,2420,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T39593/2021,Salt Rock,SALT ROCK EXT 2,668,0,,,Salt Rock,Gifford,16,2021-09-30,2021-11-30,5700000,1120,5089,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST37462/2021,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,8,Salt Rock,Lagoon,909,2021-08-25,2021-11-10,2350000,271,8671,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T33544/2021,Salt Rock,FU,1521,440,,,Salt Rock,Fairway,10,2021-04-12,2021-10-11,3900000,1012,3853,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T33045/2021,Salt Rock,SALT ROCK EXT 1,378,0,,,Salt Rock,Crawfish,7,,2021-10-06,0,1398,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T32937/2021,Salt Rock,SALT ROCK EXT 2,596,0,,,Salt Rock,Warren,8,2021-06-23,2021-10-05,2850000,1051,2711,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T31542/2021,Salt Rock,SALT ROCK EXT 1,465,0,,,Salt Rock,Fairway,25,2019-07-23,2021-09-23,421000,1669,252,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T30370/2021,Salt Rock,SALT ROCK EXT 1,470,0,,,Salt Rock,Fairway,15,2021-08-18,2021-09-16,5800000,1143,5074,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T27576/2021,Salt Rock,FU,1521,296,,,Salt Rock,Hotel,3,2020-05-28,2021-08-31,1029717,1627,632,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T27498/2021,Salt Rock,SALT ROCK,317,0,,,Salt Rock,Hotel,9,2021-03-01,2021-08-31,12000000,1630,7361,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T26648/2021,Salt Rock,SALT ROCK EXT 2,575,0,,,Salt Rock,Garland,24,2021-06-19,2021-08-26,3500000,1172,2986,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T25543/2021,Salt Rock,SALT ROCK EXT 4,854,0,,,Salt Rock,Lagoon,42,2021-03-27,2021-08-23,1400000,1071,1307,True,natural_person,legal_entity,1,freehold,False,lightstone_export
+ST24427/2021,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,19,Salt Rock,Lagoon,909,2021-05-15,2021-08-16,2500000,267,9363,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T23858/2021,Salt Rock,FU,1521,722,,,Salt Rock,Orborne,7,2021-03-24,2021-08-03,13250000,2248,5894,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST22204/2021,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,6,Salt Rock,Lagoon,909,2021-04-10,2021-07-26,2420000,267,9063,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T21541/2021,Salt Rock,FU,1521,236,,,Salt Rock,Peter Hulett,13,2021-03-23,2021-07-21,2350000,1028,2285,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T21207/2021,Salt Rock,SALT ROCK EXT 4,847,0,,,Salt Rock,Lagoon,56,2021-03-23,2021-07-20,3320000,1100,3018,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T19745/2021,Salt Rock,FU,1521,369,,,Salt Rock,Murray,11,2021-03-11,2021-06-30,1700000,1370,1240,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T19710/2021,Salt Rock,FU,1521,178,,,Salt Rock,Osborne,36,2021-01-28,2021-06-30,2450000,1251,1958,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T16291/2021,Salt Rock,SALT ROCK EXT 2,567,0,,,Salt Rock,Fayle,14,2021-03-28,2021-06-04,2400000,1155,2077,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T15654/2021,Salt Rock,SALT ROCK EXT 1,383,0,,,Salt Rock,Murray,19,2021-03-23,2021-06-01,3650000,1310,2786,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T15435/2021,Salt Rock,SALT ROCK EXT 1,440,0,,,Salt Rock,Lagoon,3,2021-01-06,2021-05-31,3300000,1233,2676,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T15346/2021,Salt Rock,SALT ROCK EXT 1,464,0,,,Salt Rock,Fairway,27,2021-02-26,2021-05-31,4325000,959,4509,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T15343/2021,Salt Rock,FU,1521,510,,,Salt Rock,Dunkirk,32,2020-10-15,2021-05-31,3450000,1013,3405,False,legal_entity,,1,freehold,True,lightstone_export
+T15074/2021,Salt Rock,FU,1521,148,,,Salt Rock,Hewitt,19,2021-01-27,2021-05-28,8600000,1124,7651,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST13164/2021,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,31,Salt Rock,The Ridge,1,2021-01-28,2021-05-18,2100000,151,13907,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T11465/2021,Salt Rock,SALT ROCK,347,0,,,Salt Rock,Dunkirk,29,2020-12-18,2021-04-28,2000000,1746,1145,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T11395/2021,Salt Rock,SALT ROCK EXT 2,632,0,,,Salt Rock,Robbins,11,2021-02-07,2021-04-26,2950000,1162,2538,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T11270/2021,Salt Rock,SALT ROCK,348,0,,,Salt Rock,Dunkirk,31,2021-01-08,2021-04-23,1950000,1572,1240,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T11087/2021,Salt Rock,FU,1521,574,,,Salt Rock,Hewitt,9,,2021-04-21,0,1015,0,False,natural_person,legal_entity,1,freehold,False,lightstone_export
+T10353/2021,Salt Rock,SALT ROCK EXT 2,714,0,,,Salt Rock,Gifford,7,2020-12-15,2021-04-13,2570000,1029,2497,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T9905/2021,Salt Rock,SALT ROCK EXT 1,416,0,,,Salt Rock,Dolphin,8,,2021-04-07,0,1138,0,False,legal_entity,natural_person,1,freehold,False,lightstone_export
+T9906/2021,Salt Rock,SALT ROCK EXT 1,416,0,,,Salt Rock,Dolphin,8,2020-07-09,2021-04-07,2500000,1138,2196,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T9433/2021,Salt Rock,FU,1521,380,,,Salt Rock,Crows Nest,11,2020-11-13,2021-03-31,3200000,1371,2334,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T7166/2021,Salt Rock,SALT ROCK EXT 2,678,0,,,Salt Rock,Crest,14,2020-11-09,2021-03-15,5250000,1037,5062,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST6969/2021,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,16,Salt Rock,Lagoon,909,2021-01-06,2021-03-12,2500000,267,9363,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T6763/2021,Salt Rock,FU,1521,778,,,Salt Rock,,,2020-11-13,2021-03-12,2000000,905,2209,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T6520/2021,Salt Rock,SALT ROCK EXT 2,568,0,,,Salt Rock,Fayle,16,2020-12-24,2021-03-11,2550000,1145,2227,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T5678/2021,Salt Rock,SALT ROCK EXT 2,713,0,,,Salt Rock,Gifford,5,2020-07-29,2021-03-08,1350000,1017,1327,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T5699/2021,Salt Rock,SALT ROCK,342,1,,,Salt Rock,Osborne,16,2021-01-11,2021-03-08,8500000,1032,8236,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T5391/2021,Salt Rock,SALT ROCK EXT 2,663,0,,,Salt Rock,Crest,16,2020-09-30,2021-03-05,2850000,1417,2011,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T5451/2021,Salt Rock,FU,1521,389,,,Salt Rock,Murray,10,2020-12-07,2021-03-05,1070000,1072,998,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST5090/2021,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,29,Salt Rock,The Ridge,1,2020-10-27,2021-03-04,2200000,153,14379,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+ST5250/2021,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,11,Salt Rock,Lagoon,909,2020-11-02,2021-03-04,2400000,267,8988,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T4744/2021,Salt Rock,SALT ROCK EXT 2,710,0,,,Salt Rock,Hugh Dent,6,2020-12-07,2021-03-01,799000,1414,565,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T4739/2021,Salt Rock,SALT ROCK EXT 2,695,0,,,Salt Rock,Gifford,29,2021-01-22,2021-03-01,1200000,1174,1022,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T4497/2021,Salt Rock,SALT ROCK EXT 1,461,0,,,Salt Rock,Fairway,33,2020-09-22,2021-02-26,2550000,1520,1677,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T4327/2021,Salt Rock,SALT ROCK EXT 4,874,0,,,Salt Rock,Baobab,8,2020-11-20,2021-02-25,4200000,1227,3422,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST4340/2021,Salt Rock,SALT ROCK EXT 1,477,0,SS GLENEAGLES,5,Salt Rock,Fairway,1,2020-11-03,2021-02-25,3125000,164,19054,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T2221/2021,Salt Rock,FU,1521,235,,,Salt Rock,Peter Hulett,15,2020-09-28,2021-02-08,3318000,1090,3044,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T1779/2021,Salt Rock,SALT ROCK EXT 4,840,0,,,Salt Rock,Milkwood,14,2020-09-18,2021-02-02,995000,1177,845,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T1189/2021,Salt Rock,FU,1521,629,,,Salt Rock,Ralphs,6,2020-09-30,2021-01-25,5750000,1000,5750,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T787/2021,Salt Rock,SALT ROCK EXT 2,596,0,,,Salt Rock,Warren,8,2020-10-14,2021-01-20,2440000,1051,2321,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T41402/2020,Salt Rock,SALT ROCK,337,0,,,Salt Rock,Dunkirk,2,2020-09-05,2020-12-09,3700000,1264,2927,False,legal_entity,legal_entity,2,freehold,True,lightstone_export
+T41036/2020,Salt Rock,SALT ROCK EXT 1,403,0,,,Salt Rock,Valley,17,2020-05-17,2020-12-08,2000000,1054,1897,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T41037/2020,Salt Rock,SALT ROCK EXT 1,471,0,,,Salt Rock,Fairway,13,2020-03-25,2020-12-08,6600000,1213,5441,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T39509/2020,Salt Rock,SALT ROCK EXT 2,589,0,,,Salt Rock,Oldfield,7,2020-07-20,2020-11-26,2200000,1137,1934,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T38793/2020,Salt Rock,SALT ROCK EXT 2,649,0,,,Salt Rock,Wilkes,4,2020-09-14,2020-11-23,2350000,1090,2155,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T37053/2020,Salt Rock,SALT ROCK EXT 2,581,0,,,Salt Rock,Garland,36,2020-07-13,2020-11-12,2400000,1113,2156,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T36626/2020,Salt Rock,SALT ROCK EXT 4,833,0,,,Salt Rock,Milkwood,28,2020-07-01,2020-11-09,5200000,1744,2981,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T34820/2020,Salt Rock,SALT ROCK EXT 4,819,0,,,Salt Rock,Coral,819,2020-09-03,2020-10-27,1000000,1077,928,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T33761/2020,Salt Rock,SALT ROCK EXT 1,430,0,,,Salt Rock,Lagoon,23,2020-08-24,2020-10-19,2450000,1280,1914,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T32735/2020,Salt Rock,SALT ROCK EXT 1,400,0,,,Salt Rock,Valley,11,,2020-10-12,0,1168,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T32736/2020,Salt Rock,SALT ROCK EXT 1,400,0,,,Salt Rock,Valley,11,2020-08-14,2020-10-12,2500000,1168,2140,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T32805/2020,Salt Rock,FU,1521,300,,,Salt Rock,Osborne,5,2020-07-22,2020-10-12,4500000,1418,3173,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T31687/2020,Salt Rock,FU,1521,167,,,Salt Rock,Little Maritzburg,25,2020-08-29,2020-10-02,10000000,1182,8460,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T29887/2020,Salt Rock,SALT ROCK EXT 4,853,0,,,Salt Rock,Lagoon,44,2020-08-02,2020-09-21,2525000,1016,2485,False,natural_person,natural_person,3,freehold,True,lightstone_export
+T29321/2020,Salt Rock,FU,1521,323,,,Salt Rock,Hugh Dent,43,2020-07-08,2020-09-17,3200000,1043,3068,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST28073/2020,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,11,Salt Rock,Lagoon,909,2018-09-26,2020-09-09,2400000,267,8988,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T26539/2020,Salt Rock,SALT ROCK,358,0,,,Salt Rock,Hugh Dent,27,2019-11-20,2020-08-28,900000,1838,489,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T26539/2020,Salt Rock,FU,1521,506,,,Salt Rock,Dunkirk,9,2019-11-20,2020-08-28,900000,1012,889,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T25642/2020,Salt Rock,SALT ROCK EXT 4,879,0,,,Salt Rock,Milkwood,5,2020-06-04,2020-08-21,2500000,1190,2100,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T25296/2020,Salt Rock,SALT ROCK EXT 4,817,0,,,Salt Rock,Coral,817,2020-06-22,2020-08-19,1100000,1063,1034,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T24446/2020,Salt Rock,SALT ROCK EXT 2,631,0,,,Salt Rock,Robbins,9,2020-02-13,2020-08-13,955000,1061,900,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T24130/2020,Salt Rock,FU,1521,117,,,Salt Rock,Hewitt,24,2020-05-29,2020-08-11,12000000,1129,10628,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T22627/2020,Salt Rock,SALT ROCK EXT 2,634,0,,,Salt Rock,Robbins,15,2020-05-13,2020-07-30,3000000,1249,2401,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T21366/2020,Salt Rock,SALT ROCK EXT 2,666,0,,,Salt Rock,Gifford,12,2020-02-11,2020-07-07,3300000,1308,2522,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T20900/2020,Salt Rock,SALT ROCK,1467,0,,,Salt Rock,Fairway,14,2020-03-13,2020-07-02,4200000,1905,2204,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T20764/2020,Salt Rock,SALT ROCK EXT 4,863,0,,,Salt Rock,Milkwood,37,2019-10-17,2020-07-01,850000,1033,822,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T19723/2020,Salt Rock,SALT ROCK EXT 2,603,0,,,Salt Rock,Warren,13,2020-01-31,2020-06-15,2615000,1595,1639,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T19246/2020,Salt Rock,SALT ROCK EXT 2,580,0,,,Salt Rock,Garland,34,,2020-05-25,0,1150,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+ST9942/2020,Salt Rock,FU,1521,620,SS KARAFU,2,Salt Rock,,,2020-02-11,2020-03-26,3850000,228,16885,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T7358/2020,Salt Rock,SALT ROCK,350,1,,,Salt Rock,,,2019-05-22,2020-03-16,2300000,901,2552,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST6585/2020,Salt Rock,FU,1521,620,SS KARAFU,4,Salt Rock,,,2020-01-06,2020-03-10,3800000,228,16666,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T5795/2020,Salt Rock,FU,1521,209,,,Salt Rock,Club,30,,2020-03-03,0,1560,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T5391/2020,Salt Rock,FU,1521,195,,,Salt Rock,Knox,2,2019-12-04,2020-02-28,4500000,942,4777,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T3945/2020,Salt Rock,FU,1521,311,,,Salt Rock,Wilkes,1,2019-10-05,2020-02-18,2770000,3001,923,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T2853/2020,Salt Rock,SALT ROCK EXT 4,815,0,,,Salt Rock,Coral,815,,2020-02-05,0,1070,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T1338/2020,Salt Rock,FU,1521,296,,,Salt Rock,Hotel,3,2019-04-01,2020-01-24,1029717,1627,632,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T1062/2020,Salt Rock,SALT ROCK EXT 2,715,0,,,Salt Rock,Gifford,9,,2020-01-22,0,1055,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T1037/2020,Salt Rock,FU,1521,98,,,Salt Rock,Hewitt,30,2019-10-14,2020-01-22,4000000,1012,3952,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T787/2020,Salt Rock,SALT ROCK EXT 2,597,0,,,Salt Rock,Warren,10,2019-11-05,2020-01-20,2350000,1235,1902,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T35909/2019,Salt Rock,FU,1521,287,,,Salt Rock,Club,32,2019-08-23,2019-11-21,1100000,1415,777,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T33865/2019,Salt Rock,SALT ROCK,1309,0,,,Salt Rock,Murray,6,2019-06-10,2019-11-01,3300000,1076,3066,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST32453/2019,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,19,Salt Rock,Lagoon,909,2019-08-01,2019-10-21,1950000,267,7303,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T31912/2019,Salt Rock,SALT ROCK,787,0,,,Salt Rock,Club,23,2019-08-25,2019-10-16,4000000,2573,1554,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T31287/2019,Salt Rock,SALT ROCK EXT 2,640,0,,,Salt Rock,Wilkes,22,2019-08-26,2019-10-11,1850000,1237,1495,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T28647/2019,Salt Rock,SALT ROCK EXT 1,381,0,,,Salt Rock,Murray,23,2019-08-12,2019-09-23,740000,1320,560,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T26420/2019,Salt Rock,SALT ROCK EXT 1,753,0,,,Salt Rock,Fairway,53,2019-04-04,2019-09-04,3900000,1682,2318,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T25988/2019,Salt Rock,SALT ROCK EXT 2,609,0,,,Salt Rock,Robbins,22,2019-07-07,2019-08-30,2800000,1217,2300,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T24770/2019,Salt Rock,SALT ROCK EXT 4,890,0,,,Salt Rock,Milkwood,21,2019-02-04,2019-08-22,3200000,1199,2668,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST23596/2019,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,27,Salt Rock,The Ridge,1,2019-05-03,2019-08-12,2075000,151,13741,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T21689/2019,Salt Rock,SALT ROCK EXT 4,848,0,,,Salt Rock,Lagoon,54,2019-02-27,2019-07-25,3300000,1140,2894,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T20993/2019,Salt Rock,SALT ROCK EXT 1,466,1,,,Salt Rock,Garden,23,2019-04-26,2019-07-19,2350000,862,2726,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T20563/2019,Salt Rock,FU,1521,381,,,Salt Rock,Mdoni,13,2019-05-20,2019-07-16,2789500,1058,2636,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T19557/2019,Salt Rock,SALT ROCK EXT 2,620,0,,,Salt Rock,Robbins,6,,2019-07-09,0,1149,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T19558/2019,Salt Rock,SALT ROCK EXT 2,620,0,,,Salt Rock,Robbins,6,2019-03-24,2019-07-09,3650000,1149,3176,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T17843/2019,Salt Rock,SALT ROCK EXT 2,570,0,,,Salt Rock,Fayle,3,2018-11-12,2019-06-27,4100000,1180,3474,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T17844/2019,Salt Rock,SALT ROCK EXT 1,426,0,,,Salt Rock,Mdoni,16,,2019-06-27,0,1178,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T17827/2019,Salt Rock,FU,1521,71,,,Salt Rock,Hewitt,46,2019-03-12,2019-06-27,7500000,1151,6516,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T17824/2019,Salt Rock,FU,1521,144,,,Salt Rock,Crows Nest,15,2019-03-04,2019-06-27,1500000,1659,904,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T16126/2019,Salt Rock,SALT ROCK EXT 1,414,0,,,Salt Rock,Dolphin,4,2019-01-17,2019-06-10,2650000,1039,2550,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T15379/2019,Salt Rock,SALT ROCK EXT 2,614,0,,,Salt Rock,Robbins,18,2019-02-25,2019-06-03,3200000,1430,2237,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T12416/2019,Salt Rock,SALT ROCK,1292,0,,,Salt Rock,Little Maritzburg,8,2018-02-12,2019-05-06,2400000,924,2597,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T10931/2019,Salt Rock,FU,1521,722,,,Salt Rock,Orborne,7,2018-11-19,2019-04-17,11500000,2248,5115,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T7399/2019,Salt Rock,SALT ROCK EXT 1,774,0,,,Salt Rock,Valley,5,2018-11-27,2019-03-19,2500000,3264,765,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST6585/2019,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,13,Salt Rock,The Ridge,1,2019-02-16,2019-03-13,2350000,150,15666,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T6374/2019,Salt Rock,SALT ROCK EXT 4,867,0,,,Salt Rock,Milkwood,29,2018-12-12,2019-03-12,1999000,990,2019,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T4243/2019,Salt Rock,FU,1521,622,,,Salt Rock,Little Maritzburg,9C,2019-01-02,2019-02-21,9200000,1012,9090,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T4039/2019,Salt Rock,SALT ROCK EXT 2,682,0,,,Salt Rock,Gifford,35,2018-12-04,2019-02-20,3025000,1050,2880,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST3321/2019,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,15,Salt Rock,Lagoon,909,2018-09-20,2019-02-13,2400000,267,8988,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T2197/2019,Salt Rock,SALT ROCK EXT 1,399,0,,,Salt Rock,Valley,9,2018-10-15,2019-02-04,2350000,1044,2250,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T1914/2019,Salt Rock,SALT ROCK,350,0,,,Salt Rock,Dunkirk,35,2018-11-09,2019-01-31,1880000,931,2019,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T1138/2019,Salt Rock,SALT ROCK,356,0,,,Salt Rock,Hugh Dent,23,2018-10-30,2019-01-24,2300000,1460,1575,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T1128/2019,Salt Rock,SALT ROCK EXT 4,886,0,,,Salt Rock,Crawfish,886,2018-10-26,2019-01-24,750000,1236,606,True,legal_entity,natural_person,1,freehold,False,lightstone_export
+T984/2019,Salt Rock,SALT ROCK,1288,0,,,Salt Rock,,,,2019-01-23,0,6971,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T983/2019,Salt Rock,SALT ROCK,900,1,,,Salt Rock,,,,2019-01-23,0,1765,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T275/2019,Salt Rock,SALT ROCK EXT 4,872,0,,,Salt Rock,Baobab,12,2017-05-09,2019-01-11,1290000,1695,761,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T41164/2018,Salt Rock,FU,1521,778,,,Salt Rock,,,2018-06-06,2018-12-13,2000000,905,2209,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T40408/2018,Salt Rock,FU,1521,168,,,Salt Rock,Little Maritzburg,22,,2018-12-10,0,1211,0,False,legal_entity,natural_person,1,freehold,False,lightstone_export
+ST37691/2018,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,20,Salt Rock,The Ridge,1,2018-07-25,2018-11-23,2150000,150,14333,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T33716/2018,Salt Rock,FU,1521,367,,,Salt Rock,Murray,15,2018-07-17,2018-10-30,4375000,1202,3639,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T33386/2018,Salt Rock,SALT ROCK,332,1,,,Salt Rock,Dunkirk,14,2018-07-20,2018-10-26,700000,1784,392,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST32505/2018,Salt Rock,FU,1521,620,SS KARAFU,2,Salt Rock,,,2018-08-27,2018-10-22,3500000,228,15350,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T32197/2018,Salt Rock,FU,1521,216,,,Salt Rock,Marchant,62,2017-07-06,2018-10-19,1000000,1168,856,False,natural_person,natural_person,3,freehold,True,lightstone_export
+T32042/2018,Salt Rock,FU,1521,215,,,Salt Rock,Club,35,2018-06-13,2018-10-18,2750000,1549,1775,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T30930/2018,Salt Rock,FU,1521,231,,,Salt Rock,Peter Hulett,23,2018-07-09,2018-10-11,1100000,1106,994,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST30680/2018,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,10,Salt Rock,The Ridge,1,2018-07-30,2018-10-09,2000000,150,13333,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T29605/2018,Salt Rock,SALT ROCK,337,1,,,Salt Rock,Dunkirk,2,2018-07-21,2018-09-27,5450000,1264,4311,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T29543/2018,Salt Rock,SALT ROCK EXT 4,889,0,,,Salt Rock,Milkwood,19,2018-07-21,2018-09-27,2950000,1216,2425,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T28836/2018,Salt Rock,SALT ROCK EXT 1,423,0,,,Salt Rock,Lagoon,10,2018-06-19,2018-09-19,2600000,1139,2282,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T28460/2018,Salt Rock,SALT ROCK EXT 1,748,0,,,Salt Rock,Salt Rock,748,2018-06-05,2018-09-17,4000000,220,18181,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T28460/2018,Salt Rock,FU,1521,59,,,Salt Rock,Dolphin,5,2018-06-05,2018-09-17,4000000,1250,3200,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T27523/2018,Salt Rock,FU,1521,235,,,Salt Rock,Peter Hulett,15,2018-06-02,2018-09-10,2650000,1090,2431,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T25888/2018,Salt Rock,SALT ROCK EXT 1,774,0,,,Salt Rock,Valley,5,2018-04-18,2018-08-27,2500000,3264,765,False,legal_entity,natural_person,2,freehold,True,lightstone_export
+T25635/2018,Salt Rock,SALT ROCK EXT 1,467,0,,,Salt Rock,Fairway,21,2018-06-12,2018-08-23,2300000,1375,1672,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T22825/2018,Salt Rock,SALT ROCK,343,1,,,Salt Rock,Dunkirk,21,2018-05-02,2018-07-27,7800000,1116,6989,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T22591/2018,Salt Rock,SALT ROCK EXT 2,698,0,,,Salt Rock,Garland,20,2018-04-14,2018-07-26,2375000,1032,2301,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T22569/2018,Salt Rock,FU,1521,156,,,Salt Rock,Fairway,16,2017-05-02,2018-07-26,3300000,1503,2195,False,natural_person,natural_person,3,freehold,True,lightstone_export
+T20805/2018,Salt Rock,FU,1521,686,,,Salt Rock,Shrimp,2,2018-03-30,2018-07-10,15000000,1000,15000,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T19549/2018,Salt Rock,SALT ROCK EXT 2,617,0,,,Salt Rock,Robbins,12,2018-03-28,2018-06-29,2915000,1473,1978,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T17076/2018,Salt Rock,SALT ROCK EXT 2,635,0,,,Salt Rock,Robbins,17,2018-03-09,2018-06-08,2625000,1263,2078,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T16620/2018,Salt Rock,FU,1521,189,,,Salt Rock,Little Maritzburg,6,2018-03-20,2018-06-05,4400000,944,4661,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T16410/2018,Salt Rock,SALT ROCK EXT 4,823,0,,,Salt Rock,Lagoon,31,2018-03-10,2018-06-04,3650000,1269,2876,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T13845/2018,Salt Rock,FU,1521,303,,,Salt Rock,Osborne,3,2018-01-25,2018-05-14,3200000,1012,3162,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T12317/2018,Salt Rock,FU,1521,131,,,Salt Rock,Osborne,49,2018-02-26,2018-04-26,7800000,1012,7707,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T12008/2018,Salt Rock,SALT ROCK EXT 2,649,0,,,Salt Rock,Wilkes,4,2018-02-04,2018-04-25,2900000,1090,2660,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T11395/2018,Salt Rock,FU,1521,334,,,Salt Rock,Hewitt,15,2018-02-10,2018-04-23,7800000,1372,5685,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T10602/2018,Salt Rock,SALT ROCK EXT 2,672,0,,,Salt Rock,Gifford,24,2018-02-01,2018-04-18,2900000,1320,2196,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T10183/2018,Salt Rock,SALT ROCK EXT 1,412,0,,,Salt Rock,Ocean,14,2018-01-29,2018-04-16,2500000,1037,2410,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T10073/2018,Salt Rock,FU,1521,387,,,Salt Rock,Crows Nest,387,2018-03-05,2018-04-13,1300000,1176,1105,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T9260/2018,Salt Rock,FU,1521,381,,,Salt Rock,Mdoni,13,,2018-04-06,0,1058,0,False,legal_entity,natural_person,1,freehold,False,lightstone_export
+T9040/2018,Salt Rock,SALT ROCK,333,0,,,Salt Rock,Dunkirk,12,2018-02-02,2018-04-05,3000000,1865,1608,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T8369/2018,Salt Rock,SALT ROCK EXT 2,655,0,,,Salt Rock,Crest,5,2018-02-05,2018-03-28,895000,1304,686,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T8515/2018,Salt Rock,FU,1521,743,,,Salt Rock,Osborne,1,2018-02-14,2018-03-28,6000000,1637,3665,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T7291/2018,Salt Rock,SALT ROCK EXT 4,858,0,,,Salt Rock,Lagoon,34,2017-12-14,2018-03-20,980000,1238,791,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T6279/2018,Salt Rock,SALT ROCK EXT 2,572,0,,,Salt Rock,Gifford,21,2017-05-26,2018-03-15,3800000,1184,3209,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST6184/2018,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,26,Salt Rock,The Ridge,1,2017-12-12,2018-03-14,2350000,153,15359,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T5723/2018,Salt Rock,SALT ROCK EXT 1,383,0,,,Salt Rock,Murray,19,2018-01-16,2018-03-12,860000,1310,656,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T4313/2018,Salt Rock,SALT ROCK EXT 2,656,0,,,Salt Rock,Crest,7,2017-10-31,2018-02-12,2750000,1227,2241,False,natural_person,natural_person,2,freehold,True,lightstone_export
+ST4250/2018,Salt Rock,SALT ROCK EXT 1,477,0,SS GLENEAGLES,12,Salt Rock,Fairway,1,2017-10-20,2018-02-12,2070000,169,12248,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T4162/2018,Salt Rock,FU,1521,628,,,Salt Rock,Ralphs,7,2017-08-31,2018-02-09,8000000,1080,7407,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T3261/2018,Salt Rock,SALT ROCK EXT 4,860,0,,,Salt Rock,Lagoon,30,2017-06-05,2018-01-31,3700000,1135,3259,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T1225/2018,Salt Rock,SALT ROCK EXT 1,375,0,,,Salt Rock,Murray,35,2016-07-13,2018-01-16,2600000,1608,1616,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T963/2018,Salt Rock,SALT ROCK EXT 4,844,0,,,Salt Rock,Milkwood,8,2017-09-30,2018-01-12,1950000,1180,1652,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T82/2018,Salt Rock,SALT ROCK EXT 4,798,0,,,Salt Rock,Baobab,9,2017-08-30,2018-01-04,1000000,1264,791,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T41987/2017,Salt Rock,FU,1521,534,,,Salt Rock,Hewitt,2,2017-11-14,2017-12-20,1350000,1335,1011,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T41988/2017,Salt Rock,FU,1521,534,,,Salt Rock,Hewitt,2,2017-11-14,2017-12-20,1350000,1335,1011,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T41904/2017,Salt Rock,SALT ROCK EXT 2,631,0,,,Salt Rock,Robbins,9,2017-09-24,2017-12-20,2150000,1061,2026,False,natural_person,natural_person,3,freehold,True,lightstone_export
+T41615/2017,Salt Rock,SALT ROCK EXT 1,464,0,,,Salt Rock,Fairway,27,2017-09-29,2017-12-19,3900000,959,4066,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T40518/2017,Salt Rock,FU,1521,321,,,Salt Rock,Hugh Dent,39,2017-09-18,2017-12-13,2650000,1272,2083,False,legal_entity,natural_person,2,freehold,True,lightstone_export
+T39516/2017,Salt Rock,SALT ROCK EXT 1,466,0,,,Salt Rock,Fairway,23,2017-09-23,2017-12-08,2900000,862,3364,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T39004/2017,Salt Rock,FU,1521,144,,,Salt Rock,Crows Nest,15,2017-10-09,2017-12-06,925000,1659,557,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T38096/2017,Salt Rock,SALT ROCK,349,0,,,Salt Rock,Dunkirk,33,2017-10-26,2017-11-29,2750000,1831,1501,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T37735/2017,Salt Rock,SALT ROCK EXT 4,873,0,,,Salt Rock,Baobab,10,2017-04-11,2017-11-27,2700000,1255,2151,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T36348/2017,Salt Rock,FU,1521,171,,,Salt Rock,Fairway,24,2017-08-16,2017-11-16,2750000,1338,2055,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+ST36481/2017,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,38,Salt Rock,The Ridge,1,2017-09-25,2017-11-16,1950000,153,12745,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T36243/2017,Salt Rock,SALT ROCK EXT 4,850,0,,,Salt Rock,Lagoon,50,2017-06-14,2017-11-15,5200000,1073,4846,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T35308/2017,Salt Rock,FU,1521,511,,,Salt Rock,Dunkirk,30,2017-07-24,2017-11-08,3850000,1012,3804,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T35004/2017,Salt Rock,SALT ROCK,772,0,,,Salt Rock,Valley,2,2017-04-19,2017-11-06,5000000,3379,1479,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST35104/2017,Salt Rock,FU,1521,620,SS KARAFU,4,Salt Rock,,,2017-09-14,2017-11-06,3600000,228,15789,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T33889/2017,Salt Rock,SALT ROCK EXT 4,800,0,,,Salt Rock,Baobab,5,2017-05-26,2017-10-27,1000000,1237,808,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T33761/2017,Salt Rock,SALT ROCK EXT 4,843,0,,,Salt Rock,Milkwood,10,2017-09-21,2017-10-26,950000,1227,774,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T30887/2017,Salt Rock,FU,1521,119,,,Salt Rock,Shrimp,8,,2017-10-05,0,2391,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T29640/2017,Salt Rock,SALT ROCK EXT 2,604,0,,,Salt Rock,Warren,11,2017-07-18,2017-09-26,2270000,1421,1597,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T29683/2017,Salt Rock,FU,1521,56,,,Salt Rock,,,2017-06-20,2017-09-26,5000000,2470,2024,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T27934/2017,Salt Rock,SALT ROCK EXT 1,390,1,,,Salt Rock,Crawfish,1,2017-04-18,2017-09-12,1500000,958,1565,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST26213/2017,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,33,Salt Rock,The Ridge,1,2017-07-03,2017-08-29,1950000,163,11963,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T26025/2017,Salt Rock,SALT ROCK EXT 3,743,0,,,Salt Rock,Hugh Dent,45,2017-06-28,2017-08-28,4000000,1052,3802,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T25933/2017,Salt Rock,SALT ROCK EXT 1,472,0,,,Salt Rock,Fairway,11,2017-06-14,2017-08-25,3000000,1371,2188,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T25676/2017,Salt Rock,SALT ROCK EXT 3,742,0,,,Salt Rock,Hugh Dent,47,2017-07-05,2017-08-24,5000000,1279,3909,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T24666/2017,Salt Rock,SALT ROCK EXT 4,882,0,,,Salt Rock,Milkwood,11,2017-07-13,2017-08-16,3075000,1709,1799,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST24575/2017,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,18,Salt Rock,Lagoon,909,2017-03-31,2017-08-15,2200000,267,8239,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T24345/2017,Salt Rock,SALT ROCK EXT 4,817,0,,,Salt Rock,Coral,817,2017-06-29,2017-08-14,975000,1063,917,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T23729/2017,Salt Rock,FU,1521,172,,,Salt Rock,Fairway,26,2017-03-25,2017-08-07,3600000,1135,3171,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T23582/2017,Salt Rock,FU,1521,143,,,Salt Rock,Crows Nest,24,,2017-08-04,0,2302,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T22420/2017,Salt Rock,SALT ROCK EXT 2,582,0,,,Salt Rock,Fayle,9,2017-05-20,2017-07-28,1850000,1054,1755,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T21742/2017,Salt Rock,SALT ROCK EXT 1,384,0,,,Salt Rock,Murray,17,2017-03-06,2017-07-21,2700000,1223,2207,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T21185/2017,Salt Rock,FU,1521,70,,,Salt Rock,Hewitt,44,2017-05-23,2017-07-18,6024900,970,6211,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T20203/2017,Salt Rock,SALT ROCK EXT 2,693,0,,,Salt Rock,Gifford,33,2017-06-01,2017-07-11,2800000,1046,2676,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T19931/2017,Salt Rock,SALT ROCK EXT 2,710,0,,,Salt Rock,Hugh Dent,6,2017-05-23,2017-07-07,750000,1414,530,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T19651/2017,Salt Rock,FU,1521,395,,,Salt Rock,Hewitt,45,2017-05-10,2017-07-06,4900000,1249,3923,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T18366/2017,Salt Rock,SALT ROCK EXT 2,581,0,,,Salt Rock,Garland,36,2017-01-18,2017-06-27,2450000,1113,2201,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST17305/2017,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,4,Salt Rock,The Ridge,1,,2017-06-20,0,151,0,False,natural_person,natural_person,1,sectional_title,False,lightstone_export
+T16591/2017,Salt Rock,SALT ROCK EXT 4,851,0,,,Salt Rock,Lagoon,48,2017-03-24,2017-06-13,2760000,1070,2579,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T15779/2017,Salt Rock,SALT ROCK EXT 1,418,0,,,Salt Rock,Dolphin,12,,2017-06-06,0,2456,0,False,natural_person,natural_person,3,freehold,False,lightstone_export
+ST15359/2017,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,14,Salt Rock,Lagoon,909,2017-02-21,2017-06-01,2280000,267,8539,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T15149/2017,Salt Rock,FU,1521,627,,,Salt Rock,Hewitt,25,2017-03-22,2017-05-31,4800000,1199,4003,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T12683/2017,Salt Rock,FU,1521,282,,,Salt Rock,Hewitt,42,2017-03-04,2017-05-12,10300000,1219,8449,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T11799/2017,Salt Rock,SALT ROCK,757,1,,,Salt Rock,Wilkes,18,2017-02-07,2017-05-04,1250000,1336,935,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST11535/2017,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,19,Salt Rock,The Ridge,1,2016-12-20,2017-05-02,2350000,150,15666,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T11491/2017,Salt Rock,FU,1521,194,,,Salt Rock,Knox,4,2017-01-13,2017-05-02,3650000,1406,2596,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T10052/2017,Salt Rock,SALT ROCK EXT 4,857,0,,,Salt Rock,Lagoon,36,2017-01-18,2017-04-12,1550000,1601,968,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+ST9849/2017,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,25,Salt Rock,The Ridge,1,2017-01-10,2017-04-11,2225000,153,14542,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T8790/2017,Salt Rock,SALT ROCK EXT 2,705,0,,,Salt Rock,Hugh Dent,16,2016-12-01,2017-03-31,2750000,1354,2031,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T8784/2017,Salt Rock,SALT ROCK EXT 4,799,0,,,Salt Rock,Baobab,7,2017-02-08,2017-03-31,3100000,1144,2709,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T8532/2017,Salt Rock,SALT ROCK EXT 1,470,0,,,Salt Rock,Fairway,15,2017-01-19,2017-03-30,4375000,1143,3827,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T8031/2017,Salt Rock,SALT ROCK,355,0,,,Salt Rock,Dunkirk,45,2016-09-05,2017-03-27,1800000,1380,1304,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T6067/2017,Salt Rock,FU,1521,389,,,Salt Rock,Murray,10,2016-12-16,2017-03-09,860000,1072,802,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T5754/2017,Salt Rock,FU,1521,523,,,Salt Rock,Ralphs,3,2016-10-04,2017-03-07,6000000,2193,2735,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T5282/2017,Salt Rock,SALT ROCK EXT 2,723,0,,,Salt Rock,Mcdonald,9,2016-12-01,2017-03-02,1700000,1041,1633,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T4991/2017,Salt Rock,SALT ROCK EXT 4,803,0,,,Salt Rock,Lagoon,803,2017-02-09,2017-02-28,950000,1004,946,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T4409/2017,Salt Rock,SALT ROCK EXT 2,677,0,,,Salt Rock,Crest,12,2016-10-17,2017-02-23,3400000,1115,3049,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T4271/2017,Salt Rock,FU,1521,157,,,Salt Rock,Fairway,18,2016-11-09,2017-02-22,3700000,1381,2679,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T4139/2017,Salt Rock,SALT ROCK,757,0,,,Salt Rock,Wilkes,20,2016-12-30,2017-02-21,2385000,1150,2073,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST4175/2017,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,6,Salt Rock,Lagoon,909,2016-11-21,2017-02-21,1999999,267,7490,False,natural_person,natural_person,2,sectional_title,True,lightstone_export
+T3410/2017,Salt Rock,SALT ROCK EXT 4,835,0,,,Salt Rock,Milkwood,24,2016-11-07,2017-02-14,780000,974,800,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T2336/2017,Salt Rock,FU,1521,230,,,Salt Rock,Peter Hulett,25,2016-11-09,2017-02-01,3250000,1218,2668,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T40500/2016,Salt Rock,FU,1521,626,,,Salt Rock,Scott,32,2016-07-24,2016-12-21,5795000,1153,5026,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T40391/2016,Salt Rock,FU,1521,676,,,Salt Rock,Murray,2,2016-08-03,2016-12-21,3600000,1803,1996,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T36978/2016,Salt Rock,SALT ROCK EXT 4,817,0,,,Salt Rock,Coral,817,2016-10-19,2016-11-29,950000,1063,893,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+ST37068/2016,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,9,Salt Rock,The Ridge,1,2016-09-28,2016-11-29,1700000,150,11333,False,natural_person,legal_entity,1,sectional_title,True,lightstone_export
+T36015/2016,Salt Rock,SALT ROCK EXT 1,435,0,,,Salt Rock,Lagoon,13,2016-10-03,2016-11-22,830000,1344,617,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T35067/2016,Salt Rock,SALT ROCK,356,0,,,Salt Rock,Hugh Dent,23,2016-10-02,2016-11-15,2300000,1460,1575,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T34974/2016,Salt Rock,SALT ROCK,332,1,,,Salt Rock,Dunkirk,14,2014-10-02,2016-11-14,830800,1784,465,False,natural_person,legal_entity,1,freehold,True,lightstone_export
+T33906/2016,Salt Rock,SALT ROCK EXT 1,424,0,,,Salt Rock,Mdoni,12,2016-06-08,2016-11-04,650000,1128,576,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T28383/2016,Salt Rock,SALT ROCK EXT 2,713,0,,,Salt Rock,Gifford,5,2016-09-08,2016-09-27,560000,1017,550,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T27494/2016,Salt Rock,SALT ROCK EXT 4,829,0,,,Salt Rock,Mdoni,30,2016-06-29,2016-09-19,1100000,1259,873,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T27497/2016,Salt Rock,SALT ROCK EXT 4,880,0,,,Salt Rock,Milkwood,7,2016-07-10,2016-09-19,815000,1267,643,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T24660/2016,Salt Rock,SALT ROCK EXT 4,888,0,,,Salt Rock,Milkwood,17,2016-06-11,2016-08-31,820000,1167,702,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST23011/2016,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,11,Salt Rock,The Ridge,1,2016-02-14,2016-08-17,1950000,150,13000,False,natural_person,legal_entity,2,sectional_title,True,lightstone_export
+T20946/2016,Salt Rock,SALT ROCK EXT 2,724,0,,,Salt Rock,Mcdonald,7,2016-06-15,2016-07-25,2500000,1025,2439,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T20191/2016,Salt Rock,FU,1521,211,,,Salt Rock,Boundery,4,2016-06-15,2016-07-18,1800000,1363,1320,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T19905/2016,Salt Rock,FU,1521,71,,,Salt Rock,Hewitt,46,,2016-07-14,0,1151,0,False,legal_entity,legal_entity,1,freehold,False,lightstone_export
+T19624/2016,Salt Rock,SALT ROCK EXT 1,432,0,,,Salt Rock,Lagoon,19,2016-05-25,2016-07-13,1900000,1310,1450,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T19517/2016,Salt Rock,FU,1521,119,,,Salt Rock,Shrimp,8,2016-05-06,2016-07-12,9500000,2391,3973,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T19200/2016,Salt Rock,SALT ROCK EXT 1,374,1,,,Salt Rock,Murray,37,2016-05-18,2016-07-08,2300000,915,2513,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T18448/2016,Salt Rock,SALT ROCK EXT 2,643,0,,,Salt Rock,Wilkes,16,2015-12-07,2016-06-30,1960000,1246,1573,False,natural_person,natural_person,2,freehold,True,lightstone_export
+T18405/2016,Salt Rock,FU,1521,236,,,Salt Rock,Peter Hulett,13,,2016-06-30,0,1028,0,False,natural_person,natural_person,1,freehold,False,lightstone_export
+T18145/2016,Salt Rock,SALT ROCK EXT 1,755,0,,,Salt Rock,Fairway,57,2015-11-06,2016-06-28,810000,1576,513,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T16085/2016,Salt Rock,SALT ROCK EXT 2,681,0,,,Salt Rock,Gifford,37,2016-03-02,2016-06-08,2125000,1076,1974,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+ST14576/2016,Salt Rock,FU,1521,81,SS EVERGREEN ESTATES,31,Salt Rock,The Ridge,1,2016-01-29,2016-05-30,1850000,151,12251,False,legal_entity,natural_person,1,sectional_title,True,lightstone_export
+T14438/2016,Salt Rock,SALT ROCK EXT 2,572,0,,,Salt Rock,Gifford,21,2016-02-20,2016-05-27,3550000,1184,2998,False,natural_person,natural_person,1,freehold,True,lightstone_export
+T13918/2016,Salt Rock,SALT ROCK,920,0,,,Salt Rock,Ocean,4,2016-01-27,2016-05-24,5150000,1126,4573,False,natural_person,natural_person,1,freehold,True,lightstone_export
+ST13960/2016,Salt Rock,SALT ROCK EXT 4,909,0,SS M'DONI LOFTS,13,Salt Rock,Lagoon,909,2016-02-03,2016-05-24,1950000,267,7303,False,natural_person,natural_person,1,sectional_title,True,lightstone_export
+T13298/2016,Salt Rock,FU,1521,446,,,Salt Rock,,,2016-02-19,2016-05-19,3350000,972,3446,False,natural_person,legal_entity,2,freehold,True,lightstone_export
+T13095/2016,Salt Rock,SALT ROCK EXT 4,843,0,,,Salt Rock,Milkwood,10,2016-02-18,2016-05-17,800000,1227,651,False,legal_entity,natural_person,1,freehold,True,lightstone_export
+T11981/2016,Salt Rock,SALT ROCK EXT 4,872,0,,,Salt Rock,Baobab,12,2016-02-19,2016-05-06,975000,1695,575,False,legal_entity,legal_entity,1,freehold,True,lightstone_export
+T10404/2016,Salt Rock,SALT ROCK EXT 4,802,0,,,Salt Rock,Baobab,1,2016-03-11,2016-04-20,3350000,1174,2853,False,natural_person,natural_person,1,freehold,True,lightstone_export
