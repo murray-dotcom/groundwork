@@ -1,4 +1,4 @@
--- Ballito — rows 251–494
+-- Ballito — rows 251–493
 INSERT INTO transactions (title_deed_no, estate, township, erf, portion, sectional_scheme, unit, suburb, street, street_number, sales_date, registration_date, sales_price, size_m2, price_per_m2, possible_land_only, buyer_type, seller_type, number_of_owners, property_type, is_market_sale, data_source) VALUES
 ('T1473/2022', 'Ballito', 'BALLITOVILLE', 2662::integer, 0::integer, NULL, NULL, 'Ballito', 'Woodview', '1', '2021-09-22'::date, '2022-01-21'::date, 1950000::bigint, 437::integer, 4462::integer, FALSE, 'natural_person', 'natural_person', 2::integer, 'freehold', TRUE, 'lightstone_export'),
 ('T1297/2022', 'Ballito', 'BALLITOVILLE', 428::integer, 0::integer, NULL, NULL, 'Ballito', 'Patricia', '11', '2021-04-30'::date, '2022-01-20'::date, 2500000::bigint, 1012::integer, 2470::integer, FALSE, 'natural_person', 'natural_person', 1::integer, 'freehold', TRUE, 'lightstone_export'),
@@ -242,6 +242,5 @@ INSERT INTO transactions (title_deed_no, estate, township, erf, portion, section
 ('ST30783/2018', 'Ballito', 'BALLITOVILLE', 1919::integer, 0::integer, 'SS BALLITO CENTRE', '31', 'Ballito', 'Sandra', '25', '2017-11-24'::date, '2018-10-09'::date, 2500000::bigint, 159::integer, 15723::integer, FALSE, 'legal_entity', 'legal_entity', 1::integer, 'sectional_title', TRUE, 'lightstone_export'),
 ('ST30783/2018', 'Ballito', 'BALLITOVILLE', 1919::integer, 0::integer, 'SS BALLITO CENTRE', '34', 'Ballito', 'Sandra', '25', '2017-11-24'::date, '2018-10-09'::date, 2500000::bigint, 138::integer, 18115::integer, FALSE, 'legal_entity', 'legal_entity', 1::integer, 'sectional_title', TRUE, 'lightstone_export'),
 ('T30586/2018', 'Ballito', 'BALLITOVILLE', 591::integer, 0::integer, NULL, NULL, 'Ballito', 'Townsend', '7', '2018-08-27'::date, '2018-10-08'::date, 4650000::bigint, 1348::integer, 3449::integer, FALSE, 'natural_person', 'natural_person', 2::integer, 'freehold', TRUE, 'lightstone_export'),
-('T29990/2018', 'Ballito', 'BALLITOVILLE', 2650::integer, 0::integer, NULL, NULL, 'Ballito', 'Avonhills', '18', '2018-05-31'::date, '2018-10-02'::date, 2000000::bigint, 426::integer, 4694::integer, FALSE, 'natural_person', 'legal_entity', 1::integer, 'freehold', TRUE, 'lightstone_export'),
-ON CONFLICT DO NOTHING
+('T29990/2018', 'Ballito', 'BALLITOVILLE', 2650::integer, 0::integer, NULL, NULL, 'Ballito', 'Avonhills', '18', '2018-05-31'::date, '2018-10-02'::date, 2000000::bigint, 426::integer, 4694::integer, FALSE, 'natural_person', 'legal_entity', 1::integer, 'freehold', TRUE, 'lightstone_export')
 ON CONFLICT DO NOTHING;

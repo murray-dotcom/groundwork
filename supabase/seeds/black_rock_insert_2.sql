@@ -1,4 +1,4 @@
--- Black Rock — rows 251–501
+-- Black Rock — rows 251–500
 INSERT INTO transactions (title_deed_no, estate, township, erf, portion, sectional_scheme, unit, suburb, street, street_number, sales_date, registration_date, sales_price, size_m2, price_per_m2, possible_land_only, buyer_type, seller_type, number_of_owners, property_type, is_market_sale, data_source) VALUES
 ('ST199/2011', 'Black Rock', 'SHAKAS ROCK', 204::integer, 3::integer, 'SS THIRA', '50', 'Black Rock', 'Ocean', '70', '2010-07-09'::date, '2011-01-05'::date, 1200000::bigint, 95::integer, 12631::integer, FALSE, 'natural_person', 'natural_person', 1::integer, 'sectional_title', TRUE, 'lightstone_export'),
 ('ST41172/2010', 'Black Rock', 'SHAKAS ROCK', 204::integer, 13::integer, 'SS PYRGOS', '24', 'Black Rock', 'Pyrgos General', '4', '2010-11-03'::date, '2010-12-14'::date, 70000::bigint, 21::integer, 3333::integer, FALSE, 'natural_person', 'natural_person', 1::integer, 'sectional_title', TRUE, 'lightstone_export'),
@@ -249,6 +249,5 @@ INSERT INTO transactions (title_deed_no, estate, township, erf, portion, section
 ('ST13051/1996', 'Black Rock', 'SHAKAS ROCK', 204::integer, 3::integer, 'SS THIRA', '38', 'Black Rock', 'Ocean', '70', '1996-05-06'::date, '1996-08-20'::date, 270000::bigint, 97::integer, 2783::integer, FALSE, 'natural_person', 'natural_person', 2::integer, 'sectional_title', TRUE, 'lightstone_export'),
 ('ST13052/1996', 'Black Rock', 'SHAKAS ROCK', 204::integer, 3::integer, 'SS THIRA', '55', 'Black Rock', 'Ocean', '70', '1996-05-06'::date, '1996-08-20'::date, 15000::bigint, 19::integer, 789::integer, FALSE, 'natural_person', 'natural_person', 2::integer, 'sectional_title', TRUE, 'lightstone_export'),
 ('ST10767/1996', 'Black Rock', 'SHAKAS ROCK', 204::integer, 1::integer, 'SS PERISSA', '6', 'Black Rock', NULL, NULL, '1996-04-18'::date, '1996-07-03'::date, 333000::bigint, 114::integer, 2921::integer, FALSE, 'natural_person', 'legal_entity', 2::integer, 'sectional_title', TRUE, 'lightstone_export'),
-('ST10256/1996', 'Black Rock', 'SHAKAS ROCK', 204::integer, 3::integer, 'SS THIRA', '3', 'Black Rock', 'Ocean', '70', NULL, '1996-06-25'::date, 0::bigint, 200::integer, 0::integer, FALSE, 'natural_person', 'natural_person', 1::integer, 'sectional_title', FALSE, 'lightstone_export'),
-ON CONFLICT DO NOTHING
+('ST10256/1996', 'Black Rock', 'SHAKAS ROCK', 204::integer, 3::integer, 'SS THIRA', '3', 'Black Rock', 'Ocean', '70', NULL, '1996-06-25'::date, 0::bigint, 200::integer, 0::integer, FALSE, 'natural_person', 'natural_person', 1::integer, 'sectional_title', FALSE, 'lightstone_export')
 ON CONFLICT DO NOTHING;

@@ -1,4 +1,4 @@
--- Umhlali Beach — rows 251–501
+-- Umhlali Beach — rows 251–500
 INSERT INTO transactions (title_deed_no, estate, township, erf, portion, sectional_scheme, unit, suburb, street, street_number, sales_date, registration_date, sales_price, size_m2, price_per_m2, possible_land_only, buyer_type, seller_type, number_of_owners, property_type, is_market_sale, data_source) VALUES
 ('ST17057/2014', 'Umhlali Beach', 'SHAKAS ROCK', 141::integer, 0::integer, 'SS CRAYFISH COTTAGE', '9', 'Umhlali Beach', 'Ocean', '27', NULL, '2014-05-29'::date, 0::bigint, 115::integer, 0::integer, FALSE, 'legal_entity', 'natural_person', 1::integer, 'sectional_title', FALSE, 'lightstone_export'),
 ('ST17058/2014', 'Umhlali Beach', 'SHAKAS ROCK', 141::integer, 0::integer, 'SS CRAYFISH COTTAGE', '9', 'Umhlali Beach', 'Ocean', '27', '2013-11-13'::date, '2014-05-29'::date, 2000000::bigint, 115::integer, 17391::integer, FALSE, 'legal_entity', 'legal_entity', 1::integer, 'sectional_title', TRUE, 'lightstone_export'),
@@ -249,6 +249,5 @@ INSERT INTO transactions (title_deed_no, estate, township, erf, portion, section
 ('ST64721/2001', 'Umhlali Beach', 'SHAKAS ROCK', 134::integer, 0::integer, 'SS SEABREEZE', '13', 'Umhlali Beach', 'Ocean', '46', NULL, '2001-12-06'::date, 0::bigint, 165::integer, 0::integer, FALSE, 'legal_entity', NULL, 1::integer, 'sectional_title', FALSE, 'lightstone_export'),
 ('ST64726/2001', 'Umhlali Beach', 'SHAKAS ROCK', 134::integer, 0::integer, 'SS SEABREEZE', '13', 'Umhlali Beach', 'Ocean', '46', '2001-09-27'::date, '2001-12-06'::date, 530000::bigint, 165::integer, 3212::integer, FALSE, 'legal_entity', 'legal_entity', 1::integer, 'sectional_title', TRUE, 'lightstone_export'),
 ('ST64725/2001', 'Umhlali Beach', 'SHAKAS ROCK', 134::integer, 0::integer, 'SS SEABREEZE', '17', 'Umhlali Beach', 'Ocean', '46', NULL, '2001-12-06'::date, 0::bigint, 165::integer, 0::integer, FALSE, 'legal_entity', NULL, 1::integer, 'sectional_title', FALSE, 'lightstone_export'),
-('ST64723/2001', 'Umhlali Beach', 'SHAKAS ROCK', 134::integer, 0::integer, 'SS SEABREEZE', '15', 'Umhlali Beach', 'Ocean', '46', NULL, '2001-12-06'::date, 0::bigint, 190::integer, 0::integer, FALSE, 'legal_entity', NULL, 1::integer, 'sectional_title', FALSE, 'lightstone_export'),
-ON CONFLICT DO NOTHING
+('ST64723/2001', 'Umhlali Beach', 'SHAKAS ROCK', 134::integer, 0::integer, 'SS SEABREEZE', '15', 'Umhlali Beach', 'Ocean', '46', NULL, '2001-12-06'::date, 0::bigint, 190::integer, 0::integer, FALSE, 'legal_entity', NULL, 1::integer, 'sectional_title', FALSE, 'lightstone_export')
 ON CONFLICT DO NOTHING;

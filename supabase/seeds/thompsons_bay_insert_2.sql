@@ -1,4 +1,4 @@
--- Thompsons Bay — rows 251–501
+-- Thompsons Bay — rows 251–500
 INSERT INTO transactions (title_deed_no, estate, township, erf, portion, sectional_scheme, unit, suburb, street, street_number, sales_date, registration_date, sales_price, size_m2, price_per_m2, possible_land_only, buyer_type, seller_type, number_of_owners, property_type, is_market_sale, data_source) VALUES
 ('T23813/2019', 'Thompsons Bay', 'SHAKAS ROCK', 85::integer, 0::integer, NULL, NULL, 'Thompsons Bay', 'Ocean', '85', '2019-05-17'::date, '2019-08-14'::date, 780000::bigint, 2360::integer, 330::integer, FALSE, 'natural_person', 'natural_person', 2::integer, 'freehold', TRUE, 'lightstone_export'),
 ('T23814/2019', 'Thompsons Bay', 'SHAKAS ROCK', 86::integer, 0::integer, NULL, NULL, 'Thompsons Bay', 'Ocean', '83', '2019-05-17'::date, '2019-08-14'::date, 220000::bigint, 1864::integer, 118::integer, FALSE, 'natural_person', 'natural_person', 2::integer, 'freehold', TRUE, 'lightstone_export'),
@@ -249,6 +249,5 @@ INSERT INTO transactions (title_deed_no, estate, township, erf, portion, section
 ('ST17214/2012', 'Thompsons Bay', 'SHAKAS ROCK', 247::integer, 0::integer, 'SS LONG ISLAND', '105', 'Thompsons Bay', 'Ocean', '247', NULL, '2012-06-14'::date, 0::bigint, 175::integer, 0::integer, FALSE, 'natural_person', 'legal_entity', 1::integer, 'sectional_title', FALSE, 'lightstone_export'),
 ('ST17210/2012', 'Thompsons Bay', 'SHAKAS ROCK', 204::integer, 5::integer, 'SS KAMARI', '12', 'Thompsons Bay', NULL, NULL, '2012-04-04'::date, '2012-06-14'::date, 1950000::bigint, 160::integer, 12187::integer, FALSE, 'natural_person', 'natural_person', 2::integer, 'sectional_title', TRUE, 'lightstone_export'),
 ('ST17214/2012', 'Thompsons Bay', 'SHAKAS ROCK', 247::integer, 0::integer, 'SS LONG ISLAND', '26', 'Thompsons Bay', 'Ocean', '247', NULL, '2012-06-14'::date, 0::bigint, 17::integer, 0::integer, FALSE, 'natural_person', 'legal_entity', 1::integer, 'sectional_title', FALSE, 'lightstone_export'),
-('ST16100/2012', 'Thompsons Bay', 'SHAKAS ROCK', 247::integer, 0::integer, 'SS LONG ISLAND', '12', 'Thompsons Bay', 'Ocean', '247', '2012-03-14'::date, '2012-06-05'::date, 2400000::bigint, 175::integer, 13714::integer, FALSE, 'natural_person', 'natural_person', 2::integer, 'sectional_title', TRUE, 'lightstone_export'),
-ON CONFLICT DO NOTHING
+('ST16100/2012', 'Thompsons Bay', 'SHAKAS ROCK', 247::integer, 0::integer, 'SS LONG ISLAND', '12', 'Thompsons Bay', 'Ocean', '247', '2012-03-14'::date, '2012-06-05'::date, 2400000::bigint, 175::integer, 13714::integer, FALSE, 'natural_person', 'natural_person', 2::integer, 'sectional_title', TRUE, 'lightstone_export')
 ON CONFLICT DO NOTHING;

@@ -1,4 +1,4 @@
--- Salt Rock — rows 251–501
+-- Salt Rock — rows 251–500
 INSERT INTO transactions (title_deed_no, estate, township, erf, portion, sectional_scheme, unit, suburb, street, street_number, sales_date, registration_date, sales_price, size_m2, price_per_m2, possible_land_only, buyer_type, seller_type, number_of_owners, property_type, is_market_sale, data_source) VALUES
 ('T16291/2021', 'Salt Rock', 'SALT ROCK EXT 2', 567::integer, 0::integer, NULL, NULL, 'Salt Rock', 'Fayle', '14', '2021-03-28'::date, '2021-06-04'::date, 2400000::bigint, 1155::integer, 2077::integer, FALSE, 'natural_person', 'natural_person', 1::integer, 'freehold', TRUE, 'lightstone_export'),
 ('T15654/2021', 'Salt Rock', 'SALT ROCK EXT 1', 383::integer, 0::integer, NULL, NULL, 'Salt Rock', 'Murray', '19', '2021-03-23'::date, '2021-06-01'::date, 3650000::bigint, 1310::integer, 2786::integer, FALSE, 'natural_person', 'natural_person', 2::integer, 'freehold', TRUE, 'lightstone_export'),
@@ -249,6 +249,5 @@ INSERT INTO transactions (title_deed_no, estate, township, erf, portion, section
 ('T13298/2016', 'Salt Rock', 'FU', 1521::integer, 446::integer, NULL, NULL, 'Salt Rock', NULL, NULL, '2016-02-19'::date, '2016-05-19'::date, 3350000::bigint, 972::integer, 3446::integer, FALSE, 'natural_person', 'legal_entity', 2::integer, 'freehold', TRUE, 'lightstone_export'),
 ('T13095/2016', 'Salt Rock', 'SALT ROCK EXT 4', 843::integer, 0::integer, NULL, NULL, 'Salt Rock', 'Milkwood', '10', '2016-02-18'::date, '2016-05-17'::date, 800000::bigint, 1227::integer, 651::integer, FALSE, 'legal_entity', 'natural_person', 1::integer, 'freehold', TRUE, 'lightstone_export'),
 ('T11981/2016', 'Salt Rock', 'SALT ROCK EXT 4', 872::integer, 0::integer, NULL, NULL, 'Salt Rock', 'Baobab', '12', '2016-02-19'::date, '2016-05-06'::date, 975000::bigint, 1695::integer, 575::integer, FALSE, 'legal_entity', 'legal_entity', 1::integer, 'freehold', TRUE, 'lightstone_export'),
-('T10404/2016', 'Salt Rock', 'SALT ROCK EXT 4', 802::integer, 0::integer, NULL, NULL, 'Salt Rock', 'Baobab', '1', '2016-03-11'::date, '2016-04-20'::date, 3350000::bigint, 1174::integer, 2853::integer, FALSE, 'natural_person', 'natural_person', 1::integer, 'freehold', TRUE, 'lightstone_export'),
-ON CONFLICT DO NOTHING
+('T10404/2016', 'Salt Rock', 'SALT ROCK EXT 4', 802::integer, 0::integer, NULL, NULL, 'Salt Rock', 'Baobab', '1', '2016-03-11'::date, '2016-04-20'::date, 3350000::bigint, 1174::integer, 2853::integer, FALSE, 'natural_person', 'natural_person', 1::integer, 'freehold', TRUE, 'lightstone_export')
 ON CONFLICT DO NOTHING;

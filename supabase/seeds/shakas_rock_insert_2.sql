@@ -1,4 +1,4 @@
--- Shakas Rock — rows 251–501
+-- Shakas Rock — rows 251–500
 INSERT INTO transactions (title_deed_no, estate, township, erf, portion, sectional_scheme, unit, suburb, street, street_number, sales_date, registration_date, sales_price, size_m2, price_per_m2, possible_land_only, buyer_type, seller_type, number_of_owners, property_type, is_market_sale, data_source) VALUES
 ('ST23020/2023', 'Shakas Rock', 'SHAKAS ROCK', 126::integer, 4::integer, 'SS CHAKAS COVE', '98', 'Shakas Rock', NULL, NULL, '2023-06-30'::date, '2023-08-15'::date, 2470000::bigint, 123::integer, 20081::integer, FALSE, 'natural_person', 'legal_entity', 1::integer, 'sectional_title', TRUE, 'lightstone_export'),
 ('ST21247/2023', 'Shakas Rock', 'SHAKAS ROCK', 126::integer, 4::integer, 'SS CHAKAS COVE', '70', 'Shakas Rock', NULL, NULL, '2023-05-29'::date, '2023-07-26'::date, 1800000::bigint, 52::integer, 34615::integer, FALSE, 'natural_person', 'natural_person', 1::integer, 'sectional_title', TRUE, 'lightstone_export'),
@@ -249,6 +249,5 @@ INSERT INTO transactions (title_deed_no, estate, township, erf, portion, section
 ('T18291/2019', 'Shakas Rock', 'SHAKAS ROCK', 132::integer, 0::integer, NULL, NULL, 'Shakas Rock', 'Main', '3', '2019-04-03'::date, '2019-06-28'::date, 2470000::bigint, 818::integer, 3019::integer, FALSE, 'natural_person', 'natural_person', 2::integer, 'freehold', TRUE, 'lightstone_export'),
 ('ST17112/2019', 'Shakas Rock', 'SHAKAS ROCK', 91::integer, 11::integer, 'SS SIESTA', '35', 'Shakas Rock', 'Ocean', '76', '2019-05-07'::date, '2019-06-19'::date, 2100000::bigint, 140::integer, 15000::integer, FALSE, 'natural_person', 'natural_person', 1::integer, 'sectional_title', TRUE, 'lightstone_export'),
 ('ST16807/2019', 'Shakas Rock', 'FU', 931::integer, 655::integer, 'SS ATRIUM', '71', 'Shakas Rock', NULL, NULL, '2018-07-13'::date, '2019-06-14'::date, 2400000::bigint, 100::integer, 24000::integer, FALSE, 'natural_person', 'legal_entity', 1::integer, 'sectional_title', TRUE, 'lightstone_export'),
-('ST16257/2019', 'Shakas Rock', 'FU', 931::integer, 655::integer, 'SS ATRIUM', '11', 'Shakas Rock', NULL, NULL, '2019-04-01'::date, '2019-06-10'::date, 1320000::bigint, 76::integer, 17368::integer, FALSE, 'legal_entity', 'natural_person', 1::integer, 'sectional_title', TRUE, 'lightstone_export'),
-ON CONFLICT DO NOTHING
+('ST16257/2019', 'Shakas Rock', 'FU', 931::integer, 655::integer, 'SS ATRIUM', '11', 'Shakas Rock', NULL, NULL, '2019-04-01'::date, '2019-06-10'::date, 1320000::bigint, 76::integer, 17368::integer, FALSE, 'legal_entity', 'natural_person', 1::integer, 'sectional_title', TRUE, 'lightstone_export')
 ON CONFLICT DO NOTHING;

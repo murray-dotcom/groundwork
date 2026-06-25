@@ -1,4 +1,4 @@
--- Willard Beach — rows 251–501
+-- Willard Beach — rows 251–500
 INSERT INTO transactions (title_deed_no, estate, township, erf, portion, sectional_scheme, unit, suburb, street, street_number, sales_date, registration_date, sales_price, size_m2, price_per_m2, possible_land_only, buyer_type, seller_type, number_of_owners, property_type, is_market_sale, data_source) VALUES
 ('ST41566/2022', 'Willard Beach', 'FU', 931::integer, 476::integer, 'SS VILLA LEONORA', '27', 'Willard Beach', 'Leonara', '91', '2022-09-07'::date, '2022-11-21'::date, 2450000::bigint, 163::integer, 15030::integer, FALSE, 'natural_person', 'legal_entity', 2::integer, 'sectional_title', TRUE, 'lightstone_export'),
 ('ST41328/2022', 'Willard Beach', 'BALLITOVILLE', 1369::integer, 0::integer, 'SS BARRINGTON', '3', 'Willard Beach', 'Gazelle', '1', '2022-10-04'::date, '2022-11-21'::date, 2250000::bigint, 179::integer, 12569::integer, FALSE, 'natural_person', 'natural_person', 1::integer, 'sectional_title', TRUE, 'lightstone_export'),
@@ -249,6 +249,5 @@ INSERT INTO transactions (title_deed_no, estate, township, erf, portion, section
 ('ST39822/2019', 'Willard Beach', 'BALLITOVILLE EXT 2', 1125::integer, 10::integer, 'SS LANDS END', '20', 'Willard Beach', 'Gazelle', '4', NULL, '2019-12-18'::date, 0::bigint, 136::integer, 0::integer, FALSE, 'natural_person', 'natural_person', 1::integer, 'sectional_title', FALSE, 'lightstone_export'),
 ('ST39763/2019', 'Willard Beach', 'BALLITOVILLE', 1369::integer, 0::integer, 'SS BARRINGTON', '49', 'Willard Beach', 'Gazelle', '1', '2019-10-17'::date, '2019-12-18'::date, 2600000::bigint, 179::integer, 14525::integer, FALSE, 'natural_person', 'legal_entity', 1::integer, 'sectional_title', TRUE, 'lightstone_export'),
 ('ST39252/2019', 'Willard Beach', 'FU', 931::integer, 583::integer, 'SS BAY RIDGE', '2', 'Willard Beach', 'King Fisher', '53', '2019-08-22'::date, '2019-12-13'::date, 2000000::bigint, 171::integer, 11695::integer, FALSE, 'legal_entity', 'natural_person', 1::integer, 'sectional_title', TRUE, 'lightstone_export'),
-('ST38806/2019', 'Willard Beach', 'BALLITOVILLE', 1424::integer, 0::integer, 'SS GREEN GABLES', '5', 'Willard Beach', 'Eland', '15', '2019-10-22'::date, '2019-12-11'::date, 1750000::bigint, 220::integer, 7954::integer, FALSE, 'natural_person', 'natural_person', 1::integer, 'sectional_title', TRUE, 'lightstone_export'),
-ON CONFLICT DO NOTHING
+('ST38806/2019', 'Willard Beach', 'BALLITOVILLE', 1424::integer, 0::integer, 'SS GREEN GABLES', '5', 'Willard Beach', 'Eland', '15', '2019-10-22'::date, '2019-12-11'::date, 1750000::bigint, 220::integer, 7954::integer, FALSE, 'natural_person', 'natural_person', 1::integer, 'sectional_title', TRUE, 'lightstone_export')
 ON CONFLICT DO NOTHING;

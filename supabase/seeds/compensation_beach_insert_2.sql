@@ -1,4 +1,4 @@
--- Compensation Beach — rows 251–499
+-- Compensation Beach — rows 251–498
 INSERT INTO transactions (title_deed_no, estate, township, erf, portion, sectional_scheme, unit, suburb, street, street_number, sales_date, registration_date, sales_price, size_m2, price_per_m2, possible_land_only, buyer_type, seller_type, number_of_owners, property_type, is_market_sale, data_source) VALUES
 ('ST28393/2024', 'Compensation Beach', 'FU', 931::integer, 528::integer, 'SS LA MONTAGNE', '77', 'Compensation Beach', 'Compensation Beach', '100', '2024-07-09'::date, '2024-10-11'::date, 1000::bigint, 36::integer, 27::integer, FALSE, 'legal_entity', 'natural_person', 1::integer, 'sectional_title', FALSE, 'lightstone_export'),
 ('ST28405/2024', 'Compensation Beach', 'FU', 931::integer, 531::integer, 'SS LE PARADIS', '25', 'Compensation Beach', 'Compensation Beach', '64', NULL, '2024-10-11'::date, 0::bigint, 102::integer, 0::integer, FALSE, 'natural_person', 'natural_person', 2::integer, 'sectional_title', FALSE, 'lightstone_export'),
@@ -247,6 +247,5 @@ INSERT INTO transactions (title_deed_no, estate, township, erf, portion, section
 ('ST9253/2023', 'Compensation Beach', 'FU', 931::integer, 468::integer, 'SS THE BOULDERS', '25', 'Compensation Beach', 'Compensation Beach', '84AB', NULL, '2023-04-18'::date, 0::bigint, 46::integer, 0::integer, FALSE, 'legal_entity', 'natural_person', 1::integer, 'sectional_title', FALSE, 'lightstone_export'),
 ('ST9084/2023', 'Compensation Beach', 'FU', 931::integer, 528::integer, 'SS LA MONTAGNE', '99', 'Compensation Beach', 'Compensation Beach', '100', '2022-10-27'::date, '2023-04-17'::date, 2000::bigint, 80::integer, 25::integer, FALSE, 'legal_entity', 'natural_person', 1::integer, 'sectional_title', TRUE, 'lightstone_export'),
 ('ST8650/2023', 'Compensation Beach', 'FU', 931::integer, 528::integer, 'SS LA MONTAGNE', '68', 'Compensation Beach', 'Compensation Beach', '100', NULL, '2023-04-12'::date, 0::bigint, 45::integer, 0::integer, FALSE, 'natural_person', 'legal_entity', 1::integer, 'sectional_title', FALSE, 'lightstone_export'),
-('ST8651/2023', 'Compensation Beach', 'FU', 931::integer, 528::integer, 'SS LA MONTAGNE', '65', 'Compensation Beach', 'Compensation Beach', '100', NULL, '2023-04-12'::date, 0::bigint, 36::integer, 0::integer, FALSE, 'legal_entity', 'natural_person', 1::integer, 'sectional_title', FALSE, 'lightstone_export'),
-ON CONFLICT DO NOTHING
+('ST8651/2023', 'Compensation Beach', 'FU', 931::integer, 528::integer, 'SS LA MONTAGNE', '65', 'Compensation Beach', 'Compensation Beach', '100', NULL, '2023-04-12'::date, 0::bigint, 36::integer, 0::integer, FALSE, 'legal_entity', 'natural_person', 1::integer, 'sectional_title', FALSE, 'lightstone_export')
 ON CONFLICT DO NOTHING;

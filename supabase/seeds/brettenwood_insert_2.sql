@@ -1,4 +1,4 @@
--- Brettenwood Coastal Estate — rows 251–501
+-- Brettenwood Coastal Estate — rows 251–500
 INSERT INTO transactions (title_deed_no, estate, township, erf, portion, sectional_scheme, unit, suburb, street, street_number, sales_date, registration_date, sales_price, size_m2, price_per_m2, possible_land_only, buyer_type, seller_type, number_of_owners, property_type, is_market_sale, data_source) VALUES
 ('T29004/2021', 'Brettenwood Coastal Estate', 'BRETTENWOOD', 192::integer, 0::integer, NULL, NULL, 'Brettenwood', 'Kingfisher', '192', NULL, '2021-09-07'::date, 0::bigint, 855::integer, 0::integer, FALSE, 'natural_person', 'natural_person', 1::integer, 'freehold', FALSE, 'lightstone_export'),
 ('T28697/2021', 'Brettenwood Coastal Estate', 'BRETTENWOOD', 505::integer, 0::integer, NULL, NULL, 'Brettenwood', 'Plover', '505', '2021-06-04'::date, '2021-09-06'::date, 5450000::bigint, 1120::integer, 4866::integer, FALSE, 'natural_person', 'legal_entity', 2::integer, 'freehold', TRUE, 'lightstone_export'),
@@ -249,6 +249,5 @@ INSERT INTO transactions (title_deed_no, estate, township, erf, portion, section
 ('ST15107/2018', 'Brettenwood Coastal Estate', 'BRETTENWOOD', 131::integer, 0::integer, 'SS BRETTENWOOD LAKES', '12', 'Brettenwood', NULL, NULL, '2017-06-02'::date, '2018-05-22'::date, 4150000::bigint, 297::integer, 13973::integer, FALSE, 'natural_person', 'legal_entity', 2::integer, 'sectional_title', TRUE, 'lightstone_export'),
 ('T14803/2018', 'Brettenwood Coastal Estate', 'BRETTENWOOD', 523::integer, 0::integer, NULL, NULL, 'Brettenwood', 'Jacana', '523', '2018-02-23'::date, '2018-05-18'::date, 1450000::bigint, 926::integer, 1565::integer, TRUE, 'legal_entity', 'legal_entity', 1::integer, 'freehold', FALSE, 'lightstone_export'),
 ('T14804/2018', 'Brettenwood Coastal Estate', 'BRETTENWOOD', 524::integer, 0::integer, NULL, NULL, 'Brettenwood', 'Jacana', '524', '2018-02-12'::date, '2018-05-18'::date, 1450000::bigint, 1019::integer, 1422::integer, TRUE, 'natural_person', 'legal_entity', 2::integer, 'freehold', FALSE, 'lightstone_export'),
-('T14805/2018', 'Brettenwood Coastal Estate', 'BRETTENWOOD', 527::integer, 0::integer, NULL, NULL, 'Brettenwood', 'Jacana', '527', '2018-03-12'::date, '2018-05-18'::date, 1380000::bigint, 1111::integer, 1242::integer, TRUE, 'legal_entity', 'legal_entity', 1::integer, 'freehold', FALSE, 'lightstone_export'),
-ON CONFLICT DO NOTHING
+('T14805/2018', 'Brettenwood Coastal Estate', 'BRETTENWOOD', 527::integer, 0::integer, NULL, NULL, 'Brettenwood', 'Jacana', '527', '2018-03-12'::date, '2018-05-18'::date, 1380000::bigint, 1111::integer, 1242::integer, TRUE, 'legal_entity', 'legal_entity', 1::integer, 'freehold', FALSE, 'lightstone_export')
 ON CONFLICT DO NOTHING;
