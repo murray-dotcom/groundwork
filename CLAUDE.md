@@ -93,7 +93,48 @@ Active and historical property listings (agent-entered or scraped).
 | Column | Type | Notes |
 |---|---|---|
 | `id` | uuid | PK |
-| (see 004_listings.sql for full column list) | | Added in migration 004 |
+| `source` | text | `property24`, `private_property`, `manual` |
+| `source_id` | text | |
+| `source_url` | text | |
+| `email_message_id` | text | |
+| `listing_type` | text | `for_sale` or `to_let` |
+| `status` | text | `active`, `sold`, `let`, `withdrawn`, `price_reduced` |
+| `estate` | text | |
+| `suburb` | text | |
+| `area` | text | |
+| `street` | text | |
+| `street_number` | text | |
+| `unit` | text | |
+| `sectional_scheme` | text | |
+| `property_type` | text | `freehold`, `sectional_title`, `vacant_land` |
+| `bedrooms` | integer | |
+| `bathrooms` | integer | |
+| `parking` | integer | |
+| `erf_size_m2` | integer | |
+| `floor_size_m2` | integer | |
+| `has_pool` | boolean | |
+| `has_staff_accommodation` | boolean | |
+| `pet_friendly` | boolean | |
+| `asking_price` | bigint | |
+| `monthly_rental` | bigint | |
+| `price_per_m2` | integer | |
+| `heading` | text | |
+| `description` | text | |
+| `agent_name` | text | |
+| `agency` | text | |
+| `listing_date` | date | |
+| `first_seen_at` | timestamptz | |
+| `last_seen_at` | timestamptz | |
+| `last_price_at` | timestamptz | |
+| `previous_price` | bigint | |
+| `sold_transaction_id` | uuid | FK → transactions(id) — added in 006 |
+| `full_description` | text | Added in 006 |
+| `enriched_at` | timestamptz | Added in 006 |
+| `needs_estate_review` | boolean | Added in 006 |
+| `created_at` | timestamptz | |
+| `updated_at` | timestamptz | |
+
+RLS enabled — public read/insert/update.
 
 ---
 
@@ -103,7 +144,59 @@ Price change log for listings over time.
 | Column | Type | Notes |
 |---|---|---|
 | `id` | uuid | PK |
-| (see 004_listings.sql for full column list) | | Added in migration 004 |
+| `listing_id` | uuid | FK → listings(id) |
+| `listing_type` | text | |
+| `old_price` | bigint | |
+| `new_price` | bigint | |
+| `changed_at` | timestamptz | |
+
+RLS enabled — public read/insert.
+
+---
+
+### `estate_aliases`
+Canonical estate name lookup table for normalising raw listing estate strings.
+
+| Column | Type | Notes |
+|---|---|---|
+| `id` | uuid | PK |
+| `canonical_estate` | text | Canonical form matching `estate` column values |
+| `alias` | text | Raw string as seen in source |
+| `source` | text | `property24`, `private_property`, `manual` |
+| `created_at` | timestamptz | |
+
+Unique on `(alias, source)`. RLS enabled — public read/insert.
+
+---
+
+### `listing_sale_matches`
+Potential matches between listings and confirmed Lightstone sale transactions.
+
+| Column | Type | Notes |
+|---|---|---|
+| `id` | uuid | PK |
+| `listing_id` | uuid | FK → listings(id) |
+| `transaction_id` | uuid | FK → transactions(id) |
+| `price_difference_pct` | numeric | |
+| `status` | text | `pending_review`, `confirmed`, `rejected` |
+| `created_at` | timestamptz | |
+| `reviewed_at` | timestamptz | |
+
+Unique on `(listing_id, transaction_id)`. RLS enabled — public read/insert/update.
+
+---
+
+### `withdrawal_sweep_log`
+Audit log for the automated listing-withdrawal sweep job.
+
+| Column | Type | Notes |
+|---|---|---|
+| `id` | uuid | PK |
+| `run_at` | timestamptz | |
+| `withdrawn_count` | integer | |
+| `source_ids` | jsonb | |
+
+RLS enabled — public read/insert.
 
 ---
 
@@ -169,9 +262,21 @@ These are the exact strings stored in the `estate` column. Use them verbatim —
 | `001_initial_schema.sql` | `transactions` table + indexes + `import_log` table |
 | `002_property_attributes.sql` | `property_attributes` enrichment table with RLS |
 | `003_enrichment_specs.sql` | Adds `bedrooms`, `bathrooms`, `has_pool`, `has_staff_accommodation`, `has_stairs` columns to `property_attributes` |
-| `004_listings.sql` | `listings` and `listing_price_history` tables |
+| `004_listings.sql` | `listings` and `listing_price_history` tables with RLS |
+| `005_estate_aliases.sql` | `estate_aliases` lookup table with seeded aliases |
+| `006_listing_sale_matches.sql` | `listing_sale_matches` table; adds `sold_transaction_id`, `full_description`, `enriched_at`, `needs_estate_review` to `listings` |
+| `007_enable_rls_listing_price_history.sql` | Ensures RLS is enabled on `listing_price_history` (Cowork patch) |
+| `008_withdrawal_sweep_log.sql` | `withdrawal_sweep_log` audit table (Cowork-created) |
 
 Apply migrations in order via the Supabase SQL editor.
+
+### Schema drift warning
+Cowork applies schema changes directly to the live Supabase database without creating migration files in this repo. When Cowork makes a change:
+1. Inspect the live schema via Supabase's Table Editor or `information_schema`.
+2. Create the matching numbered migration file in `supabase/migrations/`.
+3. Update this table.
+
+**Known gaps vs live DB:** `transactions` and `import_log` have RLS enabled in the live DB but `001_initial_schema.sql` never ran `ALTER TABLE … ENABLE ROW LEVEL SECURITY` on them. This was applied directly in Supabase and is not represented in the repo migration files.
 
 ---
 
@@ -183,3 +288,4 @@ Apply migrations in order via the Supabase SQL editor.
 - **All changes flow:** Claude Code → commit → push to `dev` → reviewed by Murray
 - **No force-pushes** to `dev`.
 - **Secrets** (service role key) are never committed. The anon key above is safe to commit.
+- **Egress restriction:** The remote Claude Code environment cannot reach `zumdsmmhsttnfruyvngq.supabase.co` (proxy returns 403). All data imports (`import_lightstone.py`, SQL seed files) must be run **locally** on Murray's machine.
