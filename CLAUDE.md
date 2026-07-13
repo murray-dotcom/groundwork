@@ -40,8 +40,10 @@ Core table. One row per registered property transfer, sourced from Lightstone ex
 | `is_market_sale` | boolean | `sales_price > 1000 AND possible_land_only = false` |
 | `data_source` | text | Defaults to `lightstone_export` |
 | `imported_at` | timestamptz | |
+| `unit_key` | text | Generated: `COALESCE(unit, '')` — part of natural key (added in 009) |
+| `erf_key` | integer | Generated: `COALESCE(erf, -1)` — part of natural key (added in 009) |
 
-Unique index: `(title_deed_no, COALESCE(unit, ''))` — used as the natural key for upserts.
+Unique index: `transactions_natural_key` on `(title_deed_no, unit_key, erf_key)` — the import script's `on_conflict` target. `unit_key` and `erf_key` are stored generated columns; never set them explicitly in INSERT payloads.
 
 ---
 
@@ -267,6 +269,7 @@ These are the exact strings stored in the `estate` column. Use them verbatim —
 | `006_listing_sale_matches.sql` | `listing_sale_matches` table; adds `sold_transaction_id`, `full_description`, `enriched_at`, `needs_estate_review` to `listings` |
 | `007_enable_rls_listing_price_history.sql` | Ensures RLS is enabled on `listing_price_history` (Cowork patch) |
 | `008_withdrawal_sweep_log.sql` | `withdrawal_sweep_log` audit table (Cowork-created) |
+| `009_natural_key_generated_columns.sql` | Replaces expression index with stored generated columns `unit_key`/`erf_key`; enables PostgREST-compatible `on_conflict` target |
 
 Apply migrations in order via the Supabase SQL editor.
 

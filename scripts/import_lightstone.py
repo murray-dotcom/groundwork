@@ -230,7 +230,7 @@ def main() -> None:
         batch = rows[i : i + BATCH]
         result = (
             supabase.table("transactions")
-            .upsert(batch, on_conflict="title_deed_no,unit")
+            .upsert(batch, on_conflict="title_deed_no,unit_key,erf_key")
             .execute()
         )
         records_imported += len(batch)
