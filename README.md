@@ -8,17 +8,19 @@ Backend data infrastructure for **Home Ground Real Estate**. Ingests Lightstone 
 
 ```
 groundwork/
+├── archive/
+│   ├── processed/                   # Historical cleaned CSVs (stale — do not use)
+│   └── seeds/                       # Historical SQL seed files (stale — do not run)
 ├── data/
 │   └── raw/                         # Source xlsx files (not committed to version control)
-│       ├── simbithi_lightstone_export.xlsx
-│       └── dunkirk_lightstone_export.xlsx
 ├── scripts/
 │   ├── import_lightstone.py         # Main ETL script
 │   └── requirements.txt             # Python dependencies
 └── supabase/
-    └── migrations/
-        └── 001_initial_schema.sql   # Transactions + import_log tables
+    └── migrations/                  # 001 through 009 — apply in order via Supabase SQL editor
 ```
+
+See [CLAUDE.md](CLAUDE.md) for the full schema reference and migration history.
 
 ---
 
@@ -76,44 +78,13 @@ Import complete — Simbithi Eco Estate
 
 Each run also inserts a row into the `import_log` table with the full exclusion breakdown.
 
-Re-running is safe — records are **upserted** using `title_deed_no + unit` as the composite natural key, so duplicates are overwritten rather than inserted twice.
+Re-running is safe — records are **upserted** using `(title_deed_no, unit, erf, portion)` as the composite natural key, so duplicates are skipped rather than inserted twice. See [CLAUDE.md](CLAUDE.md) section 2 for the authoritative schema reference.
 
 ---
 
 ## Schema overview
 
-### `transactions`
-
-| Column | Type | Notes |
-|---|---|---|
-| `id` | uuid | Primary key |
-| `title_deed_no` | text | Raw deed number from Lightstone |
-| `estate` | text | Estate tag set at import time |
-| `township` | text | |
-| `erf` | integer | |
-| `portion` | integer | Defaults to 0 |
-| `sectional_scheme` | text | Normalised: uppercase, trimmed, aliases resolved |
-| `unit` | text | Sectional-title unit number |
-| `suburb` | text | |
-| `street` | text | |
-| `street_number` | text | |
-| `sales_date` | date | |
-| `registration_date` | date | Not null; used as primary temporal key |
-| `sales_price` | bigint | Raw value from Lightstone |
-| `size_m2` | integer | |
-| `price_per_m2` | integer | |
-| `possible_land_only` | boolean | Y/N flag from source, converted to boolean |
-| `buyer_type` | text | `natural_person` or `legal_entity` |
-| `seller_type` | text | `natural_person` or `legal_entity` |
-| `number_of_owners` | integer | |
-| `property_type` | text | `sectional_title` (ST prefix) or `freehold` (T prefix) |
-| `is_market_sale` | boolean | `sales_price > 1000 AND possible_land_only = false` |
-| `data_source` | text | Defaults to `lightstone_export` |
-| `imported_at` | timestamptz | |
-
-### `import_log`
-
-Audit trail of every import run — file name, estate, raw/imported/excluded counts, and a JSONB exclusion breakdown.
+See [CLAUDE.md](CLAUDE.md) section 2 for full schema documentation (`transactions`, `import_log`, `property_attributes`, `listings`, and all supporting tables).
 
 ---
 
