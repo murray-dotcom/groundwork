@@ -2,12 +2,19 @@
 """
 Lightstone TransfersReport import pipeline for Groundwork / Home Ground Real Estate.
 
+Requires migrations 011 and 012 to be applied before running.
+
 Usage:
     python scripts/import_lightstone.py --file data/raw/simbithi_lightstone_export.xlsx \
                                          --estate "Simbithi Eco Estate"
+
+    # To add an estate not yet in the canonical list:
+    python scripts/import_lightstone.py --file data/raw/new_estate.xlsx \
+                                         --estate "New Estate Name" --new-estate
 """
 
 import argparse
+import difflib
 import json
 import os
 import re
@@ -17,6 +24,26 @@ from datetime import datetime
 import pandas as pd
 from supabase import create_client, Client
 
+
+# ---------------------------------------------------------------------------
+# Canonical estate names — must match CLAUDE.md section 4 exactly
+# ---------------------------------------------------------------------------
+
+CANONICAL_ESTATES = (
+    "Simbithi Eco Estate",
+    "Dunkirk Estate",
+    "Ballito",
+    "Black Rock",
+    "Brettenwood Coastal Estate",
+    "Compensation Beach",
+    "Salt Rock",
+    "Shakas Rock",
+    "Thompsons Bay",
+    "Umhlali Beach",
+    "Willard Beach",
+    "Elaleni Coastal Estate",
+    "Zululami Luxury Coastal Estate",
+)
 
 # ---------------------------------------------------------------------------
 # Column-name mapping  (Lightstone export header → schema field)
@@ -43,15 +70,38 @@ COLUMN_MAP = {
     "Number of Owners":         "number_of_owners",
 }
 
+# Headers that must be present in the source file (subset of COLUMN_MAP keys)
+REQUIRED_SOURCE_HEADERS = {
+    "Title Deed No",
+    "Registration Date",
+    "Sales Price",
+    "Size",
+    "Erf",
+    "Unit",
+    "Sectional Scheme",
+    "Portion",
+}
+
 # Known sectional-scheme name deduplication
 SCHEME_ALIASES = {
     "SS EDGE VIEWS": "SS EDGE VIEW",
 }
 
-# Max parcel size before we exclude as a non-dwelling land parcel
+# Cleaning rule: parcels larger than this are excluded as non-dwelling land (see CLAUDE.md)
 MAX_SIZE_M2 = 50_000
 
+# Cleaning rule: sales at or below this threshold are retained but marked is_market_sale=false
+MARKET_SALE_MIN_PRICE = 1_000
+
 _NULL_STRINGS = {"nan", "none", "null", "n/a", "na", ""}
+
+_DATE_FORMATS = (
+    "%Y-%m-%d %H:%M:%S",
+    "%Y-%m-%d",
+    "%d/%m/%Y",
+    "%d-%m-%Y",
+    "%d %b %Y",
+)
 
 
 def clean_str(val) -> str | None:
@@ -89,12 +139,18 @@ BUYER_SELLER_MAP = {
 }
 
 
-def normalise_party_type(val) -> str | None:
+def normalise_party_type(val, field: str, warnings: dict, unknown_vals: dict) -> str | None:
     s = clean_str(val)
     if not s:
         return None
     key = s.lower()
-    return BUYER_SELLER_MAP.get(key, "natural_person" if "person" in key or "individual" in key else "legal_entity")
+    result = BUYER_SELLER_MAP.get(key)
+    if result is None:
+        warnings[field] = warnings.get(field, 0) + 1
+        examples = unknown_vals.setdefault(field, [])
+        if s not in examples and len(examples) < 10:
+            examples.append(s)
+    return result
 
 
 def derive_property_type(title_deed_no: str | None) -> str | None:
@@ -112,6 +168,8 @@ def to_int_or_none(val) -> int | None:
     s = clean_str(val)
     if not s:
         return None
+    # Strip currency symbols and numeric separators (including non-breaking space \xa0)
+    s = s.replace("R", "").replace(",", "").replace(" ", "").replace("\xa0", "")
     try:
         return int(float(s))
     except (TypeError, ValueError):
@@ -122,10 +180,14 @@ def to_date_or_none(val) -> str | None:
     s = clean_str(val)
     if not s:
         return None
-    try:
-        return pd.to_datetime(s).strftime("%Y-%m-%d")
-    except Exception:
-        return None
+    for fmt in _DATE_FORMATS:
+        try:
+            return datetime.strptime(s, fmt).strftime("%Y-%m-%d")
+        except ValueError:
+            continue
+    # Final fallback: pandas with dayfirst (South African convention)
+    ts = pd.to_datetime(s, dayfirst=True, errors="coerce")
+    return None if pd.isna(ts) else ts.strftime("%Y-%m-%d")
 
 
 # ---------------------------------------------------------------------------
@@ -134,9 +196,23 @@ def to_date_or_none(val) -> str | None:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Import a Lightstone TransfersReport xlsx into Supabase.")
-    parser.add_argument("--file",   required=True, help="Path to the xlsx file")
-    parser.add_argument("--estate", required=True, help="Estate name to tag records with")
+    parser.add_argument("--file",       required=True, help="Path to the xlsx file")
+    parser.add_argument("--estate",     required=True, help="Estate name to tag records with")
+    parser.add_argument("--new-estate", action="store_true",
+                        help="Bypass canonical estate validation for a new estate")
     args = parser.parse_args()
+
+    # Estate validation
+    if not args.new_estate and args.estate not in CANONICAL_ESTATES:
+        closest = difflib.get_close_matches(args.estate, CANONICAL_ESTATES, n=3, cutoff=0.4)
+        print(f"Error: '{args.estate}' is not a canonical estate name.")
+        print("Canonical estates:")
+        for name in CANONICAL_ESTATES:
+            print(f"  • {name}")
+        if closest:
+            print(f"Did you mean: {', '.join(repr(c) for c in closest)}?")
+        print("Use --new-estate to bypass this check for a genuinely new estate.")
+        sys.exit(1)
 
     supabase_url = os.environ.get("SUPABASE_URL")
     supabase_key = os.environ.get("SUPABASE_SECRET_KEY")
@@ -150,16 +226,35 @@ def main() -> None:
     records_raw = len(df)
     print(f"  Rows read: {records_raw}")
 
+    # Header validation — fail loudly before any processing
+    found_headers = set(df.columns)
+    missing = REQUIRED_SOURCE_HEADERS - found_headers
+    if missing:
+        print("Error: required source headers are missing from the file.")
+        print(f"  Missing : {sorted(missing)}")
+        print(f"  Found   : {sorted(found_headers)}")
+        sys.exit(1)
+
     # Rename columns to schema names; keep only known columns
     df = df.rename(columns=COLUMN_MAP)
     known_cols = list(COLUMN_MAP.values())
     df = df[[c for c in known_cols if c in df.columns]]
 
     exclusions: dict[str, list[int]] = {
-        "missing_title_deed_no":    [],
+        "missing_title_deed_no":     [],
         "missing_registration_date": [],
-        "oversized_parcel":         [],
+        "oversized_parcel":          [],
     }
+
+    # Parse-failure warnings: counts of non-empty cells that produced None
+    warnings: dict[str, int] = {}
+    unknown_party_vals: dict[str, list[str]] = {}
+
+    # For the abort threshold check
+    reg_date_nonempty = 0
+    reg_date_failed   = 0
+    price_nonempty    = 0
+    price_failed      = 0
 
     rows: list[dict] = []
     for idx, row in df.iterrows():
@@ -170,21 +265,51 @@ def main() -> None:
             exclusions["missing_title_deed_no"].append(row_num)
             continue
 
+        raw_reg = clean_str(row.get("registration_date"))
+        if raw_reg:
+            reg_date_nonempty += 1
         registration_date = to_date_or_none(row.get("registration_date"))
+        if raw_reg and not registration_date:
+            reg_date_failed += 1
         if not registration_date:
             exclusions["missing_registration_date"].append(row_num)
             continue
 
+        size_m2_raw = clean_str(row.get("size_m2"))
         size_m2 = to_int_or_none(row.get("size_m2"))
+        if size_m2_raw and size_m2 is None:
+            warnings["size_m2"] = warnings.get("size_m2", 0) + 1
         if size_m2 is not None and size_m2 > MAX_SIZE_M2:
             exclusions["oversized_parcel"].append(row_num)
             continue
 
+        raw_price = clean_str(row.get("sales_price"))
+        if raw_price:
+            price_nonempty += 1
         sales_price_raw = to_int_or_none(row.get("sales_price"))
+        if raw_price and sales_price_raw is None:
+            price_failed += 1
+            warnings["sales_price"] = warnings.get("sales_price", 0) + 1
+
+        raw_ppm = clean_str(row.get("price_per_m2"))
+        price_per_m2 = to_int_or_none(row.get("price_per_m2"))
+        if raw_ppm and price_per_m2 is None:
+            warnings["price_per_m2"] = warnings.get("price_per_m2", 0) + 1
+
+        raw_sd = clean_str(row.get("sales_date"))
+        sales_date = to_date_or_none(row.get("sales_date"))
+        if raw_sd and sales_date is None:
+            warnings["sales_date"] = warnings.get("sales_date", 0) + 1
+
+        raw_noo = clean_str(row.get("number_of_owners"))
+        number_of_owners = to_int_or_none(row.get("number_of_owners"))
+        if raw_noo and number_of_owners is None:
+            warnings["number_of_owners"] = warnings.get("number_of_owners", 0) + 1
+
         possible_land_only = parse_land_only(row.get("possible_land_only"))
         is_market_sale = (
             sales_price_raw is not None
-            and sales_price_raw > 1000
+            and sales_price_raw > MARKET_SALE_MIN_PRICE
             and not possible_land_only
         )
 
@@ -199,53 +324,110 @@ def main() -> None:
             "suburb":             clean_str(row.get("suburb")),
             "street":             clean_str(row.get("street")),
             "street_number":      clean_str(row.get("street_number")),
-            "sales_date":         to_date_or_none(row.get("sales_date")),
+            "sales_date":         sales_date,
             "registration_date":  registration_date,
             "sales_price":        sales_price_raw,
             "size_m2":            size_m2,
-            "price_per_m2":       to_int_or_none(row.get("price_per_m2")),
+            "price_per_m2":       price_per_m2,
             "possible_land_only": possible_land_only,
-            "buyer_type":         normalise_party_type(row.get("buyer_type")),
-            "seller_type":        normalise_party_type(row.get("seller_type")),
-            "number_of_owners":   to_int_or_none(row.get("number_of_owners")),
+            "buyer_type":         normalise_party_type(row.get("buyer_type"),  "buyer_type",  warnings, unknown_party_vals),
+            "seller_type":        normalise_party_type(row.get("seller_type"), "seller_type", warnings, unknown_party_vals),
+            "number_of_owners":   number_of_owners,
             "property_type":      derive_property_type(title_deed_no),
             "is_market_sale":     is_market_sale,
             "data_source":        "lightstone_export",
         }
         rows.append(record)
 
-    records_excluded = records_raw - len(rows)
-    records_imported = 0
-
-    exclusion_summary = {
-        reason: {"count": len(idxs), "row_numbers": idxs[:20]}  # cap sample at 20
-        for reason, idxs in exclusions.items()
-        if idxs
-    }
-
-    # Upsert in batches of 500
-    BATCH = 500
-    print(f"\nUpserting {len(rows)} records to Supabase …")
-    for i in range(0, len(rows), BATCH):
-        batch = rows[i : i + BATCH]
-        result = (
-            supabase.table("transactions")
-            .upsert(batch, on_conflict="title_deed_no,unit_key,erf_key")
-            .execute()
+    # Abort if more than 20% of non-empty critical fields failed to parse
+    if reg_date_nonempty > 0 and reg_date_failed / reg_date_nonempty > 0.20:
+        sys.exit(
+            f"Aborting: {reg_date_failed}/{reg_date_nonempty} non-empty registration_date "
+            f"values failed to parse ({reg_date_failed/reg_date_nonempty:.0%}). "
+            "File format may have changed."
         )
-        records_imported += len(batch)
-        print(f"  Batch {i // BATCH + 1}: {len(batch)} rows upserted")
+    if price_nonempty > 0 and price_failed / price_nonempty > 0.20:
+        sys.exit(
+            f"Aborting: {price_failed}/{price_nonempty} non-empty sales_price "
+            f"values failed to parse ({price_failed/price_nonempty:.0%}). "
+            "File format may have changed."
+        )
 
-    # Write import log
-    log_entry = {
-        "filename":          os.path.basename(args.file),
-        "estate":            args.estate,
-        "records_raw":       records_raw,
-        "records_imported":  records_imported,
-        "records_excluded":  records_excluded,
-        "exclusion_summary": exclusion_summary,
-    }
-    supabase.table("import_log").insert(log_entry).execute()
+    # In-memory dedupe on natural key before upsert
+    natural_key = lambda r: (
+        r["title_deed_no"],
+        r["unit"] or "",
+        r["erf"] if r["erf"] is not None else -1,
+        r["portion"],
+    )
+    seen: dict[tuple, int] = {}  # key → index in rows
+    for i, r in enumerate(rows):
+        seen[natural_key(r)] = i  # last occurrence wins
+    deduped_indices = set(seen.values())
+    dropped = [i for i in range(len(rows)) if i not in deduped_indices]
+    if dropped:
+        print(f"\nWARNING: {len(dropped)} in-file duplicate(s) dropped before upsert "
+              f"(kept last occurrence). Source row indices (0-based): {dropped}")
+    rows = [rows[i] for i in sorted(deduped_indices)]
+
+    records_excluded = records_raw - len(rows)
+
+    exclusion_summary: dict = {}
+    for reason, idxs in exclusions.items():
+        if idxs:
+            entry: dict = {"count": len(idxs), "row_numbers": idxs[:20]}
+            if len(idxs) > 20:
+                entry["truncated"] = True
+            exclusion_summary[reason] = entry
+    if warnings:
+        exclusion_summary["warnings"] = dict(warnings)
+        if unknown_party_vals:
+            exclusion_summary["unknown_party_values"] = unknown_party_vals
+
+    # Upsert in batches of 500 with error capture
+    BATCH = 500
+    records_imported = 0
+    batches_completed = 0
+    error_message: str | None = None
+
+    print(f"\nUpserting {len(rows)} records to Supabase …")
+    try:
+        for i in range(0, len(rows), BATCH):
+            batch = rows[i : i + BATCH]
+            result = (
+                supabase.table("transactions")
+                .upsert(batch, on_conflict="title_deed_no,unit_key,erf_key,portion")
+                .execute()
+            )
+            records_imported += len(batch)
+            batches_completed += 1
+            print(f"  Batch {batches_completed}: {len(batch)} rows upserted")
+    except Exception as exc:
+        error_message = str(exc)
+        print(f"\nERROR during batch {batches_completed + 1}: {error_message}")
+    finally:
+        total_batches = -(-len(rows) // BATCH) if rows else 0  # ceiling div
+        if error_message is None:
+            status = "success"
+        elif batches_completed == 0:
+            status = "failed"
+        else:
+            status = "partial"
+
+        log_entry = {
+            "filename":          os.path.basename(args.file),
+            "estate":            args.estate,
+            "records_raw":       records_raw,
+            "records_imported":  records_imported,
+            "records_excluded":  records_excluded,
+            "exclusion_summary": exclusion_summary,
+            "status":            status,
+            "error_message":     error_message,
+        }
+        try:
+            supabase.table("import_log").insert(log_entry).execute()
+        except Exception as log_exc:
+            print(f"WARNING: could not write import_log row: {log_exc}")
 
     # Summary
     print("\n" + "=" * 60)
@@ -255,8 +437,20 @@ def main() -> None:
     print(f"  Excluded           : {records_excluded}")
     if exclusion_summary:
         for reason, info in exclusion_summary.items():
-            print(f"    • {reason}: {info['count']}")
+            if reason == "warnings":
+                for field, count in info.items():
+                    print(f"    • parse_warning/{field}: {count}")
+            elif reason == "unknown_party_values":
+                pass  # printed as part of warnings above
+            else:
+                print(f"    • {reason}: {info['count']}")
+    print(f"  Status             : {status}")
+    if error_message:
+        print(f"  Error              : {error_message}")
     print("=" * 60 + "\n")
+
+    if status != "success":
+        sys.exit(1)
 
 
 if __name__ == "__main__":
