@@ -256,6 +256,8 @@ These are the exact strings stored in the `estate` column. Use them verbatim —
 | `Willard Beach` |
 | `Elaleni Coastal Estate` |
 | `Zululami Luxury Coastal Estate` |
+| `Seaton` |
+| `Sheffield Beach` |
 
 ---
 

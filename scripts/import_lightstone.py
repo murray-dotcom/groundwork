@@ -43,6 +43,8 @@ CANONICAL_ESTATES = (
     "Willard Beach",
     "Elaleni Coastal Estate",
     "Zululami Luxury Coastal Estate",
+    "Seaton",
+    "Sheffield Beach",
 )
 
 # ---------------------------------------------------------------------------
