@@ -21,7 +21,7 @@ Core table. One row per registered property transfer, sourced from Lightstone ex
 | `estate` | text | Estate/suburb tag set at import time — see canonical list below |
 | `township` | text | |
 | `erf` | integer | |
-| `portion` | integer | Defaults to 0 |
+| `portion` | integer | NOT NULL DEFAULT 0 (enforced in 011) |
 | `sectional_scheme` | text | Normalised: uppercase, trimmed, aliases resolved |
 | `unit` | text | Sectional-title unit number |
 | `suburb` | text | |
@@ -43,7 +43,7 @@ Core table. One row per registered property transfer, sourced from Lightstone ex
 | `unit_key` | text | Generated: `COALESCE(unit, '')` — part of natural key (added in 009) |
 | `erf_key` | integer | Generated: `COALESCE(erf, -1)` — part of natural key (added in 009) |
 
-Unique index: `transactions_natural_key` on `(title_deed_no, unit_key, erf_key)` — the import script's `on_conflict` target. `unit_key` and `erf_key` are stored generated columns; never set them explicitly in INSERT payloads.
+Unique index: `transactions_natural_key` on `(title_deed_no, unit_key, erf_key, portion)` — the import script's `on_conflict` target. `unit_key` and `erf_key` are stored generated columns; never set them explicitly in INSERT payloads. `portion` is NOT NULL DEFAULT 0 (enforced in 011).
 
 ---
 
@@ -86,6 +86,8 @@ Audit trail for every import run.
 | `records_excluded` | integer | |
 | `exclusion_summary` | jsonb | Breakdown by exclusion reason |
 | `imported_at` | timestamptz | |
+| `status` | text | `success`, `partial`, or `failed` — DEFAULT `success` (added in 012) |
+| `error_message` | text | Populated on `partial` or `failed` runs (added in 012) |
 
 ---
 
@@ -270,6 +272,9 @@ These are the exact strings stored in the `estate` column. Use them verbatim —
 | `007_enable_rls_listing_price_history.sql` | Ensures RLS is enabled on `listing_price_history` (Cowork patch) |
 | `008_withdrawal_sweep_log.sql` | `withdrawal_sweep_log` audit table (Cowork-created) |
 | `009_natural_key_generated_columns.sql` | Replaces expression index with stored generated columns `unit_key`/`erf_key`; enables PostgREST-compatible `on_conflict` target |
+| `010_rls_lockdown.sql` | Codifies live RLS on `transactions`/`import_log`; removes public write policies from server-side-only tables |
+| `011_portion_in_natural_key.sql` | Adds `portion` to the natural key; enforces `portion NOT NULL DEFAULT 0` |
+| `012_import_log_status.sql` | Adds `status` and `error_message` columns to `import_log` for partial/failed run tracking |
 
 Apply migrations in order via the Supabase SQL editor.
 
@@ -279,7 +284,7 @@ Cowork applies schema changes directly to the live Supabase database without cre
 2. Create the matching numbered migration file in `supabase/migrations/`.
 3. Update this table.
 
-**Known gaps vs live DB:** `transactions` and `import_log` have RLS enabled in the live DB but `001_initial_schema.sql` never ran `ALTER TABLE … ENABLE ROW LEVEL SECURITY` on them. This was applied directly in Supabase and is not represented in the repo migration files.
+**Known gaps vs live DB:** Resolved — live RLS state on `transactions` and `import_log` captured in `010_rls_lockdown.sql`. Current known residual risk: `property_attributes` retains public insert/update for the CMA enrichment panel (see 010 comments).
 
 ---
 
