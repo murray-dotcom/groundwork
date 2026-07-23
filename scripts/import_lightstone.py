@@ -70,6 +70,9 @@ COLUMN_MAP = {
     "Size":                     "size_m2",
     "R/m²":                    "price_per_m2",
     "Number of Owners":         "number_of_owners",
+    # Per-row authoritative estate from Lightstone — used instead of --estate arg
+    # when the value matches a canonical estate name.
+    "Estate":                   "source_estate",
 }
 
 # Headers that must be present in the source file (subset of COLUMN_MAP keys)
@@ -82,6 +85,7 @@ REQUIRED_SOURCE_HEADERS = {
     "Unit",
     "Sectional Scheme",
     "Portion",
+    "Estate",
 }
 
 # Known sectional-scheme name deduplication
@@ -193,6 +197,70 @@ def to_date_or_none(val) -> str | None:
 
 
 # ---------------------------------------------------------------------------
+# Post-import regression check
+# ---------------------------------------------------------------------------
+
+def check_township_estate_date_gaps(supabase: Client, townships: set[str], import_max_date: str | None) -> None:
+    """
+    Warn if any estate sharing a township with this import has a max
+    registration_date more than 180 days behind the import's own max date.
+
+    This detects the misclassification pattern where rows belonging to a
+    sub-estate (e.g. Elaleni) were instead tagged under a broader estate
+    (e.g. Sheffield Beach) that shares the same township — causing the
+    sub-estate's coverage to silently stop while the broader estate's
+    coverage continued to grow.
+    """
+    if not townships or not import_max_date:
+        return
+
+    try:
+        import_max_dt = datetime.strptime(import_max_date, "%Y-%m-%d").date()
+    except ValueError:
+        return
+
+    # Fetch estate + registration_date for these townships, paginated
+    estate_max: dict[str, str] = {}
+    offset = 0
+    page_size = 1000
+    while True:
+        result = (
+            supabase.table("transactions")
+            .select("estate, registration_date")
+            .in_("township", list(townships))
+            .range(offset, offset + page_size - 1)
+            .execute()
+        )
+        for row in result.data:
+            e, d = row.get("estate"), row.get("registration_date")
+            if e and d and d > estate_max.get(e, ""):
+                estate_max[e] = d
+        if len(result.data) < page_size:
+            break
+        offset += page_size
+
+    GAP_THRESHOLD_DAYS = 180
+    gaps = []
+    for estate, max_date_str in sorted(estate_max.items()):
+        try:
+            estate_max_dt = datetime.strptime(max_date_str, "%Y-%m-%d").date()
+        except (ValueError, TypeError):
+            continue
+        gap = (import_max_dt - estate_max_dt).days
+        if gap > GAP_THRESHOLD_DAYS:
+            gaps.append((estate, max_date_str, gap))
+
+    if gaps:
+        print("\nREGRESSION WARNING — township/estate date gap(s) detected:")
+        print(f"  Import max registration_date : {import_max_date}")
+        print("  Estates in the same township(s) with max date >180 days behind:")
+        for estate, max_date, gap in gaps:
+            print(f"    • {estate}: last seen {max_date} ({gap}d gap)")
+        print("  This may indicate rows for those estates were misclassified as a")
+        print("  different estate. Re-run with corrected estate assignment to fix.")
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -251,6 +319,12 @@ def main() -> None:
     # Parse-failure warnings: counts of non-empty cells that produced None
     warnings: dict[str, int] = {}
     unknown_party_vals: dict[str, list[str]] = {}
+
+    # Estate-source tracking: how many rows used per-row estate vs CLI fallback
+    estate_from_source = 0
+    estate_from_cli = 0
+    unknown_source_estates: list[str] = []  # non-canonical source Estate values, capped at 10
+    estate_distribution: dict[str, int] = {}
 
     # For the abort threshold check
     reg_date_nonempty = 0
@@ -315,9 +389,24 @@ def main() -> None:
             and not possible_land_only
         )
 
+        # Determine estate from the per-row "Estate" source column when it names a
+        # canonical estate; fall back to the CLI --estate arg otherwise (covers
+        # general-area rows where Estate is blank or names a micro-estate we don't
+        # track separately).
+        source_estate = clean_str(row.get("source_estate"))
+        if source_estate and source_estate in CANONICAL_ESTATES:
+            row_estate = source_estate
+            estate_from_source += 1
+        else:
+            row_estate = args.estate
+            estate_from_cli += 1
+            if source_estate and source_estate not in unknown_source_estates and len(unknown_source_estates) < 10:
+                unknown_source_estates.append(source_estate)
+        estate_distribution[row_estate] = estate_distribution.get(row_estate, 0) + 1
+
         record = {
             "title_deed_no":      title_deed_no,
-            "estate":             args.estate,
+            "estate":             row_estate,
             "township":           clean_str(row.get("township")),
             "erf":                to_int_or_none(row.get("erf")),
             "portion":            to_int_or_none(row.get("portion")) or 0,
@@ -385,6 +474,12 @@ def main() -> None:
         exclusion_summary["warnings"] = dict(warnings)
         if unknown_party_vals:
             exclusion_summary["unknown_party_values"] = unknown_party_vals
+    if estate_from_source > 0 or unknown_source_estates:
+        exclusion_summary["estate_source"] = {
+            "per_row_from_source": estate_from_source,
+            "cli_fallback":        estate_from_cli,
+            "unknown_source_values": unknown_source_estates or None,
+        }
 
     # Upsert in batches of 500 with error capture
     BATCH = 500
@@ -431,19 +526,32 @@ def main() -> None:
         except Exception as log_exc:
             print(f"WARNING: could not write import_log row: {log_exc}")
 
+    # Regression check: warn on township/estate date gaps
+    if status in ("success", "partial") and rows:
+        import_max_date = max((r["registration_date"] for r in rows if r.get("registration_date")), default=None)
+        townships_in_import = {r["township"] for r in rows if r.get("township")}
+        check_township_estate_date_gaps(supabase, townships_in_import, import_max_date)
+
     # Summary
     print("\n" + "=" * 60)
     print(f"Import complete — {args.estate}")
     print(f"  Total rows in file : {records_raw}")
     print(f"  Imported           : {records_imported}")
     print(f"  Excluded           : {records_excluded}")
+    if len(estate_distribution) > 1 or (estate_distribution and list(estate_distribution)[0] != args.estate):
+        print(f"  Estate distribution:")
+        for e, count in sorted(estate_distribution.items()):
+            source_label = " (from source)" if e != args.estate else " (CLI fallback)"
+            print(f"    • {e}: {count}{source_label}")
+    if unknown_source_estates:
+        print(f"  Unknown source estates (mapped to '{args.estate}'): {unknown_source_estates}")
     if exclusion_summary:
         for reason, info in exclusion_summary.items():
             if reason == "warnings":
                 for field, count in info.items():
                     print(f"    • parse_warning/{field}: {count}")
-            elif reason == "unknown_party_values":
-                pass  # printed as part of warnings above
+            elif reason in ("unknown_party_values", "estate_source"):
+                pass  # printed above
             else:
                 print(f"    • {reason}: {info['count']}")
     print(f"  Status             : {status}")
