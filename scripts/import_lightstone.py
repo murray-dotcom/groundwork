@@ -314,7 +314,10 @@ def main() -> None:
         "missing_title_deed_no":     [],
         "missing_registration_date": [],
         "oversized_parcel":          [],
+        "uncovered_estate":          [],   # non-blank source_estate not in CANONICAL_ESTATES
     }
+    # Separate counter so we know exactly how many rows per uncovered estate name
+    uncovered_estate_counts: dict[str, int] = {}
 
     # Parse-failure warnings: counts of non-empty cells that produced None
     warnings: dict[str, int] = {}
@@ -389,19 +392,32 @@ def main() -> None:
             and not possible_land_only
         )
 
-        # Determine estate from the per-row "Estate" source column when it names a
-        # canonical estate; fall back to the CLI --estate arg otherwise (covers
-        # general-area rows where Estate is blank or names a micro-estate we don't
-        # track separately).
+        # Determine estate from the per-row "Estate" source column.
+        #
+        # Case 1 — source_estate is blank/null: row is from the general geographic
+        #   area of the export but not assigned to a specific sub-estate. Default to
+        #   args.estate (what this export was pulled around).
+        #
+        # Case 2 — source_estate is a non-blank value NOT in CANONICAL_ESTATES: the
+        #   row definitively belongs to a different, currently-uncovered estate. Do
+        #   NOT reassign it to args.estate — exclude it instead so uncovered estates
+        #   are surfaced explicitly rather than silently merged into the wrong bucket.
+        #
+        # Case 3 — source_estate is a canonical estate name: use it directly.
         source_estate = clean_str(row.get("source_estate"))
-        if source_estate and source_estate in CANONICAL_ESTATES:
+        if source_estate and source_estate not in CANONICAL_ESTATES:
+            # Case 2: known-different, uncovered estate — exclude
+            exclusions["uncovered_estate"].append(row_num)
+            uncovered_estate_counts[source_estate] = uncovered_estate_counts.get(source_estate, 0) + 1
+            continue
+        elif source_estate:
+            # Case 3: canonical match
             row_estate = source_estate
             estate_from_source += 1
         else:
+            # Case 1: blank — default to CLI arg
             row_estate = args.estate
             estate_from_cli += 1
-            if source_estate and source_estate not in unknown_source_estates and len(unknown_source_estates) < 10:
-                unknown_source_estates.append(source_estate)
         estate_distribution[row_estate] = estate_distribution.get(row_estate, 0) + 1
 
         record = {
@@ -469,6 +485,8 @@ def main() -> None:
             entry: dict = {"count": len(idxs), "row_numbers": idxs[:20]}
             if len(idxs) > 20:
                 entry["truncated"] = True
+            if reason == "uncovered_estate":
+                entry["by_estate"] = uncovered_estate_counts
             exclusion_summary[reason] = entry
     if warnings:
         exclusion_summary["warnings"] = dict(warnings)
@@ -552,6 +570,10 @@ def main() -> None:
                     print(f"    • parse_warning/{field}: {count}")
             elif reason in ("unknown_party_values", "estate_source"):
                 pass  # printed above
+            elif reason == "uncovered_estate":
+                print(f"    • {reason}: {info['count']} rows excluded (uncovered estates):")
+                for ename, ecount in sorted(info.get("by_estate", {}).items()):
+                    print(f"        – {ename!r}: {ecount}")
             else:
                 print(f"    • {reason}: {info['count']}")
     print(f"  Status             : {status}")
